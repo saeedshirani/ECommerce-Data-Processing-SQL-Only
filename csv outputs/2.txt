@@ -1,0 +1,7 @@
+2.List the customers who have spent more than the average expenditure
+
+--Q2
+SELECT orders.customer_id, orit.order_id, orit.price
+FROM order_items as orit
+LEFT JOIN orders as orders on orit.order_id = orders.order_id
+where orit.price > (select AVG(freight_value) from order_items);

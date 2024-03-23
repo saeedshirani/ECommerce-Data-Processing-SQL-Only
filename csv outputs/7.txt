@@ -1,0 +1,19 @@
+--Q7.Determine the customer with the highest number of orders for each year
+select customer_id, count(customer_id) as sells, strftime("%Y", order_purchase_timestamp) as year
+from orders
+group by customer_id, year
+
+having  sells =
+        (SELECT MAX(sells_year)
+    FROM (
+        SELECT COUNT(customer_id) AS sells_year, SUBSTR(order_purchase_timestamp, 1, 4) AS year
+        FROM orders
+        GROUP BY customer_id, year
+    ));
+
+-- apparently none of our customers bought your product more than one time
+select customer_id,count(customer_id) as total_sells
+from orders
+group by customer_id
+order by total_sells desc
+limit 1000;

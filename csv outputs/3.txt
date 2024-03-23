@@ -1,0 +1,6 @@
+--Q3 : Identify the month with the highest number of orders
+
+select cast(strftime('%m', orders.order_purchase_timestamp) as integer) AS month,
+       count(order_id)
+from orders
+group by(month);

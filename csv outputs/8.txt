@@ -1,0 +1,5 @@
+--Q8.Calculate the difference between the highest and lowest payment received for each payment type
+
+select payment_type, max(payment_value) as max_pay, min(payment_value) as min_pay, (max(payment_value) - min(payment_value)) as diff
+from order_payments
+group by payment_type

@@ -1,0 +1,5 @@
+--Q6.List the products that have never been ordered
+
+SELECT p.product_id, p.product_category_name
+FROM products AS p
+LEFT JOIN order_items AS orit ON p.product_id = orit.product_id
