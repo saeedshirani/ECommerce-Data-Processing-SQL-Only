@@ -1,8 +1,0 @@
-1. Find top 10 cities with most sellers
-
--- Q1
-select seller_city, count(seller_id) as total_sellers from sellers
-group by  seller_city
-order by total_sellers desc
-limit 10;
-

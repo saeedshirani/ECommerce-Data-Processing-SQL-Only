@@ -1,6 +1,0 @@
-payment_type,max_pay,min_pay,diff
-boleto,7274.88,11.62,7263.26
-credit_card,13664.08,0.01,13664.07
-debit_card,4445.5,13.38,4432.12
-not_defined,0,0,0
-voucher,3184.34,0,3184.34

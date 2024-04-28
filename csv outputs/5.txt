@@ -1,7 +1,0 @@
---Q5.Find the seller with the least number of orders, excluding those with no orders
-
-select seller_id,count(seller_id) as total_sells
-from order_items
-group by seller_id
-order by total_sells asc
-limit 1000;
