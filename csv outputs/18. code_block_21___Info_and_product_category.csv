@@ -1,0 +1,363 @@
+Status,Category,location,percentage_per_category
+canceled,Unknown,bady bassitt,0.18214936247723132
+canceled,Unknown,bauru,0.18214936247723132
+canceled,Unknown,joinville,0.18214936247723132
+canceled,Unknown,lins,0.18214936247723132
+canceled,Unknown,nova friburgo,0.18214936247723132
+canceled,Unknown,rio de janeiro,0.18214936247723132
+canceled,Unknown,santo andre,0.546448087431694
+canceled,Unknown,sao bernardo do campo,0.18214936247723132
+canceled,Unknown,sao leopoldo,0.18214936247723132
+canceled,Unknown,sao paulo,0.546448087431694
+canceled,alimentos,peruibe,0.18214936247723132
+canceled,alimentos_bebidas,jundiai,0.18214936247723132
+canceled,alimentos_bebidas,sao roque,0.18214936247723132
+canceled,artes,sapiranga,0.18214936247723132
+canceled,artigos_de_natal,rio de janeiro,0.18214936247723132
+canceled,audio,sao paulo,0.18214936247723132
+canceled,automotivo,americana,0.18214936247723132
+canceled,automotivo,belo horizonte,0.18214936247723132
+canceled,automotivo,cacequi,0.36429872495446264
+canceled,automotivo,caieiras,0.18214936247723132
+canceled,automotivo,conchas,0.18214936247723132
+canceled,automotivo,contagem,0.18214936247723132
+canceled,automotivo,curitiba,0.36429872495446264
+canceled,automotivo,gaspar,0.18214936247723132
+canceled,automotivo,governador valadares,0.18214936247723132
+canceled,automotivo,jaboatao dos guararapes,0.18214936247723132
+canceled,automotivo,linhares,0.36429872495446264
+canceled,automotivo,lorena,0.18214936247723132
+canceled,automotivo,lucas do rio verde,0.18214936247723132
+canceled,automotivo,medianeira,0.18214936247723132
+canceled,automotivo,rio de janeiro,0.18214936247723132
+canceled,automotivo,santa cruz do capibaribe,0.18214936247723132
+canceled,automotivo,santana de parnaiba,0.18214936247723132
+canceled,automotivo,sao jose dos campos,0.18214936247723132
+canceled,automotivo,sao manuel,0.18214936247723132
+canceled,automotivo,sao paulo,0.36429872495446264
+canceled,automotivo,sumare,0.18214936247723132
+unavailable,automotivo,suzano,0.18214936247723132
+canceled,automotivo,virginopolis,0.9107468123861566
+canceled,bebes,andradina,0.18214936247723132
+canceled,bebes,barueri,0.36429872495446264
+unavailable,bebes,belo horizonte,0.36429872495446264
+canceled,bebes,cruz alta,0.18214936247723132
+canceled,bebes,jacarei,0.18214936247723132
+canceled,bebes,osasco,0.18214936247723132
+canceled,bebes,ribeirao preto,0.18214936247723132
+canceled,bebes,sao paulo,1.2750455373406193
+canceled,bebes,vila velha,0.18214936247723132
+canceled,bebes,vinhedo,0.9107468123861566
+canceled,bebidas,franca,0.18214936247723132
+canceled,beleza_saude,arealva,0.18214936247723132
+canceled,beleza_saude,barra mansa,0.18214936247723132
+canceled,beleza_saude,barueri,0.18214936247723132
+canceled,beleza_saude,cacapava,0.18214936247723132
+canceled,beleza_saude,camboriu,0.18214936247723132
+canceled,beleza_saude,carangola,0.18214936247723132
+canceled,beleza_saude,chapeco,0.18214936247723132
+canceled,beleza_saude,contagem,0.18214936247723132
+canceled,beleza_saude,dourados,0.18214936247723132
+canceled,beleza_saude,embu das artes,0.18214936247723132
+canceled,beleza_saude,erechim,0.18214936247723132
+canceled,beleza_saude,florianopolis,0.18214936247723132
+canceled,beleza_saude,itu,0.18214936247723132
+canceled,beleza_saude,jaboticabal,0.18214936247723132
+canceled,beleza_saude,limeira,0.18214936247723132
+canceled,beleza_saude,mage,0.18214936247723132
+canceled,beleza_saude,marica,0.18214936247723132
+canceled,beleza_saude,osasco,0.18214936247723132
+canceled,beleza_saude,praia grande,0.18214936247723132
+canceled,beleza_saude,rio de janeiro,0.18214936247723132
+canceled,beleza_saude,rio grande da serra,0.18214936247723132
+canceled,beleza_saude,sao joao de meriti,0.18214936247723132
+canceled,beleza_saude,sao paulo,2.0036429872495445
+canceled,beleza_saude,serrinha,0.18214936247723132
+canceled,beleza_saude,teresina,0.18214936247723132
+canceled,beleza_saude,votorantim,0.18214936247723132
+canceled,brinquedos,anapolis,0.18214936247723132
+canceled,brinquedos,barra de sao francisco,0.18214936247723132
+canceled,brinquedos,barra do pirai,0.18214936247723132
+canceled,brinquedos,campinas,0.36429872495446264
+canceled,brinquedos,campos do jordao,0.18214936247723132
+canceled,brinquedos,caraguatatuba,0.18214936247723132
+canceled,brinquedos,curitiba,0.18214936247723132
+canceled,brinquedos,embu das artes,0.18214936247723132
+canceled,brinquedos,itaguai,0.36429872495446264
+canceled,brinquedos,itu,0.18214936247723132
+canceled,brinquedos,penha,0.18214936247723132
+canceled,brinquedos,piracaia,0.18214936247723132
+canceled,brinquedos,rio de janeiro,0.7285974499089253
+canceled,brinquedos,sao bernardo do campo,0.36429872495446264
+canceled,brinquedos,sao jose dos campos,0.18214936247723132
+canceled,brinquedos,sao luis,0.18214936247723132
+canceled,brinquedos,sao paulo,2.0036429872495445
+canceled,brinquedos,vitoria da conquista,0.18214936247723132
+canceled,cama_mesa_banho,campos gerais,0.18214936247723132
+canceled,cama_mesa_banho,caxambu,0.18214936247723132
+canceled,cama_mesa_banho,curitiba,0.18214936247723132
+canceled,cama_mesa_banho,guarulhos,0.18214936247723132
+canceled,cama_mesa_banho,jacobina,0.18214936247723132
+canceled,cama_mesa_banho,jundiai,0.18214936247723132
+canceled,cama_mesa_banho,osasco,0.18214936247723132
+canceled,cama_mesa_banho,petropolis,0.18214936247723132
+canceled,cama_mesa_banho,rio de janeiro,0.18214936247723132
+canceled,cama_mesa_banho,salto,0.18214936247723132
+canceled,cama_mesa_banho,salvador,0.18214936247723132
+canceled,cama_mesa_banho,sao carlos,0.18214936247723132
+canceled,cama_mesa_banho,sao paulo,1.092896174863388
+canceled,casa_construcao,sao paulo,0.18214936247723132
+canceled,climatizacao,sao paulo,0.36429872495446264
+canceled,consoles_games,barueri,0.18214936247723132
+canceled,consoles_games,catanduva,0.18214936247723132
+canceled,consoles_games,esteio,0.18214936247723132
+canceled,consoles_games,piracicaba,0.18214936247723132
+canceled,consoles_games,rio de janeiro,0.18214936247723132
+canceled,consoles_games,sao paulo,0.7285974499089253
+canceled,consoles_games,sao roque,0.18214936247723132
+canceled,construcao_ferramentas_construcao,sao paulo,0.36429872495446264
+canceled,construcao_ferramentas_iluminacao,sao paulo,0.36429872495446264
+canceled,construcao_ferramentas_jardim,ipatinga,0.18214936247723132
+canceled,construcao_ferramentas_jardim,sao paulo,0.546448087431694
+canceled,construcao_ferramentas_seguranca,sao paulo,0.18214936247723132
+canceled,construcao_ferramentas_seguranca,uberaba,0.7285974499089253
+unavailable,cool_stuff,aracariguama,0.18214936247723132
+canceled,cool_stuff,belo horizonte,0.18214936247723132
+canceled,cool_stuff,bilac,0.18214936247723132
+canceled,cool_stuff,curvelo,0.18214936247723132
+canceled,cool_stuff,goiania,0.36429872495446264
+canceled,cool_stuff,guarulhos,0.18214936247723132
+canceled,cool_stuff,ibira,0.18214936247723132
+canceled,cool_stuff,nilopolis,0.18214936247723132
+canceled,cool_stuff,novo hamburgo,0.18214936247723132
+canceled,cool_stuff,porto seguro,0.18214936247723132
+canceled,cool_stuff,rio de janeiro,0.36429872495446264
+canceled,cool_stuff,salvador,0.18214936247723132
+canceled,cool_stuff,sao paulo,0.18214936247723132
+canceled,cool_stuff,taboao da serra,0.18214936247723132
+canceled,cool_stuff,vacaria,0.18214936247723132
+canceled,dvds_blu_ray,itu,0.18214936247723132
+canceled,dvds_blu_ray,sao vicente,0.18214936247723132
+canceled,eletrodomesticos,sao paulo,0.36429872495446264
+canceled,eletrodomesticos_2,belo horizonte,0.18214936247723132
+canceled,eletrodomesticos_2,curitiba,0.18214936247723132
+canceled,eletrodomesticos_2,salvador,0.18214936247723132
+canceled,eletronicos,belo horizonte,0.18214936247723132
+canceled,eletronicos,blumenau,0.18214936247723132
+canceled,eletronicos,paranagua,0.9107468123861566
+canceled,eletronicos,sao bernardo do campo,0.18214936247723132
+canceled,eletronicos,sao paulo,0.546448087431694
+unavailable,eletronicos,vargem grande paulista,0.18214936247723132
+canceled,eletroportateis,goiania,0.18214936247723132
+canceled,eletroportateis,guarulhos,0.36429872495446264
+canceled,eletroportateis,jacarei,0.18214936247723132
+canceled,eletroportateis,pocos de caldas,0.18214936247723132
+canceled,eletroportateis,sao paulo,0.546448087431694
+canceled,esporte_lazer,belo horizonte,0.36429872495446264
+canceled,esporte_lazer,brasilia,0.36429872495446264
+canceled,esporte_lazer,caxias do sul,0.18214936247723132
+canceled,esporte_lazer,dumont,0.18214936247723132
+canceled,esporte_lazer,francisco beltrao,0.18214936247723132
+canceled,esporte_lazer,guanambi,0.18214936247723132
+canceled,esporte_lazer,guarulhos,0.36429872495446264
+canceled,esporte_lazer,indaiatuba,0.18214936247723132
+canceled,esporte_lazer,itajai,0.36429872495446264
+canceled,esporte_lazer,itaquaquecetuba,0.18214936247723132
+canceled,esporte_lazer,joao pessoa,0.36429872495446264
+canceled,esporte_lazer,maringa,0.18214936247723132
+canceled,esporte_lazer,nhandeara,0.18214936247723132
+canceled,esporte_lazer,niteroi,0.18214936247723132
+canceled,esporte_lazer,osasco,0.18214936247723132
+canceled,esporte_lazer,pecanha,0.18214936247723132
+canceled,esporte_lazer,piratininga,0.18214936247723132
+canceled,esporte_lazer,presidente dutra,0.18214936247723132
+canceled,esporte_lazer,promissao,0.18214936247723132
+canceled,esporte_lazer,quissama,0.18214936247723132
+canceled,esporte_lazer,recife,0.18214936247723132
+canceled,esporte_lazer,rio de janeiro,0.36429872495446264
+canceled,esporte_lazer,sao jose do rio preto,0.18214936247723132
+canceled,esporte_lazer,sao paulo,3.096539162112933
+canceled,esporte_lazer,sertaozinho,0.18214936247723132
+canceled,esporte_lazer,sorocaba,0.18214936247723132
+canceled,esporte_lazer,vargem alegre,0.18214936247723132
+canceled,esporte_lazer,vila velha,0.18214936247723132
+canceled,esporte_lazer,vilhena,0.18214936247723132
+canceled,fashion_bolsas_e_acessorios,brasilia,0.18214936247723132
+canceled,fashion_bolsas_e_acessorios,campinas,0.18214936247723132
+canceled,fashion_bolsas_e_acessorios,candeias,0.18214936247723132
+canceled,fashion_bolsas_e_acessorios,florianopolis,0.18214936247723132
+canceled,fashion_bolsas_e_acessorios,osasco,0.18214936247723132
+canceled,fashion_bolsas_e_acessorios,varginha,0.18214936247723132
+canceled,fashion_calcados,guarulhos,0.18214936247723132
+canceled,fashion_calcados,sao paulo,0.18214936247723132
+canceled,fashion_roupa_masculina,sao paulo,0.18214936247723132
+canceled,ferramentas_jardim,barra do pirai,0.18214936247723132
+canceled,ferramentas_jardim,curitiba,0.18214936247723132
+canceled,ferramentas_jardim,goiania,0.18214936247723132
+canceled,ferramentas_jardim,mogi das cruzes,0.18214936247723132
+canceled,ferramentas_jardim,monte mor,0.18214936247723132
+canceled,ferramentas_jardim,piracicaba,0.18214936247723132
+canceled,ferramentas_jardim,porto alegre,1.092896174863388
+canceled,ferramentas_jardim,recife,0.18214936247723132
+canceled,ferramentas_jardim,rio bonito,0.18214936247723132
+canceled,ferramentas_jardim,santo andre,0.18214936247723132
+canceled,ferramentas_jardim,sao paulo,0.18214936247723132
+canceled,ferramentas_jardim,taboao da serra,0.36429872495446264
+canceled,ferramentas_jardim,timoteo,0.18214936247723132
+canceled,fraldas_higiene,sao paulo,0.18214936247723132
+canceled,informatica_acessorios,araguaina,0.18214936247723132
+canceled,informatica_acessorios,araraquara,0.18214936247723132
+canceled,informatica_acessorios,araxa,0.18214936247723132
+canceled,informatica_acessorios,belo horizonte,0.18214936247723132
+canceled,informatica_acessorios,borborema,0.18214936247723132
+canceled,informatica_acessorios,brasilia,0.9107468123861566
+canceled,informatica_acessorios,camamu,0.18214936247723132
+canceled,informatica_acessorios,campinas,0.546448087431694
+canceled,informatica_acessorios,carapicuiba,0.18214936247723132
+canceled,informatica_acessorios,curitiba,0.36429872495446264
+canceled,informatica_acessorios,divinopolis,0.18214936247723132
+canceled,informatica_acessorios,florianopolis,0.18214936247723132
+canceled,informatica_acessorios,fortaleza,0.18214936247723132
+canceled,informatica_acessorios,francisco morato,0.18214936247723132
+canceled,informatica_acessorios,guarulhos,0.36429872495446264
+canceled,informatica_acessorios,maringa,0.36429872495446264
+canceled,informatica_acessorios,mogi das cruzes,0.18214936247723132
+canceled,informatica_acessorios,monte carmelo,0.18214936247723132
+canceled,informatica_acessorios,muriae,0.18214936247723132
+canceled,informatica_acessorios,niteroi,0.18214936247723132
+canceled,informatica_acessorios,praia grande,0.18214936247723132
+canceled,informatica_acessorios,rio de janeiro,0.18214936247723132
+canceled,informatica_acessorios,sao goncalo,0.18214936247723132
+canceled,informatica_acessorios,sao paulo,2.0036429872495445
+canceled,informatica_acessorios,sumare,0.18214936247723132
+canceled,informatica_acessorios,uberaba,0.18214936247723132
+canceled,informatica_acessorios,vila velha,0.18214936247723132
+canceled,instrumentos_musicais,belo horizonte,0.18214936247723132
+canceled,instrumentos_musicais,caieiras,0.18214936247723132
+canceled,instrumentos_musicais,campinas,0.7285974499089253
+canceled,instrumentos_musicais,contagem,0.18214936247723132
+canceled,instrumentos_musicais,olimpia,0.18214936247723132
+canceled,instrumentos_musicais,porto alegre,0.18214936247723132
+canceled,instrumentos_musicais,rio de janeiro,0.18214936247723132
+canceled,instrumentos_musicais,sao paulo,0.18214936247723132
+canceled,livros_interesse_geral,curitiba,0.18214936247723132
+canceled,livros_interesse_geral,goiania,0.18214936247723132
+canceled,livros_interesse_geral,monte gordo,0.18214936247723132
+canceled,livros_interesse_geral,niteroi,0.18214936247723132
+canceled,livros_interesse_geral,nova friburgo,0.18214936247723132
+canceled,livros_interesse_geral,rio de janeiro,0.18214936247723132
+canceled,livros_interesse_geral,valinhos,0.18214936247723132
+canceled,malas_acessorios,guarulhos,0.18214936247723132
+canceled,malas_acessorios,rio de janeiro,0.18214936247723132
+canceled,malas_acessorios,sao paulo,0.18214936247723132
+canceled,malas_acessorios,una,0.18214936247723132
+canceled,market_place,eliseu martins,0.18214936247723132
+canceled,moveis_cozinha_area_de_servico_jantar_e_jardim,rio de janeiro,0.18214936247723132
+canceled,moveis_cozinha_area_de_servico_jantar_e_jardim,sao paulo,0.18214936247723132
+canceled,moveis_decoracao,americana,0.18214936247723132
+canceled,moveis_decoracao,belem,0.18214936247723132
+canceled,moveis_decoracao,belo horizonte,0.36429872495446264
+canceled,moveis_decoracao,diadema,0.18214936247723132
+canceled,moveis_decoracao,fortaleza,0.18214936247723132
+canceled,moveis_decoracao,itaborai,0.36429872495446264
+canceled,moveis_decoracao,jundiai,0.18214936247723132
+canceled,moveis_decoracao,limeira,0.18214936247723132
+canceled,moveis_decoracao,rio das ostras,0.546448087431694
+canceled,moveis_decoracao,rio de janeiro,0.546448087431694
+canceled,moveis_decoracao,sao bernardo do campo,0.18214936247723132
+canceled,moveis_decoracao,sao carlos,1.092896174863388
+canceled,moveis_decoracao,sao paulo,2.185792349726776
+canceled,moveis_decoracao,sao vicente,0.18214936247723132
+canceled,moveis_escritorio,rio de janeiro,0.18214936247723132
+canceled,moveis_sala,montes claros,0.18214936247723132
+canceled,moveis_sala,vila velha,0.18214936247723132
+canceled,papelaria,boa vista,0.18214936247723132
+canceled,papelaria,diadema,0.18214936247723132
+canceled,papelaria,governador valadares,0.18214936247723132
+canceled,papelaria,itaberaba,0.18214936247723132
+canceled,papelaria,nova iguacu,0.18214936247723132
+canceled,papelaria,palhoca,0.18214936247723132
+canceled,papelaria,rio de janeiro,0.36429872495446264
+canceled,papelaria,salvador,0.18214936247723132
+canceled,papelaria,sao caetano do sul,0.18214936247723132
+canceled,papelaria,sorocaba,0.18214936247723132
+canceled,papelaria,teresina,0.18214936247723132
+canceled,pc_gamer,santo andre,0.18214936247723132
+canceled,perfumaria,angra dos reis,0.18214936247723132
+canceled,perfumaria,barrinha,0.36429872495446264
+canceled,perfumaria,buenopolis,0.18214936247723132
+unavailable,perfumaria,campos dos goytacazes,0.18214936247723132
+canceled,perfumaria,contagem,0.18214936247723132
+canceled,perfumaria,goiania,0.18214936247723132
+canceled,perfumaria,governador valadares,0.18214936247723132
+canceled,perfumaria,juiz de fora,0.18214936247723132
+canceled,perfumaria,montes claros,0.18214936247723132
+canceled,perfumaria,piao,0.18214936247723132
+unavailable,perfumaria,porto alegre,0.18214936247723132
+canceled,perfumaria,rio de janeiro,0.36429872495446264
+canceled,perfumaria,sao bernardo do campo,0.18214936247723132
+canceled,perfumaria,sao paulo,0.36429872495446264
+canceled,pet_shop,cajamar,0.18214936247723132
+canceled,pet_shop,rio de janeiro,0.36429872495446264
+canceled,pet_shop,sao paulo,0.36429872495446264
+canceled,portateis_cozinha_e_preparadores_de_alimentos,novo gama,0.18214936247723132
+canceled,relogios_presentes,belo horizonte,0.18214936247723132
+canceled,relogios_presentes,cabo frio,0.18214936247723132
+canceled,relogios_presentes,caraguatatuba,0.18214936247723132
+canceled,relogios_presentes,ferraz de vasconcelos,0.18214936247723132
+canceled,relogios_presentes,goiania,0.18214936247723132
+canceled,relogios_presentes,guarulhos,0.18214936247723132
+canceled,relogios_presentes,jaboatao dos guararapes,0.18214936247723132
+canceled,relogios_presentes,paranavai,0.18214936247723132
+canceled,relogios_presentes,pindamonhangaba,0.18214936247723132
+canceled,relogios_presentes,ponte nova,0.18214936247723132
+canceled,relogios_presentes,potirendaba,0.36429872495446264
+canceled,relogios_presentes,rio de janeiro,0.18214936247723132
+canceled,relogios_presentes,sao jose dos campos,0.18214936247723132
+canceled,relogios_presentes,sao luis,0.18214936247723132
+canceled,relogios_presentes,sao paulo,0.7285974499089253
+canceled,relogios_presentes,taubate,0.18214936247723132
+canceled,relogios_presentes,vitoria da conquista,0.18214936247723132
+canceled,telefonia,aparecida de goiania,0.18214936247723132
+canceled,telefonia,bento goncalves,0.18214936247723132
+canceled,telefonia,brasilia,0.18214936247723132
+canceled,telefonia,caibate,0.36429872495446264
+canceled,telefonia,claudio,0.18214936247723132
+canceled,telefonia,italva,0.18214936247723132
+canceled,telefonia,jundiai,0.18214936247723132
+canceled,telefonia,maracanau,0.18214936247723132
+canceled,telefonia,osasco,0.18214936247723132
+canceled,telefonia,passo fundo,0.18214936247723132
+canceled,telefonia,sao luis,0.18214936247723132
+canceled,telefonia,sao paulo,0.546448087431694
+canceled,telefonia,seara,0.36429872495446264
+canceled,telefonia,uruguaiana,0.18214936247723132
+canceled,telefonia_fixa,belford roxo,0.18214936247723132
+canceled,telefonia_fixa,itaperuna,0.18214936247723132
+canceled,telefonia_fixa,sorocaba,0.18214936247723132
+canceled,utilidades_domesticas,arandu,0.18214936247723132
+canceled,utilidades_domesticas,artur nogueira,0.36429872495446264
+canceled,utilidades_domesticas,balneario camboriu,0.18214936247723132
+canceled,utilidades_domesticas,belo horizonte,0.36429872495446264
+canceled,utilidades_domesticas,brodowski,0.18214936247723132
+canceled,utilidades_domesticas,cabo frio,0.18214936247723132
+canceled,utilidades_domesticas,campinas,0.18214936247723132
+canceled,utilidades_domesticas,cotia,0.18214936247723132
+canceled,utilidades_domesticas,cristina,0.18214936247723132
+canceled,utilidades_domesticas,fortaleza,0.18214936247723132
+canceled,utilidades_domesticas,governador valadares,0.18214936247723132
+canceled,utilidades_domesticas,guarulhos,0.18214936247723132
+canceled,utilidades_domesticas,londrina,0.18214936247723132
+canceled,utilidades_domesticas,macae,0.18214936247723132
+canceled,utilidades_domesticas,mateus leme,0.18214936247723132
+canceled,utilidades_domesticas,pedro de toledo,0.18214936247723132
+canceled,utilidades_domesticas,piracicaba,0.18214936247723132
+canceled,utilidades_domesticas,rio de janeiro,0.7285974499089253
+canceled,utilidades_domesticas,rio grande,0.18214936247723132
+canceled,utilidades_domesticas,santana de parnaiba,0.9107468123861566
+canceled,utilidades_domesticas,santo andre,0.18214936247723132
+canceled,utilidades_domesticas,santo antonio de padua,0.546448087431694
+canceled,utilidades_domesticas,sao bernardo do campo,0.18214936247723132
+canceled,utilidades_domesticas,sao paulo,2.185792349726776
+canceled,utilidades_domesticas,vespasiano,0.36429872495446264
+canceled,utilidades_domesticas,vitoria,0.18214936247723132

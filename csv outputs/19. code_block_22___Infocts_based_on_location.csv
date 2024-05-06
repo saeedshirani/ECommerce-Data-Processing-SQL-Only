@@ -1,0 +1,202 @@
+Status,location,percentage_per_category
+canceled,americana,0.36429872495446264
+canceled,anapolis,0.18214936247723132
+canceled,andradina,0.18214936247723132
+canceled,angra dos reis,0.18214936247723132
+canceled,aparecida de goiania,0.18214936247723132
+unavailable,aracariguama,0.18214936247723132
+canceled,araguaina,0.18214936247723132
+canceled,arandu,0.18214936247723132
+canceled,araraquara,0.18214936247723132
+canceled,araxa,0.18214936247723132
+canceled,arealva,0.18214936247723132
+canceled,artur nogueira,0.36429872495446264
+canceled,bady bassitt,0.18214936247723132
+canceled,balneario camboriu,0.18214936247723132
+canceled,barra de sao francisco,0.18214936247723132
+canceled,barra do pirai,0.36429872495446264
+canceled,barra mansa,0.18214936247723132
+canceled,barrinha,0.36429872495446264
+canceled,barueri,0.7285974499089253
+canceled,bauru,0.18214936247723132
+canceled,belem,0.18214936247723132
+canceled,belford roxo,0.18214936247723132
+canceled,belo horizonte,2.73224043715847
+canceled,bento goncalves,0.18214936247723132
+canceled,bilac,0.18214936247723132
+canceled,blumenau,0.18214936247723132
+canceled,boa vista,0.18214936247723132
+canceled,borborema,0.18214936247723132
+canceled,brasilia,1.639344262295082
+canceled,brodowski,0.18214936247723132
+canceled,buenopolis,0.18214936247723132
+canceled,cabo frio,0.36429872495446264
+canceled,cacapava,0.18214936247723132
+canceled,cacequi,0.36429872495446264
+canceled,caibate,0.36429872495446264
+canceled,caieiras,0.36429872495446264
+canceled,cajamar,0.18214936247723132
+canceled,camamu,0.18214936247723132
+canceled,camboriu,0.18214936247723132
+canceled,campinas,2.0036429872495445
+canceled,campos do jordao,0.18214936247723132
+unavailable,campos dos goytacazes,0.18214936247723132
+canceled,campos gerais,0.18214936247723132
+canceled,candeias,0.18214936247723132
+canceled,caraguatatuba,0.36429872495446264
+canceled,carangola,0.18214936247723132
+canceled,carapicuiba,0.18214936247723132
+canceled,catanduva,0.18214936247723132
+canceled,caxambu,0.18214936247723132
+canceled,caxias do sul,0.18214936247723132
+canceled,chapeco,0.18214936247723132
+canceled,claudio,0.18214936247723132
+canceled,conchas,0.18214936247723132
+canceled,contagem,0.7285974499089253
+canceled,cotia,0.18214936247723132
+canceled,cristina,0.18214936247723132
+canceled,cruz alta,0.18214936247723132
+canceled,curitiba,1.639344262295082
+canceled,curvelo,0.18214936247723132
+canceled,diadema,0.36429872495446264
+canceled,divinopolis,0.18214936247723132
+canceled,dourados,0.18214936247723132
+canceled,dumont,0.18214936247723132
+canceled,eliseu martins,0.18214936247723132
+canceled,embu das artes,0.36429872495446264
+canceled,erechim,0.18214936247723132
+canceled,esteio,0.18214936247723132
+canceled,ferraz de vasconcelos,0.18214936247723132
+canceled,florianopolis,0.546448087431694
+canceled,fortaleza,0.546448087431694
+canceled,franca,0.18214936247723132
+canceled,francisco beltrao,0.18214936247723132
+canceled,francisco morato,0.18214936247723132
+canceled,gaspar,0.18214936247723132
+canceled,goiania,1.2750455373406193
+canceled,governador valadares,0.7285974499089253
+canceled,guanambi,0.18214936247723132
+canceled,guarulhos,2.185792349726776
+canceled,ibira,0.18214936247723132
+canceled,indaiatuba,0.18214936247723132
+canceled,ipatinga,0.18214936247723132
+canceled,itaberaba,0.18214936247723132
+canceled,itaborai,0.36429872495446264
+canceled,itaguai,0.36429872495446264
+canceled,itajai,0.36429872495446264
+canceled,italva,0.18214936247723132
+canceled,itaperuna,0.18214936247723132
+canceled,itaquaquecetuba,0.18214936247723132
+canceled,itu,0.546448087431694
+canceled,jaboatao dos guararapes,0.36429872495446264
+canceled,jaboticabal,0.18214936247723132
+canceled,jacarei,0.36429872495446264
+canceled,jacobina,0.18214936247723132
+canceled,joao pessoa,0.36429872495446264
+canceled,joinville,0.18214936247723132
+canceled,juiz de fora,0.18214936247723132
+canceled,jundiai,0.7285974499089253
+canceled,limeira,0.36429872495446264
+canceled,linhares,0.36429872495446264
+canceled,lins,0.18214936247723132
+canceled,londrina,0.18214936247723132
+canceled,lorena,0.18214936247723132
+canceled,lucas do rio verde,0.18214936247723132
+canceled,macae,0.18214936247723132
+canceled,mage,0.18214936247723132
+canceled,maracanau,0.18214936247723132
+canceled,marica,0.18214936247723132
+canceled,maringa,0.546448087431694
+canceled,mateus leme,0.18214936247723132
+canceled,medianeira,0.18214936247723132
+canceled,mogi das cruzes,0.36429872495446264
+canceled,monte carmelo,0.18214936247723132
+canceled,monte gordo,0.18214936247723132
+canceled,monte mor,0.18214936247723132
+canceled,montes claros,0.36429872495446264
+canceled,muriae,0.18214936247723132
+canceled,nhandeara,0.18214936247723132
+canceled,nilopolis,0.18214936247723132
+canceled,niteroi,0.546448087431694
+canceled,nova friburgo,0.36429872495446264
+canceled,nova iguacu,0.18214936247723132
+canceled,novo gama,0.18214936247723132
+canceled,novo hamburgo,0.18214936247723132
+canceled,olimpia,0.18214936247723132
+canceled,osasco,1.092896174863388
+canceled,palhoca,0.18214936247723132
+canceled,paranagua,0.9107468123861566
+canceled,paranavai,0.18214936247723132
+canceled,passo fundo,0.18214936247723132
+canceled,pecanha,0.18214936247723132
+canceled,pedro de toledo,0.18214936247723132
+canceled,penha,0.18214936247723132
+canceled,peruibe,0.18214936247723132
+canceled,petropolis,0.18214936247723132
+canceled,piao,0.18214936247723132
+canceled,pindamonhangaba,0.18214936247723132
+canceled,piracaia,0.18214936247723132
+canceled,piracicaba,0.546448087431694
+canceled,piratininga,0.18214936247723132
+canceled,pocos de caldas,0.18214936247723132
+canceled,ponte nova,0.18214936247723132
+canceled,porto alegre,1.4571948998178506
+canceled,porto seguro,0.18214936247723132
+canceled,potirendaba,0.36429872495446264
+canceled,praia grande,0.36429872495446264
+canceled,presidente dutra,0.18214936247723132
+canceled,promissao,0.18214936247723132
+canceled,quissama,0.18214936247723132
+canceled,recife,0.36429872495446264
+canceled,ribeirao preto,0.18214936247723132
+canceled,rio bonito,0.18214936247723132
+canceled,rio das ostras,0.546448087431694
+canceled,rio de janeiro,6.193078324225866
+canceled,rio grande,0.18214936247723132
+canceled,rio grande da serra,0.18214936247723132
+canceled,salto,0.18214936247723132
+canceled,salvador,0.7285974499089253
+canceled,santa cruz do capibaribe,0.18214936247723132
+canceled,santana de parnaiba,1.092896174863388
+canceled,santo andre,1.092896174863388
+canceled,santo antonio de padua,0.546448087431694
+canceled,sao bernardo do campo,1.2750455373406193
+canceled,sao caetano do sul,0.18214936247723132
+canceled,sao carlos,1.2750455373406193
+canceled,sao goncalo,0.18214936247723132
+canceled,sao joao de meriti,0.18214936247723132
+canceled,sao jose do rio preto,0.18214936247723132
+canceled,sao jose dos campos,0.546448087431694
+canceled,sao leopoldo,0.18214936247723132
+canceled,sao luis,0.546448087431694
+canceled,sao manuel,0.18214936247723132
+canceled,sao paulo,24.59016393442623
+canceled,sao roque,0.36429872495446264
+canceled,sao vicente,0.36429872495446264
+canceled,sapiranga,0.18214936247723132
+canceled,seara,0.36429872495446264
+canceled,serrinha,0.18214936247723132
+canceled,sertaozinho,0.18214936247723132
+canceled,sorocaba,0.546448087431694
+canceled,sumare,0.36429872495446264
+unavailable,suzano,0.18214936247723132
+canceled,taboao da serra,0.546448087431694
+canceled,taubate,0.18214936247723132
+canceled,teresina,0.36429872495446264
+canceled,timoteo,0.18214936247723132
+canceled,uberaba,0.9107468123861566
+canceled,una,0.18214936247723132
+canceled,uruguaiana,0.18214936247723132
+canceled,vacaria,0.18214936247723132
+canceled,valinhos,0.18214936247723132
+canceled,vargem alegre,0.18214936247723132
+unavailable,vargem grande paulista,0.18214936247723132
+canceled,varginha,0.18214936247723132
+canceled,vespasiano,0.36429872495446264
+canceled,vila velha,0.7285974499089253
+canceled,vilhena,0.18214936247723132
+canceled,vinhedo,0.9107468123861566
+canceled,virginopolis,0.9107468123861566
+canceled,vitoria,0.18214936247723132
+canceled,vitoria da conquista,0.36429872495446264
+canceled,votorantim,0.18214936247723132
