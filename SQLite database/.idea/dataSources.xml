@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="Brazilian_E-commerce" uuid="0b94b844-2e6f-48dd-a115-ccae8c4c98e9">
+    <data-source source="LOCAL" name="Brazilian_E-commerce" uuid="e6e7530c-6d86-4868-9416-ae3b97dee0ec">
       <driver-ref>sqlite.xerial</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
-      <jdbc-url>jdbc:sqlite:C:\Users\saeed\OneDrive\Documents\Github\100SQL-Query\SQLite database\Brazilian_E-commerce.db</jdbc-url>
+      <jdbc-url>jdbc:sqlite:C:\Users\saeed\OneDrive\Documents\Github\ECommerce-Data-Processing-SQL-Only\SQLite database\Brazilian_E-commerce.db</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
       <libraries>
         <library>

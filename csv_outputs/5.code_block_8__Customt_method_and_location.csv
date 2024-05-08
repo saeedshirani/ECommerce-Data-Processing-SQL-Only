@@ -1,674 +1,674 @@
 payment_type,customer_city,total_orders,total_customers
-credit_card,sao paulo,12226,12226
-credit_card,rio de janeiro,5525,5525
-boleto,sao paulo,2783,2783
-credit_card,belo horizonte,2233,2233
-credit_card,brasilia,1693,1693
-credit_card,curitiba,1136,1136
-boleto,rio de janeiro,1123,1123
-credit_card,campinas,1078,1078
-credit_card,porto alegre,1054,1054
-credit_card,salvador,1018,1018
-credit_card,guarulhos,925,925
-voucher,sao paulo,914,914
-credit_card,sao bernardo do campo,727,727
-credit_card,niteroi,684,684
-credit_card,santo andre,612,612
-credit_card,osasco,569,569
-credit_card,santos,539,539
-credit_card,fortaleza,537,537
-credit_card,goiania,535,535
-credit_card,sao jose dos campos,509,509
-credit_card,recife,494,494
-credit_card,sorocaba,476,476
-boleto,belo horizonte,468,468
-credit_card,florianopolis,448,448
-credit_card,jundiai,446,446
-voucher,rio de janeiro,445,445
-credit_card,ribeirao preto,399,399
-boleto,brasilia,394,394
-credit_card,nova iguacu,368,368
-credit_card,contagem,347,347
-credit_card,barueri,343,343
-credit_card,juiz de fora,341,341
-boleto,curitiba,336,336
-credit_card,belem,332,332
-boleto,campinas,317,317
-credit_card,sao goncalo,315,315
-credit_card,uberlandia,301,301
-credit_card,vitoria,300,300
-debit_card,sao paulo,295,295
-credit_card,mogi das cruzes,291,291
-boleto,porto alegre,286,286
-credit_card,piracicaba,285,285
-credit_card,carapicuiba,262,262
-credit_card,maua,258,258
-credit_card,sao luis,258,258
-credit_card,vila velha,257,257
-credit_card,sao jose do rio preto,255,255
-credit_card,londrina,251,251
-credit_card,praia grande,247,247
-credit_card,campo grande,239,239
-credit_card,sao caetano do sul,232,232
-credit_card,teresina,229,229
-credit_card,taboao da serra,226,226
-credit_card,serra,215,215
-credit_card,taubate,213,213
-boleto,guarulhos,212,212
-credit_card,duque de caxias,211,211
-credit_card,diadema,210,210
-credit_card,maringa,210,210
-credit_card,joinville,208,208
-credit_card,bauru,204,204
-credit_card,maceio,202,202
-credit_card,joao pessoa,201,201
-credit_card,petropolis,199,199
-credit_card,indaiatuba,196,196
-credit_card,campos dos goytacazes,194,194
-credit_card,cotia,193,193
-credit_card,cuiaba,189,189
-credit_card,sao carlos,183,183
-boleto,salvador,182,182
-credit_card,guaruja,182,182
-credit_card,macae,182,182
-boleto,sao bernardo do campo,175,175
-credit_card,caxias do sul,174,174
-credit_card,volta redonda,174,174
-credit_card,americana,171,171
-credit_card,aracaju,171,171
-credit_card,suzano,170,170
-credit_card,natal,165,165
-credit_card,montes claros,163,163
-boleto,santo andre,160,160
-credit_card,marilia,159,159
-boleto,sao jose dos campos,157,157
-credit_card,canoas,157,157
-credit_card,betim,156,156
-boleto,santos,153,153
-credit_card,feira de santana,152,152
-credit_card,blumenau,146,146
-credit_card,limeira,144,144
-credit_card,santana de parnaiba,143,143
-credit_card,valinhos,143,143
-boleto,osasco,142,142
-credit_card,uberaba,140,140
-boleto,goiania,138,138
-credit_card,jacarei,138,138
-credit_card,santa maria,138,138
-credit_card,itaquaquecetuba,135,135
-credit_card,pelotas,132,132
-credit_card,sumare,132,132
-voucher,belo horizonte,132,132
-boleto,sorocaba,129,129
-credit_card,araraquara,129,129
-credit_card,sao jose,129,129
-voucher,salvador,128,128
-credit_card,ipatinga,127,127
-credit_card,nova friburgo,127,127
-credit_card,presidente prudente,127,127
-credit_card,cascavel,126,126
-credit_card,embu das artes,126,126
-credit_card,franca,126,126
+credit_card,sao paulo,12226,11766
+credit_card,rio de janeiro,5525,5332
+boleto,sao paulo,2783,2722
+credit_card,belo horizonte,2233,2153
+credit_card,brasilia,1693,1643
+credit_card,curitiba,1136,1104
+boleto,rio de janeiro,1123,1081
+credit_card,campinas,1078,1051
+credit_card,porto alegre,1054,1009
+credit_card,salvador,1018,978
+credit_card,guarulhos,925,903
+voucher,sao paulo,914,566
+credit_card,sao bernardo do campo,727,705
+credit_card,niteroi,684,656
+credit_card,santo andre,612,586
+credit_card,osasco,569,547
+credit_card,santos,539,523
+credit_card,fortaleza,537,525
+credit_card,goiania,535,516
+credit_card,sao jose dos campos,509,489
+credit_card,recife,494,476
+credit_card,sorocaba,476,457
+boleto,belo horizonte,468,453
+credit_card,florianopolis,448,430
+credit_card,jundiai,446,427
+voucher,rio de janeiro,445,258
+credit_card,ribeirao preto,399,381
+boleto,brasilia,394,385
+credit_card,nova iguacu,368,358
+credit_card,contagem,347,339
+credit_card,barueri,343,329
+credit_card,juiz de fora,341,328
+boleto,curitiba,336,313
+credit_card,belem,332,322
+boleto,campinas,317,306
+credit_card,sao goncalo,315,309
+credit_card,uberlandia,301,293
+credit_card,vitoria,300,292
+debit_card,sao paulo,295,293
+credit_card,mogi das cruzes,291,284
+boleto,porto alegre,286,280
+credit_card,piracicaba,285,278
+credit_card,carapicuiba,262,253
+credit_card,maua,258,249
+credit_card,sao luis,258,250
+credit_card,vila velha,257,248
+credit_card,sao jose do rio preto,255,252
+credit_card,londrina,251,243
+credit_card,praia grande,247,230
+credit_card,campo grande,239,234
+credit_card,sao caetano do sul,232,224
+credit_card,teresina,229,220
+credit_card,taboao da serra,226,215
+credit_card,serra,215,211
+credit_card,taubate,213,208
+boleto,guarulhos,212,201
+credit_card,duque de caxias,211,208
+credit_card,diadema,210,200
+credit_card,maringa,210,202
+credit_card,joinville,208,204
+credit_card,bauru,204,198
+credit_card,maceio,202,199
+credit_card,joao pessoa,201,188
+credit_card,petropolis,199,183
+credit_card,indaiatuba,196,188
+credit_card,campos dos goytacazes,194,189
+credit_card,cotia,193,188
+credit_card,cuiaba,189,186
+credit_card,sao carlos,183,175
+boleto,salvador,182,181
+credit_card,guaruja,182,173
+credit_card,macae,182,175
+boleto,sao bernardo do campo,175,171
+credit_card,caxias do sul,174,163
+credit_card,volta redonda,174,168
+credit_card,americana,171,166
+credit_card,aracaju,171,166
+credit_card,suzano,170,163
+credit_card,natal,165,163
+credit_card,montes claros,163,158
+boleto,santo andre,160,159
+credit_card,marilia,159,158
+boleto,sao jose dos campos,157,156
+credit_card,canoas,157,152
+credit_card,betim,156,153
+boleto,santos,153,150
+credit_card,feira de santana,152,144
+credit_card,blumenau,146,144
+credit_card,limeira,144,136
+credit_card,santana de parnaiba,143,140
+credit_card,valinhos,143,139
+boleto,osasco,142,134
+credit_card,uberaba,140,136
+boleto,goiania,138,136
+credit_card,jacarei,138,135
+credit_card,santa maria,138,133
+credit_card,itaquaquecetuba,135,130
+credit_card,pelotas,132,128
+credit_card,sumare,132,129
+voucher,belo horizonte,132,91
+boleto,sorocaba,129,128
+credit_card,araraquara,129,123
+credit_card,sao jose,129,127
+voucher,salvador,128,77
+credit_card,ipatinga,127,124
+credit_card,nova friburgo,127,119
+credit_card,presidente prudente,127,125
+credit_card,cascavel,126,123
+credit_card,embu das artes,126,122
+credit_card,franca,126,124
 credit_card,itapevi,126,126
-boleto,niteroi,125,125
-credit_card,rio claro,124,124
-credit_card,sao vicente,123,123
-credit_card,atibaia,122,122
-credit_card,manaus,117,117
+boleto,niteroi,125,118
+credit_card,rio claro,124,118
+credit_card,sao vicente,123,121
+credit_card,atibaia,122,120
+credit_card,manaus,117,113
 debit_card,rio de janeiro,114,114
-credit_card,jaboatao dos guararapes,113,113
-credit_card,sao joao de meriti,113,113
-boleto,jundiai,112,112
-credit_card,braganca paulista,111,111
-credit_card,cariacica,111,111
+credit_card,jaboatao dos guararapes,113,111
+credit_card,sao joao de meriti,113,109
+boleto,jundiai,112,111
+credit_card,braganca paulista,111,109
+credit_card,cariacica,111,109
 credit_card,governador valadares,111,111
-credit_card,itu,111,111
-credit_card,aracatuba,109,109
-credit_card,marica,108,108
-credit_card,rio das ostras,108,108
-boleto,florianopolis,107,107
-credit_card,divinopolis,105,105
-credit_card,pouso alegre,102,102
-credit_card,sete lagoas,102,102
-credit_card,sao jose dos pinhais,101,101
-credit_card,cachoeiro de itapemirim,98,98
-credit_card,pocos de caldas,98,98
-credit_card,ponta grossa,98,98
-boleto,recife,97,97
-credit_card,barra mansa,97,97
+credit_card,itu,111,107
+credit_card,aracatuba,109,105
+credit_card,marica,108,106
+credit_card,rio das ostras,108,106
+boleto,florianopolis,107,106
+credit_card,divinopolis,105,104
+credit_card,pouso alegre,102,95
+credit_card,sete lagoas,102,98
+credit_card,sao jose dos pinhais,101,96
+credit_card,cachoeiro de itapemirim,98,94
+credit_card,pocos de caldas,98,93
+credit_card,ponta grossa,98,95
+boleto,recife,97,93
+credit_card,barra mansa,97,93
 credit_card,hortolandia,97,97
-credit_card,paulinia,97,97
-credit_card,resende,97,97
-credit_card,rio grande,97,97
-boleto,ribeirao preto,96,96
-credit_card,novo hamburgo,94,94
-credit_card,teresopolis,94,94
-boleto,belem,93,93
-boleto,fortaleza,93,93
-boleto,sao luis,93,93
-credit_card,cabo frio,92,92
-voucher,campinas,92,92
-credit_card,anapolis,90,90
-credit_card,aparecida de goiania,90,90
-voucher,niteroi,90,90
-credit_card,mage,89,89
-voucher,brasilia,89,89
-credit_card,gravatai,88,88
-credit_card,itajai,87,87
-credit_card,ribeirao pires,87,87
-credit_card,porto velho,86,86
-credit_card,belford roxo,85,85
-credit_card,franco da rocha,84,84
-credit_card,sao leopoldo,83,83
-credit_card,ferraz de vasconcelos,82,82
-credit_card,nilopolis,82,82
-credit_card,nova lima,82,82
-credit_card,francisco morato,81,81
-credit_card,palmas,81,81
-credit_card,patos de minas,81,81
-boleto,barueri,79,79
-credit_card,santa luzia,79,79
-credit_card,botucatu,78,78
+credit_card,paulinia,97,92
+credit_card,resende,97,94
+credit_card,rio grande,97,95
+boleto,ribeirao preto,96,93
+credit_card,novo hamburgo,94,91
+credit_card,teresopolis,94,89
+boleto,belem,93,92
+boleto,fortaleza,93,92
+boleto,sao luis,93,90
+credit_card,cabo frio,92,91
+voucher,campinas,92,49
+credit_card,anapolis,90,87
+credit_card,aparecida de goiania,90,86
+voucher,niteroi,90,47
+credit_card,mage,89,85
+voucher,brasilia,89,75
+credit_card,gravatai,88,85
+credit_card,itajai,87,86
+credit_card,ribeirao pires,87,86
+credit_card,porto velho,86,82
+credit_card,belford roxo,85,82
+credit_card,franco da rocha,84,81
+credit_card,sao leopoldo,83,80
+credit_card,ferraz de vasconcelos,82,80
+credit_card,nilopolis,82,80
+credit_card,nova lima,82,81
+credit_card,francisco morato,81,79
+credit_card,palmas,81,79
+credit_card,patos de minas,81,78
+boleto,barueri,79,78
+credit_card,santa luzia,79,78
+credit_card,botucatu,78,77
 credit_card,santa barbara d'oeste,78,78
-boleto,mogi das cruzes,77,77
-credit_card,pindamonhangaba,77,77
-voucher,curitiba,77,77
-voucher,guarulhos,77,77
-boleto,indaiatuba,76,76
-boleto,juiz de fora,76,76
-credit_card,balneario camboriu,76,76
-credit_card,assis,75,75
-credit_card,caieiras,74,74
-credit_card,olinda,74,74
-boleto,sao goncalo,73,73
-credit_card,itatiba,73,73
-credit_card,ribeirao das neves,73,73
-boleto,sao jose do rio preto,72,72
-credit_card,mogi-guacu,72,72
-credit_card,palhoca,72,72
-credit_card,salto,72,72
+boleto,mogi das cruzes,77,74
+credit_card,pindamonhangaba,77,73
+voucher,curitiba,77,54
+voucher,guarulhos,77,48
+boleto,indaiatuba,76,74
+boleto,juiz de fora,76,73
+credit_card,balneario camboriu,76,74
+credit_card,assis,75,71
+credit_card,caieiras,74,70
+credit_card,olinda,74,73
+boleto,sao goncalo,73,72
+credit_card,itatiba,73,71
+credit_card,ribeirao das neves,73,71
+boleto,sao jose do rio preto,72,71
+credit_card,mogi-guacu,72,67
+credit_card,palhoca,72,70
+credit_card,salto,72,70
 boleto,piracicaba,71,71
-credit_card,cajamar,71,71
-credit_card,guaratingueta,71,71
-credit_card,lages,71,71
-credit_card,vinhedo,71,71
-credit_card,vitoria da conquista,71,71
-boleto,campo grande,70,70
-credit_card,ananindeua,70,70
-credit_card,araras,70,70
-credit_card,caraguatatuba,70,70
-credit_card,itajuba,70,70
-credit_card,passo fundo,70,70
-boleto,contagem,69,69
-boleto,vitoria,69,69
-credit_card,conselheiro lafaiete,69,69
+credit_card,cajamar,71,69
+credit_card,guaratingueta,71,70
+credit_card,lages,71,68
+credit_card,vinhedo,71,70
+credit_card,vitoria da conquista,71,69
+boleto,campo grande,70,69
+credit_card,ananindeua,70,68
+credit_card,araras,70,66
+credit_card,caraguatatuba,70,69
+credit_card,itajuba,70,68
+credit_card,passo fundo,70,69
+boleto,contagem,69,68
+boleto,vitoria,69,67
+credit_card,conselheiro lafaiete,69,68
 credit_card,criciuma,69,69
-credit_card,foz do iguacu,69,69
-credit_card,chapeco,68,68
+credit_card,foz do iguacu,69,67
+credit_card,chapeco,68,67
 boleto,uberlandia,67,67
-boleto,diadema,66,66
+boleto,diadema,66,65
 credit_card,araxa,65,65
 credit_card,itapecerica da serra,65,65
-credit_card,varginha,65,65
-credit_card,lavras,64,64
-credit_card,sao roque,64,64
-credit_card,araruama,63,63
-credit_card,mogi mirim,63,63
-credit_card,angra dos reis,62,62
-credit_card,catanduva,62,62
+credit_card,varginha,65,61
+credit_card,lavras,64,60
+credit_card,sao roque,64,62
+credit_card,araruama,63,60
+credit_card,mogi mirim,63,58
+credit_card,angra dos reis,62,61
+credit_card,catanduva,62,59
 credit_card,itabira,62,62
-credit_card,lauro de freitas,62,62
-credit_card,lorena,62,62
-credit_card,sao joao da boa vista,62,62
-credit_card,sao joao del rei,62,62
-credit_card,vicosa,62,62
+credit_card,lauro de freitas,62,61
+credit_card,lorena,62,58
+credit_card,sao joao da boa vista,62,57
+credit_card,sao joao del rei,62,61
+credit_card,vicosa,62,60
 boleto,bauru,61,61
-boleto,serra,61,61
+boleto,serra,61,60
 boleto,vila velha,61,61
 credit_card,ourinhos,61,61
-voucher,goiania,61,61
-boleto,nova iguacu,60,60
-credit_card,barbacena,60,60
-credit_card,viamao,60,60
-credit_card,votorantim,60,60
-boleto,suzano,59,59
+voucher,goiania,61,27
+boleto,nova iguacu,60,59
+credit_card,barbacena,60,56
+credit_card,viamao,60,57
+credit_card,votorantim,60,59
+boleto,suzano,59,55
 credit_card,ilheus,59,59
-credit_card,itanhaem,59,59
-credit_card,jau,59,59
-credit_card,mesquita,59,59
-credit_card,tatui,59,59
+credit_card,itanhaem,59,56
+credit_card,jau,59,57
+credit_card,mesquita,59,58
+credit_card,tatui,59,57
 boleto,praia grande,58,58
-voucher,sao bernardo do campo,58,58
-boleto,taboao da serra,57,57
+voucher,sao bernardo do campo,58,40
+boleto,taboao da serra,57,56
 credit_card,itapetininga,57,57
-credit_card,jaragua do sul,57,57
-credit_card,mairipora,57,57
-credit_card,rio branco,57,57
-credit_card,teofilo otoni,57,57
-voucher,porto alegre,57,57
-boleto,cuiaba,56,56
-credit_card,cubatao,56,56
-credit_card,guarapari,56,56
-credit_card,poa,56,56
-credit_card,rio verde,56,56
-boleto,carapicuiba,55,55
+credit_card,jaragua do sul,57,54
+credit_card,mairipora,57,56
+credit_card,rio branco,57,53
+credit_card,teofilo otoni,57,56
+voucher,porto alegre,57,48
+boleto,cuiaba,56,55
+credit_card,cubatao,56,55
+credit_card,guarapari,56,54
+credit_card,poa,56,54
+credit_card,rio verde,56,55
+boleto,carapicuiba,55,54
 boleto,maringa,55,55
-boleto,santa maria,55,55
-credit_card,birigui,55,55
-credit_card,parnamirim,55,55
-credit_card,toledo,54,54
-credit_card,ubatuba,54,54
-credit_card,varzea paulista,54,54
-credit_card,votuporanga,54,54
+boleto,santa maria,55,54
+credit_card,birigui,55,53
+credit_card,parnamirim,55,52
+credit_card,toledo,54,53
+credit_card,ubatuba,54,51
+credit_card,varzea paulista,54,51
+credit_card,votuporanga,54,52
 credit_card,aruja,53,53
 credit_card,avare,53,53
-credit_card,caruaru,53,53
-credit_card,jandira,53,53
+credit_card,caruaru,53,52
+credit_card,jandira,53,52
 credit_card,manhuacu,53,53
-boleto,cotia,52,52
-boleto,volta redonda,52,52
+boleto,cotia,52,51
+boleto,volta redonda,52,51
 credit_card,barretos,52,52
 credit_card,petrolina,52,52
-boleto,sao carlos,51,51
+boleto,sao carlos,51,49
 boleto,taubate,51,51
-credit_card,campina grande,51,51
-credit_card,paracatu,51,51
-voucher,sao jose dos campos,51,51
-boleto,maua,50,50
-credit_card,dourados,50,50
-credit_card,pirassununga,50,50
-credit_card,sertaozinho,50,50
-credit_card,valenca,50,50
-boleto,canoas,49,49
-boleto,joao pessoa,49,49
-boleto,londrina,49,49
-boleto,macae,49,49
-credit_card,lagoa santa,49,49
+credit_card,campina grande,51,49
+credit_card,paracatu,51,48
+voucher,sao jose dos campos,51,29
+boleto,maua,50,49
+credit_card,dourados,50,45
+credit_card,pirassununga,50,48
+credit_card,sertaozinho,50,49
+credit_card,valenca,50,46
+boleto,canoas,49,46
+boleto,joao pessoa,49,47
+boleto,londrina,49,48
+boleto,macae,49,48
+credit_card,lagoa santa,49,46
 credit_card,sao sebastiao,49,49
 boleto,aracaju,48,48
-boleto,pelotas,48,48
-credit_card,caratinga,48,48
-credit_card,linhares,48,48
-voucher,osasco,48,48
-boleto,caxias do sul,47,47
-credit_card,amparo,47,47
-credit_card,cachoeirinha,47,47
-credit_card,colombo,47,47
-credit_card,itauna,47,47
-credit_card,lins,47,47
-credit_card,queimados,47,47
-credit_card,tubarao,47,47
+boleto,pelotas,48,46
+credit_card,caratinga,48,47
+credit_card,linhares,48,44
+voucher,osasco,48,31
+boleto,caxias do sul,47,46
+credit_card,amparo,47,45
+credit_card,cachoeirinha,47,45
+credit_card,colombo,47,45
+credit_card,itauna,47,46
+credit_card,lins,47,46
+credit_card,queimados,47,45
+credit_card,tubarao,47,43
 boleto,joinville,46,46
-boleto,uberaba,46,46
-credit_card,camacari,46,46
-credit_card,colatina,46,46
-credit_card,itabuna,46,46
-credit_card,rondonopolis,46,46
+boleto,uberaba,46,42
+credit_card,camacari,46,44
+credit_card,colatina,46,44
+credit_card,itabuna,46,45
+credit_card,rondonopolis,46,43
 boleto,americana,45,45
-credit_card,alvorada,45,45
-credit_card,araguari,45,45
-credit_card,barra do pirai,45,45
-credit_card,brusque,45,45
-credit_card,cruzeiro,45,45
-credit_card,ituiutaba,45,45
+credit_card,alvorada,45,44
+credit_card,araguari,45,44
+credit_card,barra do pirai,45,42
+credit_card,brusque,45,42
+credit_card,cruzeiro,45,43
+credit_card,ituiutaba,45,40
 credit_card,pinhais,45,45
-credit_card,unai,45,45
-boleto,duque de caxias,44,44
-credit_card,cacapava,44,44
-credit_card,guarapuava,44,44
+credit_card,unai,45,43
+boleto,duque de caxias,44,43
+credit_card,cacapava,44,42
+credit_card,guarapuava,44,43
 credit_card,muriae,44,44
-credit_card,timoteo,44,44
-voucher,mogi das cruzes,44,44
-boleto,limeira,43,43
+credit_card,timoteo,44,43
+voucher,mogi das cruzes,44,22
+boleto,limeira,43,42
 boleto,montes claros,43,43
-boleto,teresina,43,43
+boleto,teresina,43,40
 credit_card,fernandopolis,43,43
 credit_card,nova serrana,43,43
-credit_card,ouro preto,43,43
-credit_card,santa cruz do sul,43,43
-voucher,sao goncalo,43,43
+credit_card,ouro preto,43,42
+credit_card,santa cruz do sul,43,40
+voucher,sao goncalo,43,33
 boleto,betim,42,42
-boleto,ponta grossa,42,42
-boleto,sao caetano do sul,42,42
-credit_card,bento goncalves,42,42
-credit_card,ibirite,42,42
+boleto,ponta grossa,42,39
+boleto,sao caetano do sul,42,41
+credit_card,bento goncalves,42,41
+credit_card,ibirite,42,41
 credit_card,itaborai,42,42
 credit_card,jaguariuna,42,42
-credit_card,leme,42,42
+credit_card,leme,42,39
 credit_card,tupa,42,42
-boleto,hortolandia,41,41
-boleto,maceio,41,41
-boleto,sumare,41,41
-credit_card,bage,41,41
-credit_card,itaguai,41,41
-credit_card,itapira,41,41
-credit_card,joao monlevade,41,41
+boleto,hortolandia,41,39
+boleto,maceio,41,40
+boleto,sumare,41,40
+credit_card,bage,41,40
+credit_card,itaguai,41,40
+credit_card,itapira,41,39
+credit_card,joao monlevade,41,38
 credit_card,matao,41,41
-voucher,fortaleza,41,41
-boleto,jacarei,40,40
-credit_card,bertioga,40,40
-credit_card,francisco beltrao,40,40
-credit_card,jaboticabal,40,40
-credit_card,paranagua,40,40
-credit_card,uba,40,40
+voucher,fortaleza,41,31
+boleto,jacarei,40,39
+credit_card,bertioga,40,36
+credit_card,francisco beltrao,40,38
+credit_card,jaboticabal,40,39
+credit_card,paranagua,40,38
+credit_card,uba,40,38
 boleto,passo fundo,39,39
-credit_card,campo mourao,39,39
-credit_card,cosmopolis,39,39
-debit_card,belo horizonte,39,39
-boleto,santa barbara d'oeste,38,38
-credit_card,apucarana,38,38
-credit_card,araucaria,38,38
-credit_card,erechim,38,38
-credit_card,ijui,38,38
-credit_card,itapeva,38,38
-credit_card,peruibe,38,38
-boleto,blumenau,37,37
+credit_card,campo mourao,39,38
+credit_card,cosmopolis,39,37
+debit_card,belo horizonte,39,38
+boleto,santa barbara d'oeste,38,37
+credit_card,apucarana,38,37
+credit_card,araucaria,38,37
+credit_card,erechim,38,36
+credit_card,ijui,38,36
+credit_card,itapeva,38,37
+credit_card,peruibe,38,37
+boleto,blumenau,37,36
 boleto,campos dos goytacazes,37,37
-boleto,itapevi,37,37
-credit_card,artur nogueira,37,37
-credit_card,campo limpo paulista,37,37
+boleto,itapevi,37,36
+credit_card,artur nogueira,37,36
+credit_card,campo limpo paulista,37,36
 credit_card,embu-guacu,37,37
-credit_card,ilhabela,37,37
-credit_card,itaperuna,37,37
-credit_card,pato branco,37,37
+credit_card,ilhabela,37,36
+credit_card,itaperuna,37,36
+credit_card,pato branco,37,35
 credit_card,santarem,37,37
-credit_card,sao jose do rio pardo,37,37
-credit_card,sao pedro da aldeia,37,37
-credit_card,vespasiano,37,37
+credit_card,sao jose do rio pardo,37,35
+credit_card,sao pedro da aldeia,37,35
+credit_card,vespasiano,37,36
 credit_card,videira,37,37
-voucher,sorocaba,37,37
-boleto,guaruja,36,36
+voucher,sorocaba,37,28
+boleto,guaruja,36,35
 boleto,sao vicente,36,36
-credit_card,barreiras,36,36
-credit_card,curvelo,36,36
-credit_card,lajeado,36,36
+credit_card,barreiras,36,35
+credit_card,curvelo,36,35
+credit_card,lajeado,36,35
 credit_card,macapa,36,36
-credit_card,saquarema,36,36
+credit_card,saquarema,36,32
 credit_card,uruguaiana,36,36
-debit_card,guarulhos,36,36
-voucher,recife,36,36
+debit_card,guarulhos,36,34
+voucher,recife,36,26
 boleto,ipatinga,35,35
-boleto,natal,35,35
-boleto,petropolis,35,35
-boleto,sao jose,35,35
-credit_card,itapema,35,35
-credit_card,pirapora,35,35
-credit_card,sabara,35,35
-credit_card,vargem grande paulista,35,35
-voucher,cuiaba,35,35
-voucher,santo andre,35,35
-boleto,braganca paulista,34,34
+boleto,natal,35,33
+boleto,petropolis,35,34
+boleto,sao jose,35,34
+credit_card,itapema,35,33
+credit_card,pirapora,35,33
+credit_card,sabara,35,34
+credit_card,vargem grande paulista,35,34
+voucher,cuiaba,35,7
+voucher,santo andre,35,26
+boleto,braganca paulista,34,33
 boleto,embu das artes,34,34
-boleto,santana de parnaiba,34,34
+boleto,santana de parnaiba,34,32
 boleto,valinhos,34,34
-credit_card,alfenas,34,34
-credit_card,aracruz,34,34
-credit_card,boituva,34,34
-credit_card,cianorte,34,34
-credit_card,guaira,34,34
+credit_card,alfenas,34,33
+credit_card,aracruz,34,32
+credit_card,boituva,34,33
+credit_card,cianorte,34,32
+credit_card,guaira,34,32
 credit_card,juazeiro,34,34
 credit_card,lencois paulista,34,34
-credit_card,passos,34,34
+credit_card,passos,34,33
 credit_card,patrocinio,34,34
 credit_card,paulista,34,34
 credit_card,sapucaia do sul,34,34
 credit_card,coronel fabriciano,33,33
 credit_card,itupeva,33,33
-credit_card,louveira,33,33
-credit_card,pedro leopoldo,33,33
-credit_card,ponte nova,33,33
-credit_card,registro,33,33
-credit_card,tres coracoes,33,33
-voucher,belem,33,33
+credit_card,louveira,33,32
+credit_card,pedro leopoldo,33,32
+credit_card,ponte nova,33,32
+credit_card,registro,33,32
+credit_card,tres coracoes,33,32
+voucher,belem,33,23
 boleto,itaquaquecetuba,32,32
 credit_card,boa vista,32,32
-credit_card,guaxupe,32,32
+credit_card,guaxupe,32,26
 credit_card,jatai,32,32
-credit_card,mossoro,32,32
+credit_card,mossoro,32,30
 credit_card,nova odessa,32,32
 credit_card,paranavai,32,32
-credit_card,porto seguro,32,32
-credit_card,sao sebastiao do paraiso,32,32
+credit_card,porto seguro,32,29
+credit_card,sao sebastiao do paraiso,32,31
 credit_card,sinop,32,32
 credit_card,tres lagoas,32,32
-credit_card,valparaiso de goias,32,32
-voucher,jundiai,32,32
-voucher,sao jose dos pinhais,32,32
-boleto,atibaia,31,31
-boleto,chapeco,31,31
-boleto,jandira,31,31
+credit_card,valparaiso de goias,32,31
+voucher,jundiai,32,18
+voucher,sao jose dos pinhais,32,8
+boleto,atibaia,31,29
+boleto,chapeco,31,29
+boleto,jandira,31,25
 boleto,marilia,31,31
 boleto,presidente prudente,31,31
-credit_card,alagoinhas,31,31
-credit_card,andradina,31,31
+credit_card,alagoinhas,31,29
+credit_card,andradina,31,29
 credit_card,bebedouro,31,31
-credit_card,campo largo,31,31
-credit_card,concordia,31,31
-credit_card,olimpia,31,31
-credit_card,ouro branco,31,31
-credit_card,sao mateus,31,31
-voucher,vila velha,31,31
+credit_card,campo largo,31,30
+credit_card,concordia,31,30
+credit_card,olimpia,31,30
+credit_card,ouro branco,31,30
+credit_card,sao mateus,31,30
+voucher,vila velha,31,22
 boleto,franca,30,30
 boleto,jaragua do sul,30,30
-credit_card,almirante tamandare,30,30
-credit_card,cacador,30,30
+credit_card,almirante tamandare,30,29
+credit_card,cacador,30,29
 credit_card,capao da canoa,30,30
 credit_card,esteio,30,30
 credit_card,itumbiara,30,30
-credit_card,japeri,30,30
+credit_card,japeri,30,29
 credit_card,jequie,30,30
-credit_card,maracanau,30,30
-credit_card,mongagua,30,30
+credit_card,maracanau,30,28
+credit_card,mongagua,30,29
 credit_card,paracambi,30,30
-credit_card,tres rios,30,30
-credit_card,varzea grande,30,30
-voucher,cabo frio,30,30
-voucher,franca,30,30
-voucher,tupa,30,30
-boleto,feira de santana,29,29
+credit_card,tres rios,30,28
+credit_card,varzea grande,30,28
+voucher,cabo frio,30,7
+voucher,franca,30,11
+voucher,tupa,30,5
+boleto,feira de santana,29,28
 boleto,rio claro,29,29
-credit_card,extrema,29,29
+credit_card,extrema,29,27
 credit_card,guanambi,29,29
 credit_card,imbituba,29,29
-credit_card,itabirito,29,29
-credit_card,jales,29,29
-credit_card,para de minas,29,29
-credit_card,penapolis,29,29
-credit_card,rio do sul,29,29
+credit_card,itabirito,29,27
+credit_card,jales,29,26
+credit_card,para de minas,29,28
+credit_card,penapolis,29,28
+credit_card,rio do sul,29,28
 credit_card,sao miguel do oeste,29,29
-credit_card,umuarama,29,29
-voucher,santos,29,29
-boleto,aracatuba,28,28
+credit_card,umuarama,29,28
+voucher,santos,29,24
+boleto,aracatuba,28,27
 boleto,divinopolis,28,28
-credit_card,araguaina,28,28
+credit_card,araguaina,28,26
 credit_card,bom despacho,28,28
-credit_card,camaragibe,28,28
-credit_card,gaspar,28,28
-credit_card,imperatriz,28,28
-credit_card,monte alto,28,28
-credit_card,osorio,28,28
+credit_card,camaragibe,28,26
+credit_card,gaspar,28,27
+credit_card,imperatriz,28,27
+credit_card,monte alto,28,27
+credit_card,osorio,28,27
 credit_card,paulo afonso,28,28
-credit_card,santo antonio de jesus,28,28
+credit_card,santo antonio de jesus,28,26
 debit_card,campinas,28,28
-voucher,contagem,28,28
+voucher,contagem,28,16
 boleto,caieiras,27,27
 boleto,cajamar,27,27
-boleto,cariacica,27,27
+boleto,cariacica,27,26
 boleto,governador valadares,27,27
-boleto,itajai,27,27
-boleto,porto velho,27,27
+boleto,itajai,27,26
+boleto,porto velho,27,24
 boleto,rio das ostras,27,27
-boleto,vicosa,27,27
-credit_card,armacao dos buzios,27,27
+boleto,vicosa,27,26
+credit_card,armacao dos buzios,27,25
 credit_card,mirassol,27,27
-credit_card,mococa,27,27
+credit_card,mococa,27,25
 credit_card,monte mor,27,27
-credit_card,navegantes,27,27
-credit_card,santa fe do sul,27,27
-credit_card,santo angelo,27,27
-credit_card,santo antonio de padua,27,27
-credit_card,sao bento do sul,27,27
-credit_card,sao lourenco,27,27
-credit_card,sobral,27,27
+credit_card,navegantes,27,26
+credit_card,santa fe do sul,27,26
+credit_card,santo angelo,27,26
+credit_card,santo antonio de padua,27,25
+credit_card,sao bento do sul,27,26
+credit_card,sao lourenco,27,25
+credit_card,sobral,27,25
 credit_card,taquaritinga,27,27
-credit_card,telemaco borba,27,27
+credit_card,telemaco borba,27,25
 credit_card,tremembe,27,27
-debit_card,curitiba,27,27
-voucher,uberlandia,27,27
+debit_card,curitiba,27,25
+voucher,uberlandia,27,17
 boleto,cacapava,26,26
-boleto,marica,26,26
-boleto,paulinia,26,26
+boleto,marica,26,25
+boleto,paulinia,26,25
 boleto,sao jose dos pinhais,26,26
 credit_card,caldas novas,26,26
-credit_card,campo bom,26,26
+credit_card,campo bom,26,25
 credit_card,eunapolis,26,26
 credit_card,formiga,26,26
-credit_card,garanhuns,26,26
-credit_card,ibiuna,26,26
-credit_card,marechal candido rondon,26,26
+credit_card,garanhuns,26,21
+credit_card,ibiuna,26,24
+credit_card,marechal candido rondon,26,23
 credit_card,mariana,26,26
 credit_card,seropedica,26,26
-credit_card,tiete,26,26
-credit_card,vassouras,26,26
-voucher,campos dos goytacazes,26,26
-voucher,duque de caxias,26,26
-boleto,ferraz de vasconcelos,25,25
+credit_card,tiete,26,25
+credit_card,vassouras,26,25
+voucher,campos dos goytacazes,26,11
+voucher,duque de caxias,26,18
+boleto,ferraz de vasconcelos,25,23
 boleto,itapecerica da serra,25,25
 boleto,nova friburgo,25,25
-boleto,ribeirao das neves,25,25
+boleto,ribeirao das neves,25,22
 credit_card,adamantina,25,25
-credit_card,arapiraca,25,25
-credit_card,arapongas,25,25
-credit_card,batatais,25,25
+credit_card,arapiraca,25,24
+credit_card,arapongas,25,24
+credit_card,batatais,25,23
 credit_card,cataguases,25,25
-credit_card,catalao,25,25
+credit_card,catalao,25,22
 credit_card,caucaia,25,25
 credit_card,diamantina,25,25
-credit_card,uniao da vitoria,25,25
-voucher,nova iguacu,25,25
-voucher,taubate,25,25
+credit_card,uniao da vitoria,25,24
+voucher,nova iguacu,25,21
+voucher,taubate,25,10
 boleto,araraquara,24,24
-boleto,cachoeirinha,24,24
+boleto,cachoeirinha,24,22
 boleto,novo hamburgo,24,24
-boleto,poa,24,24
+boleto,poa,24,23
 boleto,pouso alegre,24,24
-boleto,rio grande,24,24
+boleto,rio grande,24,23
 credit_card,cambe,24,24
-credit_card,capivari,24,24
+credit_card,capivari,24,23
 credit_card,miguel pereira,24,24
-credit_card,montenegro,24,24
-credit_card,orlandia,24,24
-credit_card,rio bonito,24,24
-credit_card,santa isabel,24,24
-credit_card,santa rosa,24,24
+credit_card,montenegro,24,23
+credit_card,orlandia,24,23
+credit_card,rio bonito,24,23
+credit_card,santa isabel,24,23
+credit_card,santa rosa,24,23
 debit_card,osasco,24,24
-voucher,florianopolis,24,24
-voucher,natal,24,24
+voucher,florianopolis,24,22
+voucher,natal,24,9
 boleto,bage,23,23
 boleto,cascavel,23,23
 boleto,criciuma,23,23
-boleto,cubatao,23,23
-boleto,franco da rocha,23,23
+boleto,cubatao,23,21
+boleto,franco da rocha,23,22
 boleto,gravatai,23,23
-boleto,itajuba,23,23
+boleto,itajuba,23,22
 boleto,nilopolis,23,23
 boleto,palhoca,23,23
 boleto,palmas,23,23
-boleto,varzea paulista,23,23
-credit_card,alegrete,23,23
+boleto,varzea paulista,23,22
+credit_card,alegrete,23,21
 credit_card,alem paraiba,23,23
-credit_card,capao bonito,23,23
+credit_card,capao bonito,23,19
 credit_card,congonhas,23,23
 credit_card,corumba,23,23
-credit_card,cruz alta,23,23
+credit_card,cruz alta,23,21
 credit_card,itapolis,23,23
 credit_card,juazeiro do norte,23,23
 credit_card,piumhii,23,23
 credit_card,presidente venceslau,23,23
-credit_card,promissao,23,23
-credit_card,santa rita do sapucai,23,23
-credit_card,sao joaquim da barra,23,23
-credit_card,teixeira de freitas,23,23
-voucher,atibaia,23,23
-voucher,feira de santana,23,23
-voucher,suzano,23,23
-boleto,angra dos reis,22,22
-boleto,araras,22,22
+credit_card,promissao,23,22
+credit_card,santa rita do sapucai,23,22
+credit_card,sao joaquim da barra,23,20
+credit_card,teixeira de freitas,23,22
+voucher,atibaia,23,7
+voucher,feira de santana,23,10
+voucher,suzano,23,9
+boleto,angra dos reis,22,20
+boleto,araras,22,21
 boleto,balneario camboriu,22,22
 boleto,cabo frio,22,22
 boleto,guaratingueta,22,22
 boleto,itu,22,22
-boleto,mage,22,22
+boleto,mage,22,20
 boleto,pindamonhangaba,22,22
 boleto,pocos de caldas,22,22
 boleto,resende,22,22
-credit_card,arraial do cabo,22,22
-credit_card,barra bonita,22,22
-credit_card,carangola,22,22
-credit_card,cerquilho,22,22
-credit_card,guaiba,22,22
+credit_card,arraial do cabo,22,18
+credit_card,barra bonita,22,20
+credit_card,carangola,22,21
+credit_card,cerquilho,22,20
+credit_card,guaiba,22,20
 credit_card,itarare,22,22
 credit_card,ituverava,22,22
 credit_card,luis eduardo magalhaes,22,22
-credit_card,parauapebas,22,22
-credit_card,pedreira,22,22
+credit_card,parauapebas,22,19
+credit_card,pedreira,22,21
 credit_card,rolandia,22,22
 credit_card,santa cruz do rio pardo,22,22
-credit_card,sapiranga,22,22
+credit_card,sapiranga,22,21
 credit_card,tangara da serra,22,22
 credit_card,trindade,22,22
 credit_card,xanxere,22,22
-voucher,guaruja,22,22
-voucher,indaiatuba,22,22
-voucher,ribeirao preto,22,22
+voucher,guaruja,22,12
+voucher,indaiatuba,22,11
+voucher,ribeirao preto,22,20
 boleto,anapolis,21,21
 boleto,barra mansa,21,21
 boleto,teresopolis,21,21
 boleto,vinhedo,21,21
-credit_card,biguacu,21,21
+credit_card,biguacu,21,20
 credit_card,brumadinho,21,21
-credit_card,camboriu,21,21
-credit_card,dois vizinhos,21,21
+credit_card,camboriu,21,20
+credit_card,dois vizinhos,21,19
 credit_card,dracena,21,21
 credit_card,lucas do rio verde,21,21
 credit_card,luziania,21,21
 credit_card,nanuque,21,21
 credit_card,santiago,21,21
 debit_card,porto alegre,21,21
-boleto,barbacena,20,20
+boleto,barbacena,20,19
 boleto,belford roxo,20,20
-boleto,birigui,20,20
+boleto,birigui,20,19
 boleto,cachoeiro de itapemirim,20,20
-boleto,itatiba,20,20
+boleto,itatiba,20,19
 boleto,lavras,20,20
-boleto,lorena,20,20
-boleto,manaus,20,20
+boleto,lorena,20,18
+boleto,manaus,20,19
 boleto,paranagua,20,20
 boleto,pinhais,20,20
 boleto,santa cruz do sul,20,20
-boleto,sete lagoas,20,20
-boleto,varginha,20,20
-credit_card,aparecida,20,20
-credit_card,arcos,20,20
-credit_card,boa esperanca,20,20
-credit_card,caete,20,20
-credit_card,cambui,20,20
-credit_card,candeias,20,20
+boleto,sete lagoas,20,19
+boleto,varginha,20,19
+credit_card,aparecida,20,17
+credit_card,arcos,20,19
+credit_card,boa esperanca,20,17
+credit_card,caete,20,19
+credit_card,cambui,20,18
+credit_card,candeias,20,18
 credit_card,canoinhas,20,20
-credit_card,frutal,20,20
+credit_card,frutal,20,19
 credit_card,gramado,20,20
 credit_card,indaial,20,20
-credit_card,mineiros,20,20
-credit_card,porto ferreira,20,20
-credit_card,rio grande da serra,20,20
+credit_card,mineiros,20,19
+credit_card,porto ferreira,20,18
+credit_card,rio grande da serra,20,18
 credit_card,sao fidelis,20,20
-credit_card,sao manuel,20,20
-credit_card,tijucas,20,20
+credit_card,sao manuel,20,18
+credit_card,tijucas,20,19
 credit_card,tramandai,20,20
-credit_card,venancio aires,20,20
-voucher,canoas,20,20
-voucher,diadema,20,20
-boleto,barretos,19,19
+credit_card,venancio aires,20,18
+voucher,canoas,20,10
+voucher,diadema,20,13
+boleto,barretos,19,18
 boleto,botucatu,19,19
 boleto,concordia,19,19
 boleto,itanhaem,19,19
@@ -680,325 +680,325 @@ boleto,pirassununga,19,19
 boleto,sao joao da boa vista,19,19
 boleto,sao joao de meriti,19,19
 boleto,sao leopoldo,19,19
-boleto,ubatuba,19,19
+boleto,ubatuba,19,18
 boleto,vitoria da conquista,19,19
 boleto,votorantim,19,19
 credit_card,caceres,19,19
-credit_card,cachoeira do sul,19,19
-credit_card,campos do jordao,19,19
-credit_card,casimiro de abreu,19,19
-credit_card,coromandel,19,19
+credit_card,cachoeira do sul,19,17
+credit_card,campos do jordao,19,17
+credit_card,casimiro de abreu,19,17
+credit_card,coromandel,19,16
 credit_card,dias d'avila,19,19
 credit_card,farroupilha,19,19
-credit_card,fazenda rio grande,19,19
+credit_card,fazenda rio grande,19,18
 credit_card,formosa,19,19
 credit_card,garca,19,19
 credit_card,joacaba,19,19
-credit_card,matinhos,19,19
+credit_card,matinhos,19,18
 credit_card,medianeira,19,19
 credit_card,primavera do leste,19,19
 credit_card,viana,19,19
 debit_card,salvador,19,19
 debit_card,sao bernardo do campo,19,19
-voucher,palmas,19,19
-voucher,sao carlos,19,19
-voucher,sao joao de meriti,19,19
+voucher,palmas,19,7
+voucher,sao carlos,19,11
+voucher,sao joao de meriti,19,9
 boleto,bebedouro,18,18
-boleto,francisco morato,18,18
+boleto,francisco morato,18,14
 boleto,itapetininga,18,18
-boleto,itapeva,18,18
-boleto,patos de minas,18,18
-boleto,ribeirao pires,18,18
-boleto,rondonopolis,18,18
+boleto,itapeva,18,17
+boleto,patos de minas,18,17
+boleto,ribeirao pires,18,17
+boleto,rondonopolis,18,16
 boleto,santa luzia,18,18
-credit_card,aguas lindas de goias,18,18
+credit_card,aguas lindas de goias,18,17
 credit_card,aracati,18,18
 credit_card,cabo de santo agostinho,18,18
 credit_card,campo belo,18,18
-credit_card,cantagalo,18,18
+credit_card,cantagalo,18,16
 credit_card,cordeiro,18,18
 credit_card,cornelio procopio,18,18
-credit_card,cravinhos,18,18
+credit_card,cravinhos,18,17
 credit_card,curitibanos,18,18
 credit_card,ilha solteira,18,18
-credit_card,januaria,18,18
+credit_card,januaria,18,17
 credit_card,salinas,18,18
-credit_card,santa barbara,18,18
-credit_card,simoes filho,18,18
+credit_card,santa barbara,18,17
+credit_card,simoes filho,18,17
 credit_card,taquara,18,18
-credit_card,timbo,18,18
-voucher,carapicuiba,18,18
-voucher,conselheiro lafaiete,18,18
-voucher,embu-guacu,18,18
-voucher,itaborai,18,18
+credit_card,timbo,18,15
+voucher,carapicuiba,18,9
+voucher,conselheiro lafaiete,18,9
+voucher,embu-guacu,18,3
+voucher,itaborai,18,6
 voucher,maringa,18,18
-voucher,taboao da serra,18,18
-boleto,campo mourao,17,17
-boleto,erechim,17,17
+voucher,taboao da serra,18,13
+boleto,campo mourao,17,16
+boleto,erechim,17,16
 boleto,guarapuava,17,17
 boleto,jaguariuna,17,17
-boleto,linhares,17,17
-boleto,macapa,17,17
+boleto,linhares,17,16
+boleto,macapa,17,16
 boleto,mairipora,17,17
 boleto,salto,17,17
-boleto,santo angelo,17,17
+boleto,santo angelo,17,16
 boleto,sao bento do sul,17,17
-credit_card,barra do garcas,17,17
+credit_card,barra do garcas,17,16
 credit_card,bom jesus do itabapoana,17,17
 credit_card,carlos barbosa,17,17
-credit_card,floriano,17,17
+credit_card,floriano,17,16
 credit_card,guapimirim,17,17
-credit_card,iguaba grande,17,17
-credit_card,ipero,17,17
-credit_card,jacobina,17,17
-credit_card,jacutinga,17,17
+credit_card,iguaba grande,17,16
+credit_card,ipero,17,14
+credit_card,jacobina,17,16
+credit_card,jacutinga,17,15
 credit_card,machado,17,17
-credit_card,mairinque,17,17
-credit_card,nova venecia,17,17
-credit_card,paraguacu paulista,17,17
-credit_card,paraiba do sul,17,17
-credit_card,piracaia,17,17
-credit_card,santa rita do passa quatro,17,17
-credit_card,santos dumont,17,17
-credit_card,sao borja,17,17
+credit_card,mairinque,17,15
+credit_card,nova venecia,17,15
+credit_card,paraguacu paulista,17,15
+credit_card,paraiba do sul,17,16
+credit_card,piracaia,17,16
+credit_card,santa rita do passa quatro,17,15
+credit_card,santos dumont,17,16
+credit_card,sao borja,17,14
 credit_card,sarandi,17,17
-credit_card,tres pontas,17,17
-credit_card,vera cruz,17,17
-credit_card,visconde do rio branco,17,17
+credit_card,tres pontas,17,16
+credit_card,vera cruz,17,16
+credit_card,visconde do rio branco,17,15
 debit_card,brasilia,17,17
-voucher,blumenau,17,17
-voucher,ipatinga,17,17
-voucher,sumare,17,17
-boleto,ananindeua,16,16
-boleto,itabuna,16,16
-boleto,teofilo otoni,16,16
+voucher,blumenau,17,10
+voucher,ipatinga,17,12
+voucher,sumare,17,7
+boleto,ananindeua,16,15
+boleto,itabuna,16,15
+boleto,teofilo otoni,16,15
 credit_card,altamira,16,16
 credit_card,braco do norte,16,16
 credit_card,cachoeira paulista,16,16
-credit_card,cafelandia,16,16
+credit_card,cafelandia,16,14
 credit_card,carazinho,16,16
-credit_card,castro,16,16
-credit_card,conchal,16,16
-credit_card,cruz das almas,16,16
-credit_card,estancia velha,16,16
-credit_card,gurupi,16,16
-credit_card,holambra,16,16
-credit_card,jacarezinho,16,16
+credit_card,castro,16,15
+credit_card,conchal,16,15
+credit_card,cruz das almas,16,15
+credit_card,estancia velha,16,15
+credit_card,gurupi,16,15
+credit_card,holambra,16,15
+credit_card,jacarezinho,16,14
 credit_card,mafra,16,16
-credit_card,marau,16,16
+credit_card,marau,16,15
 credit_card,monte azul paulista,16,16
-credit_card,monte carmelo,16,16
-credit_card,oliveira,16,16
-credit_card,palmital,16,16
+credit_card,monte carmelo,16,15
+credit_card,oliveira,16,15
+credit_card,palmital,16,15
 credit_card,parnaiba,16,16
 credit_card,pereira barreto,16,16
-credit_card,pitangui,16,16
-credit_card,ponta pora,16,16
+credit_card,pitangui,16,15
+credit_card,ponta pora,16,14
 credit_card,porto feliz,16,16
-credit_card,rancharia,16,16
-credit_card,socorro,16,16
+credit_card,rancharia,16,15
+credit_card,socorro,16,15
 credit_card,sorriso,16,16
-credit_card,vacaria,16,16
+credit_card,vacaria,16,15
 debit_card,niteroi,16,16
-voucher,joao pessoa,16,16
-voucher,paulinia,16,16
-voucher,petropolis,16,16
-voucher,sao vicente,16,16
-voucher,serra,16,16
-voucher,teresina,16,16
-boleto,aparecida de goiania,15,15
+voucher,joao pessoa,16,10
+voucher,paulinia,16,8
+voucher,petropolis,16,11
+voucher,sao vicente,16,7
+voucher,serra,16,11
+voucher,teresina,16,15
+boleto,aparecida de goiania,15,14
 boleto,barreiras,15,15
 boleto,caraguatatuba,15,15
 boleto,colatina,15,15
 boleto,foz do iguacu,15,15
-boleto,itaborai,15,15
+boleto,itaborai,15,13
 boleto,jau,15,15
 boleto,lages,15,15
-boleto,paranavai,15,15
+boleto,paranavai,15,14
 boleto,pato branco,15,15
 boleto,rio branco,15,15
-boleto,sao mateus,15,15
+boleto,sao mateus,15,12
 boleto,sao roque,15,15
 credit_card,ararangua,15,15
 credit_card,bonfim paulista,15,15
 credit_card,bonito,15,15
-credit_card,cerqueira cesar,15,15
-credit_card,charqueadas,15,15
+credit_card,cerqueira cesar,15,14
+credit_card,charqueadas,15,14
 credit_card,ibiruba,15,15
 credit_card,icara,15,15
-credit_card,ipora,15,15
+credit_card,ipora,15,14
 credit_card,jaguariaiva,15,15
-credit_card,juquitiba,15,15
+credit_card,juquitiba,15,14
 credit_card,miracema,15,15
-credit_card,nova granada,15,15
+credit_card,nova granada,15,14
 credit_card,pederneiras,15,15
 credit_card,picos,15,15
-credit_card,piraju,15,15
+credit_card,piraju,15,14
 credit_card,posse,15,15
 credit_card,santana do livramento,15,15
-credit_card,santo anastacio,15,15
-credit_card,sao gabriel,15,15
-credit_card,senhor do bonfim,15,15
-credit_card,torres,15,15
+credit_card,santo anastacio,15,13
+credit_card,sao gabriel,15,14
+credit_card,senhor do bonfim,15,14
+credit_card,torres,15,14
 credit_card,viradouro,15,15
 debit_card,sorocaba,15,15
-voucher,aracaju,15,15
-voucher,campina grande,15,15
-voucher,maua,15,15
-voucher,piracicaba,15,15
-voucher,praia grande,15,15
-voucher,santana de parnaiba,15,15
-boleto,amparo,14,14
-boleto,araucaria,14,14
-boleto,bento goncalves,14,14
+voucher,aracaju,15,12
+voucher,campina grande,15,9
+voucher,maua,15,11
+voucher,piracicaba,15,12
+voucher,praia grande,15,13
+voucher,santana de parnaiba,15,10
+boleto,amparo,14,13
+boleto,araucaria,14,13
+boleto,bento goncalves,14,13
 boleto,boituva,14,14
 boleto,brusque,14,14
 boleto,colombo,14,14
-boleto,dourados,14,14
+boleto,dourados,14,13
 boleto,formosa,14,14
 boleto,itabira,14,14
 boleto,mesquita,14,14
 boleto,olinda,14,14
 boleto,tatui,14,14
 boleto,valenca,14,14
-credit_card,agudos,14,14
+credit_card,agudos,14,13
 credit_card,alegre,14,14
 credit_card,barao de cocais,14,14
-credit_card,barrinha,14,14
-credit_card,bastos,14,14
-credit_card,bom jesus dos perdoes,14,14
-credit_card,brumado,14,14
+credit_card,barrinha,14,13
+credit_card,bastos,14,12
+credit_card,bom jesus dos perdoes,14,13
+credit_card,brumado,14,13
 credit_card,cachoeiras de macacu,14,14
 credit_card,campo novo do parecis,14,14
 credit_card,canela,14,14
 credit_card,castelo,14,14
-credit_card,claudio,14,14
+credit_card,claudio,14,13
 credit_card,crato,14,14
 credit_card,espera feliz,14,14
 credit_card,espirito santo do pinhal,14,14
-credit_card,garopaba,14,14
+credit_card,garopaba,14,12
 credit_card,ibitinga,14,14
-credit_card,ipojuca,14,14
+credit_card,ipojuca,14,13
 credit_card,irati,14,14
-credit_card,itapetinga,14,14
-credit_card,janauba,14,14
+credit_card,itapetinga,14,13
+credit_card,janauba,14,13
 credit_card,laranjeiras do sul,14,14
 credit_card,mandaguari,14,14
 credit_card,ouro fino,14,14
-credit_card,palmeira das missoes,14,14
+credit_card,palmeira das missoes,14,13
 credit_card,panambi,14,14
-credit_card,paragominas,14,14
-credit_card,pirapora do bom jesus,14,14
+credit_card,paragominas,14,13
+credit_card,pirapora do bom jesus,14,12
 credit_card,pitangueiras,14,14
-credit_card,presidente epitacio,14,14
-credit_card,redencao,14,14
-credit_card,salgueiro,14,14
+credit_card,presidente epitacio,14,13
+credit_card,redencao,14,13
+credit_card,salgueiro,14,13
 credit_card,sao francisco,14,14
-credit_card,sao joao da barra,14,14
+credit_card,sao joao da barra,14,13
 credit_card,uruacu,14,14
-voucher,aparecida de goiania,14,14
-voucher,barueri,14,14
-voucher,caucaia,14,14
-voucher,ilheus,14,14
-voucher,jacarei,14,14
-voucher,ubatuba,14,14
-voucher,varzea paulista,14,14
-voucher,vitoria,14,14
-voucher,volta redonda,14,14
+voucher,aparecida de goiania,14,7
+voucher,barueri,14,12
+voucher,caucaia,14,4
+voucher,ilheus,14,5
+voucher,jacarei,14,12
+voucher,ubatuba,14,2
+voucher,varzea paulista,14,5
+voucher,vitoria,14,12
+voucher,volta redonda,14,8
 boleto,alegrete,13,13
-boleto,andradina,13,13
+boleto,andradina,13,12
 boleto,araguaina,13,13
 boleto,araruama,13,13
 boleto,araxa,13,13
-boleto,boa vista,13,13
+boleto,boa vista,13,12
 boleto,campina grande,13,13
-boleto,catanduva,13,13
+boleto,catanduva,13,12
 boleto,conselheiro lafaiete,13,13
 boleto,cosmopolis,13,13
-boleto,lauro de freitas,13,13
+boleto,lauro de freitas,13,12
 boleto,mogi-guacu,13,13
 boleto,ouro preto,13,13
 boleto,petrolina,13,13
 boleto,toledo,13,13
 boleto,varzea grande,13,13
 credit_card,aguas de lindoia,13,13
-credit_card,anchieta,13,13
-credit_card,belo jardim,13,13
+credit_card,anchieta,13,11
+credit_card,belo jardim,13,12
 credit_card,cajati,13,13
 credit_card,castanhal,13,13
 credit_card,caxambu,13,13
-credit_card,conselheiro pena,13,13
+credit_card,conselheiro pena,13,12
 credit_card,cunha,13,13
-credit_card,igarassu,13,13
+credit_card,igarassu,13,12
 credit_card,iguatu,13,13
-credit_card,inhumas,13,13
-credit_card,itaocara,13,13
-credit_card,iturama,13,13
+credit_card,inhumas,13,12
+credit_card,itaocara,13,12
+credit_card,iturama,13,12
 credit_card,leopoldina,13,13
 credit_card,maraba,13,13
-credit_card,miguelopolis,13,13
+credit_card,miguelopolis,13,12
 credit_card,morrinhos,13,13
-credit_card,natividade,13,13
-credit_card,palmeira,13,13
+credit_card,natividade,13,11
+credit_card,palmeira,13,12
 credit_card,patos,13,13
 credit_card,penha,13,13
 credit_card,piedade,13,13
 credit_card,pinhalzinho,13,13
-credit_card,santa vitoria,13,13
+credit_card,santa vitoria,13,12
 credit_card,santo antonio da patrulha,13,13
 credit_card,santo antonio de posse,13,13
-credit_card,sao francisco de itabapoana,13,13
+credit_card,sao francisco de itabapoana,13,12
 credit_card,sarzedo,13,13
 credit_card,vitoria de santo antao,13,13
 debit_card,santo andre,13,13
-voucher,bom jesus dos perdoes,13,13
-voucher,campo grande,13,13
-voucher,cascavel,13,13
-voucher,caxias do sul,13,13
-voucher,juiz de fora,13,13
-voucher,montes claros,13,13
-voucher,presidente prudente,13,13
-voucher,votorantim,13,13
+voucher,bom jesus dos perdoes,13,3
+voucher,campo grande,13,11
+voucher,cascavel,13,8
+voucher,caxias do sul,13,3
+voucher,juiz de fora,13,8
+voucher,montes claros,13,8
+voucher,presidente prudente,13,5
+voucher,votorantim,13,8
 boleto,apucarana,12,12
-boleto,aruja,12,12
+boleto,aruja,12,11
 boleto,cachoeira do sul,12,12
 boleto,caratinga,12,12
-boleto,extrema,12,12
+boleto,extrema,12,11
 boleto,ijui,12,12
 boleto,ilheus,12,12
 boleto,imperatriz,12,12
-boleto,lajeado,12,12
+boleto,lajeado,12,11
 boleto,luis eduardo magalhaes,12,12
 boleto,manhuacu,12,12
 boleto,mongagua,12,12
 boleto,nova lima,12,12
 boleto,pedreira,12,12
 boleto,registro,12,12
-boleto,santa cruz do rio pardo,12,12
-boleto,sao sebastiao,12,12
-boleto,sinop,12,12
+boleto,santa cruz do rio pardo,12,11
+boleto,sao sebastiao,12,11
+boleto,sinop,12,11
 boleto,uruguaiana,12,12
-credit_card,agua boa,12,12
-credit_card,americo brasiliense,12,12
+credit_card,agua boa,12,11
+credit_card,americo brasiliense,12,11
 credit_card,aperibe,12,12
 credit_card,bandeirantes,12,12
 credit_card,bombinhas,12,12
 credit_card,campos novos,12,12
-credit_card,capanema,12,12
+credit_card,capanema,12,11
 credit_card,conceicao de macabu,12,12
-credit_card,correia pinto,12,12
+credit_card,correia pinto,12,8
 credit_card,dois irmaos,12,12
 credit_card,fraiburgo,12,12
-credit_card,goiana,12,12
+credit_card,goiana,12,11
 credit_card,goianesia,12,12
-credit_card,guacui,12,12
+credit_card,guacui,12,10
 credit_card,guanhaes,12,12
-credit_card,iracemapolis,12,12
-credit_card,itaporanga,12,12
+credit_card,iracemapolis,12,11
+credit_card,itaporanga,12,11
 credit_card,jarinu,12,12
 credit_card,jose bonifacio,12,12
-credit_card,laguna,12,12
-credit_card,mirandopolis,12,12
+credit_card,laguna,12,11
+credit_card,mirandopolis,12,11
 credit_card,pariquera-acu,12,12
 credit_card,pojuca,12,12
 credit_card,pompeia,12,12
@@ -1016,84 +1016,84 @@ debit_card,fortaleza,12,12
 debit_card,recife,12,12
 debit_card,ribeirao preto,12,12
 debit_card,santos,12,12
-debit_card,sao jose dos campos,12,12
-voucher,bauru,12,12
-voucher,belford roxo,12,12
-voucher,itaqui,12,12
-voucher,pelotas,12,12
-voucher,sao jose do rio preto,12,12
+debit_card,sao jose dos campos,12,11
+voucher,bauru,12,11
+voucher,belford roxo,12,7
+voucher,itaqui,12,1
+voucher,pelotas,12,7
+voucher,sao jose do rio preto,12,10
 boleto,alvorada,11,11
 boleto,bertioga,11,11
 boleto,francisco beltrao,11,11
-boleto,guarapari,11,11
+boleto,guarapari,11,10
 boleto,itapira,11,11
 boleto,jaboticabal,11,11
 boleto,lagoa santa,11,11
 boleto,matao,11,11
-boleto,patrocinio,11,11
+boleto,patrocinio,11,10
 boleto,paulo afonso,11,11
 boleto,rio verde,11,11
 boleto,santa rita do sapucai,11,11
 boleto,sao miguel do oeste,11,11
 boleto,sertaozinho,11,11
 boleto,tiete,11,11
-boleto,tubarao,11,11
+boleto,tubarao,11,10
 boleto,uba,11,11
 boleto,umuarama,11,11
 boleto,viamao,11,11
 credit_card,abaetetuba,11,11
 credit_card,almenara,11,11
-credit_card,bezerros,11,11
+credit_card,bezerros,11,10
 credit_card,bom jardim,11,11
 credit_card,cacoal,11,11
 credit_card,cajazeiras,11,11
 credit_card,capelinha,11,11
 credit_card,cordeiropolis,11,11
-credit_card,eldorado do sul,11,11
+credit_card,eldorado do sul,11,9
 credit_card,esmeraldas,11,11
 credit_card,estrela,11,11
 credit_card,eusebio,11,11
 credit_card,guapore,11,11
-credit_card,guararapes,11,11
+credit_card,guararapes,11,10
 credit_card,igrejinha,11,11
-credit_card,imbe,11,11
-credit_card,irece,11,11
-credit_card,itapecerica,11,11
+credit_card,imbe,11,10
+credit_card,irece,11,10
+credit_card,itapecerica,11,10
 credit_card,itapiranga,11,11
 credit_card,itatiaia,11,11
 credit_card,laranjal paulista,11,11
 credit_card,manhumirim,11,11
 credit_card,marataizes,11,11
 credit_card,marialva,11,11
-credit_card,mata de sao joao,11,11
+credit_card,mata de sao joao,11,10
 credit_card,monte siao,11,11
 credit_card,novo gama,11,11
 credit_card,novo horizonte,11,11
-credit_card,osvaldo cruz,11,11
-credit_card,petrolandia,11,11
-credit_card,pinheiral,11,11
+credit_card,osvaldo cruz,11,10
+credit_card,petrolandia,11,9
+credit_card,pinheiral,11,10
 credit_card,pirajui,11,11
-credit_card,pires do rio,11,11
+credit_card,pires do rio,11,10
 credit_card,piuma,11,11
 credit_card,quirinopolis,11,11
 credit_card,quissama,11,11
 credit_card,santana do paraiso,11,11
-credit_card,santo antonio da platina,11,11
+credit_card,santo antonio da platina,11,10
 credit_card,sao lourenco do sul,11,11
 credit_card,sao mateus do sul,11,11
-credit_card,sao sebastiao do cai,11,11
-credit_card,serrinha,11,11
+credit_card,sao sebastiao do cai,11,10
+credit_card,serrinha,11,10
 credit_card,taquarituba,11,11
 credit_card,timon,11,11
 credit_card,venda nova do imigrante,11,11
 credit_card,veranopolis,11,11
 credit_card,vilhena,11,11
 debit_card,juiz de fora,11,11
-voucher,barra mansa,11,11
-voucher,brotas,11,11
-voucher,londrina,11,11
-voucher,maceio,11,11
-boleto,adamantina,10,10
+voucher,barra mansa,11,6
+voucher,brotas,11,2
+voucher,londrina,11,10
+voucher,maceio,11,8
+boleto,adamantina,10,9
 boleto,bom despacho,10,10
 boleto,cacador,10,10
 boleto,campo bom,10,10
@@ -1102,30 +1102,30 @@ boleto,caruaru,10,10
 boleto,cruz alta,10,10
 boleto,cruzeiro,10,10
 boleto,eunapolis,10,10
-boleto,itaperuna,10,10
-boleto,ituiutaba,10,10
+boleto,itaperuna,10,9
+boleto,ituiutaba,10,7
 boleto,itupeva,10,10
 boleto,juazeiro do norte,10,10
 boleto,lencois paulista,10,10
-boleto,luziania,10,10
+boleto,luziania,10,9
 boleto,monte mor,10,10
 boleto,paracatu,10,10
-boleto,parnamirim,10,10
+boleto,parnamirim,10,9
 boleto,piedade,10,10
-boleto,saquarema,10,10
-boleto,tremembe,10,10
+boleto,saquarema,10,8
+boleto,tremembe,10,9
 boleto,vassouras,10,10
 boleto,videira,10,10
 credit_card,afonso claudio,10,10
-credit_card,andradas,10,10
+credit_card,andradas,10,9
 credit_card,antonina,10,10
-credit_card,aracariguama,10,10
-credit_card,ariquemes,10,10
+credit_card,aracariguama,10,9
+credit_card,ariquemes,10,9
 credit_card,assis chateaubriand,10,10
-credit_card,astolfo dutra,10,10
-credit_card,balsas,10,10
+credit_card,astolfo dutra,10,7
+credit_card,balsas,10,9
 credit_card,bambui,10,10
-credit_card,bocaiuva,10,10
+credit_card,bocaiuva,10,9
 credit_card,brejo santo,10,10
 credit_card,buritis,10,10
 credit_card,candido mota,10,10
@@ -1135,21 +1135,21 @@ credit_card,chavantes,10,10
 credit_card,ibipora,10,10
 credit_card,itajobi,10,10
 credit_card,jardinopolis,10,10
-credit_card,jequitinhonha,10,10
+credit_card,jequitinhonha,10,8
 credit_card,juina,10,10
 credit_card,junqueiropolis,10,10
-credit_card,lagoa vermelha,10,10
-credit_card,limoeiro do norte,10,10
+credit_card,lagoa vermelha,10,9
+credit_card,limoeiro do norte,10,9
 credit_card,loanda,10,10
-credit_card,maravilha,10,10
-credit_card,marituba,10,10
-credit_card,monte aprazivel,10,10
+credit_card,maravilha,10,9
+credit_card,marituba,10,9
+credit_card,monte aprazivel,10,9
 credit_card,nossa senhora do socorro,10,10
 credit_card,parati,10,10
 credit_card,paty do alferes,10,10
 credit_card,pirai,10,10
 credit_card,piraquara,10,10
-credit_card,planalto,10,10
+credit_card,planalto,10,9
 credit_card,porto uniao,10,10
 credit_card,raposos,10,10
 credit_card,rio negrinho,10,10
@@ -1157,26 +1157,26 @@ credit_card,salto de pirapora,10,10
 credit_card,santa cruz do capibaribe,10,10
 credit_card,santa helena,10,10
 credit_card,sao francisco do sul,10,10
-credit_card,sao goncalo do amarante,10,10
-credit_card,sao lourenco da mata,10,10
+credit_card,sao goncalo do amarante,10,9
+credit_card,sao lourenco da mata,10,9
 credit_card,sao lourenco da serra,10,10
 credit_card,sao pedro,10,10
-credit_card,sombrio,10,10
-credit_card,taiobeiras,10,10
-credit_card,teutonia,10,10
+credit_card,sombrio,10,9
+credit_card,taiobeiras,10,9
+credit_card,teutonia,10,9
 credit_card,tres de maio,10,10
-voucher,cataguases,10,10
-voucher,marilia,10,10
-voucher,olinda,10,10
-voucher,pedreira,10,10
-voucher,registro,10,10
-voucher,salto,10,10
-voucher,sao luis,10,10
-voucher,tambau,10,10
+voucher,cataguases,10,4
+voucher,marilia,10,8
+voucher,olinda,10,7
+voucher,pedreira,10,3
+voucher,registro,10,6
+voucher,salto,10,7
+voucher,sao luis,10,8
+voucher,tambau,10,3
 boleto,alagoinhas,9,9
 boleto,araguari,9,9
 boleto,arapongas,9,9
-boleto,assis,9,9
+boleto,assis,9,8
 boleto,avare,9,9
 boleto,barra velha,9,9
 boleto,caldas novas,9,9
@@ -1188,18 +1188,18 @@ boleto,fernandopolis,9,9
 boleto,guaira,9,9
 boleto,guanambi,9,9
 boleto,ilhabela,9,9
-boleto,itauna,9,9
+boleto,itauna,9,8
 boleto,juazeiro,9,9
 boleto,mogi mirim,9,9
 boleto,ouro branco,9,9
-boleto,paraty,9,9
+boleto,paraty,9,8
 boleto,promissao,9,9
-boleto,santa rosa,9,9
+boleto,santa rosa,9,8
 boleto,sao gabriel,9,9
 boleto,sao joaquim da barra,9,9
 boleto,sao pedro da aldeia,9,9
 boleto,sobral,9,9
-boleto,tres lagoas,9,9
+boleto,tres lagoas,9,8
 boleto,tres rios,9,9
 boleto,tucurui,9,9
 boleto,tupa,9,9
@@ -1207,78 +1207,78 @@ boleto,votuporanga,9,9
 credit_card,aimores,9,9
 credit_card,aluminio,9,9
 credit_card,alvinopolis,9,9
-credit_card,andira,9,9
-credit_card,arroio do meio,9,9
-credit_card,arroio dos ratos,9,9
+credit_card,andira,9,7
+credit_card,arroio do meio,9,7
+credit_card,arroio dos ratos,9,8
 credit_card,auriflama,9,9
 credit_card,balneario picarras,9,9
 credit_card,barra de sao joao,9,9
 credit_card,barroso,9,9
-credit_card,camamu,9,9
+credit_card,camamu,9,8
 credit_card,camaqua,9,9
 credit_card,campo verde,9,9
-credit_card,cangucu,9,9
+credit_card,cangucu,9,8
 credit_card,capinzal,9,9
 credit_card,carandai,9,9
 credit_card,casa branca,9,9
 credit_card,caxias,9,9
-credit_card,cesario lange,9,9
-credit_card,conchas,9,9
-credit_card,corinto,9,9
+credit_card,cesario lange,9,8
+credit_card,conchas,9,7
+credit_card,corinto,9,8
 credit_card,coronel vivida,9,9
 credit_card,crateus,9,9
 credit_card,descalvado,9,9
-credit_card,duartina,9,9
+credit_card,duartina,9,8
 credit_card,eloi mendes,9,9
-credit_card,embu,9,9
-credit_card,engenheiro coelho,9,9
+credit_card,embu,9,8
+credit_card,engenheiro coelho,9,8
 credit_card,faxinal,9,9
 credit_card,feliz,9,9
 credit_card,flores da cunha,9,9
-credit_card,girua,9,9
-credit_card,guara,9,9
+credit_card,girua,9,8
+credit_card,guara,9,8
 credit_card,guarabira,9,9
 credit_card,guaramirim,9,9
 credit_card,guararema,9,9
 credit_card,guariba,9,9
-credit_card,ibate,9,9
+credit_card,ibate,9,8
 credit_card,ibirama,9,9
 credit_card,igarape,9,9
-credit_card,itabaiana,9,9
-credit_card,italva,9,9
+credit_card,itabaiana,9,8
+credit_card,italva,9,8
 credit_card,itamaraju,9,9
 credit_card,itanhandu,9,9
-credit_card,ji-parana,9,9
+credit_card,ji-parana,9,8
 credit_card,joao pinheiro,9,9
 credit_card,lagarto,9,9
-credit_card,martinopolis,9,9
+credit_card,martinopolis,9,8
 credit_card,mimoso do sul,9,9
-credit_card,minacu,9,9
+credit_card,minacu,9,8
 credit_card,nova era,9,9
-credit_card,nova prata,9,9
+credit_card,nova prata,9,8
 credit_card,nova xavantina,9,9
-credit_card,palmeira dos indios,9,9
+credit_card,palmeira dos indios,9,8
 credit_card,papucaia,9,9
 credit_card,paraisopolis,9,9
 credit_card,paraty,9,9
-credit_card,pinhao,9,9
+credit_card,pinhao,9,8
 credit_card,pirapozinho,9,9
 credit_card,pompeu,9,9
 credit_card,porangatu,9,9
 credit_card,quixada,9,9
 credit_card,raul soares,9,9
-credit_card,rosario do sul,9,9
+credit_card,rosario do sul,9,8
 credit_card,salesopolis,9,9
 credit_card,santa ines,9,9
 credit_card,santa maria da vitoria,9,9
 credit_card,santa maria de jetiba,9,9
-credit_card,santa rosa de viterbo,9,9
+credit_card,santa rosa de viterbo,9,8
 credit_card,santa vitoria do palmar,9,9
 credit_card,santana,9,9
 credit_card,santo amaro da imperatriz,9,9
 credit_card,sao jose de ribamar,9,9
 credit_card,sao miguel do iguacu,9,9
-credit_card,sao simao,9,9
+credit_card,sao simao,9,8
 credit_card,senador canedo,9,9
 credit_card,serra negra,9,9
 credit_card,tapiratiba,9,9
@@ -1286,25 +1286,25 @@ credit_card,taua,9,9
 credit_card,teodoro sampaio,9,9
 credit_card,triunfo,9,9
 credit_card,tupaciguara,9,9
-credit_card,varzea da palma,9,9
+credit_card,varzea da palma,9,8
 debit_card,barueri,9,9
 debit_card,belem,9,9
 debit_card,maua,9,9
 debit_card,praia grande,9,9
 debit_card,taboao da serra,9,9
 debit_card,teresina,9,9
-voucher,cacapava,9,9
-voucher,cachoeiro de itapemirim,9,9
-voucher,caraguatatuba,9,9
-voucher,chapeco,9,9
-voucher,cotia,9,9
-voucher,cruz alta,9,9
-voucher,governador valadares,9,9
-voucher,joinville,9,9
-voucher,poa,9,9
-voucher,santa maria,9,9
-voucher,sao leopoldo,9,9
-voucher,sinop,9,9
+voucher,cacapava,9,6
+voucher,cachoeiro de itapemirim,9,7
+voucher,caraguatatuba,9,5
+voucher,chapeco,9,4
+voucher,cotia,9,7
+voucher,cruz alta,9,2
+voucher,governador valadares,9,8
+voucher,joinville,9,8
+voucher,poa,9,5
+voucher,santa maria,9,6
+voucher,sao leopoldo,9,8
+voucher,sinop,9,7
 boleto,aguas de lindoia,8,8
 boleto,alfenas,8,8
 boleto,altamira,8,8
@@ -1316,7 +1316,7 @@ boleto,capelinha,8,8
 boleto,carazinho,8,8
 boleto,carmo do paranaiba,8,8
 boleto,catalao,8,8
-boleto,curvelo,8,8
+boleto,curvelo,8,7
 boleto,farroupilha,8,8
 boleto,garca,8,8
 boleto,garopaba,8,8
@@ -1331,30 +1331,30 @@ boleto,joao monlevade,8,8
 boleto,julio de castilhos,8,8
 boleto,louveira,8,8
 boleto,maraba,8,8
-boleto,matinhos,8,8
-boleto,monte siao,8,8
+boleto,matinhos,8,7
+boleto,monte siao,8,7
 boleto,nova serrana,8,8
 boleto,olimpia,8,8
-boleto,para de minas,8,8
+boleto,para de minas,8,7
 boleto,passos,8,8
 boleto,pinhalzinho,8,8
 boleto,ponte nova,8,8
 boleto,presidente epitacio,8,8
 boleto,primavera do leste,8,8
-boleto,santa barbara,8,8
-boleto,santa fe do sul,8,8
-boleto,taio,8,8
-boleto,tambau,8,8
+boleto,santa barbara,8,7
+boleto,santa fe do sul,8,7
+boleto,taio,8,7
+boleto,tambau,8,7
 boleto,telemaco borba,8,8
-boleto,timoteo,8,8
+boleto,timoteo,8,6
 boleto,unai,8,8
 credit_card,abaete,8,8
-credit_card,abreu e lima,8,8
+credit_card,abreu e lima,8,6
 credit_card,aguai,8,8
 credit_card,aguas da prata,8,8
-credit_card,alta floresta,8,8
-credit_card,alto do rodrigues,8,8
-credit_card,ampere,8,8
+credit_card,alta floresta,8,7
+credit_card,alto do rodrigues,8,7
+credit_card,ampere,8,6
 credit_card,aracoiaba da serra,8,8
 credit_card,aracuai,8,8
 credit_card,araripina,8,8
@@ -1363,7 +1363,7 @@ credit_card,bariri,8,8
 credit_card,barra de sao francisco,8,8
 credit_card,biritiba-mirim,8,8
 credit_card,boa esperanca do sul,8,8
-credit_card,bom jesus,8,8
+credit_card,bom jesus,8,7
 credit_card,bom jesus da lapa,8,8
 credit_card,brodowski,8,8
 credit_card,brotas,8,8
@@ -1374,39 +1374,39 @@ credit_card,cambara,8,8
 credit_card,canarana,8,8
 credit_card,carmo do cajuru,8,8
 credit_card,catu,8,8
-credit_card,cicero dantas,8,8
-credit_card,coroata,8,8
+credit_card,cicero dantas,8,7
+credit_card,coroata,8,7
 credit_card,dois corregos,8,8
 credit_card,dom pedrito,8,8
-credit_card,domingos martins,8,8
+credit_card,domingos martins,8,7
 credit_card,dores de campos,8,8
 credit_card,ecoporanga,8,8
 credit_card,escada,8,8
 credit_card,fartura,8,8
 credit_card,floresta,8,8
-credit_card,forquilhinha,8,8
+credit_card,forquilhinha,8,7
 credit_card,frederico westphalen,8,8
 credit_card,garibaldi,8,8
 credit_card,goioere,8,8
 credit_card,goitacazes,8,8
 credit_card,guaratuba,8,8
-credit_card,ibaiti,8,8
+credit_card,ibaiti,8,7
 credit_card,iguape,8,8
 credit_card,ipameri,8,8
 credit_card,itambe,8,8
 credit_card,itapipoca,8,8
 credit_card,joao neiva,8,8
 credit_card,lapa,8,8
-credit_card,madre de deus,8,8
+credit_card,madre de deus,8,7
 credit_card,mambore,8,8
 credit_card,mangaratiba,8,8
 credit_card,mangueirinha,8,8
 credit_card,maracaju,8,8
-credit_card,matias barbosa,8,8
+credit_card,matias barbosa,8,7
 credit_card,matozinhos,8,8
 credit_card,mendes,8,8
 credit_card,mirassol d'oeste,8,8
-credit_card,montanha,8,8
+credit_card,montanha,8,5
 credit_card,monte santo de minas,8,8
 credit_card,morada nova,8,8
 credit_card,mutum,8,8
@@ -1417,7 +1417,7 @@ credit_card,palestina,8,8
 credit_card,palotina,8,8
 credit_card,paraguacu,8,8
 credit_card,paranaiba,8,8
-credit_card,paranapanema,8,8
+credit_card,paranapanema,8,7
 credit_card,parobe,8,8
 credit_card,passa quatro,8,8
 credit_card,pau dos ferros,8,8
@@ -1431,49 +1431,49 @@ credit_card,rio das pedras,8,8
 credit_card,rio paranaiba,8,8
 credit_card,russas,8,8
 credit_card,santa gertrudes,8,8
-credit_card,santa rita,8,8
-credit_card,santo amaro,8,8
+credit_card,santa rita,8,7
+credit_card,santo amaro,8,7
 credit_card,sao joao nepomuceno,8,8
-credit_card,sao lourenco do oeste,8,8
+credit_card,sao lourenco do oeste,8,7
 credit_card,sao miguel arcanjo,8,8
 credit_card,serrana,8,8
-credit_card,sidrolandia,8,8
-credit_card,simonesia,8,8
+credit_card,sidrolandia,8,6
+credit_card,simonesia,8,7
 credit_card,siqueira campos,8,8
 credit_card,tanabi,8,8
 credit_card,taquari,8,8
 credit_card,tres marias,8,8
 credit_card,treze tilias,8,8
-credit_card,valente,8,8
-credit_card,virginopolis,8,8
-credit_card,xangri-la,8,8
+credit_card,valente,8,5
+credit_card,virginopolis,8,7
+credit_card,xangri-la,8,7
 debit_card,americana,8,8
 debit_card,campo grande,8,8
 debit_card,jacarei,8,8
 debit_card,vila velha,8,8
-voucher,apucarana,8,8
-voucher,aracatuba,8,8
-voucher,betim,8,8
-voucher,campo largo,8,8
-voucher,cansancao,8,8
-voucher,gravatai,8,8
-voucher,itaquaquecetuba,8,8
-voucher,limeira,8,8
+voucher,apucarana,8,3
+voucher,aracatuba,8,6
+voucher,betim,8,5
+voucher,campo largo,8,3
+voucher,cansancao,8,1
+voucher,gravatai,8,7
+voucher,itaquaquecetuba,8,4
+voucher,limeira,8,6
 voucher,macae,8,8
-voucher,marica,8,8
-voucher,nova friburgo,8,8
-voucher,santa gertrudes,8,8
-voucher,santa luzia,8,8
-voucher,sete lagoas,8,8
-voucher,tijucas,8,8
-voucher,vinhedo,8,8
+voucher,marica,8,7
+voucher,nova friburgo,8,6
+voucher,santa gertrudes,8,1
+voucher,santa luzia,8,7
+voucher,sete lagoas,8,4
+voucher,tijucas,8,2
+voucher,vinhedo,8,4
 boleto,aracruz,7,7
 boleto,arraial do cabo,7,7
-boleto,artur nogueira,7,7
+boleto,artur nogueira,7,6
 boleto,balsas,7,7
 boleto,bariri,7,7
 boleto,cachoeira paulista,7,7
-boleto,caete,7,7
+boleto,caete,7,6
 boleto,camboriu,7,7
 boleto,castanhal,7,7
 boleto,caucaia,7,7
@@ -1497,30 +1497,30 @@ boleto,joacaba,7,7
 boleto,mafra,7,7
 boleto,mococa,7,7
 boleto,montenegro,7,7
-boleto,novo horizonte,7,7
+boleto,novo horizonte,7,6
 boleto,osorio,7,7
 boleto,paulista,7,7
 boleto,penapolis,7,7
-boleto,pitangui,7,7
+boleto,pitangui,7,6
 boleto,pontal,7,7
 boleto,porto ferreira,7,7
 boleto,porto seguro,7,7
 boleto,queimados,7,7
-boleto,santarem,7,7
+boleto,santarem,7,6
 boleto,sao gotardo,7,7
-boleto,sao joao nepomuceno,7,7
+boleto,sao joao nepomuceno,7,6
 boleto,sarandi,7,7
 boleto,tijucas,7,7
 boleto,tres coracoes,7,7
 boleto,vargem grande paulista,7,7
 boleto,vespasiano,7,7
-credit_card,acarau,7,7
+credit_card,acarau,7,5
 credit_card,araquari,7,7
 credit_card,arceburgo,7,7
 credit_card,areal,7,7
 credit_card,arinos,7,7
 credit_card,arraial d'ajuda,7,7
-credit_card,arroio do sal,7,7
+credit_card,arroio do sal,7,4
 credit_card,barra velha,7,7
 credit_card,borborema,7,7
 credit_card,botelhos,7,7
@@ -1528,22 +1528,22 @@ credit_card,buri,7,7
 credit_card,buritama,7,7
 credit_card,buritizeiro,7,7
 credit_card,caconde,7,7
-credit_card,cacu,7,7
+credit_card,cacu,7,6
 credit_card,caetanopolis,7,7
 credit_card,camocim,7,7
 credit_card,campina grande do sul,7,7
 credit_card,campina verde,7,7
-credit_card,campo maior,7,7
+credit_card,campo maior,7,6
 credit_card,canaa dos carajas,7,7
 credit_card,cananeia,7,7
 credit_card,carmo do paranaiba,7,7
 credit_card,carpina,7,7
-credit_card,casa nova,7,7
+credit_card,casa nova,7,6
 credit_card,cedral,7,7
 credit_card,charqueada,7,7
 credit_card,colider,7,7
-credit_card,colina,7,7
-credit_card,comodoro,7,7
+credit_card,colina,7,6
+credit_card,comodoro,7,6
 credit_card,conceicao do coite,7,7
 credit_card,conceicao do mato dentro,7,7
 credit_card,costa rica,7,7
@@ -1555,8 +1555,8 @@ credit_card,faxinal dos guedes,7,7
 credit_card,fervedouro,7,7
 credit_card,guaicara,7,7
 credit_card,guaranesia,7,7
-credit_card,hidrolandia,7,7
-credit_card,ibatiba,7,7
+credit_card,hidrolandia,7,6
+credit_card,ibatiba,7,6
 credit_card,ibira,7,7
 credit_card,ico,7,7
 credit_card,ipaba,7,7
@@ -1565,35 +1565,35 @@ credit_card,ipiau,7,7
 credit_card,ipira,7,7
 credit_card,itaberaba,7,7
 credit_card,itaguacu,7,7
-credit_card,ituporanga,7,7
+credit_card,ituporanga,7,6
 credit_card,lagoa da prata,7,7
 credit_card,lajedo,7,7
-credit_card,lambari,7,7
+credit_card,lambari,7,6
 credit_card,lindoia,7,7
 credit_card,lucelia,7,7
 credit_card,mantena,7,7
 credit_card,maracai,7,7
 credit_card,mateus leme,7,7
 credit_card,morro agudo,7,7
-credit_card,mozarlandia,7,7
+credit_card,mozarlandia,7,6
 credit_card,nova europa,7,7
 credit_card,nova ponte,7,7
-credit_card,nucleo residencial pilar,7,7
+credit_card,nucleo residencial pilar,7,6
 credit_card,orleans,7,7
 credit_card,paraibuna,7,7
 credit_card,paraiso do tocantins,7,7
 credit_card,pedro de toledo,7,7
 credit_card,penedo,7,7
-credit_card,piedade de caratinga,7,7
+credit_card,piedade de caratinga,7,6
 credit_card,pilar do sul,7,7
-credit_card,pimenta bueno,7,7
+credit_card,pimenta bueno,7,6
 credit_card,piquete,7,7
 credit_card,pirapetinga,7,7
 credit_card,pomerode,7,7
-credit_card,porciuncula,7,7
-credit_card,porecatu,7,7
+credit_card,porciuncula,7,6
+credit_card,porecatu,7,6
 credit_card,portao,7,7
-credit_card,porto real,7,7
+credit_card,porto real,7,6
 credit_card,pradopolis,7,7
 credit_card,queimadas,7,7
 credit_card,regente feijo,7,7
@@ -1628,30 +1628,30 @@ credit_card,vila muriqui,7,7
 debit_card,carapicuiba,7,7
 debit_card,florianopolis,7,7
 debit_card,goiania,7,7
-voucher,adamantina,7,7
+voucher,adamantina,7,2
 voucher,americana,7,7
-voucher,amparo,7,7
-voucher,caruaru,7,7
+voucher,amparo,7,6
+voucher,caruaru,7,4
 voucher,divinopolis,7,7
-voucher,eunapolis,7,7
-voucher,extrema,7,7
-voucher,franco da rocha,7,7
-voucher,itajuba,7,7
-voucher,lavras,7,7
-voucher,mage,7,7
-voucher,manaus,7,7
-voucher,mata verde,7,7
-voucher,novo hamburgo,7,7
-voucher,paraty,7,7
-voucher,pocos de caldas,7,7
-voucher,sao caetano do sul,7,7
-voucher,sao joaquim da barra,7,7
-voucher,simoes filho,7,7
-voucher,teresopolis,7,7
-voucher,vera cruz,7,7
-boleto,agua boa,6,6
+voucher,eunapolis,7,3
+voucher,extrema,7,2
+voucher,franco da rocha,7,4
+voucher,itajuba,7,6
+voucher,lavras,7,2
+voucher,mage,7,3
+voucher,manaus,7,4
+voucher,mata verde,7,5
+voucher,novo hamburgo,7,6
+voucher,paraty,7,1
+voucher,pocos de caldas,7,6
+voucher,sao caetano do sul,7,5
+voucher,sao joaquim da barra,7,2
+voucher,simoes filho,7,3
+voucher,teresopolis,7,6
+voucher,vera cruz,7,3
+boleto,agua boa,6,5
 boleto,alem paraiba,6,6
-boleto,barrinha,6,6
+boleto,barrinha,6,4
 boleto,bom jardim,6,6
 boleto,brumado,6,6
 boleto,buritis,6,6
@@ -1675,11 +1675,11 @@ boleto,igrejinha,6,6
 boleto,iguape,6,6
 boleto,ilha solteira,6,6
 boleto,iracemapolis,6,6
-boleto,itarare,6,6
-boleto,itatiaia,6,6
+boleto,itarare,6,5
+boleto,itatiaia,6,5
 boleto,itumbiara,6,6
 boleto,jacobina,6,6
-boleto,jarinu,6,6
+boleto,jarinu,6,5
 boleto,joao pinheiro,6,6
 boleto,juina,6,6
 boleto,lapa,6,6
@@ -1690,7 +1690,7 @@ boleto,mairinque,6,6
 boleto,maracanau,6,6
 boleto,mirassol d'oeste,6,6
 boleto,monte carmelo,6,6
-boleto,niquelandia,6,6
+boleto,niquelandia,6,5
 boleto,nova odessa,6,6
 boleto,nova prata,6,6
 boleto,paraisopolis,6,6
@@ -1703,7 +1703,7 @@ boleto,rio do sul,6,6
 boleto,sabara,6,6
 boleto,santa ines,6,6
 boleto,santa maria de jetiba,6,6
-boleto,sao francisco do sul,6,6
+boleto,sao francisco do sul,6,5
 boleto,sao joao batista,6,6
 boleto,sao lourenco,6,6
 boleto,senador canedo,6,6
@@ -1714,29 +1714,29 @@ boleto,vacaria,6,6
 boleto,venancio aires,6,6
 boleto,veranopolis,6,6
 boleto,xanxere,6,6
-boleto,xaxim,6,6
+boleto,xaxim,6,5
 credit_card,abelardo luz,6,6
 credit_card,acailandia,6,6
 credit_card,acopiara,6,6
 credit_card,acreuna,6,6
 credit_card,afogados da ingazeira,6,6
-credit_card,alcinopolis,6,6
+credit_card,alcinopolis,6,4
 credit_card,alto paraiso de goias,6,6
 credit_card,alvares machado,6,6
 credit_card,anicuns,6,6
 credit_card,apiaca,6,6
-credit_card,apiuna,6,6
+credit_card,apiuna,6,5
 credit_card,arapoti,6,6
 credit_card,areado,6,6
 credit_card,assai,6,6
-credit_card,astorga,6,6
+credit_card,astorga,6,5
 credit_card,bady bassitt,6,6
 credit_card,baependi,6,6
 credit_card,baixo guandu,6,6
 credit_card,bananal,6,6
 credit_card,barra do corda,6,6
 credit_card,barreiros,6,6
-credit_card,bilac,6,6
+credit_card,bilac,6,5
 credit_card,braganca,6,6
 credit_card,cabedelo,6,6
 credit_card,california da barra,6,6
@@ -1746,37 +1746,37 @@ credit_card,cambuci,6,6
 credit_card,campo formoso,6,6
 credit_card,capinopolis,6,6
 credit_card,carai,6,6
-credit_card,carmo do rio claro,6,6
+credit_card,carmo do rio claro,6,5
 credit_card,catende,6,6
-credit_card,catole do rocha,6,6
+credit_card,catole do rocha,6,5
 credit_card,ceres,6,6
 credit_card,chapadao do sul,6,6
 credit_card,colorado,6,6
 credit_card,comendador levy gasparian,6,6
-credit_card,coribe,6,6
+credit_card,coribe,6,4
 credit_card,cristalina,6,6
 credit_card,cruz,6,6
 credit_card,currais novos,6,6
-credit_card,entre rios,6,6
-credit_card,entre rios de minas,6,6
+credit_card,entre rios,6,5
+credit_card,entre rios de minas,6,5
 credit_card,ervalia,6,6
 credit_card,esperanca,6,6
 credit_card,estancia,6,6
-credit_card,estiva gerbi,6,6
-credit_card,firminopolis,6,6
+credit_card,estiva gerbi,6,4
+credit_card,firminopolis,6,4
 credit_card,fronteira,6,6
 credit_card,general salgado,6,6
 credit_card,getulio vargas,6,6
 credit_card,goias,6,6
 credit_card,herval d'oeste,6,6
 credit_card,ibia,6,6
-credit_card,imbituva,6,6
+credit_card,imbituva,6,5
 credit_card,irapuru,6,6
 credit_card,itai,6,6
 credit_card,itamarandiba,6,6
 credit_card,itapaje,6,6
 credit_card,itapoa,6,6
-credit_card,itobi,6,6
+credit_card,itobi,6,5
 credit_card,ivaipora,6,6
 credit_card,jacare,6,6
 credit_card,jaguare,6,6
@@ -1789,16 +1789,16 @@ credit_card,macaubas,6,6
 credit_card,mar de espanha,6,6
 credit_card,marmeleiro,6,6
 credit_card,mata verde,6,6
-credit_card,mirai,6,6
+credit_card,mirai,6,5
 credit_card,missal,6,6
 credit_card,mostardas,6,6
 credit_card,mucuri,6,6
 credit_card,mundo novo,6,6
 credit_card,neropolis,6,6
 credit_card,nhandeara,6,6
-credit_card,nova londrina,6,6
+credit_card,nova londrina,6,5
 credit_card,nova russas,6,6
-credit_card,novo cruzeiro,6,6
+credit_card,novo cruzeiro,6,4
 credit_card,ouricuri,6,6
 credit_card,pacaembu,6,6
 credit_card,pacaja,6,6
@@ -1808,7 +1808,7 @@ credit_card,palmares,6,6
 credit_card,papanduva,6,6
 credit_card,paraopeba,6,6
 credit_card,passo de torres,6,6
-credit_card,perdoes,6,6
+credit_card,perdoes,6,5
 credit_card,pesqueira,6,6
 credit_card,pirangi,6,6
 credit_card,piripiri,6,6
@@ -1820,7 +1820,7 @@ credit_card,prata,6,6
 credit_card,presidente bernardes,6,6
 credit_card,presidente getulio,6,6
 credit_card,primavera,6,6
-credit_card,primeiro de maio,6,6
+credit_card,primeiro de maio,6,5
 credit_card,prudentopolis,6,6
 credit_card,querencia,6,6
 credit_card,resplendor,6,6
@@ -1831,7 +1831,7 @@ credit_card,rubiataba,6,6
 credit_card,ruy barbosa,6,6
 credit_card,santa branca,6,6
 credit_card,santa juliana,6,6
-credit_card,santa teresa,6,6
+credit_card,santa teresa,6,5
 credit_card,sao domingos,6,6
 credit_card,sao gabriel do oeste,6,6
 credit_card,sao joaquim de bicas,6,6
@@ -1840,11 +1840,11 @@ credit_card,sapucaia,6,6
 credit_card,serra talhada,6,6
 credit_card,silvania,6,6
 credit_card,simao dias,6,6
-credit_card,sumidouro,6,6
-credit_card,taguatinga,6,6
+credit_card,sumidouro,6,5
+credit_card,taguatinga,6,5
 credit_card,terra rica,6,6
 credit_card,tocantinopolis,6,6
-credit_card,torrinha,6,6
+credit_card,torrinha,6,5
 credit_card,tres passos,6,6
 credit_card,ubaira,6,6
 credit_card,urupes,6,6
@@ -1852,37 +1852,37 @@ credit_card,urussanga,6,6
 credit_card,xinguara,6,6
 debit_card,itajai,6,6
 debit_card,joinville,6,6
-debit_card,londrina,6,6
+debit_card,londrina,6,5
 debit_card,mogi-guacu,6,6
-debit_card,sumare,6,6
-voucher,araxa,6,6
-voucher,aruja,6,6
-voucher,camaragibe,6,6
-voucher,colombo,6,6
+debit_card,sumare,6,5
+voucher,araxa,6,3
+voucher,aruja,6,4
+voucher,camaragibe,6,4
+voucher,colombo,6,4
 voucher,foz do iguacu,6,6
-voucher,hortolandia,6,6
-voucher,igaracu do tiete,6,6
+voucher,hortolandia,6,4
+voucher,igaracu do tiete,6,2
 voucher,itapecerica da serra,6,6
-voucher,jatai,6,6
-voucher,lagoa santa,6,6
-voucher,lauro de freitas,6,6
-voucher,mafra,6,6
-voucher,marechal candido rondon,6,6
-voucher,mata de sao joao,6,6
-voucher,nova lima,6,6
-voucher,passos,6,6
-voucher,patrocinio,6,6
-voucher,porto seguro,6,6
-voucher,porto velho,6,6
-voucher,pouso alegre,6,6
-voucher,presidente epitacio,6,6
-voucher,quatro barras,6,6
-voucher,rio claro,6,6
-voucher,santa barbara d oeste,6,6
+voucher,jatai,6,4
+voucher,lagoa santa,6,3
+voucher,lauro de freitas,6,4
+voucher,mafra,6,3
+voucher,marechal candido rondon,6,3
+voucher,mata de sao joao,6,2
+voucher,nova lima,6,5
+voucher,passos,6,4
+voucher,patrocinio,6,5
+voucher,porto seguro,6,4
+voucher,porto velho,6,5
+voucher,pouso alegre,6,4
+voucher,presidente epitacio,6,2
+voucher,quatro barras,6,1
+voucher,rio claro,6,5
+voucher,santa barbara d oeste,6,3
 voucher,sao jose,6,6
 voucher,toledo,6,6
 boleto,aguas lindas de goias,5,5
-boleto,alpinopolis,5,5
+boleto,alpinopolis,5,4
 boleto,arcos,5,5
 boleto,aripuana,5,5
 boleto,barra bonita,5,5
@@ -1894,12 +1894,12 @@ boleto,campo largo,5,5
 boleto,canoinhas,5,5
 boleto,capao bonito,5,5
 boleto,capinopolis,5,5
-boleto,cataguases,5,5
+boleto,cataguases,5,4
 boleto,conceicao do mato dentro,5,5
 boleto,cordeiropolis,5,5
 boleto,crato,5,5
 boleto,cravinhos,5,5
-boleto,dias d'avila,5,5
+boleto,dias d'avila,5,4
 boleto,espera feliz,5,5
 boleto,estrela,5,5
 boleto,feliz,5,5
@@ -1910,8 +1910,8 @@ boleto,goiatuba,5,5
 boleto,guacui,5,5
 boleto,guariba,5,5
 boleto,guaxupe,5,5
-boleto,ibiruba,5,5
-boleto,icem,5,5
+boleto,ibiruba,5,4
+boleto,icem,5,4
 boleto,imbituba,5,5
 boleto,indaial,5,5
 boleto,ipameri,5,5
@@ -1923,12 +1923,12 @@ boleto,laranjeiras do sul,5,5
 boleto,mangaratiba,5,5
 boleto,maracaju,5,5
 boleto,marataizes,5,5
-boleto,marau,5,5
+boleto,marau,5,4
 boleto,marialva,5,5
-boleto,marituba,5,5
+boleto,marituba,5,4
 boleto,matias barbosa,5,5
-boleto,mineiros,5,5
-boleto,monte alto,5,5
+boleto,mineiros,5,4
+boleto,monte alto,5,4
 boleto,mossoro,5,5
 boleto,navirai,5,5
 boleto,nova era,5,5
@@ -1947,14 +1947,14 @@ boleto,quata,5,5
 boleto,quatro barras,5,5
 boleto,rancharia,5,5
 boleto,rolandia,5,5
-boleto,rosario do sul,5,5
-boleto,sacramento,5,5
+boleto,rosario do sul,5,4
+boleto,sacramento,5,4
 boleto,santa rosa de viterbo,5,5
 boleto,santana do livramento,5,5
 boleto,santana do paraiso,5,5
 boleto,santiago,5,5
 boleto,santos dumont,5,5
-boleto,sao joao,5,5
+boleto,sao joao,5,4
 boleto,sao joao del rei,5,5
 boleto,sao jose de ribamar,5,5
 boleto,sao jose do rio pardo,5,5
@@ -1965,27 +1965,27 @@ boleto,schroeder,5,5
 boleto,serra negra,5,5
 boleto,tabapua,5,5
 boleto,tramandai,5,5
-boleto,tres marias,5,5
+boleto,tres marias,5,4
 boleto,tres passos,5,5
 boleto,trindade,5,5
 boleto,triunfo,5,5
 boleto,valparaiso de goias,5,5
 boleto,vilhena,5,5
-credit_card,alfredo chaves,5,5
+credit_card,alfredo chaves,5,4
 credit_card,amambai,5,5
 credit_card,andorinha,5,5
 credit_card,angatuba,5,5
 credit_card,aparecida do taboado,5,5
 credit_card,aracoiaba,5,5
-credit_card,araujos,5,5
+credit_card,araujos,5,4
 credit_card,bananeiras,5,5
 credit_card,barcarena,5,5
-credit_card,barra do ribeiro,5,5
+credit_card,barra do ribeiro,5,4
 credit_card,benedito novo,5,5
-credit_card,bocaina,5,5
+credit_card,bocaina,5,4
 credit_card,bom conselho,5,5
 credit_card,bom principio,5,5
-credit_card,brasilia de minas,5,5
+credit_card,brasilia de minas,5,4
 credit_card,brazopolis,5,5
 credit_card,butia,5,5
 credit_card,cacapava do sul,5,5
@@ -2002,7 +2002,7 @@ credit_card,carmo da mata,5,5
 credit_card,casca,5,5
 credit_card,cassia,5,5
 credit_card,catanduvas,5,5
-credit_card,chapadao do ceu,5,5
+credit_card,chapadao do ceu,5,4
 credit_card,cidade ocidental,5,5
 credit_card,cocal,5,5
 credit_card,codo,5,5
@@ -2010,25 +2010,25 @@ credit_card,conceicao do araguaia,5,5
 credit_card,confresa,5,5
 credit_card,cosmorama,5,5
 credit_card,cristina,5,5
-credit_card,crixas,5,5
+credit_card,crixas,5,4
 credit_card,custodia,5,5
-credit_card,diamantino,5,5
+credit_card,diamantino,5,3
 credit_card,dianopolis,5,5
 credit_card,divinolandia,5,5
-credit_card,dores do indaia,5,5
+credit_card,dores do indaia,5,4
 credit_card,encantado,5,5
 credit_card,encruzilhada do sul,5,5
 credit_card,engenheiro paulo de frontin,5,5
 credit_card,espigao do oeste,5,5
 credit_card,esplanada,5,5
 credit_card,espumoso,5,5
-credit_card,feira nova,5,5
+credit_card,feira nova,5,4
 credit_card,frei inocencio,5,5
 credit_card,garuva,5,5
 credit_card,general carneiro,5,5
 credit_card,goianira,5,5
 credit_card,goiatuba,5,5
-credit_card,grajau,5,5
+credit_card,grajau,5,4
 credit_card,granja,5,5
 credit_card,gravata,5,5
 credit_card,guarani,5,5
@@ -2052,41 +2052,41 @@ credit_card,ivoti,5,5
 credit_card,jaguarao,5,5
 credit_card,jaguaribe,5,5
 credit_card,jesuania,5,5
-credit_card,joao lisboa,5,5
-credit_card,joviania,5,5
+credit_card,joao lisboa,5,4
+credit_card,joviania,5,4
 credit_card,laurentino,5,5
 credit_card,lauro muller,5,5
 credit_card,malacacheta,5,5
 credit_card,mallet,5,5
 credit_card,marilandia,5,5
 credit_card,morro da fumaca,5,5
-credit_card,muzambinho,5,5
+credit_card,muzambinho,5,4
 credit_card,nazare paulista,5,5
 credit_card,nepomuceno,5,5
 credit_card,nova esperanca,5,5
 credit_card,nova santa rita,5,5
 credit_card,nova trento,5,5
-credit_card,novo progresso,5,5
+credit_card,novo progresso,5,4
 credit_card,ortigueira,5,5
 credit_card,paco do lumiar,5,5
-credit_card,palmitinho,5,5
-credit_card,paraipaba,5,5
-credit_card,parapua,5,5
-credit_card,paulo frontin,5,5
+credit_card,palmitinho,5,4
+credit_card,paraipaba,5,4
+credit_card,parapua,5,4
+credit_card,paulo frontin,5,4
 credit_card,pecanha,5,5
 credit_card,perdizes,5,5
 credit_card,pinheiro machado,5,5
 credit_card,piracanjuba,5,5
 credit_card,pirai do sul,5,5
-credit_card,piranguinho,5,5
+credit_card,piranguinho,5,4
 credit_card,piratuba,5,5
 credit_card,pontal do parana,5,5
 credit_card,porteirinha,5,5
 credit_card,porto nacional,5,5
-credit_card,presidente olegario,5,5
-credit_card,quedas do iguacu,5,5
+credit_card,presidente olegario,5,4
+credit_card,quedas do iguacu,5,4
 credit_card,rafard,5,5
-credit_card,riachao do jacuipe,5,5
+credit_card,riachao do jacuipe,5,4
 credit_card,rio branco do sul,5,5
 credit_card,rio largo,5,5
 credit_card,rio pardo,5,5
@@ -2109,16 +2109,16 @@ credit_card,sao joao dos patos,5,5
 credit_card,sao joao evangelista,5,5
 credit_card,sao jose da barra,5,5
 credit_card,sao jose do calcado,5,5
-credit_card,sao jose do cedro,5,5
+credit_card,sao jose do cedro,5,4
 credit_card,sao miguel do guama,5,5
 credit_card,sao romao,5,5
 credit_card,sobradinho,5,5
 credit_card,sousa,5,5
 credit_card,surubim,5,5
-credit_card,taquaritinga do norte,5,5
+credit_card,taquaritinga do norte,5,4
 credit_card,teotonio vilela,5,5
 credit_card,tiangua,5,5
-credit_card,timburi,5,5
+credit_card,timburi,5,4
 credit_card,tombos,5,5
 credit_card,toritama,5,5
 credit_card,tres cachoeiras,5,5
@@ -2126,7 +2126,7 @@ credit_card,tres coroas,5,5
 credit_card,tupi paulista,5,5
 credit_card,ubirata,5,5
 credit_card,una,5,5
-credit_card,urbano santos,5,5
+credit_card,urbano santos,5,4
 credit_card,uruara,5,5
 credit_card,vila valerio,5,5
 debit_card,bauru,5,5
@@ -2140,35 +2140,35 @@ debit_card,nova iguacu,5,5
 debit_card,piracicaba,5,5
 debit_card,sao jose do rio preto,5,5
 debit_card,sao vicente,5,5
-voucher,ananindeua,5,5
+voucher,ananindeua,5,4
 voucher,anapolis,5,5
 voucher,angra dos reis,5,5
-voucher,araguari,5,5
-voucher,avare,5,5
+voucher,araguari,5,1
+voucher,avare,5,4
 voucher,cajamar,5,5
-voucher,camacari,5,5
-voucher,coronel fabriciano,5,5
-voucher,guaratingueta,5,5
-voucher,itamaraju,5,5
+voucher,camacari,5,4
+voucher,coronel fabriciano,5,2
+voucher,guaratingueta,5,2
+voucher,itamaraju,5,1
 voucher,itapevi,5,5
-voucher,itapira,5,5
-voucher,itatiba,5,5
-voucher,itu,5,5
-voucher,jau,5,5
-voucher,leme,5,5
-voucher,mogi mirim,5,5
-voucher,monte alegre de minas,5,5
-voucher,monte mor,5,5
-voucher,palmares,5,5
-voucher,pindamonhangaba,5,5
+voucher,itapira,5,4
+voucher,itatiba,5,4
+voucher,itu,5,4
+voucher,jau,5,3
+voucher,leme,5,4
+voucher,mogi mirim,5,4
+voucher,monte alegre de minas,5,1
+voucher,monte mor,5,2
+voucher,palmares,5,1
+voucher,pindamonhangaba,5,3
 voucher,ponta grossa,5,5
-voucher,queimados,5,5
+voucher,queimados,5,2
 voucher,ribeirao pires,5,5
-voucher,rio brilhante,5,5
+voucher,rio brilhante,5,1
 voucher,rio das ostras,5,5
 voucher,teofilo otoni,5,5
-voucher,unai,5,5
-voucher,vitoria da conquista,5,5
+voucher,unai,5,4
+voucher,vitoria da conquista,5,4
 boleto,abaete,4,4
 boleto,alta floresta,4,4
 boleto,aluminio,4,4
@@ -2179,7 +2179,7 @@ boleto,aracati,4,4
 boleto,arapiraca,4,4
 boleto,araquari,4,4
 boleto,araripina,4,4
-boleto,balneario pinhal,4,4
+boleto,balneario pinhal,4,3
 boleto,barao de cocais,4,4
 boleto,bom jardim de minas,4,4
 boleto,bom jesus do itabapoana,4,4
@@ -2195,7 +2195,7 @@ boleto,cangucu,4,4
 boleto,carangola,4,4
 boleto,cardoso moreira,4,4
 boleto,casa branca,4,4
-boleto,castelo,4,4
+boleto,castelo,4,3
 boleto,caxambu,4,4
 boleto,cianorte,4,4
 boleto,corumba,4,4
@@ -2212,15 +2212,15 @@ boleto,itabaiana,4,4
 boleto,itabirito,4,4
 boleto,itai,4,4
 boleto,italva,4,4
-boleto,itamonte,4,4
+boleto,itamonte,4,3
 boleto,itaocara,4,4
 boleto,jequie,4,4
 boleto,juara,4,4
 boleto,junqueiropolis,4,4
-boleto,lagoa da prata,4,4
+boleto,lagoa da prata,4,3
 boleto,lagoa vermelha,4,4
 boleto,laranjal paulista,4,4
-boleto,lima duarte,4,4
+boleto,lima duarte,4,3
 boleto,lucelia,4,4
 boleto,machado,4,4
 boleto,manhumirim,4,4
@@ -2228,16 +2228,16 @@ boleto,mantena,4,4
 boleto,marechal candido rondon,4,4
 boleto,mariana,4,4
 boleto,matozinhos,4,4
-boleto,matupa,4,4
-boleto,medeiros neto,4,4
+boleto,matupa,4,3
+boleto,medeiros neto,4,3
 boleto,medianeira,4,4
 boleto,mendes,4,4
 boleto,miracema,4,4
-boleto,morrinhos,4,4
+boleto,morrinhos,4,2
 boleto,mostardas,4,4
 boleto,muzambinho,4,4
-boleto,nao-me-toque,4,4
-boleto,navegantes,4,4
+boleto,nao-me-toque,4,3
+boleto,navegantes,4,3
 boleto,nepomuceno,4,4
 boleto,nossa senhora do socorro,4,4
 boleto,novo gama,4,4
@@ -2251,12 +2251,12 @@ boleto,pilar do sul,4,4
 boleto,piracaia,4,4
 boleto,piracanjuba,4,4
 boleto,piraju,4,4
-boleto,pirapozinho,4,4
+boleto,pirapozinho,4,3
 boleto,piuma,4,4
 boleto,planaltina,4,4
 boleto,porangatu,4,4
 boleto,porto feliz,4,4
-boleto,quedas do iguacu,4,4
+boleto,quedas do iguacu,4,3
 boleto,querencia,4,4
 boleto,resplendor,4,4
 boleto,rio bonito,4,4
@@ -2301,11 +2301,11 @@ boleto,urussanga,4,4
 boleto,venda nova do imigrante,4,4
 boleto,viana,4,4
 credit_card,abre campo,4,4
-credit_card,acu,4,4
+credit_card,acu,4,3
 credit_card,adolfo,4,4
 credit_card,agua doce do norte,4,4
 credit_card,alto araguaia,4,4
-credit_card,alto boa vista,4,4
+credit_card,alto boa vista,4,2
 credit_card,alto jequitiba,4,4
 credit_card,aquidauana,4,4
 credit_card,arace,4,4
@@ -2313,7 +2313,7 @@ credit_card,arapora,4,4
 credit_card,arcoverde,4,4
 credit_card,arealva,4,4
 credit_card,ariranha,4,4
-credit_card,ascurra,4,4
+credit_card,ascurra,4,3
 credit_card,avanhandava,4,4
 credit_card,avelar,4,4
 credit_card,balneario barra do sul,4,4
@@ -2321,7 +2321,7 @@ credit_card,balneario pinhal,4,4
 credit_card,balsamo,4,4
 credit_card,barbalha,4,4
 credit_card,barra da estiva,4,4
-credit_card,barra do bugres,4,4
+credit_card,barra do bugres,4,3
 credit_card,barro,4,4
 credit_card,bataguassu,4,4
 credit_card,bayeux,4,4
@@ -2329,33 +2329,33 @@ credit_card,bela cruz,4,4
 credit_card,bela vista de goias,4,4
 credit_card,belo oriente,4,4
 credit_card,bernardino de campos,4,4
-credit_card,bicas,4,4
+credit_card,bicas,4,3
 credit_card,boa vista da aparecida,4,4
 credit_card,bom jardim de minas,4,4
 credit_card,bom jesus do norte,4,4
-credit_card,bom jesus do tocantins,4,4
+credit_card,bom jesus do tocantins,4,1
 credit_card,bom sucesso,4,4
 credit_card,brauna,4,4
 credit_card,brejo da madre de deus,4,4
 credit_card,buenopolis,4,4
 credit_card,buerarema,4,4
-credit_card,buriticupu,4,4
+credit_card,buriticupu,4,3
 credit_card,cabralia paulista,4,4
 credit_card,cabreuva,4,4
-credit_card,cachoeira,4,4
+credit_card,cachoeira,4,3
 credit_card,cachoeira de minas,4,4
 credit_card,cameta,4,4
 credit_card,campanha,4,4
-credit_card,campo alegre,4,4
+credit_card,campo alegre,4,3
 credit_card,campos de julio,4,4
 credit_card,campos sales,4,4
-credit_card,candido rodrigues,4,4
+credit_card,candido rodrigues,4,2
 credit_card,cansancao,4,4
 credit_card,capitolio,4,4
 credit_card,carmo da cachoeira,4,4
 credit_card,carmopolis de minas,4,4
 credit_card,cassilandia,4,4
-credit_card,castelandia,4,4
+credit_card,castelandia,4,3
 credit_card,catigua,4,4
 credit_card,catuipe,4,4
 credit_card,cerro largo,4,4
@@ -2376,7 +2376,7 @@ credit_card,corrente,4,4
 credit_card,corupa,4,4
 credit_card,cristais paulista,4,4
 credit_card,cuite,4,4
-credit_card,cunha pora,4,4
+credit_card,cunha pora,4,3
 credit_card,delmiro gouveia,4,4
 credit_card,dom eliseu,4,4
 credit_card,dom feliciano,4,4
@@ -2385,7 +2385,7 @@ credit_card,dumont,4,4
 credit_card,elias fausto,4,4
 credit_card,espinosa,4,4
 credit_card,fernando prestes,4,4
-credit_card,formoso do araguaia,4,4
+credit_card,formoso do araguaia,4,3
 credit_card,forquilha,4,4
 credit_card,fundao,4,4
 credit_card,gandu,4,4
@@ -2393,7 +2393,7 @@ credit_card,glicerio,4,4
 credit_card,gravatal,4,4
 credit_card,guapiacu,4,4
 credit_card,guapo,4,4
-credit_card,guaracai,4,4
+credit_card,guaracai,4,3
 credit_card,guaraciaba do norte,4,4
 credit_card,guaranta,4,4
 credit_card,guarei,4,4
@@ -2406,8 +2406,8 @@ credit_card,icapui,4,4
 credit_card,icem,4,4
 credit_card,inaja,4,4
 credit_card,indianopolis,4,4
-credit_card,indiara,4,4
-credit_card,ipiabas,4,4
+credit_card,indiara,4,3
+credit_card,ipiabas,4,3
 credit_card,ipu,4,4
 credit_card,irapua,4,4
 credit_card,itabela,4,4
@@ -2423,12 +2423,12 @@ credit_card,itariri,4,4
 credit_card,jacupiranga,4,4
 credit_card,jaguaruana,4,4
 credit_card,jandaia do sul,4,4
-credit_card,japuiba,4,4
+credit_card,japuiba,4,3
 credit_card,japura,4,4
-credit_card,jari,4,4
+credit_card,jari,4,2
 credit_card,jauru,4,4
 credit_card,jesuitas,4,4
-credit_card,joanopolis,4,4
+credit_card,joanopolis,4,2
 credit_card,joaquim nabuco,4,4
 credit_card,jordania,4,4
 credit_card,jucurutu,4,4
@@ -2443,24 +2443,24 @@ credit_card,luis antonio,4,4
 credit_card,macau,4,4
 credit_card,mandaguacu,4,4
 credit_card,maracacume,4,4
-credit_card,maracas,4,4
+credit_card,maracas,4,3
 credit_card,maragogi,4,4
 credit_card,mario campos,4,4
-credit_card,martins soares,4,4
-credit_card,matipo,4,4
+credit_card,martins soares,4,3
+credit_card,matipo,4,3
 credit_card,medina,4,4
 credit_card,mendes pimentel,4,4
 credit_card,mendonca,4,4
 credit_card,merces,4,4
 credit_card,milagres,4,4
-credit_card,montalvania,4,4
+credit_card,montalvania,4,3
 credit_card,monte alegre do sul,4,4
 credit_card,monte azul,4,4
 credit_card,moreno,4,4
 credit_card,morro do chapeu,4,4
 credit_card,munhoz,4,4
 credit_card,mutuipe,4,4
-credit_card,navirai,4,4
+credit_card,navirai,4,3
 credit_card,nazare,4,4
 credit_card,nova aurora,4,4
 credit_card,nova olinda,4,4
@@ -2471,18 +2471,18 @@ credit_card,nova veneza,4,4
 credit_card,ocaucu,4,4
 credit_card,oeiras,4,4
 credit_card,ourilandia do norte,4,4
-credit_card,palmares do sul,4,4
+credit_card,palmares do sul,4,3
 credit_card,palmeira d'oeste,4,4
 credit_card,panorama,4,4
-credit_card,papagaios,4,4
+credit_card,papagaios,4,3
 credit_card,paraiso,4,4
 credit_card,parelhas,4,4
 credit_card,pedra azul,4,4
 credit_card,pedra preta,4,4
 credit_card,perdigao,4,4
-credit_card,pinhalao,4,4
+credit_card,pinhalao,4,3
 credit_card,poco verde,4,4
-credit_card,pombal,4,4
+credit_card,pombal,4,3
 credit_card,potiragua,4,4
 credit_card,prado,4,4
 credit_card,quarai,4,4
@@ -2497,11 +2497,11 @@ credit_card,rio das flores,4,4
 credit_card,rio manso,4,4
 credit_card,rio novo,4,4
 credit_card,rio preto,4,4
-credit_card,saltinho,4,4
+credit_card,saltinho,4,3
 credit_card,sananduva,4,4
-credit_card,sanclerlandia,4,4
+credit_card,sanclerlandia,4,3
 credit_card,santa cecilia,4,4
-credit_card,santa cruz de minas,4,4
+credit_card,santa cruz de minas,4,3
 credit_card,santa fe,4,4
 credit_card,santa isabel do para,4,4
 credit_card,santa lucia,4,4
@@ -2523,7 +2523,7 @@ credit_card,sao joao batista,4,4
 credit_card,sao joao do paraiso,4,4
 credit_card,sao jose do egito,4,4
 credit_card,sao luis de montes belos,4,4
-credit_card,sao miguel,4,4
+credit_card,sao miguel,4,3
 credit_card,sao roque do canaa,4,4
 credit_card,sao sepe,4,4
 credit_card,sao tiago,4,4
@@ -2535,7 +2535,7 @@ credit_card,seara,4,4
 credit_card,senges,4,4
 credit_card,serafina correa,4,4
 credit_card,sertania,4,4
-credit_card,sete barras,4,4
+credit_card,sete barras,4,3
 credit_card,tabatinga,4,4
 credit_card,tabira,4,4
 credit_card,tangua,4,4
@@ -2548,12 +2548,12 @@ credit_card,tocantins,4,4
 credit_card,tres barras,4,4
 credit_card,trombudo central,4,4
 credit_card,turvo,4,4
-credit_card,uniao de minas,4,4
+credit_card,uniao de minas,4,3
 credit_card,utinga,4,4
 credit_card,valenca do piaui,4,4
 credit_card,varjota,4,4
-credit_card,vazante,4,4
-credit_card,vera cruz do oeste,4,4
+credit_card,vazante,4,3
+credit_card,vera cruz do oeste,4,3
 credit_card,vila dos cabanos,4,4
 credit_card,volta grande,4,4
 credit_card,xaxim,4,4
@@ -2572,52 +2572,52 @@ debit_card,sao jose,4,4
 debit_card,sao jose dos pinhais,4,4
 debit_card,taubate,4,4
 debit_card,vitoria,4,4
-voucher,americo brasiliense,4,4
-voucher,aracruz,4,4
-voucher,araras,4,4
+voucher,americo brasiliense,4,1
+voucher,aracruz,4,2
+voucher,araras,4,3
 voucher,barretos,4,4
 voucher,botucatu,4,4
 voucher,braganca paulista,4,4
 voucher,brusque,4,4
 voucher,cachoeira do sul,4,4
-voucher,cachoeirinha,4,4
+voucher,cachoeirinha,4,2
 voucher,caieiras,4,4
-voucher,canoinhas,4,4
-voucher,cocal,4,4
+voucher,canoinhas,4,3
+voucher,cocal,4,3
 voucher,colatina,4,4
-voucher,colorado,4,4
-voucher,guaicara,4,4
+voucher,colorado,4,1
+voucher,guaicara,4,1
 voucher,guarapuava,4,4
-voucher,ibirite,4,4
+voucher,ibirite,4,3
 voucher,jaboatao dos guararapes,4,4
 voucher,jequie,4,4
-voucher,lins,4,4
-voucher,luziania,4,4
-voucher,mateus leme,4,4
-voucher,morrinhos,4,4
-voucher,muriae,4,4
-voucher,paco do lumiar,4,4
-voucher,panorama,4,4
+voucher,lins,4,3
+voucher,luziania,4,1
+voucher,mateus leme,4,3
+voucher,morrinhos,4,2
+voucher,muriae,4,1
+voucher,paco do lumiar,4,1
+voucher,panorama,4,2
 voucher,patos de minas,4,4
-voucher,paulista,4,4
-voucher,resende,4,4
-voucher,rio branco,4,4
-voucher,santa barbara d'oeste,4,4
-voucher,santa cruz cabralia,4,4
-voucher,santa tereza do oeste,4,4
-voucher,santo antonio da platina,4,4
-voucher,sao joao del rei,4,4
-voucher,sao jose do cedro,4,4
+voucher,paulista,4,3
+voucher,resende,4,3
+voucher,rio branco,4,3
+voucher,santa barbara d'oeste,4,3
+voucher,santa cruz cabralia,4,2
+voucher,santa tereza do oeste,4,1
+voucher,santo antonio da platina,4,1
+voucher,sao joao del rei,4,3
+voucher,sao jose do cedro,4,1
 voucher,sertaozinho,4,4
 voucher,tres coracoes,4,4
-voucher,tres fronteiras,4,4
-voucher,tupi paulista,4,4
-voucher,uba,4,4
+voucher,tres fronteiras,4,1
+voucher,tupi paulista,4,1
+voucher,uba,4,2
 voucher,uberaba,4,4
-voucher,umuarama,4,4
+voucher,umuarama,4,3
 voucher,valinhos,4,4
-voucher,vargem grande paulista,4,4
-voucher,viamao,4,4
+voucher,vargem grande paulista,4,3
+voucher,viamao,4,2
 voucher,viana,4,4
 voucher,vicosa,4,4
 boleto,abreu e lima,3,3
@@ -2640,7 +2640,7 @@ boleto,araruna,3,3
 boleto,ariquemes,3,3
 boleto,avanhandava,3,3
 boleto,bacabal,3,3
-boleto,barra da estiva,3,3
+boleto,barra da estiva,3,2
 boleto,barra de sao joao,3,3
 boleto,batatais,3,3
 boleto,bayeux,3,3
@@ -2669,9 +2669,9 @@ boleto,cambe,3,3
 boleto,campanha,3,3
 boleto,campina grande do sul,3,3
 boleto,campina verde,3,3
-boleto,campinapolis,3,3
+boleto,campinapolis,3,2
 boleto,campos borges,3,3
-boleto,canapolis,3,3
+boleto,canapolis,3,2
 boleto,canarana,3,3
 boleto,candeias,3,3
 boleto,candelaria,3,3
@@ -2739,15 +2739,15 @@ boleto,jacinto machado,3,3
 boleto,jacunda,3,3
 boleto,jaguarao,3,3
 boleto,jaguariaiva,3,3
-boleto,jaiba,3,3
+boleto,jaiba,3,2
 boleto,jambeiro,3,3
 boleto,janauba,3,3
 boleto,jandaia do sul,3,3
-boleto,jumirim,3,3
+boleto,jumirim,3,2
 boleto,juquia,3,3
 boleto,lagoa da confusao,3,3
 boleto,lagoa formosa,3,3
-boleto,lagoa grande,3,3
+boleto,lagoa grande,3,2
 boleto,lauro muller,3,3
 boleto,leopoldina,3,3
 boleto,limoeiro,3,3
@@ -2759,7 +2759,7 @@ boleto,mandaguari,3,3
 boleto,maravilha,3,3
 boleto,marechal floriano,3,3
 boleto,marilandia,3,3
-boleto,martins soares,3,3
+boleto,martins soares,3,2
 boleto,miguel pereira,3,3
 boleto,mirai,3,3
 boleto,morungaba,3,3
@@ -2770,20 +2770,20 @@ boleto,nova esperanca,3,3
 boleto,nova londrina,3,3
 boleto,nova petropolis,3,3
 boleto,novo cruzeiro,3,3
-boleto,olho d'agua das flores,3,3
+boleto,olho d'agua das flores,3,2
 boleto,ortigueira,3,3
 boleto,osvaldo cruz,3,3
 boleto,ouroeste,3,3
 boleto,panambi,3,3
 boleto,paraiso do tocantins,3,3
-boleto,parambu,3,3
+boleto,parambu,3,2
 boleto,paranapanema,3,3
 boleto,paraopeba,3,3
-boleto,paty do alferes,3,3
+boleto,paty do alferes,3,2
 boleto,pedra branca,3,3
 boleto,pedrinhas paulista,3,3
 boleto,penha,3,3
-boleto,perdigao,3,3
+boleto,perdigao,3,1
 boleto,perdizes,3,3
 boleto,perdoes,3,3
 boleto,pereira barreto,3,3
@@ -2804,14 +2804,14 @@ boleto,presidente venceslau,3,3
 boleto,quatis,3,3
 boleto,quirinopolis,3,3
 boleto,quixada,3,3
-boleto,raul soares,3,3
+boleto,raul soares,3,2
 boleto,redencao,3,3
 boleto,regeneracao,3,3
 boleto,regente feijo,3,3
 boleto,rio bonito do iguacu,3,3
 boleto,rio brilhante,3,3
 boleto,rio das pedras,3,3
-boleto,rio do pires,3,3
+boleto,rio do pires,3,2
 boleto,rio fortuna,3,3
 boleto,rio negrinho,3,3
 boleto,ronda alta,3,3
@@ -2840,7 +2840,7 @@ boleto,sidrolandia,3,3
 boleto,taguai,3,3
 boleto,tanabi,3,3
 boleto,tapejara,3,3
-boleto,tapiratiba,3,3
+boleto,tapiratiba,3,2
 boleto,taquara,3,3
 boleto,taquari,3,3
 boleto,teotonio vilela,3,3
@@ -2865,7 +2865,7 @@ credit_card,alfredo vasconcelos,3,3
 credit_card,alto parnaiba,3,3
 credit_card,alto rio doce,3,3
 credit_card,alto santo,3,3
-credit_card,alvorada do norte,3,3
+credit_card,alvorada do norte,3,2
 credit_card,amelia rodrigues,3,3
 credit_card,anta,3,3
 credit_card,antonio prado,3,3
@@ -2880,9 +2880,9 @@ credit_card,azurita,3,3
 credit_card,balneario arroio do silva,3,3
 credit_card,balneario rincao,3,3
 credit_card,bandeira,3,3
-credit_card,barbosa ferraz,3,3
+credit_card,barbosa ferraz,3,2
 credit_card,barra do choca,3,3
-credit_card,barra do tarrachil,3,3
+credit_card,barra do tarrachil,3,1
 credit_card,barra do turvo,3,3
 credit_card,barracao,3,3
 credit_card,barras,3,3
@@ -2896,11 +2896,11 @@ credit_card,bituruna,3,3
 credit_card,boa viagem,3,3
 credit_card,bofete,3,3
 credit_card,bom jesus do galho,3,3
-credit_card,bom repouso,3,3
+credit_card,bom repouso,3,2
 credit_card,bonfim,3,3
 credit_card,borda da mata,3,3
 credit_card,caarapo,3,3
-credit_card,cabeceira grande,3,3
+credit_card,cabeceira grande,3,2
 credit_card,cabrobo,3,3
 credit_card,cachoeira alta,3,3
 credit_card,caiaponia,3,3
@@ -2921,7 +2921,7 @@ credit_card,capivari de baixo,3,3
 credit_card,carajas,3,3
 credit_card,carambei,3,3
 credit_card,carapebus,3,3
-credit_card,carbonita,3,3
+credit_card,carbonita,3,2
 credit_card,cardoso,3,3
 credit_card,carire,3,3
 credit_card,carius,3,3
@@ -2933,8 +2933,8 @@ credit_card,castanheira,3,3
 credit_card,catas altas,3,3
 credit_card,cedro de sao joao,3,3
 credit_card,centenario do sul,3,3
-credit_card,cerro azul,3,3
-credit_card,chui,3,3
+credit_card,cerro azul,3,2
+credit_card,chui,3,2
 credit_card,cidreira,3,3
 credit_card,conceicao da aparecida,3,3
 credit_card,conceicao da barra,3,3
@@ -2957,7 +2957,7 @@ credit_card,deputado irapuan pinheiro,3,3
 credit_card,descoberto,3,3
 credit_card,diamante do norte,3,3
 credit_card,dionisio cerqueira,3,3
-credit_card,durande,3,3
+credit_card,durande,3,2
 credit_card,edeia,3,3
 credit_card,eldorado,3,3
 credit_card,eliseu martins,3,3
@@ -2997,15 +2997,15 @@ credit_card,inaciolandia,3,3
 credit_card,indiana,3,3
 credit_card,inhapim,3,3
 credit_card,ipiacu,3,3
-credit_card,ipiranga,3,3
+credit_card,ipiranga,3,2
 credit_card,ipora do oeste,3,3
 credit_card,ipua,3,3
 credit_card,ipubi,3,3
 credit_card,ipueiras,3,3
-credit_card,irani,3,3
+credit_card,irani,3,2
 credit_card,iraquara,3,3
 credit_card,itacarambi,3,3
-credit_card,itaju,3,3
+credit_card,itaju,3,2
 credit_card,itajuipe,3,3
 credit_card,itaoca,3,3
 credit_card,itapaci,3,3
@@ -3027,8 +3027,8 @@ credit_card,jaiba,3,3
 credit_card,jardim,3,3
 credit_card,jatoba,3,3
 credit_card,jeceaba,3,3
-credit_card,jequia da praia,3,3
-credit_card,joao ramalho,3,3
+credit_card,jequia da praia,3,2
+credit_card,joao ramalho,3,2
 credit_card,joaquim tavora,3,3
 credit_card,juatuba,3,3
 credit_card,juti,3,3
@@ -3062,21 +3062,21 @@ credit_card,miguel calmon,3,3
 credit_card,minas novas,3,3
 credit_card,mineiros do tiete,3,3
 credit_card,miracatu,3,3
-credit_card,mirante do paranapanema,3,3
+credit_card,mirante do paranapanema,3,2
 credit_card,moju,3,3
 credit_card,monsenhor tabosa,3,3
 credit_card,monte belo,3,3
-credit_card,monte carlo,3,3
+credit_card,monte carlo,3,2
 credit_card,monte verde,3,3
 credit_card,morretes,3,3
 credit_card,morro reuter,3,3
 credit_card,morungaba,3,3
 credit_card,muqui,3,3
 credit_card,nao-me-toque,3,3
-credit_card,nazario,3,3
+credit_card,nazario,3,2
 credit_card,neves paulista,3,3
 credit_card,nova alvorada do sul,3,3
-credit_card,nova cruz,3,3
+credit_card,nova cruz,3,2
 credit_card,nova hartz,3,3
 credit_card,nova mutum,3,3
 credit_card,nova olinda do maranhao,3,3
@@ -3089,19 +3089,19 @@ credit_card,orizona,3,3
 credit_card,otacilio costa,3,3
 credit_card,ouro preto do oeste,3,3
 credit_card,pacatuba,3,3
-credit_card,pains,3,3
+credit_card,pains,3,2
 credit_card,palma,3,3
 credit_card,palma sola,3,3
 credit_card,palmitos,3,3
 credit_card,pantano grande,3,3
 credit_card,paracuru,3,3
 credit_card,parai,3,3
-credit_card,paraiso do norte,3,3
+credit_card,paraiso do norte,3,2
 credit_card,paramirim,3,3
 credit_card,paranaita,3,3
 credit_card,parauna,3,3
 credit_card,patu,3,3
-credit_card,paulistana,3,3
+credit_card,paulistana,3,2
 credit_card,paulo de faria,3,3
 credit_card,peabiru,3,3
 credit_card,pedra bela,3,3
@@ -3111,10 +3111,10 @@ credit_card,pedro afonso,3,3
 credit_card,pedro canario,3,3
 credit_card,pedro osorio,3,3
 credit_card,pereiro,3,3
-credit_card,periquito,3,3
+credit_card,periquito,3,2
 credit_card,pien,3,3
-credit_card,piranhas,3,3
-credit_card,piritiba,3,3
+credit_card,piranhas,3,2
+credit_card,piritiba,3,2
 credit_card,pitanga,3,3
 credit_card,pongai,3,3
 credit_card,ponte serrada,3,3
@@ -3125,7 +3125,7 @@ credit_card,pouso redondo,3,3
 credit_card,presidente medici,3,3
 credit_card,presidente tancredo neves,3,3
 credit_card,propria,3,3
-credit_card,prudente de morais,3,3
+credit_card,prudente de morais,3,2
 credit_card,quatigua,3,3
 credit_card,quatro bocas,3,3
 credit_card,quilombo,3,3
@@ -3139,14 +3139,14 @@ credit_card,remanso,3,3
 credit_card,renascenca,3,3
 credit_card,reriutaba,3,3
 credit_card,riacho de santana,3,3
-credit_card,riacho dos machados,3,3
+credit_card,riacho dos machados,3,2
 credit_card,rianapolis,3,3
 credit_card,ribeira,3,3
 credit_card,ribeirao,3,3
 credit_card,rinopolis,3,3
 credit_card,rio do campo,3,3
 credit_card,rio do oeste,3,3
-credit_card,rio maria,3,3
+credit_card,rio maria,3,1
 credit_card,rio pardo de minas,3,3
 credit_card,rio piracicaba,3,3
 credit_card,ritapolis,3,3
@@ -3160,7 +3160,7 @@ credit_card,salto do jacui,3,3
 credit_card,sangao,3,3
 credit_card,sanharo,3,3
 credit_card,santa barbara d oeste,3,3
-credit_card,santa cruz da conceicao,3,3
+credit_card,santa cruz da conceicao,3,2
 credit_card,santa fe de goias,3,3
 credit_card,santa maria de itabira,3,3
 credit_card,santa rita d'oeste,3,3
@@ -3182,15 +3182,15 @@ credit_card,sao jose do turvo,3,3
 credit_card,sao ludgero,3,3
 credit_card,sao luis do paraitinga,3,3
 credit_card,sao miguel do tapuio,3,3
-credit_card,sao pedro dos ferros,3,3
+credit_card,sao pedro dos ferros,3,2
 credit_card,sao raimundo nonato,3,3
 credit_card,sao sebastiao da grama,3,3
 credit_card,sao sebastiao do alto,3,3
 credit_card,sao sebastiao do maranhao,3,3
 credit_card,sao sebastiao do passe,3,3
-credit_card,sao valentim,3,3
+credit_card,sao valentim,3,2
 credit_card,saudade do iguacu,3,3
-credit_card,seringueiras,3,3
+credit_card,seringueiras,3,2
 credit_card,serra do ramalho,3,3
 credit_card,serra dos aimores,3,3
 credit_card,serranopolis,3,3
@@ -3217,7 +3217,7 @@ credit_card,trancoso,3,3
 credit_card,travessao,3,3
 credit_card,tres fronteiras,3,3
 credit_card,tucuma,3,3
-credit_card,tupancireta,3,3
+credit_card,tupancireta,3,2
 credit_card,uaua,3,3
 credit_card,ubaitaba,3,3
 credit_card,uibai,3,3
@@ -3229,7 +3229,7 @@ credit_card,varre-sai,3,3
 credit_card,ventania,3,3
 credit_card,vera,3,3
 credit_card,vigia,3,3
-credit_card,visconde de maua,3,3
+credit_card,visconde de maua,3,2
 credit_card,vitorino freire,3,3
 credit_card,ze doca,3,3
 debit_card,amparo,3,3
@@ -3238,7 +3238,7 @@ debit_card,cajamar,3,3
 debit_card,camacari,3,3
 debit_card,caxias do sul,3,3
 debit_card,cotia,3,3
-debit_card,erechim,3,3
+debit_card,erechim,3,2
 debit_card,ferraz de vasconcelos,3,3
 debit_card,guaratingueta,3,3
 debit_card,ipatinga,3,3
@@ -3247,9 +3247,9 @@ debit_card,itaquaquecetuba,3,3
 debit_card,itu,3,3
 debit_card,jundiai,3,3
 debit_card,lajeado,3,3
-debit_card,louveira,3,3
+debit_card,louveira,3,2
 debit_card,maceio,3,3
-debit_card,mariana,3,3
+debit_card,mariana,3,2
 debit_card,marilia,3,3
 debit_card,mesquita,3,3
 debit_card,palmas,3,3
@@ -3267,68 +3267,68 @@ debit_card,uberlandia,3,3
 debit_card,valinhos,3,3
 debit_card,varginha,3,3
 not_defined,sao paulo,3,3
-voucher,anchieta,3,3
-voucher,aparecida,3,3
+voucher,anchieta,3,1
+voucher,aparecida,3,2
 voucher,araraquara,3,3
 voucher,araruama,3,3
 voucher,assis,3,3
-voucher,campo belo,3,3
+voucher,campo belo,3,2
 voucher,campo limpo paulista,3,3
 voucher,cangucu,3,3
-voucher,capao da canoa,3,3
-voucher,charqueada,3,3
-voucher,curvelo,3,3
-voucher,erechim,3,3
+voucher,capao da canoa,3,1
+voucher,charqueada,3,1
+voucher,curvelo,3,2
+voucher,erechim,3,1
 voucher,ferraz de vasconcelos,3,3
 voucher,francisco morato,3,3
-voucher,guaira,3,3
-voucher,holambra,3,3
-voucher,ibatiba,3,3
-voucher,ijui,3,3
+voucher,guaira,3,2
+voucher,holambra,3,2
+voucher,ibatiba,3,1
+voucher,ijui,3,2
 voucher,itabira,3,3
-voucher,itanhaem,3,3
+voucher,itanhaem,3,2
 voucher,itapeva,3,3
-voucher,itau de minas,3,3
+voucher,itau de minas,3,1
 voucher,ituiutaba,3,3
 voucher,jaboticabal,3,3
-voucher,lages,3,3
+voucher,lages,3,2
 voucher,linhares,3,3
 voucher,lorena,3,3
 voucher,macapa,3,3
 voucher,manhuacu,3,3
 voucher,mogi-guacu,3,3
-voucher,mongagua,3,3
+voucher,mongagua,3,2
 voucher,mossoro,3,3
 voucher,nilopolis,3,3
 voucher,ouro preto,3,3
-voucher,palhoca,3,3
+voucher,palhoca,3,2
 voucher,paracatu,3,3
-voucher,parnaiba,3,3
-voucher,penha,3,3
-voucher,picos,3,3
-voucher,pinhais,3,3
+voucher,parnaiba,3,2
+voucher,penha,3,1
+voucher,picos,3,2
+voucher,pinhais,3,2
 voucher,piracaia,3,3
 voucher,pirapora,3,3
-voucher,pirapora do bom jesus,3,3
+voucher,pirapora do bom jesus,3,2
 voucher,ponte nova,3,3
-voucher,posse,3,3
+voucher,posse,3,1
 voucher,ribeirao das neves,3,3
 voucher,rio grande,3,3
-voucher,santa isabel,3,3
-voucher,santo amaro,3,3
-voucher,sao joao do paraiso,3,3
+voucher,santa isabel,3,1
+voucher,santo amaro,3,1
+voucher,sao joao do paraiso,3,1
 voucher,sao lourenco,3,3
-voucher,sao lourenco da mata,3,3
+voucher,sao lourenco da mata,3,2
 voucher,sao roque,3,3
-voucher,saquarema,3,3
+voucher,saquarema,3,2
 voucher,tatui,3,3
-voucher,tiangua,3,3
-voucher,timon,3,3
+voucher,tiangua,3,2
+voucher,timon,3,2
 voucher,timoteo,3,3
-voucher,tremembe,3,3
-voucher,tres lagoas,3,3
+voucher,tremembe,3,2
+voucher,tres lagoas,3,2
 voucher,valenca,3,3
-voucher,vargem alegre,3,3
+voucher,vargem alegre,3,1
 boleto,abre campo,2,2
 boleto,agua branca,2,2
 boleto,aguai,2,2
@@ -3351,21 +3351,21 @@ boleto,aracitaba,2,2
 boleto,ararangua,2,2
 boleto,armacao dos buzios,2,2
 boleto,arroio do meio,2,2
-boleto,arvorezinha,2,2
+boleto,arvorezinha,2,1
 boleto,ataleia,2,2
 boleto,aurora,2,2
 boleto,baependi,2,2
-boleto,balsamo,2,2
+boleto,balsamo,2,1
 boleto,bandeirantes,2,2
-boleto,barao de cotegipe,2,2
+boleto,barao de cotegipe,2,1
 boleto,barbalha,2,2
-boleto,barra de sao francisco,2,2
+boleto,barra de sao francisco,2,1
 boleto,barroso,2,2
 boleto,bela vista,2,2
 boleto,bias fortes,2,2
 boleto,biritiba-mirim,2,2
 boleto,bituruna,2,2
-boleto,bom jesus da penha,2,2
+boleto,bom jesus da penha,2,1
 boleto,bom jesus da serra,2,2
 boleto,bom repouso,2,2
 boleto,bom retiro do sul,2,2
@@ -3430,7 +3430,7 @@ boleto,cidreira,2,2
 boleto,claudia,2,2
 boleto,clevelandia,2,2
 boleto,cocalinho,2,2
-boleto,coelho neto,2,2
+boleto,coelho neto,2,1
 boleto,colina,2,2
 boleto,colinas,2,2
 boleto,colinas do tocantins,2,2
@@ -3457,7 +3457,7 @@ boleto,curiuva,2,2
 boleto,currais novos,2,2
 boleto,diamante do norte,2,2
 boleto,diamantina,2,2
-boleto,diamantino,2,2
+boleto,diamantino,2,1
 boleto,dianopolis,2,2
 boleto,divinolandia,2,2
 boleto,dom aquino,2,2
@@ -3477,7 +3477,7 @@ boleto,eusebio,2,2
 boleto,fartura,2,2
 boleto,fatima,2,2
 boleto,fazenda nova,2,2
-boleto,floresta,2,2
+boleto,floresta,2,1
 boleto,gameleiras,2,2
 boleto,garibaldi,2,2
 boleto,gaspar,2,2
@@ -3537,12 +3537,12 @@ boleto,jaciara,2,2
 boleto,jacui,2,2
 boleto,januaria,2,2
 boleto,jardim,2,2
-boleto,jatoba,2,2
+boleto,jatoba,2,1
 boleto,jeceaba,2,2
 boleto,jijoca de jericoacoara,2,2
 boleto,joanopolis,2,2
 boleto,juranda,2,2
-boleto,juruaia,2,2
+boleto,juruaia,2,1
 boleto,jussara,2,2
 boleto,lagarto,2,2
 boleto,lago da pedra,2,2
@@ -3569,7 +3569,7 @@ boleto,moreira sales,2,2
 boleto,morro agudo,2,2
 boleto,morro do chapeu,2,2
 boleto,munhoz de melo,2,2
-boleto,nazare paulista,2,2
+boleto,nazare paulista,2,1
 boleto,nonoai,2,2
 boleto,nova bandeirantes,2,2
 boleto,nova bassano,2,2
@@ -3580,7 +3580,7 @@ boleto,nova ponte,2,2
 boleto,nova prata do iguacu,2,2
 boleto,nova venecia,2,2
 boleto,nova veneza,2,2
-boleto,nucleo residencial pilar,2,2
+boleto,nucleo residencial pilar,2,1
 boleto,oeiras,2,2
 boleto,orindiuva,2,2
 boleto,orizona,2,2
@@ -3600,7 +3600,7 @@ boleto,paraibuna,2,2
 boleto,paraiso,2,2
 boleto,paramirim,2,2
 boleto,paranacity,2,2
-boleto,parapua,2,2
+boleto,parapua,2,1
 boleto,parati,2,2
 boleto,pariquera-acu,2,2
 boleto,passa quatro,2,2
@@ -3639,11 +3639,11 @@ boleto,quevedos,2,2
 boleto,quissama,2,2
 boleto,quixelo,2,2
 boleto,quixeramobim,2,2
-boleto,raposo,2,2
+boleto,raposo,2,1
 boleto,realeza,2,2
 boleto,reboucas,2,2
 boleto,recreio,2,2
-boleto,redentora,2,2
+boleto,redentora,2,1
 boleto,ribeirao do pinhal,2,2
 boleto,rio acima,2,2
 boleto,rodolfo fernandes,2,2
@@ -3666,9 +3666,9 @@ boleto,santa rita de caldas,2,2
 boleto,santa rita de minas,2,2
 boleto,santa rita do ibitipoca,2,2
 boleto,santana dos montes,2,2
-boleto,santo anastacio,2,2
+boleto,santo anastacio,2,1
 boleto,santo antonio das missoes,2,2
-boleto,santo augusto,2,2
+boleto,santo augusto,2,1
 boleto,santo cristo,2,2
 boleto,sao bernardo,2,2
 boleto,sao cristovao,2,2
@@ -3704,7 +3704,7 @@ boleto,sertanopolis,2,2
 boleto,sertao,2,2
 boleto,setubinha,2,2
 boleto,sirinhaem,2,2
-boleto,soledade de minas,2,2
+boleto,soledade de minas,2,1
 boleto,sooretama,2,2
 boleto,sousa,2,2
 boleto,taiuva,2,2
@@ -3718,7 +3718,7 @@ boleto,timbo,2,2
 boleto,timon,2,2
 boleto,tocantins,2,2
 boleto,torres,2,2
-boleto,tres cachoeiras,2,2
+boleto,tres cachoeiras,2,1
 boleto,tres de maio,2,2
 boleto,tres fronteiras,2,2
 boleto,trindade do sul,2,2
@@ -3763,7 +3763,7 @@ credit_card,alta floresta d'oeste,2,2
 credit_card,altamira do parana,2,2
 credit_card,alterosa,2,2
 credit_card,alto alegre,2,2
-credit_card,alto alegre do iguacu,2,2
+credit_card,alto alegre do iguacu,2,1
 credit_card,alto caparao,2,2
 credit_card,alto garcas,2,2
 credit_card,alto parana,2,2
@@ -3774,7 +3774,7 @@ credit_card,altos,2,2
 credit_card,alvarenga,2,2
 credit_card,alvares florence,2,2
 credit_card,amapora,2,2
-credit_card,amarante,2,2
+credit_card,amarante,2,1
 credit_card,americano do brasil,2,2
 credit_card,anadia,2,2
 credit_card,analandia,2,2
@@ -3790,7 +3790,7 @@ credit_card,apiai,2,2
 credit_card,apuiares,2,2
 credit_card,aragarcas,2,2
 credit_card,araguapaz,2,2
-credit_card,aramari,2,2
+credit_card,aramari,2,1
 credit_card,arapei,2,2
 credit_card,arari,2,2
 credit_card,ararica,2,2
@@ -3806,10 +3806,10 @@ credit_card,arenapolis,2,2
 credit_card,arneiroz,2,2
 credit_card,arraias,2,2
 credit_card,arroio grande,2,2
-credit_card,aruana,2,2
+credit_card,aruana,2,1
 credit_card,arvorezinha,2,2
 credit_card,augusto pestana,2,2
-credit_card,bacuri,2,2
+credit_card,bacuri,2,1
 credit_card,baianopolis,2,2
 credit_card,baldim,2,2
 credit_card,balneario gaivota,2,2
@@ -3826,7 +3826,7 @@ credit_card,benevides,2,2
 credit_card,bento de abreu,2,2
 credit_card,boa vista do gurupi,2,2
 credit_card,boca da mata,2,2
-credit_card,bodoquena,2,2
+credit_card,bodoquena,2,1
 credit_card,bom jesus das selvas,2,2
 credit_card,bonfinopolis,2,2
 credit_card,bonfinopolis de minas,2,2
@@ -3859,7 +3859,7 @@ credit_card,canhotinho,2,2
 credit_card,caninde de sao francisco,2,2
 credit_card,capela de santana,2,2
 credit_card,capetinga,2,2
-credit_card,capim branco,2,2
+credit_card,capim branco,2,1
 credit_card,capinzal do norte,2,2
 credit_card,capitao leonidas marques,2,2
 credit_card,caputira,2,2
@@ -3876,7 +3876,7 @@ credit_card,castro alves,2,2
 credit_card,catarina,2,2
 credit_card,catu de abrantes,2,2
 credit_card,cavalcante,2,2
-credit_card,centro novo do maranhao,2,2
+credit_card,centro novo do maranhao,2,1
 credit_card,chacara,2,2
 credit_card,chale,2,2
 credit_card,chapada,2,2
@@ -3900,9 +3900,9 @@ credit_card,conde,2,2
 credit_card,congonhinhas,2,2
 credit_card,conquista,2,2
 credit_card,corbelia,2,2
-credit_card,corguinho,2,2
+credit_card,corguinho,2,1
 credit_card,coronel macedo,2,2
-credit_card,coronel martins,2,2
+credit_card,coronel martins,2,1
 credit_card,correntina,2,2
 credit_card,cortes,2,2
 credit_card,corumbatai,2,2
@@ -3919,14 +3919,14 @@ credit_card,cruzilia,2,2
 credit_card,cubati,2,2
 credit_card,cumaru,2,2
 credit_card,curiuva,2,2
-credit_card,curuca,2,2
+credit_card,curuca,2,1
 credit_card,cururupu,2,2
 credit_card,damianopolis,2,2
 credit_card,david canabarro,2,2
 credit_card,delfinopolis,2,2
 credit_card,denise,2,2
 credit_card,dionisio,2,2
-credit_card,diorama,2,2
+credit_card,diorama,2,1
 credit_card,divisa alegre,2,2
 credit_card,dois irmaos do buriti,2,2
 credit_card,dom pedro,2,2
@@ -3936,7 +3936,7 @@ credit_card,dores do rio preto,2,2
 credit_card,dormentes,2,2
 credit_card,doverlandia,2,2
 credit_card,elisio medrado,2,2
-credit_card,emilianopolis,2,2
+credit_card,emilianopolis,2,1
 credit_card,eneas marques,2,2
 credit_card,esperantina,2,2
 credit_card,esperantinopolis,2,2
@@ -3946,11 +3946,11 @@ credit_card,espirito santo do turvo,2,2
 credit_card,estacao,2,2
 credit_card,estrela do indaia,2,2
 credit_card,euclides da cunha,2,2
-credit_card,euclides da cunha paulista,2,2
+credit_card,euclides da cunha paulista,2,1
 credit_card,fazenda nova,2,2
 credit_card,fazenda vilanova,2,2
 credit_card,ferros,2,2
-credit_card,figueiropolis d'oeste,2,2
+credit_card,figueiropolis d'oeste,2,1
 credit_card,flor da serra do sul,2,2
 credit_card,floreal,2,2
 credit_card,flores,2,2
@@ -3971,7 +3971,7 @@ credit_card,governador celso ramos,2,2
 credit_card,grandes rios,2,2
 credit_card,grao mogol,2,2
 credit_card,grao para,2,2
-credit_card,guaiuba,2,2
+credit_card,guaiuba,2,1
 credit_card,guarai,2,2
 credit_card,guarani das missoes,2,2
 credit_card,guarara,2,2
@@ -3986,13 +3986,13 @@ credit_card,ibateguara,2,2
 credit_card,ibiaca,2,2
 credit_card,ibiai,2,2
 credit_card,ibiraci,2,2
-credit_card,ibiraja,2,2
+credit_card,ibiraja,2,1
 credit_card,iconha,2,2
 credit_card,ielmo marinho,2,2
 credit_card,igaci,2,2
 credit_card,igreja nova,2,2
 credit_card,iguai,2,2
-credit_card,iguaracu,2,2
+credit_card,iguaracu,2,1
 credit_card,iguatama,2,2
 credit_card,ilha comprida,2,2
 credit_card,imaculada,2,2
@@ -4008,7 +4008,7 @@ credit_card,ipaporanga,2,2
 credit_card,ipe,2,2
 credit_card,ipumirim,2,2
 credit_card,irai de minas,2,2
-credit_card,irape,2,2
+credit_card,irape,2,1
 credit_card,irineopolis,2,2
 credit_card,irupi,2,2
 credit_card,ita,2,2
@@ -4017,29 +4017,29 @@ credit_card,itabatan,2,2
 credit_card,itagi,2,2
 credit_card,itagiba,2,2
 credit_card,itaguaje,2,2
-credit_card,itaguara,2,2
+credit_card,itaguara,2,1
 credit_card,itaguaru,2,2
 credit_card,itaituba,2,2
 credit_card,itaja,2,2
 credit_card,itamari,2,2
 credit_card,itambaraca,2,2
-credit_card,itamira,2,2
+credit_card,itamira,2,1
 credit_card,itamogi,2,2
 credit_card,itapecuru mirim,2,2
 credit_card,itapetim,2,2
 credit_card,itapirapua,2,2
-credit_card,itapiuna,2,2
+credit_card,itapiuna,2,1
 credit_card,itaquirai,2,2
 credit_card,itaquitinga,2,2
 credit_card,itatiaiucu,2,2
 credit_card,itau,2,2
-credit_card,itaueira,2,2
+credit_card,itaueira,2,1
 credit_card,itororo,2,2
 credit_card,ituacu,2,2
 credit_card,itubera,2,2
 credit_card,ivinhema,2,2
 credit_card,jaborandi,2,2
-credit_card,jacareacanga,2,2
+credit_card,jacareacanga,2,1
 credit_card,jacinto,2,2
 credit_card,jacui,2,2
 credit_card,janiopolis,2,2
@@ -4083,7 +4083,7 @@ credit_card,magda,2,2
 credit_card,mairi,2,2
 credit_card,manduri,2,2
 credit_card,manoel ribas,2,2
-credit_card,mar vermelho,2,2
+credit_card,mar vermelho,2,1
 credit_card,mara rosa,2,2
 credit_card,maracana,2,2
 credit_card,maranguape,2,2
@@ -4157,7 +4157,7 @@ credit_card,panelas,2,2
 credit_card,paranaiguara,2,2
 credit_card,paranapua,2,2
 credit_card,paranatinga,2,2
-credit_card,passira,2,2
+credit_card,passira,2,1
 credit_card,passos maia,2,2
 credit_card,patrocinio do muriae,2,2
 credit_card,pauliceia,2,2
@@ -4173,7 +4173,7 @@ credit_card,penaforte,2,2
 credit_card,pendencias,2,2
 credit_card,pentecoste,2,2
 credit_card,perpetuo socorro,2,2
-credit_card,piacabucu,2,2
+credit_card,piacabucu,2,1
 credit_card,piau,2,2
 credit_card,piedade do rio grande,2,2
 credit_card,piedade dos gerais,2,2
@@ -4185,15 +4185,15 @@ credit_card,pindare mirim,2,2
 credit_card,pinheiro,2,2
 credit_card,pintadas,2,2
 credit_card,piranga,2,2
-credit_card,pirauba,2,2
+credit_card,pirauba,2,1
 credit_card,pirenopolis,2,2
 credit_card,piripa,2,2
-credit_card,pirpirituba,2,2
+credit_card,pirpirituba,2,1
 credit_card,piumhi,2,2
 credit_card,planura,2,2
 credit_card,pocinhos,2,2
 credit_card,poloni,2,2
-credit_card,pontalina,2,2
+credit_card,pontalina,2,1
 credit_card,porangaba,2,2
 credit_card,portalegre,2,2
 credit_card,porto amazonas,2,2
@@ -4210,7 +4210,7 @@ credit_card,resende costa,2,2
 credit_card,reserva,2,2
 credit_card,reserva do cabacal,2,2
 credit_card,restinga seca,2,2
-credit_card,riachao das neves,2,2
+credit_card,riachao das neves,2,1
 credit_card,riacho das almas,2,2
 credit_card,ribeirao branco,2,2
 credit_card,ribeirao do pinhal,2,2
@@ -4223,7 +4223,7 @@ credit_card,riolandia,2,2
 credit_card,riqueza,2,2
 credit_card,roca sales,2,2
 credit_card,rodeio bonito,2,2
-credit_card,rodeiro,2,2
+credit_card,rodeiro,2,1
 credit_card,rodelas,2,2
 credit_card,rosana,2,2
 credit_card,sales oliveira,2,2
@@ -4262,7 +4262,7 @@ credit_card,sao jorge do patrocinio,2,2
 credit_card,sao jose da coroa grande,2,2
 credit_card,sao jose da laje,2,2
 credit_card,sao jose da vitoria,2,2
-credit_card,sao jose do barreiro,2,2
+credit_card,sao jose do barreiro,2,1
 credit_card,sao jose do cerrito,2,2
 credit_card,sao jose do divino,2,2
 credit_card,sao jose do hortencio,2,2
@@ -4271,7 +4271,7 @@ credit_card,sao jose do rio claro,2,2
 credit_card,sao jose dos quatro marcos,2,2
 credit_card,sao martinho,2,2
 credit_card,sao miguel do araguaia,2,2
-credit_card,sao miguel do guapore,2,2
+credit_card,sao miguel do guapore,2,1
 credit_card,sao miguel dos campos,2,2
 credit_card,sao paulo do potengi,2,2
 credit_card,sao pedro do ivai,2,2
@@ -4282,7 +4282,7 @@ credit_card,sapopema,2,2
 credit_card,sarapui,2,2
 credit_card,satuba,2,2
 credit_card,saude,2,2
-credit_card,senador amaral,2,2
+credit_card,senador amaral,2,1
 credit_card,senador modestino goncalves,2,2
 credit_card,senador pompeu,2,2
 credit_card,senhora de oliveira,2,2
@@ -4292,12 +4292,12 @@ credit_card,serrania,2,2
 credit_card,serranopolis do iguacu,2,2
 credit_card,serrolandia,2,2
 credit_card,sertanopolis,2,2
-credit_card,silvianopolis,2,2
+credit_card,silvianopolis,2,1
 credit_card,simolandia,2,2
 credit_card,sinimbu,2,2
 credit_card,sitio do quinto,2,2
 credit_card,sitio novo,2,2
-credit_card,sitio novo do tocantins,2,2
+credit_card,sitio novo do tocantins,2,1
 credit_card,solonopole,2,2
 credit_card,sonora,2,2
 credit_card,sucupira do norte,2,2
@@ -4305,7 +4305,7 @@ credit_card,tabapora,2,2
 credit_card,tabocas do brejo velho,2,2
 credit_card,tacaratu,2,2
 credit_card,taciba,2,2
-credit_card,tanque d'arca,2,2
+credit_card,tanque d'arca,2,1
 credit_card,tanque novo,2,2
 credit_card,tapirai,2,2
 credit_card,tapiramuta,2,2
@@ -4330,7 +4330,7 @@ credit_card,ubajara,2,2
 credit_card,ubaporanga,2,2
 credit_card,uchoa,2,2
 credit_card,uniao dos palmares,2,2
-credit_card,unistalda,2,2
+credit_card,unistalda,2,1
 credit_card,upanema,2,2
 credit_card,urai,2,2
 credit_card,uruana,2,2
@@ -4357,7 +4357,7 @@ credit_card,vitoria do mearim,2,2
 credit_card,wenceslau braz,2,2
 credit_card,wenceslau guimaraes,2,2
 credit_card,werneck,2,2
-credit_card,xambre,2,2
+credit_card,xambre,2,1
 credit_card,xapuri,2,2
 credit_card,zacarias,2,2
 credit_card,zortea,2,2
@@ -4380,7 +4380,7 @@ debit_card,caraguatatuba,2,2
 debit_card,caratinga,2,2
 debit_card,cascavel,2,2
 debit_card,colatina,2,2
-debit_card,conquista,2,2
+debit_card,conquista,2,1
 debit_card,conselheiro lafaiete,2,2
 debit_card,cruz das almas,2,2
 debit_card,dois irmaos,2,2
@@ -4392,7 +4392,7 @@ debit_card,gramado,2,2
 debit_card,guarapuava,2,2
 debit_card,guaruja,2,2
 debit_card,indaiatuba,2,2
-debit_card,itabaiana,2,2
+debit_card,itabaiana,2,1
 debit_card,itabira,2,2
 debit_card,itanhaem,2,2
 debit_card,itapetininga,2,2
@@ -4440,122 +4440,122 @@ voucher,aguas de lindoia,2,2
 voucher,aguas lindas de goias,2,2
 voucher,alagoinhas,2,2
 voucher,alfenas,2,2
-voucher,almirante tamandare,2,2
-voucher,anhandui,2,2
+voucher,almirante tamandare,2,1
+voucher,anhandui,2,1
 voucher,anita garibaldi,2,2
 voucher,ararangua,2,2
 voucher,arcoverde,2,2
-voucher,assis chateaubriand,2,2
+voucher,assis chateaubriand,2,1
 voucher,auriflama,2,2
 voucher,balneario camboriu,2,2
-voucher,bananeiras,2,2
+voucher,bananeiras,2,1
 voucher,barbacena,2,2
-voucher,barra de sao joao,2,2
+voucher,barra de sao joao,2,1
 voucher,barra do pirai,2,2
 voucher,barreiras,2,2
 voucher,bastos,2,2
 voucher,cacador,2,2
-voucher,camboriu,2,2
+voucher,camboriu,2,1
 voucher,campo ere,2,2
 voucher,campos do jordao,2,2
 voucher,candido mota,2,2
-voucher,carangola,2,2
-voucher,carmo do rio claro,2,2
+voucher,carangola,2,1
+voucher,carmo do rio claro,2,1
 voucher,castilho,2,2
 voucher,catanduva,2,2
-voucher,cerquilho,2,2
+voucher,cerquilho,2,1
 voucher,cianorte,2,2
 voucher,cicero dantas,2,2
-voucher,claudio,2,2
+voucher,claudio,2,1
 voucher,coromandel,2,2
 voucher,criciuma,2,2
 voucher,cruzeiro,2,2
 voucher,dias d'avila,2,2
 voucher,divino,2,2
-voucher,embu das artes,2,2
-voucher,estancia velha,2,2
+voucher,embu das artes,2,1
+voucher,estancia velha,2,1
 voucher,farroupilha,2,2
 voucher,garanhuns,2,2
-voucher,goitacazes,2,2
+voucher,goitacazes,2,1
 voucher,gramado,2,2
-voucher,guanambi,2,2
+voucher,guanambi,2,1
 voucher,guanhaes,2,2
-voucher,guarani,2,2
+voucher,guarani,2,1
 voucher,gurupi,2,2
 voucher,ibiruba,2,2
-voucher,igarape,2,2
-voucher,ilha solteira,2,2
-voucher,ipiau,2,2
-voucher,irece,2,2
+voucher,igarape,2,1
+voucher,ilha solteira,2,1
+voucher,ipiau,2,1
+voucher,irece,2,1
 voucher,itaperuna,2,2
 voucher,itaporanga,2,2
-voucher,itaquitinga,2,2
+voucher,itaquitinga,2,1
 voucher,itarare,2,2
 voucher,itumbiara,2,2
 voucher,jacutinga,2,2
 voucher,jaguariaiva,2,2
 voucher,jales,2,2
 voucher,januaria,2,2
-voucher,jardim do serido,2,2
-voucher,jardinopolis,2,2
+voucher,jardim do serido,2,1
+voucher,jardinopolis,2,1
 voucher,joacaba,2,2
-voucher,joao pinheiro,2,2
-voucher,jose bonifacio,2,2
+voucher,joao pinheiro,2,1
+voucher,jose bonifacio,2,1
 voucher,juazeiro do norte,2,2
-voucher,lagoa nova,2,2
+voucher,lagoa nova,2,1
 voucher,limoeiro do norte,2,2
-voucher,luizlandia do oeste,2,2
+voucher,luizlandia do oeste,2,1
 voucher,mairipora,2,2
 voucher,maraba,2,2
 voucher,maracanau,2,2
 voucher,matao,2,2
 voucher,monte alto,2,2
-voucher,monte aprazivel,2,2
+voucher,monte aprazivel,2,1
 voucher,montenegro,2,2
 voucher,mostardas,2,2
 voucher,novo gama,2,2
 voucher,ourinhos,2,2
-voucher,ouro branco,2,2
-voucher,palmeira das missoes,2,2
+voucher,ouro branco,2,1
+voucher,palmeira das missoes,2,1
 voucher,palotina,2,2
 voucher,paraiso do tocantins,2,2
 voucher,paranaiba,2,2
-voucher,parati,2,2
-voucher,parobe,2,2
+voucher,parati,2,1
+voucher,parobe,2,1
 voucher,passa quatro,2,2
-voucher,pau dos ferros,2,2
+voucher,pau dos ferros,2,1
 voucher,pederneiras,2,2
-voucher,perola d'oeste,2,2
+voucher,perola d'oeste,2,1
 voucher,pesqueira,2,2
 voucher,pirai,2,2
 voucher,pirassununga,2,2
 voucher,pitangueiras,2,2
 voucher,piuma,2,2
 voucher,porto ferreira,2,2
-voucher,redencao,2,2
+voucher,redencao,2,1
 voucher,rio verde,2,2
 voucher,rondonopolis,2,2
 voucher,russas,2,2
-voucher,salmourao,2,2
-voucher,santa cecilia do pavao,2,2
+voucher,salmourao,2,1
+voucher,santa cecilia do pavao,2,1
 voucher,santa cruz do rio pardo,2,2
 voucher,santa cruz do sul,2,2
 voucher,santa maria de jetiba,2,2
 voucher,santa rita do sapucai,2,2
-voucher,santiago,2,2
-voucher,santo antonio do sudoeste,2,2
+voucher,santiago,2,1
+voucher,santo antonio do sudoeste,2,1
 voucher,sao gotardo,2,2
 voucher,sao joao da boa vista,2,2
 voucher,sao jose do rio pardo,2,2
-voucher,sao jose do vale do rio preto,2,2
+voucher,sao jose do vale do rio preto,2,1
 voucher,sao manuel,2,2
 voucher,sao sebastiao,2,2
 voucher,sao simao,2,2
-voucher,severinia,2,2
+voucher,severinia,2,1
 voucher,sobral,2,2
-voucher,tangua,2,2
-voucher,tejupa,2,2
-voucher,teodoro sampaio,2,2
+voucher,tangua,2,1
+voucher,tejupa,2,1
+voucher,teodoro sampaio,2,1
 voucher,tres rios,2,2
 voucher,tubarao,2,2
 voucher,uniao da vitoria,2,2
