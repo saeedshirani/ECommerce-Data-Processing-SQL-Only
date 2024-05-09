@@ -1,0 +1,4118 @@
+review_year,review_Month,average_review_score,customer_city
+2016,10,3.72,coromandel
+2016,10,4,nossa senhora da gloria
+2016,10,3.61,sao goncalo
+2016,10,2,vargem
+2016,11,4,apuarema
+2016,11,4,bacaxa
+2016,11,5,capim branco
+2016,11,3.73,faxinal dos guedes
+2016,11,4.5,iacu
+2016,11,3.98,ipatinga
+2016,12,5,barreirinhas
+2016,12,1,cacimbinhas
+2016,12,3.9,cuiaba
+2017,01,4.74,bastos
+2017,01,4,boa vista das missoes
+2017,01,4,cruzeiro da fortaleza
+2017,01,2.67,gouveia
+2017,01,4.26,itajuba
+2017,01,5,jari
+2017,01,4.15,mogi das cruzes
+2017,01,3.81,petropolis
+2017,01,2.67,piedade dos gerais
+2017,01,4.75,sao pedro dos ferros
+2017,02,4,ajapi
+2017,02,4.27,alvinopolis
+2017,02,5,amarante
+2017,02,4.12,aracatuba
+2017,02,4.79,astolfo dutra
+2017,02,3.25,barra de sao joao
+2017,02,4.42,brotas
+2017,02,4.29,buriticupu
+2017,02,5,cajobi
+2017,02,4.5,camocim de sao felix
+2017,02,5,campestre da serra
+2017,02,4,canaa
+2017,02,4.14,cantagalo
+2017,02,4.18,capinopolis
+2017,02,5,capitao eneas
+2017,02,3.83,cardoso
+2017,02,4.67,carrancas
+2017,02,3.83,catole do rocha
+2017,02,5,cha grande
+2017,02,3.77,claudio
+2017,02,4,coite do noia
+2017,02,4.5,colonia leopoldina
+2017,02,4.67,conceicao do tocantins
+2017,02,4.02,cruzeiro
+2017,02,2.5,cuite
+2017,02,3.67,curaca
+2017,02,4.62,embu
+2017,02,1,faxinalzinho
+2017,02,2,garruchos
+2017,02,5,godoy moreira
+2017,02,5,grandes rios
+2017,02,1,ibipeba
+2017,02,3.86,ipaussu
+2017,02,5,iraucuba
+2017,02,4,itaberaba
+2017,02,3.97,itabirito
+2017,02,4.25,itaipava
+2017,02,3.67,janiopolis
+2017,02,3.33,japira
+2017,02,3.98,joinville
+2017,02,5,juvenilia
+2017,02,4.67,lagoa dos gatos
+2017,02,4,mariano moro
+2017,02,4.5,mogi-mirim
+2017,02,2.33,motuca
+2017,02,4,nova independencia
+2017,02,5,palmares paulista
+2017,02,5,palmeira d oeste
+2017,02,4,palmitinho
+2017,02,5,pedro gomes
+2017,02,4,redentora
+2017,02,3.9,resplendor
+2017,02,4,rio azul
+2017,02,3.67,rodelas
+2017,02,4.5,santa rita do ibitipoca
+2017,02,5,santana do capivari
+2017,02,5,santo antonio do pinhal
+2017,02,5,sao cristovao
+2017,02,5,sao joao do sabugi
+2017,02,4.67,sao jose da barra
+2017,02,5,sao luiz do norte
+2017,02,5,sao pedro da agua branca
+2017,02,3.57,sapiranga
+2017,02,4.5,saudade do iguacu
+2017,02,5,senhora dos remedios
+2017,02,5,sete de setembro
+2017,02,4.71,simao dias
+2017,02,3.98,sinop
+2017,02,3,tracunhaem
+2017,02,5,tres irmaos
+2017,02,5,tupandi
+2017,02,3,uniao de minas
+2017,02,5,virgolandia
+2017,02,4.38,xangri-la
+2017,03,4,agronomica
+2017,03,4.2,alexania
+2017,03,4.67,alfredo vasconcelos
+2017,03,4.32,amparo
+2017,03,4.4,andorinha
+2017,03,4,anta
+2017,03,3.97,arapiraca
+2017,03,5,arara
+2017,03,4.08,ariquemes
+2017,03,4.75,baixo guandu
+2017,03,3,barracao
+2017,03,4,bela vista de minas
+2017,03,2,boa vista do gurupi
+2017,03,4.39,bonfim paulista
+2017,03,5,boraceia
+2017,03,5,brasileia
+2017,03,4,bugre
+2017,03,4.17,cabrobo
+2017,03,3.67,california da barra
+2017,03,3.5,cameta
+2017,03,4.16,campo grande
+2017,03,5,campos verdes
+2017,03,3.53,cangucu
+2017,03,4,capanema
+2017,03,4.75,capao do leao
+2017,03,4.1,carpina
+2017,03,4.1,catanduva
+2017,03,5,central
+2017,03,4.33,corbelia
+2017,03,4.57,cordeiro
+2017,03,4.27,coronel vivida
+2017,03,4,couto de magalhaes
+2017,03,4.5,cristais paulista
+2017,03,5,desterro do melo
+2017,03,4,dezesseis de novembro
+2017,03,4,divinopolis do tocantins
+2017,03,4,fazenda vilanova
+2017,03,5,flor da serra do sul
+2017,03,3,florania
+2017,03,4,fontoura xavier
+2017,03,4.03,formiga
+2017,03,5,francisco santos
+2017,03,5,frei gaspar
+2017,03,4,gramado xavier
+2017,03,1,guape
+2017,03,3.75,iapu
+2017,03,5,ibitita
+2017,03,3.8,imperatriz
+2017,03,4,indianopolis
+2017,03,4,iretama
+2017,03,2.83,itaberai
+2017,03,4,itatiba do sul
+2017,03,4.67,itubera
+2017,03,4.33,jacunda
+2017,03,4.17,jaguariaiva
+2017,03,5,jardim de piranhas
+2017,03,5,jaua
+2017,03,4.1,julio de castilhos
+2017,03,4.6,junqueiropolis
+2017,03,3.87,lauro de freitas
+2017,03,4.45,lorena
+2017,03,3.33,macaubas
+2017,03,3.71,malacacheta
+2017,03,3.89,mar de espanha
+2017,03,4.35,mineiros
+2017,03,4,mira estrela
+2017,03,5,mirante do paranapanema
+2017,03,4.33,montalvania
+2017,03,4.71,mozarlandia
+2017,03,5,nova lacerda
+2017,03,4.5,olho d'agua das cunhas
+2017,03,4,ourizona
+2017,03,4.17,pacaja
+2017,03,5,paial
+2017,03,3,paracuru
+2017,03,3.77,parati
+2017,03,5,paulo de faria
+2017,03,5,pedreiras
+2017,03,4.13,piedade
+2017,03,4.38,pirapora do bom jesus
+2017,03,4.38,poco fundo
+2017,03,4.5,pontalinda
+2017,03,4.75,porto nacional
+2017,03,4,pouso redondo
+2017,03,5,pratapolis
+2017,03,5,prudencio thomaz
+2017,03,2.57,prudente de morais
+2017,03,5,retirolandia
+2017,03,4.15,ribeirao pires
+2017,03,3.93,rio bonito
+2017,03,4,rio espera
+2017,03,3.67,rio fortuna
+2017,03,4.5,santa cruz do prata
+2017,03,3.92,santana
+2017,03,4.17,santana de parnaiba
+2017,03,4,santana do jacare
+2017,03,5,santo antonio do taua
+2017,03,5,sao bras
+2017,03,4.18,sao joao batista
+2017,03,1,sao joao do itaperiu
+2017,03,3.88,sao jose da lapa
+2017,03,4.09,sao lourenco do oeste
+2017,03,4,sao sebastiao da boa vista
+2017,03,3.67,sapucaia
+2017,03,5,taciba
+2017,03,4.29,tapiratiba
+2017,03,4.6,tarabai
+2017,03,5,tomazina
+2017,03,3,vargem alegre
+2017,03,4,vitoria de santo antao
+2017,04,4,alianca
+2017,04,4.21,almenara
+2017,04,4,angelina
+2017,04,5,apora
+2017,04,3.78,aracuai
+2017,04,4.6,araguatins
+2017,04,4.12,arcos
+2017,04,4.6,auriflama
+2017,04,4.5,bandeirantes do tocantins
+2017,04,4.07,barra bonita
+2017,04,4.4,buri
+2017,04,1,buriti
+2017,04,5,cabo verde
+2017,04,5,cachoeira do campo
+2017,04,3.5,campestre do maranhao
+2017,04,4.2,campinapolis
+2017,04,5,campo alegre de lourdes
+2017,04,5,caturama
+2017,04,5,ceilandia
+2017,04,4.67,cerquilho
+2017,04,4,conceicao
+2017,04,2.5,conceicao da feira
+2017,04,4,conselheiro lafaiete
+2017,04,2,cordeiros
+2017,04,5,coronel sapucaia
+2017,04,2.5,corrente
+2017,04,2.75,crisopolis
+2017,04,3.94,diadema
+2017,04,4,erebango
+2017,04,4.67,estrela do norte
+2017,04,4,euclides da cunha paulista
+2017,04,5,fagundes
+2017,04,5,filadelfia
+2017,04,4,fragosos
+2017,04,5,francisco dantas
+2017,04,5,gravatal
+2017,04,4,guiricema
+2017,04,5,humildes
+2017,04,4.56,icem
+2017,04,5,itabirinha
+2017,04,3,itagi
+2017,04,4,itaguaje
+2017,04,4.67,ivaipora
+2017,04,4,japoata
+2017,04,4,jaquirana
+2017,04,3.9,jarinu
+2017,04,4.5,juranda
+2017,04,3.63,juruaia
+2017,04,3.82,lagarto
+2017,04,4.4,lagoa da confusao
+2017,04,1,livramento
+2017,04,4.28,louveira
+2017,04,4.67,mata roma
+2017,04,4,mendes
+2017,04,4,miracema
+2017,04,5,miradouro
+2017,04,4.5,mondai
+2017,04,4.33,monte alegre do sul
+2017,04,4,morro da garca
+2017,04,5,morro redondo
+2017,04,3,murucupi
+2017,04,5,neopolis
+2017,04,1,nova floresta
+2017,04,4,nova santa barbara
+2017,04,3.75,olho d'agua das flores
+2017,04,4.33,ouro verde
+2017,04,4,palmital de minas
+2017,04,1,passagem franca
+2017,04,5,pavao
+2017,04,4.2,pedra preta
+2017,04,5,pianco
+2017,04,4.5,pinheiro
+2017,04,4,pirapemas
+2017,04,4.43,pirassununga
+2017,04,3.33,redencao
+2017,04,3,rio grande do piaui
+2017,04,4.5,rio piracicaba
+2017,04,5,santa isabel do rio preto
+2017,04,3.93,santa maria de jetiba
+2017,04,4,santo antonio de goias
+2017,04,5,santo antonio do caiua
+2017,04,4.4,santo antonio do jardim
+2017,04,4.67,sao jose do turvo
+2017,04,4,sao miguel arcanjo
+2017,04,3.67,sao miguel do guapore
+2017,04,1,sucupira do norte
+2017,04,5,tamandare
+2017,04,5,tapera
+2017,04,3,tavares
+2017,04,5,terra nova do norte
+2017,04,4.67,tiros
+2017,04,3,uruoca
+2017,04,4.07,vargem grande paulista
+2017,05,5,abdon batista
+2017,05,3.8,abreu e lima
+2017,05,1,acucena
+2017,05,4,almas
+2017,05,4,alto horizonte
+2017,05,4.33,antonio carlos
+2017,05,4.33,apucarana
+2017,05,3.67,araci
+2017,05,4.33,assai
+2017,05,4.8,aurora
+2017,05,5,baldim
+2017,05,5,balsa nova
+2017,05,5,bandeira do sul
+2017,05,5,barao
+2017,05,4,barao do triunfo
+2017,05,3.86,bayeux
+2017,05,3.75,biguacu
+2017,05,4.15,blumenau
+2017,05,3.33,boa viagem
+2017,05,3.6,boa vista
+2017,05,5,bom jesus da penha
+2017,05,5,brasopolis
+2017,05,3,braunas
+2017,05,5,buriti do tocantins
+2017,05,4.33,caiana
+2017,05,4.6,caico
+2017,05,4,caldas do jorro
+2017,05,4.25,camboriu
+2017,05,4,campo alegre
+2017,05,4.5,canavieiras
+2017,05,4.11,canoinhas
+2017,05,5,caparao
+2017,05,4.5,carnaubal
+2017,05,4,caseiros
+2017,05,4.7,casimiro de abreu
+2017,05,3.89,castelo
+2017,05,4.8,catas altas
+2017,05,4,caxingo
+2017,05,3.67,cedro de sao joao
+2017,05,5,cerejeiras
+2017,05,4,cipo-guacu
+2017,05,4,coelho neto
+2017,05,3.75,conceicao das pedras
+2017,05,4,conceicao do almeida
+2017,05,4.75,conceicao dos ouros
+2017,05,5,congonhal
+2017,05,5,coracao de maria
+2017,05,5,corguinho
+2017,05,4.5,coroaci
+2017,05,4,cubati
+2017,05,2.63,currais novos
+2017,05,3.59,curvelo
+2017,05,3.2,custodia
+2017,05,4.14,dianopolis
+2017,05,3.5,diorama
+2017,05,5,divinopolis de goias
+2017,05,1,divisa nova
+2017,05,2,dom cavati
+2017,05,4.8,dom eliseu
+2017,05,1,dores de guanhaes
+2017,05,4.28,dourados
+2017,05,5,entre-ijuis
+2017,05,4.09,foz do iguacu
+2017,05,3.67,francisco badaro
+2017,05,4.6,garuva
+2017,05,3.75,guadalupe
+2017,05,5,guapirama
+2017,05,4.11,guaratuba
+2017,05,1,ibiajara
+2017,05,5,icaraima
+2017,05,4,iepe
+2017,05,2.67,imaculada
+2017,05,4.38,imbe
+2017,05,4.75,imbuia
+2017,05,4,independencia
+2017,05,1,indiaroba
+2017,05,5,inubia paulista
+2017,05,3.25,ipiabas
+2017,05,3.5,ipigua
+2017,05,4,ipu
+2017,05,4.44,iracemapolis
+2017,05,5,itambaraca
+2017,05,4.38,itaocara
+2017,05,4.11,jacarei
+2017,05,5,jaci
+2017,05,4.36,jaguare
+2017,05,3.75,jambeiro
+2017,05,5,jaupaci
+2017,05,3.4,jesuania
+2017,05,4.67,joao ramalho
+2017,05,5,junco do serido
+2017,05,4,jurema
+2017,05,4,juscimeira
+2017,05,3.2,lago da pedra
+2017,05,5,lagoa dos patos
+2017,05,5,lajeado grande
+2017,05,4,laranja da terra
+2017,05,5,lobato
+2017,05,3.5,luiz alves
+2017,05,2,macieira
+2017,05,4.46,maracaju
+2017,05,1.67,marco
+2017,05,5,mata
+2017,05,5,matriz de camaragibe
+2017,05,5,maua da serra
+2017,05,5,messias targino
+2017,05,4,minas novas
+2017,05,5,miranda
+2017,05,4,morro agudo de goias
+2017,05,3.75,munhoz de melo
+2017,05,5,muquem do sao francisco
+2017,05,4.25,muqui
+2017,05,3,nacip raydan
+2017,05,5,novais
+2017,05,3.33,novo oriente
+2017,05,4.8,ocaucu
+2017,05,4.75,orleans
+2017,05,3.5,ouro verde de minas
+2017,05,2.71,paco do lumiar
+2017,05,3.67,palmeiras de goias
+2017,05,4.75,parambu
+2017,05,3,patrocinio paulista
+2017,05,5,paulo jacinto
+2017,05,5,peri mirim
+2017,05,4,pescador
+2017,05,4.5,petrolandia
+2017,05,4.71,pinhalao
+2017,05,3.8,piracanjuba
+2017,05,5,pires ferreira
+2017,05,2.75,poco verde
+2017,05,4.39,ponta grossa
+2017,05,4.5,pontal do parana
+2017,05,5,porto acre
+2017,05,5,porto calvo
+2017,05,5,porto estrela
+2017,05,4.4,querencia
+2017,05,5,redencao da serra
+2017,05,5,reserva do iguacu
+2017,05,5,rio dos indios
+2017,05,4.6,rio pardo de minas
+2017,05,4.33,rodeiro
+2017,05,5,sabaudia
+2017,05,4,salto de pirapora
+2017,05,3,santa barbara d oeste
+2017,05,5,santa barbara do para
+2017,05,3.87,santa isabel
+2017,05,4.75,santa mariana
+2017,05,5,santo eduardo
+2017,05,4.6,santo estevao
+2017,05,5,sao benedito do sul
+2017,05,5,sao bentinho
+2017,05,4.43,sao felix do xingu
+2017,05,5,sao goncalo do rio das pedras
+2017,05,4,sao luis do paraitinga
+2017,05,4.47,sao mateus do sul
+2017,05,2.67,sao miguel do tapuio
+2017,05,3.92,sao pedro
+2017,05,4.67,sao sebastiao do maranhao
+2017,05,4.11,saquarema
+2017,05,5,sarutaia
+2017,05,3.91,serra
+2017,05,5,serranopolis do iguacu
+2017,05,4.29,sousa
+2017,05,4,tabocas do brejo velho
+2017,05,3.87,teresina
+2017,05,4,tibau do sul
+2017,05,4,traipu
+2017,05,4.3,tres pontas
+2017,05,4.38,tucurui
+2017,05,3.33,urutai
+2017,05,4.6,vargem bonita
+2017,05,5,vargem grande do rio pardo
+2017,05,2.5,varjao de minas
+2017,05,5,vicosa do ceara
+2017,05,4.5,vila nova
+2017,05,3.89,vilhena
+2017,05,4,zacarias
+2017,06,5,adrianopolis
+2017,06,4.2,aguas formosas
+2017,06,5,alambari
+2017,06,4.5,alcinopolis
+2017,06,3.33,alta floresta d'oeste
+2017,06,5,alto bela vista
+2017,06,4.5,alto do rodrigues
+2017,06,5,amapa do maranhao
+2017,06,3.6,antonio prado
+2017,06,5,aquidaba
+2017,06,4,araguacu
+2017,06,4.37,araraquara
+2017,06,4.67,areia branca
+2017,06,5,areiopolis
+2017,06,4,arraial d ajuda
+2017,06,1,avai
+2017,06,5,baguari
+2017,06,3.68,balsas
+2017,06,5,barreira
+2017,06,5,bataipora
+2017,06,5,bento de abreu
+2017,06,4.03,bom despacho
+2017,06,3,bom retiro do sul
+2017,06,5,brejo do cruz
+2017,06,4,brejolandia
+2017,06,4,britania
+2017,06,3.75,cacu
+2017,06,3.97,campos dos goytacazes
+2017,06,3.67,carmo de minas
+2017,06,5,carmo do rio verde
+2017,06,3.67,catalao
+2017,06,4.67,catarina
+2017,06,5,caxambu do sul
+2017,06,5,cerrito
+2017,06,3.67,chapadinha
+2017,06,5,chiapetta
+2017,06,3.5,cocal
+2017,06,4.33,colorado
+2017,06,3.71,comendador levy gasparian
+2017,06,4.8,conceicao do rio verde
+2017,06,4.38,corinto
+2017,06,5,dias d avila
+2017,06,5,divino de sao lourenco
+2017,06,4.5,elisio medrado
+2017,06,3,estrela do sul
+2017,06,5,feliz natal
+2017,06,4,fernao
+2017,06,3,galinhos
+2017,06,3.95,goiania
+2017,06,4.24,governador valadares
+2017,06,4.33,guapiara
+2017,06,4.33,guapo
+2017,06,3.5,guaruja do sul
+2017,06,5,ibiracatu
+2017,06,5,ibirapua
+2017,06,5,ibirataia
+2017,06,4.4,icapui
+2017,06,3.33,ilopolis
+2017,06,4.25,inaja
+2017,06,5,ipaumirim
+2017,06,5,itanhanga
+2017,06,4.25,itapecuru mirim
+2017,06,4.33,itarantim
+2017,06,5,itatinga
+2017,06,3.45,itupeva
+2017,06,5,ivai
+2017,06,5,jacuipe
+2017,06,3.94,janauba
+2017,06,4.5,jardim alegre
+2017,06,5,jerico
+2017,06,5,joaima
+2017,06,4.37,joao monlevade
+2017,06,4,joaquim pires
+2017,06,1,jose boiteux
+2017,06,4,juti
+2017,06,2,lebon regis
+2017,06,5,luiziania
+2017,06,4.33,madre de deus de minas
+2017,06,5,mampituba
+2017,06,4.82,marau
+2017,06,5,marechal deodoro
+2017,06,4.38,martinopolis
+2017,06,4.5,mata grande
+2017,06,2.5,matrincha
+2017,06,4.5,miguelopolis
+2017,06,5,monte alegre de sergipe
+2017,06,5,moreilandia
+2017,06,3.61,morrinhos
+2017,06,4.5,narandiba
+2017,06,5,nossa senhora de lourdes
+2017,06,5,nova america
+2017,06,5,nova araca
+2017,06,5,nova bassano
+2017,06,4.63,nova europa
+2017,06,5,nova roma
+2017,06,5,novo lino
+2017,06,4,novo machado
+2017,06,4.5,oeiras do para
+2017,06,5,oiapoque
+2017,06,2.5,oliveira dos brejinhos
+2017,06,4.19,orlandia
+2017,06,5,orobo
+2017,06,5,ouro verde de goias
+2017,06,3,ouro verde do oeste
+2017,06,5,pantano grande
+2017,06,4.5,paraiso
+2017,06,2,paraju
+2017,06,5,paranhos
+2017,06,4.2,parauapebas
+2017,06,3.3,passa quatro
+2017,06,4.67,patu
+2017,06,4.67,pedra bela
+2017,06,4,pedras altas
+2017,06,4.5,peixoto de azevedo
+2017,06,4.5,pentecoste
+2017,06,4,piedade do rio grande
+2017,06,2,pindoretama
+2017,06,4.07,pinheiral
+2017,06,4.06,piuma
+2017,06,5,planura
+2017,06,3.97,pocos de caldas
+2017,06,4.78,pomerode
+2017,06,4,porto alegre
+2017,06,5,presidente castello branco
+2017,06,4.5,quintana
+2017,06,4,quixada
+2017,06,5,ravena
+2017,06,5,rio dos cedros
+2017,06,4.17,rio largo
+2017,06,4.75,rio preto
+2017,06,4.5,rubiacea
+2017,06,4,sabino
+2017,06,5,sacra familia do tingua
+2017,06,3.5,salmourao
+2017,06,4.57,santa albertina
+2017,06,4.5,santa isabel do para
+2017,06,5,santa rita de jacutinga
+2017,06,4.67,santana do araguaia
+2017,06,3.55,santo augusto
+2017,06,4,sao bonifacio
+2017,06,4.5,sao domingos do prata
+2017,06,5,sao felix do coribe
+2017,06,5,sao joao da urtiga
+2017,06,3.7,sao joao de meriti
+2017,06,3.5,sao joao do manhuacu
+2017,06,5,sao jose da tapera
+2017,06,4.33,sao jose do barreiro
+2017,06,5,sao jose do rio claro
+2017,06,3.93,sao lourenco do sul
+2017,06,4.31,sao mateus
+2017,06,3.9,sao miguel do oeste
+2017,06,3.92,sao sebastiao
+2017,06,3.33,seara
+2017,06,4,senador la rocque
+2017,06,4.5,serra azul de minas
+2017,06,5,serra dourada
+2017,06,4.07,serrinha
+2017,06,3,serrita
+2017,06,5,silvano
+2017,06,3,sinimbu
+2017,06,3.5,sitio do quinto
+2017,06,4.22,sobradinho
+2017,06,4.88,soledade
+2017,06,3.6,taiuva
+2017,06,4,telemaco borba
+2017,06,4.06,tijucas
+2017,06,4,tracuateua
+2017,06,4.86,tres cachoeiras
+2017,06,4.34,tupa
+2017,06,5,turvania
+2017,06,4,turvolandia
+2017,06,4.45,varzea da palma
+2017,06,5,vicentinopolis
+2017,07,3.55,abaetetuba
+2017,07,4.86,acopiara
+2017,07,5,agudo
+2017,07,5,alto alegre
+2017,07,5,amontada
+2017,07,5,ananas
+2017,07,4.33,apiai
+2017,07,1,aroeiras
+2017,07,4.25,arraial d'ajuda
+2017,07,4.5,arroio do tigre
+2017,07,4.67,balneario rincao
+2017,07,3.67,balsamo
+2017,07,3,bananal
+2017,07,5,barao de cotegipe
+2017,07,4.83,barbosa ferraz
+2017,07,4.78,barra da estiva
+2017,07,3.98,barreiras
+2017,07,4.67,batalha
+2017,07,4.33,bebedouro
+2017,07,5,bom jesus do araguaia
+2017,07,3.5,brejo santo
+2017,07,4.19,buritis
+2017,07,3.86,cabo de santo agostinho
+2017,07,4.4,cachoeira paulista
+2017,07,3,cambiasca
+2017,07,4.75,campo do meio
+2017,07,3.86,campo maior
+2017,07,2,capivari do sul
+2017,07,3.33,carlos chagas
+2017,07,5,carmesia
+2017,07,3.82,castanhal
+2017,07,4.8,chui
+2017,07,2,coimbra
+2017,07,2.33,conceicao do jacuipe
+2017,07,5,corumbatai
+2017,07,5,cristais
+2017,07,5,cruz machado
+2017,07,4.33,cubatao
+2017,07,5,cuite velho
+2017,07,3.75,dores do rio preto
+2017,07,4.33,entre rios
+2017,07,4.25,estancia
+2017,07,5,estrela d'oeste
+2017,07,3,farol
+2017,07,5,floresta do araguaia
+2017,07,4.53,forquilhinha
+2017,07,4.46,garopaba
+2017,07,5,girau do ponciano
+2017,07,5,gloria de dourados
+2017,07,3.88,goianesia
+2017,07,3.7,guara
+2017,07,5,heliopolis
+2017,07,5,humberto de campos
+2017,07,5,ibiara
+2017,07,5,ielmo marinho
+2017,07,5,ilha grande
+2017,07,5,inocencia
+2017,07,4,ipameri
+2017,07,4,itaguai
+2017,07,4.67,itajuipe
+2017,07,4,itambe
+2017,07,4.08,itamonte
+2017,07,3,itapage
+2017,07,4.31,itapecerica
+2017,07,5,itapiuna
+2017,07,4.03,itarare
+2017,07,3,itatiaiucu
+2017,07,4.5,jacui
+2017,07,3.75,jandaia do sul
+2017,07,4.03,japeri
+2017,07,4.33,jardim do serido
+2017,07,4,lavras da mangabeira
+2017,07,4.39,lencois paulista
+2017,07,4.5,lucelia
+2017,07,5,luis correia
+2017,07,4.62,machado
+2017,07,3.96,mafra
+2017,07,4,major porto
+2017,07,3,mamonas
+2017,07,5,manga
+2017,07,3.5,maracai
+2017,07,5,marilena
+2017,07,2.67,maripa
+2017,07,4.33,medina
+2017,07,3.5,monte alegre de minas
+2017,07,1,monteiro lobato
+2017,07,2,monteiropolis
+2017,07,4.25,mutum
+2017,07,5,nantes
+2017,07,4.4,nazare paulista
+2017,07,3.93,nilopolis
+2017,07,4,nortelandia
+2017,07,2,nova canaa
+2017,07,4,nova esperanca do sudoeste
+2017,07,4.22,nova londrina
+2017,07,3.94,novo hamburgo
+2017,07,3.6,novo progresso
+2017,07,4.6,panorama
+2017,07,4.22,parnaiba
+2017,07,4.14,passo de torres
+2017,07,3,pau brasil
+2017,07,4,pejucara
+2017,07,4.55,perdoes
+2017,07,4.5,piau
+2017,07,3.81,picos
+2017,07,4.33,pocinhos
+2017,07,4.56,porto belo
+2017,07,5,pouso novo
+2017,07,4.5,reserva do cabacal
+2017,07,3,ribeira do amparo
+2017,07,3.71,ribeirao bonito
+2017,07,5,ribeiropolis
+2017,07,3.5,rio bonito do iguacu
+2017,07,5,rio rufino
+2017,07,4.22,russas
+2017,07,4.2,salto
+2017,07,4,salto do itarare
+2017,07,4.5,salto veloso
+2017,07,4.33,sanharo
+2017,07,3.33,santa branca
+2017,07,3.23,santa cruz do capibaribe
+2017,07,4.71,santa cruz do rio pardo
+2017,07,3,santa leopoldina
+2017,07,5,santa maria da serra
+2017,07,5,santa mercedes
+2017,07,5,santa rita de minas
+2017,07,4.33,santa rosa de lima
+2017,07,4.67,santa terezinha de itaipu
+2017,07,3.67,santana da vargem
+2017,07,3.84,santo anastacio
+2017,07,4.85,santo antonio de posse
+2017,07,3,santo cristo
+2017,07,4,sao desiderio
+2017,07,3.5,sao geraldo
+2017,07,5,sao sebastiao da serra
+2017,07,2,senador amaral
+2017,07,4,senador modestino goncalves
+2017,07,5,serra de sao bento
+2017,07,4.67,setubinha
+2017,07,5,silveiras
+2017,07,5,simplicio mendes
+2017,07,4.27,sorocaba
+2017,07,4.6,sud mennucci
+2017,07,5,tapes
+2017,07,4.54,teodoro sampaio
+2017,07,3.71,tres lagoas
+2017,07,3.98,uba
+2017,07,5,ubirata
+2017,07,4,urubici
+2017,07,4.22,valinhos
+2017,07,5,vargeao
+2017,07,5,venda branca
+2017,07,3.89,vespasiano
+2017,07,3,vicentina
+2017,07,4.5,vila nelita
+2017,07,5,vitorino freire
+2017,08,4.5,agua comprida
+2017,08,4.06,agudos
+2017,08,4.35,alegre
+2017,08,5,alexandria
+2017,08,4.86,alpinopolis
+2017,08,5,amargosa
+2017,08,4,antunes
+2017,08,3.9,aracariguama
+2017,08,3.76,araguaina
+2017,08,1,arembepe
+2017,08,4,arenopolis
+2017,08,4.67,arroio dos ratos
+2017,08,4.11,bambui
+2017,08,3.2,bananeiras
+2017,08,5,barra de guabiraba
+2017,08,5,boa vista do burica
+2017,08,5,bodo
+2017,08,3.75,bom jardim de minas
+2017,08,3.4,bom jesus do tocantins
+2017,08,3.81,bom jesus dos perdoes
+2017,08,4.13,bombinhas
+2017,08,5,brotas de macaubas
+2017,08,3.89,buritizeiro
+2017,08,5,cachoeira da prata
+2017,08,4,cajueiro
+2017,08,5,cajuri
+2017,08,4.29,campos belos
+2017,08,4.1,campos do jordao
+2017,08,4.37,capao bonito
+2017,08,4.4,capelinha
+2017,08,3.7,capinzal
+2017,08,3.83,carmo da mata
+2017,08,2.67,carneirinho
+2017,08,5,castanheiras
+2017,08,3.17,catigua
+2017,08,4.75,cerro azul
+2017,08,3,chaveslandia
+2017,08,3.2,colonia vitoria
+2017,08,4.23,conceicao de macabu
+2017,08,4.43,conceicao do araguaia
+2017,08,3.9,conchas
+2017,08,4.5,coroados
+2017,08,5,coronel murta
+2017,08,3.5,cristina
+2017,08,4,crominia
+2017,08,3,cruzeiro do iguacu
+2017,08,5,curiuva
+2017,08,4.41,diamantina
+2017,08,5,diogo de vasconcelos
+2017,08,4.5,divisa alegre
+2017,08,5,dom macedo costa
+2017,08,4,dom vicoso
+2017,08,4.14,eldorado
+2017,08,3.5,espigao alto do iguacu
+2017,08,3.5,espirito santo do turvo
+2017,08,5,estrela d oeste
+2017,08,3.8,fortaleza
+2017,08,4.2,frei inocencio
+2017,08,4.27,frutal
+2017,08,4,governador lindenberg
+2017,08,4.5,governador portela
+2017,08,4,groairas
+2017,08,4,grupiara
+2017,08,4.63,guapimirim
+2017,08,4.55,ibitinga
+2017,08,1,igapora
+2017,08,2.58,iguaba grande
+2017,08,5,iguaracu
+2017,08,4,ilicinea
+2017,08,3,ipixuna do para
+2017,08,3.5,irape
+2017,08,4.5,itapetinga
+2017,08,4.5,jacinto machado
+2017,08,5,jaguaribara
+2017,08,5,jardim abc de goias
+2017,08,5,lago verde
+2017,08,1,lagoa da canoa
+2017,08,5,lagoa de sao francisco
+2017,08,4,lagoa de velhos
+2017,08,4.23,limeira
+2017,08,3.44,mangueirinha
+2017,08,4.25,manhumirim
+2017,08,4,marilandia do sul
+2017,08,4.5,mascote
+2017,08,3.5,matipo
+2017,08,4.15,maua
+2017,08,4.33,maximiliano de almeida
+2017,08,4,medicilandia
+2017,08,5,miranda do norte
+2017,08,5,missao velha
+2017,08,4.6,monte azul
+2017,08,4.41,muriae
+2017,08,5,nobres
+2017,08,3.79,nossa senhora do socorro
+2017,08,5,nova america da colina
+2017,08,2,nova laranjeiras
+2017,08,3.67,nova monte verde
+2017,08,4.3,nova xavantina
+2017,08,5,novo mundo
+2017,08,4,novo sao joaquim
+2017,08,4.5,oros
+2017,08,4.31,ouro fino
+2017,08,5,padre bernardo
+2017,08,3.53,paragominas
+2017,08,3.87,paranaiba
+2017,08,5,paranatinga
+2017,08,4.14,parapua
+2017,08,3.67,pedra
+2017,08,4,pequi
+2017,08,5,picarra
+2017,08,5,picarras
+2017,08,4,pirai do norte
+2017,08,5,pium
+2017,08,5,planaltina do parana
+2017,08,3.67,pocrane
+2017,08,3,ponte serrada
+2017,08,4.58,porecatu
+2017,08,3.5,portalegre
+2017,08,4.2,portao
+2017,08,5,porteiras
+2017,08,5,porto murtinho
+2017,08,4.22,potirendaba
+2017,08,3.54,presidente venceslau
+2017,08,4.36,primavera do leste
+2017,08,5,pureza
+2017,08,4.33,quixabeira
+2017,08,4.36,raposos
+2017,08,4.7,regente feijo
+2017,08,4.75,renascenca
+2017,08,4.4,ribeirao do pinhal
+2017,08,4,riversul
+2017,08,4.1,sabara
+2017,08,3.6,saltinho
+2017,08,5,sangao
+2017,08,4,santa clara do sul
+2017,08,3,santa cruz de goias
+2017,08,4.33,santo antonio da alegria
+2017,08,4,santo antonio do planalto
+2017,08,5,santo expedito
+2017,08,4,sao cristovao do sul
+2017,08,3,sao felipe
+2017,08,1,sao francisco do humaita
+2017,08,4,sao geraldo do baguari
+2017,08,3.78,sao goncalo do sapucai
+2017,08,3,sao jose da boa vista
+2017,08,4.5,sao jose dos quatro marcos
+2017,08,3,sao lourenco do piaui
+2017,08,4,sao luis de montes belos
+2017,08,4.67,sao mateus do maranhao
+2017,08,5,sao miguel das matas
+2017,08,4.6,sao miguel do iguacu
+2017,08,4,sao valentim
+2017,08,4,saudades
+2017,08,5,segredo
+2017,08,3.6,sete barras
+2017,08,4,sobralia
+2017,08,3,tacaratu
+2017,08,4.57,taguatinga
+2017,08,5,tamboara
+2017,08,5,taparuba
+2017,08,4.16,teixeira de freitas
+2017,08,3.96,tramandai
+2017,08,3.67,tres coracoes
+2017,08,4.04,unai
+2017,08,4,uniao da serra
+2017,08,4.78,valente
+2017,08,4.67,varre-sai
+2017,08,4,varzea do poco
+2017,08,3.77,viamao
+2017,08,4.41,xanxere
+2017,09,5,abadia dos dourados
+2017,09,3.57,acarau
+2017,09,4.73,afonso claudio
+2017,09,5,agua nova
+2017,09,4,agua preta
+2017,09,4.9,aguas da prata
+2017,09,4.1,aimores
+2017,09,4,alhandra
+2017,09,4.79,ampere
+2017,09,5,anhumas
+2017,09,5,antonio goncalves
+2017,09,4.39,aparecida
+2017,09,4.04,aparecida de goiania
+2017,09,3.33,apodi
+2017,09,3.7,araruama
+2017,09,4.5,arraias
+2017,09,4.5,arroio do sal
+2017,09,4,atalanta
+2017,09,5,augustinopolis
+2017,09,4.5,avelino lopes
+2017,09,4.33,azurita
+2017,09,5,barao ataliba nogueira
+2017,09,3.78,barao de cocais
+2017,09,3.33,barcarena
+2017,09,4.5,barra de santo antonio
+2017,09,3.95,barra do pirai
+2017,09,5,barra longa
+2017,09,3.8,barreiros
+2017,09,4.5,bataypora
+2017,09,4.67,belo vale
+2017,09,5,berizal
+2017,09,3.92,bertioga
+2017,09,4,boquira
+2017,09,4.5,bras pires
+2017,09,4.5,brazabrantes
+2017,09,4.5,buenos aires
+2017,09,4.11,camanducaia
+2017,09,4.9,campina verde
+2017,09,5,campinacu
+2017,09,4.67,campos borges
+2017,09,3,canitar
+2017,09,4.5,caputira
+2017,09,5,caracol
+2017,09,2.5,caraiba
+2017,09,4.16,carapicuiba
+2017,09,4.17,cardoso moreira
+2017,09,5,carire
+2017,09,4.17,carlopolis
+2017,09,2,carutapera
+2017,09,5,centenario
+2017,09,5,chaval
+2017,09,4.6,colombia
+2017,09,5,colorado do oeste
+2017,09,5,combinado
+2017,09,1.67,conceicao da barra
+2017,09,3.33,concordia do para
+2017,09,5,condeuba
+2017,09,3.95,contagem
+2017,09,4,coronel martins
+2017,09,5,corrego do ouro
+2017,09,3.75,corumbaiba
+2017,09,4.25,cruzilia
+2017,09,5,cujubim
+2017,09,3.5,david canabarro
+2017,09,4.67,descoberto
+2017,09,4.13,dias d'avila
+2017,09,4,embauba
+2017,09,5,engenheiro balduino
+2017,09,3.5,erval grande
+2017,09,4.4,eugenopolis
+2017,09,4.2,fernando prestes
+2017,09,5,florida
+2017,09,3.79,formosa
+2017,09,1,formosa do oeste
+2017,09,4.39,garanhuns
+2017,09,4,glorinha
+2017,09,4.6,goiana
+2017,09,3.33,goianesia do para
+2017,09,4.33,guajara-mirim
+2017,09,3.75,guaraci
+2017,09,4.75,guarai
+2017,09,4.8,guarei
+2017,09,4.05,guaruja
+2017,09,5,herveiras
+2017,09,5,ibicare
+2017,09,3.33,ibimirim
+2017,09,4.42,ibipora
+2017,09,5,icatu
+2017,09,4.07,iguatu
+2017,09,5,ipiranga de goias
+2017,09,5,ipiranga do norte
+2017,09,3.89,ipojuca
+2017,09,5,irai
+2017,09,4.67,ita
+2017,09,4.15,itanhaem
+2017,09,4.75,itaperucu
+2017,09,4.16,itapetininga
+2017,09,3,itaueira
+2017,09,4.67,ituacu
+2017,09,4.38,ivoti
+2017,09,4.67,jaqueira
+2017,09,3,jenipapo de minas
+2017,09,4.86,joao lisboa
+2017,09,4.17,jose bonifacio
+2017,09,5,jose da penha
+2017,09,4.38,juquitiba
+2017,09,3.25,jussara
+2017,09,5,ladainha
+2017,09,4.31,lages
+2017,09,4,lagoinha do piaui
+2017,09,4.26,lajeado
+2017,09,5,lencois
+2017,09,4.07,lins
+2017,09,3,luisburgo
+2017,09,3,lunardelli
+2017,09,5,lutecia
+2017,09,4.39,luziania
+2017,09,3.6,macaiba
+2017,09,4.8,macau
+2017,09,4.33,mallet
+2017,09,5,manoel urbano
+2017,09,3.4,maragogi
+2017,09,4.63,marilandia
+2017,09,4,maristela
+2017,09,4.5,mato leitao
+2017,09,4,matupa
+2017,09,4.6,mendonca
+2017,09,4.44,mirai
+2017,09,4,monsenhor tabosa
+2017,09,4,montanhas
+2017,09,4.28,montes claros
+2017,09,3,muliterno
+2017,09,4,nova andradina
+2017,09,3.96,nova lima
+2017,09,5,nova vicosa
+2017,09,5,oleo
+2017,09,4.05,olimpia
+2017,09,4.4,ourilandia do norte
+2017,09,5,padre paraiso
+2017,09,4.2,palmitos
+2017,09,2.88,paraipaba
+2017,09,3,paranapua
+2017,09,4,paripueira
+2017,09,4.75,parobe
+2017,09,5,passos maia
+2017,09,4,pedrao
+2017,09,3.71,perdigao
+2017,09,3.98,peruibe
+2017,09,5,picada cafe
+2017,09,4.11,pinheiros
+2017,09,4.5,pintadas
+2017,09,5,planaltina de goias
+2017,09,4.22,planalto
+2017,09,4.08,poa
+2017,09,5,poco de pedra
+2017,09,5,pontao
+2017,09,3.86,porangatu
+2017,09,5,portela
+2017,09,5,porto grande
+2017,09,3.87,presidente dutra
+2017,09,3.86,primeiro de maio
+2017,09,4.38,promissao
+2017,09,4,queluz
+2017,09,1.5,quevedos
+2017,09,5,quilometro 14 do mutum
+2017,09,3.79,registro
+2017,09,3,reriutaba
+2017,09,5,riachao do jacuipe
+2017,09,5,rio do campo
+2017,09,4.67,rubim
+2017,09,5,santa barbara do sul
+2017,09,3.83,santa helena
+2017,09,1,santa luzia do parua
+2017,09,4,santa maria madalena
+2017,09,5,santa rita do itueto
+2017,09,3.6,santa teresa
+2017,09,4,santanesia
+2017,09,4.67,sao bernardo
+2017,09,3.86,sao domingos do norte
+2017,09,4,sao gabriel da palha
+2017,09,4,sao jorge do oeste
+2017,09,3.81,sao jose
+2017,09,4.24,sao jose do rio preto
+2017,09,4.05,sao jose dos pinhais
+2017,09,5,sardoa
+2017,09,4,saubara
+2017,09,5,senador guiomard
+2017,09,3.5,seringueiras
+2017,09,5,silveira carvalho
+2017,09,4,solanea
+2017,09,4.5,solonopole
+2017,09,5,suzanapolis
+2017,09,4,teixeira
+2017,09,3.27,timon
+2017,09,4.67,toropi
+2017,09,4.28,uberlandia
+2017,09,3,urandi
+2017,09,4.33,vale real
+2017,09,3.79,vargem grande do sul
+2017,09,5,venturosa
+2017,09,4.67,verissimo
+2017,09,3,vitorinos
+2017,09,3.85,volta redonda
+2017,10,5,agisse
+2017,10,3,alagoa
+2017,10,4,alagoinha
+2017,10,3,alcantara
+2017,10,1,alexandrita
+2017,10,4.25,almirante tamandare
+2017,10,4,almirante tamandare do sul
+2017,10,4.5,alpercata
+2017,10,4.5,alto caparao
+2017,10,4.4,alto parnaiba
+2017,10,5,anage
+2017,10,4.41,anchieta
+2017,10,5,anguera
+2017,10,3.5,antonio cardoso
+2017,10,5,aparecida d'oeste
+2017,10,4.11,arapongas
+2017,10,4.27,araquari
+2017,10,4,ararica
+2017,10,5,areial
+2017,10,4.2,ariranha
+2017,10,4.5,barbalha
+2017,10,1,barra do rio azul
+2017,10,5,belem do sao francisco
+2017,10,4.29,bom jesus
+2017,10,4.25,bom jesus do norte
+2017,10,4,bom repouso
+2017,10,4.27,braganca paulista
+2017,10,5,brasilandia
+2017,10,3.5,buriti dos lopes
+2017,10,3,cacapava do sul
+2017,10,5,cacaulandia
+2017,10,4.33,caibi
+2017,10,5,cajari
+2017,10,4,camamu
+2017,10,3.82,campo formoso
+2017,10,4,campo novo
+2017,10,4,campos de julio
+2017,10,3.92,candeias
+2017,10,5,candeias do jamari
+2017,10,4.44,candido mota
+2017,10,5,canto do buriti
+2017,10,1,capoeiras
+2017,10,4,carmolandia
+2017,10,4,cassia dos coqueiros
+2017,10,5,cedro do abaete
+2017,10,5,cerro grande
+2017,10,5,chacara
+2017,10,5,claraval
+2017,10,4.2,congonhas
+2017,10,4.78,conquista
+2017,10,5,coroata
+2017,10,5,corumba de goias
+2017,10,2.33,cristalandia
+2017,10,4.36,cruz alta
+2017,10,4.28,cruz das almas
+2017,10,4.67,curuca
+2017,10,5,dionisio
+2017,10,4,esmeralda
+2017,10,4.38,estrela
+2017,10,4,euclides da cunha
+2017,10,3.92,eusebio
+2017,10,3.75,extrema
+2017,10,4,fundao
+2017,10,5,glicerio
+2017,10,2.5,herval
+2017,10,4.67,hidreletrica tucurui
+2017,10,1.5,hidrolina
+2017,10,3.83,hortolandia
+2017,10,3.5,humaita
+2017,10,3,iaciara
+2017,10,5,iaras
+2017,10,5,ibitira
+2017,10,4.86,igarapava
+2017,10,4.3,imbituba
+2017,10,4.27,indaiatuba
+2017,10,3.25,ipiranga
+2017,10,4.18,irati
+2017,10,4.75,itabela
+2017,10,3.87,itabira
+2017,10,4,itamari
+2017,10,3,itarema
+2017,10,4.67,itinga
+2017,10,3.33,ivinhema
+2017,10,4.47,jacarezinho
+2017,10,3.79,jacutinga
+2017,10,4.5,jaiba
+2017,10,3.95,januaria
+2017,10,5,jesupolis
+2017,10,4.08,joacaba
+2017,10,4,juara
+2017,10,5,jupi
+2017,10,5,lagoa do piaui
+2017,10,5,loreto
+2017,10,4,lucas do rio verde
+2017,10,4,luz
+2017,10,4,macambira
+2017,10,5,madalena
+2017,10,5,maiquinique
+2017,10,5,malhador
+2017,10,4,manoel ribas
+2017,10,5,mato rico
+2017,10,4,matoes
+2017,10,3.79,miguel pereira
+2017,10,4.5,monte alto
+2017,10,3,monte gordo
+2017,10,4,morada nova
+2017,10,4.71,morungaba
+2017,10,5,nazareno
+2017,10,1,nova brescia
+2017,10,4.67,nova canaa do norte
+2017,10,3.5,nova olinda
+2017,10,3.96,nova serrana
+2017,10,3,nova timboteua
+2017,10,5,novo barreiro
+2017,10,5,novo cabrais
+2017,10,3.67,oeiras
+2017,10,5,olaria
+2017,10,3.67,olindina
+2017,10,4.5,pacoti
+2017,10,3.63,palmeira dos indios
+2017,10,5,palminopolis
+2017,10,4.6,paraguacu paulista
+2017,10,4.4,paraiso do tocantins
+2017,10,5,pareci novo
+2017,10,5,passagem
+2017,10,5,pedra lavrada
+2017,10,2.5,pedregulho
+2017,10,4,peixe
+2017,10,4.22,penedo
+2017,10,4.42,pereira barreto
+2017,10,3.5,peritiba
+2017,10,3.5,piata
+2017,10,4,pio xii
+2017,10,5,piquete
+2017,10,4.13,piracicaba
+2017,10,4.43,pirai do sul
+2017,10,3.89,piraju
+2017,10,4,pirenopolis
+2017,10,1,pirpirituba
+2017,10,5,pocao
+2017,10,4,pocoes
+2017,10,3.98,porto velho
+2017,10,3.33,recreio
+2017,10,3.5,regeneracao
+2017,10,4.33,rio de contas
+2017,10,4,rio do antonio
+2017,10,3,rodolfo fernandes
+2017,10,3,romelandia
+2017,10,4.14,rondonopolis
+2017,10,4.8,roque gonzales
+2017,10,3.19,rosario do sul
+2017,10,2.5,salto da divisa
+2017,10,5,santa brigida
+2017,10,4,santa cecilia do pavao
+2017,10,5,santa cruz do piaui
+2017,10,4.19,santa cruz do sul
+2017,10,4,santa filomena
+2017,10,3.8,santa helena de goias
+2017,10,4,santa maria do herval
+2017,10,5,santa maria do salto
+2017,10,4,santa vitoria
+2017,10,4.25,santana do paraiso
+2017,10,2.98,santarem
+2017,10,4,santo amaro das brotas
+2017,10,4.75,santo antonio das missoes
+2017,10,4,santo antonio do palma
+2017,10,1,sao fernando
+2017,10,4.39,sao fidelis
+2017,10,3,sao joao de pirabas
+2017,10,3.75,sao lourenco da mata
+2017,10,5,sao patricio
+2017,10,5,sao vitor
+2017,10,4.15,sorriso
+2017,10,4,sulina
+2017,10,3.6,tabira
+2017,10,3.83,tangua
+2017,10,4.25,tanhacu
+2017,10,4.22,taruma
+2017,10,5,telha
+2017,10,4.24,teofilo otoni
+2017,10,4.2,timbo
+2017,10,4,tiradentes
+2017,10,4.67,tres arroios
+2017,10,5,treviso
+2017,10,5,ubirajara
+2017,10,4,uirauna
+2017,10,3.81,umuarama
+2017,10,3.5,urania
+2017,10,4.17,uruara
+2017,10,3,urucuia
+2017,10,5,vicencia
+2017,10,4,vila reis
+2017,10,3.9,vila velha
+2017,10,4.61,viradouro
+2017,10,4.05,vitoria
+2017,10,3.67,xambioa
+2017,11,2.67,abatia
+2017,11,4,abrantes
+2017,11,4,agrestina
+2017,11,5,alagoa grande
+2017,11,4.12,alfenas
+2017,11,4,almino afonso
+2017,11,5,alto alegre do pindare
+2017,11,4.5,alto paraiso
+2017,11,5,amelia rodrigues
+2017,11,3.8,anita garibaldi
+2017,11,4.63,antonina
+2017,11,3,aquiraz
+2017,11,3.77,aracaju
+2017,11,4.39,araguari
+2017,11,3,arame
+2017,11,4.75,araputanga
+2017,11,3.83,arraial do cabo
+2017,11,5,aruana
+2017,11,4.67,augusto correa
+2017,11,4,barra do bugres
+2017,11,4.2,barra do garcas
+2017,11,5,barrocas
+2017,11,5,bemposta
+2017,11,4.45,bezerros
+2017,11,4.5,bias fortes
+2017,11,4.56,bom jesus da lapa
+2017,11,4,bonito de minas
+2017,11,4,braganca
+2017,11,5,brejo bonito
+2017,11,4.26,cafelandia
+2017,11,5,cairu
+2017,11,3,camacho
+2017,11,4.17,camapua
+2017,11,3.92,cambui
+2017,11,4.33,campestre
+2017,11,5,campo do brito
+2017,11,5,candiota
+2017,11,4.2,capivari
+2017,11,5,cariri do tocantins
+2017,11,4,casa nova
+2017,11,3.83,cassia
+2017,11,4.8,cassilandia
+2017,11,3.1,catu
+2017,11,3.25,centenario do sul
+2017,11,4.37,cianorte
+2017,11,5,clementina
+2017,11,3.97,colatina
+2017,11,5,comercinho
+2017,11,5,conceicao do caninde
+2017,11,4.5,conceicao do coite
+2017,11,4.5,condado
+2017,11,5,conrado
+2017,11,4.47,crato
+2017,11,5,croata
+2017,11,4.2,cunha
+2017,11,5,divinesia
+2017,11,4.12,divinopolis
+2017,11,4.5,ecoporanga
+2017,11,5,elisiario
+2017,11,1,epitaciolandia
+2017,11,4.33,espigao do oeste
+2017,11,4.24,ferraz de vasconcelos
+2017,11,4.5,francisco dumont
+2017,11,4.5,fruta de leite
+2017,11,4.13,gaspar
+2017,11,5,gloria do goita
+2017,11,5,goianapolis
+2017,11,5,goiandira
+2017,11,4.67,governador celso ramos
+2017,11,5,governador dix-sept rosado
+2017,11,2,governador eugenio barros
+2017,11,5,graccho cardoso
+2017,11,5,grao mogol
+2017,11,4,ibicuitinga
+2017,11,4.62,icara
+2017,11,3.54,igarassu
+2017,11,5,igaratinga
+2017,11,4.67,ipiacu
+2017,11,3.67,ipubi
+2017,11,3.27,irece
+2017,11,5,itaguara
+2017,11,3.5,itapemirim
+2017,11,5,ivora
+2017,11,1,jacarau
+2017,11,5,jamapara
+2017,11,2,janduis
+2017,11,3.5,jaraguari
+2017,11,1,jataizinho
+2017,11,5,lagoa do mato
+2017,11,3.5,laranjal
+2017,11,5,laranjal do jari
+2017,11,5,lavrinhas
+2017,11,4,leopoldo de bulhoes
+2017,11,4.5,limeira do oeste
+2017,11,5,luiziana
+2017,11,1,machadinho
+2017,11,4.22,mairinque
+2017,11,3.91,mantena
+2017,11,4.08,maringa
+2017,11,3.5,massape
+2017,11,5,mendes pimentel
+2017,11,4.5,milagres
+2017,11,3,miraguai
+2017,11,4,mirante da serra
+2017,11,4.27,mogi-guacu
+2017,11,3.5,moncoes
+2017,11,5,monte formoso
+2017,11,3.73,monte siao
+2017,11,5,morro vermelho
+2017,11,5,mossamedes
+2017,11,4.67,mundo novo
+2017,11,4.11,muzambinho
+2017,11,5,nova cruz
+2017,11,4.37,nova granada
+2017,11,5,nova guarita
+2017,11,2.33,nova hartz
+2017,11,4.33,nova santa rita
+2017,11,5,novo alegre
+2017,11,3.75,novo gama
+2017,11,4.88,ortigueira
+2017,11,5,osvaldo kroeff
+2017,11,2,pacuja
+2017,11,4.6,palmeira d'oeste
+2017,11,4.7,palotina
+2017,11,4.5,passa tres
+2017,11,4.31,patos
+2017,11,4.67,paulistana
+2017,11,3.2,peabiru
+2017,11,5,pedra menina
+2017,11,5,periquito
+2017,11,4.71,piedade de caratinga
+2017,11,4.5,pilar do sul
+2017,11,3.38,pimenta bueno
+2017,11,5,pinhotiba
+2017,11,3,pirambu
+2017,11,4.29,piraquara
+2017,11,3.67,pirauba
+2017,11,5,porto firme
+2017,11,3.8,quatis
+2017,11,4,quijingue
+2017,11,4.29,quirinopolis
+2017,11,4,rio doce
+2017,11,4,roncador
+2017,11,3.54,sacramento
+2017,11,4,salto do ceu
+2017,11,4.6,santa adelia
+2017,11,2,santa amelia
+2017,11,4.24,santa fe do sul
+2017,11,4.5,santa gertrudes
+2017,11,5,santa helena de minas
+2017,11,4.67,santa isabel do ivai
+2017,11,4.5,santa izabel do oeste
+2017,11,4.5,santa maria do para
+2017,11,3.71,sao gabriel do oeste
+2017,11,4.2,sao joao da boa vista
+2017,11,5,sao joao do ivai
+2017,11,5,sao joao do piaui
+2017,11,4,sao jorge d'oeste
+2017,11,3,sao jorge do ivai
+2017,11,4,sao jose do campestre
+2017,11,5,sao jose do xingu
+2017,11,5,sao pedro de alcantara
+2017,11,5,sao sebastiao do paraiba
+2017,11,4.12,sao vicente
+2017,11,3,sapeacu
+2017,11,2.75,sapucai-mirim
+2017,11,3,sarapui
+2017,11,2,satiro dias
+2017,11,4.5,seberi
+2017,11,3.6,serra dos aimores
+2017,11,5,serranopolis
+2017,11,4,silvania
+2017,11,5,silveira martins
+2017,11,3.11,soledade de minas
+2017,11,3.91,sumare
+2017,11,5,taboquinhas
+2017,11,3.75,tailandia
+2017,11,5,tanque d'arca
+2017,11,3,taquarana
+2017,11,4.75,tarumirim
+2017,11,3.29,teixeiras
+2017,11,5,termas de ibira
+2017,11,3.86,timbauba
+2017,11,5,timbe do sul
+2017,11,4.43,tocantinopolis
+2017,11,4.17,tocantins
+2017,11,4.08,toledo
+2017,11,4.8,toritama
+2017,11,4.14,trindade
+2017,11,5,trombas
+2017,11,5,turvelandia
+2017,11,4.42,uberaba
+2017,11,4.67,upanema
+2017,11,3,vargem grande do soturno
+2017,11,3.53,varzea paulista
+2017,11,3.95,visconde do rio branco
+2017,11,3,werneck
+2017,11,5,witmarsum
+2017,12,4.5,abaiara
+2017,12,3.43,acailandia
+2017,12,1,adhemar de barros
+2017,12,3.33,aguas vermelhas
+2017,12,3.94,alegrete
+2017,12,5,alvares florence
+2017,12,4.18,americana
+2017,12,2,amparo da serra
+2017,12,4.06,ananindeua
+2017,12,4,andrelandia
+2017,12,3.83,angra dos reis
+2017,12,4.25,anta gorda
+2017,12,5,araguapaz
+2017,12,4,araucaria
+2017,12,3.33,areia branca dos assis
+2017,12,4.33,areias
+2017,12,4,aribice
+2017,12,4.2,arroio do meio
+2017,12,4.21,aruja
+2017,12,3,arvoredo
+2017,12,3,atalaia
+2017,12,3.67,ataleia
+2017,12,1,atilio vivacqua
+2017,12,3.71,bady bassitt
+2017,12,4.26,barbacena
+2017,12,1.5,barra de santa rosa
+2017,12,3.67,barra dos coqueiros
+2017,12,4.33,barras
+2017,12,4.17,barrinha
+2017,12,3.25,barro
+2017,12,5,barro alto
+2017,12,5,barrolandia
+2017,12,4.14,barueri
+2017,12,2,bela vista do paraiso
+2017,12,4.1,belo horizonte
+2017,12,4.16,bento goncalves
+2017,12,4,bertopolis
+2017,12,5,bicas
+2017,12,3.56,bilac
+2017,12,4.52,boa esperanca
+2017,12,3.75,boa vista da aparecida
+2017,12,5,bodoquena
+2017,12,4,bom jesus da serra
+2017,12,4,bonfim
+2017,12,2,bonfinopolis
+2017,12,4.06,bonito
+2017,12,4.39,brusque
+2017,12,4,bueno brandao
+2017,12,3.2,buenopolis
+2017,12,3,cabaceiras do paraguacu
+2017,12,4,cabeceira grande
+2017,12,4.28,caceres
+2017,12,5,cachoeira do brumado
+2017,12,4,cachoeira do sul
+2017,12,3.88,cachoeiro de itapemirim
+2017,12,4.2,caconde
+2017,12,1,caetanos
+2017,12,5,caldeirao grande
+2017,12,3,campo bonito
+2017,12,3.9,campo verde
+2017,12,4.2,campos gerais
+2017,12,2.67,camutanga
+2017,12,3.67,canaa dos carajas
+2017,12,1,candido mendes
+2017,12,3,capinzal do norte
+2017,12,3.97,caraguatatuba
+2017,12,5,caraibas
+2017,12,4.1,carandai
+2017,12,4,carapebus
+2017,12,4.5,carbonita
+2017,12,4.1,carmo do cajuru
+2017,12,4,carolina
+2017,12,3.86,caucaia
+2017,12,5,ceara-mirim
+2017,12,4.5,celso ramos
+2017,12,3.71,cerqueira cesar
+2017,12,4.57,cerro largo
+2017,12,4.15,cesario lange
+2017,12,4,cha de alegria
+2017,12,1,chapadao do lageado
+2017,12,4.24,charqueadas
+2017,12,3,charrua
+2017,12,4.13,cidade ocidental
+2017,12,4,cidreira
+2017,12,4.25,claudia
+2017,12,5,clevelandia
+2017,12,5,cocais
+2017,12,3.63,codo
+2017,12,3.63,colider
+2017,12,4.13,colombo
+2017,12,4.07,coronel fabriciano
+2017,12,1,corrego danta
+2017,12,3,correntina
+2017,12,5,cortes
+2017,12,3.92,costa rica
+2017,12,2,cotegipe
+2017,12,5,cumari
+2017,12,4.33,dom aquino
+2017,12,3,dom joaquim
+2017,12,4.1,dom pedrito
+2017,12,4.75,dom silverio
+2017,12,4.5,domiciano ribeiro
+2017,12,1,doutor mauricio cardoso
+2017,12,4.25,edeia
+2017,12,4.09,embu das artes
+2017,12,5,engenheiro navarro
+2017,12,3.5,engenheiro paulo de frontin
+2017,12,5,entre folhas
+2017,12,5,erico cardoso
+2017,12,4.33,esplanada
+2017,12,5,estrela velha
+2017,12,3.89,fartura
+2017,12,4.33,fatima
+2017,12,4.44,faxinal
+2017,12,4.4,feira nova
+2017,12,4.5,ferros
+2017,12,5,figueiropolis d'oeste
+2017,12,5,floreal
+2017,12,2.5,flores
+2017,12,2,foz do jordao
+2017,12,4.21,frederico westphalen
+2017,12,5,gameleiras
+2017,12,3.5,gandu
+2017,12,3.33,garrafao do norte
+2017,12,4.1,girua
+2017,12,3.6,goiatuba
+2017,12,5,goncalves dias
+2017,12,5,grajau
+2017,12,3.2,granja
+2017,12,4.17,guapiacu
+2017,12,4.8,guaracai
+2017,12,5,guarapua
+2017,12,4.37,guararapes
+2017,12,4.5,guaratinga
+2017,12,4.18,guaratingueta
+2017,12,4,guaxupe
+2017,12,4,guimarania
+2017,12,5,ibiracu
+2017,12,2.67,ibiraja
+2017,12,4.77,ibirama
+2017,12,4.1,ibiruba
+2017,12,4.37,ibiuna
+2017,12,3,igaci
+2017,12,4,igarape-acu
+2017,12,4,imbe de minas
+2017,12,4.35,indaial
+2017,12,5,ipecaeta
+2017,12,3,ipuiuna
+2017,12,5,ipupiara
+2017,12,4.5,irapua
+2017,12,3.4,iraquara
+2017,12,4.5,irineopolis
+2017,12,4.5,itaiopolis
+2017,12,4.67,itaipulandia
+2017,12,4,itaju do colonia
+2017,12,2.75,itapaci
+2017,12,3.99,itapecerica da serra
+2017,12,3.91,itapipoca
+2017,12,4.5,itapirapua
+2017,12,4.67,itapitanga
+2017,12,4.29,itaporanga
+2017,12,4,itaporanga d'ajuda
+2017,12,4.71,itapui
+2017,12,4,itaquitinga
+2017,12,3.67,itarana
+2017,12,4.25,itiuba
+2017,12,3.5,jabora
+2017,12,4,jacaraci
+2017,12,5,jacinto
+2017,12,3,jampruca
+2017,12,4.5,jandaira
+2017,12,4.83,jaru
+2017,12,4,jatoba
+2017,12,4.3,jau
+2017,12,3.75,jesuitas
+2017,12,5,joao camara
+2017,12,4.06,joao pinheiro
+2017,12,5,joselandia
+2017,12,4.43,joviania
+2017,12,3.59,juazeiro do norte
+2017,12,4,jucurutu
+2017,12,5,juruena
+2017,12,5,jussiape
+2017,12,4.57,lagoa da prata
+2017,12,4,lagoa dos tres cantos
+2017,12,4.29,lagoa formosa
+2017,12,5,lagoa grande
+2017,12,4.23,lagoa santa
+2017,12,4,lambari
+2017,12,4.23,leme
+2017,12,1,leoberto leal
+2017,12,4.67,lontras
+2017,12,5,lourdes
+2017,12,3.56,luis eduardo magalhaes
+2017,12,4.21,macapa
+2017,12,4,macuco
+2017,12,3.17,mamanguape
+2017,12,5,mansidao
+2017,12,4,mara rosa
+2017,12,4.6,marechal floriano
+2017,12,4.33,maria da fe
+2017,12,3.88,mariana
+2017,12,4.5,matao
+2017,12,3.5,matoes do norte
+2017,12,5,mauriti
+2017,12,5,medeiros
+2017,12,3.86,medeiros neto
+2017,12,3.65,medianeira
+2017,12,2,milha
+2017,12,3.67,mineiros do tiete
+2017,12,4.5,mirassol d'oeste
+2017,12,4.19,mongagua
+2017,12,4,monnerat
+2017,12,4,monsenhor paulo
+2017,12,2,montadas
+2017,12,3,monte alegre
+2017,12,5,monte alverne
+2017,12,3.8,moreno
+2017,12,3.75,morretes
+2017,12,4,morro de sao paulo
+2017,12,4,mucurici
+2017,12,4,mussurepe
+2017,12,4.75,mutuipe
+2017,12,4,natercia
+2017,12,4.55,navegantes
+2017,12,4,nazare da mata
+2017,12,3,nossa senhora de caravaggio
+2017,12,4.33,nova alvorada
+2017,12,4.5,nova campina
+2017,12,2.5,ocara
+2017,12,4.07,olinda
+2017,12,4.23,oliveira
+2017,12,5,oscar bressane
+2017,12,4.75,ouro preto do oeste
+2017,12,4.6,palestina
+2017,12,4.88,palmares do sul
+2017,12,4.06,palmas
+2017,12,5,pancas
+2017,12,4.33,paraiso do norte
+2017,12,5,paranapoema
+2017,12,3,pau d'arco
+2017,12,4.2,pecanha
+2017,12,4.2,pedro canario
+2017,12,3.67,pedro osorio
+2017,12,5,pendencias
+2017,12,3,pequizeiro
+2017,12,4.22,pinhais
+2017,12,4.67,pinhao
+2017,12,4,pirajuba
+2017,12,5,pirapo
+2017,12,5,pitimbu
+2017,12,4.09,pompeu
+2017,12,3,pontes gestal
+2017,12,3,populina
+2017,12,5,porto amazonas
+2017,12,4,porto lucena
+2017,12,2.9,porto real
+2017,12,3,porto trombetas
+2017,12,4.4,porto xavier
+2017,12,4.86,potiragua
+2017,12,3.71,presidente getulio
+2017,12,5,presidente lucena
+2017,12,2,presidente nereu
+2017,12,4.33,quixeramobim
+2017,12,4,rancharia
+2017,12,5,rancho queimado
+2017,12,4.33,raul soares
+2017,12,5,reginopolis
+2017,12,1.67,resende costa
+2017,12,5,riacho da cruz
+2017,12,4.15,ribeirao das neves
+2017,12,3.89,rio de janeiro
+2017,12,4.5,rio formoso
+2017,12,4.31,rio negrinho
+2017,12,3.33,rio pardo
+2017,12,4.5,rodeio bonito
+2017,12,4.14,rubiataba
+2017,12,3.33,sabinopolis
+2017,12,4.32,salinas
+2017,12,1,sambaiba
+2017,12,4.75,sanclerlandia
+2017,12,4.8,santa cruz de minas
+2017,12,5,santa fe de minas
+2017,12,5,santa luzia do norte
+2017,12,4.19,santa maria
+2017,12,2.5,santa terezinha
+2017,12,4.42,santa vitoria do palmar
+2017,12,2,santana de pirapama
+2017,12,3.75,santana do acarau
+2017,12,5,santana do deserto
+2017,12,5,santana do sobrado
+2017,12,3.6,santo amaro
+2017,12,4.27,santo andre
+2017,12,1,santo antonio
+2017,12,5,santo antonio das queimadas
+2017,12,4.67,santo antonio do amparo
+2017,12,3.67,santo antonio do itambe
+2017,12,4.2,santos
+2017,12,3.79,sao gotardo
+2017,12,5,sao joao do manteninha
+2017,12,5,sao joao do sobrado
+2017,12,3,sao joaquim do monte
+2017,12,4.33,sao jose do cerrito
+2017,12,4.15,sao leopoldo
+2017,12,3.67,sao martinho
+2017,12,4.67,sao pedro do ivai
+2017,12,3.5,sao pedro do turvo
+2017,12,5,sao sebastiao do rio verde
+2017,12,3.5,sao thome das letras
+2017,12,5,sao tome
+2017,12,4,sao vendelino
+2017,12,5,satuba
+2017,12,2.8,senges
+2017,12,4.08,serrana
+2017,12,4.67,sideropolis
+2017,12,5,silva jardim
+2017,12,4.5,simolandia
+2017,12,4.5,sitio novo
+2017,12,4.67,sume
+2017,12,4.58,tabapua
+2017,12,1,tamarana
+2017,12,2,tapinas
+2017,12,4.75,teolandia
+2017,12,4.29,terra rica
+2017,12,4.57,teutonia
+2017,12,4.22,timoteo
+2017,12,3,tome-acu
+2017,12,4.09,tubarao
+2017,12,4,turvo
+2017,12,4,uruana
+2017,12,4,uruana de minas
+2017,12,4,uruburetama
+2017,12,3.97,valenca
+2017,12,4.67,valentim gentil
+2017,12,4.41,varginha
+2017,12,5,varzedo
+2017,12,4.2,venda nova do imigrante
+2017,12,3.33,vera
+2017,12,4,vespasiano correa
+2017,12,5,vila nova do sul
+2017,12,3.88,virginopolis
+2017,12,5,xapuri
+2018,01,3.83,abre campo
+2018,01,3.67,acu
+2018,01,5,adolfo
+2018,01,4.33,agua boa
+2018,01,3.5,agua clara
+2018,01,4.25,agua doce do norte
+2018,01,5,agua fria de goias
+2018,01,5,agua santa
+2018,01,5,aguas de sao pedro
+2018,01,3.75,aiuruoca
+2018,01,5,alianca do tocantins
+2018,01,4.58,alta floresta
+2018,01,3.4,alto araguaia
+2018,01,4.5,alto parana
+2018,01,4,alto santo
+2018,01,5,anaurilandia
+2018,01,4,angicos
+2018,01,5,aparecida de sao manuel
+2018,01,4.73,aracoiaba da serra
+2018,01,4.36,araras
+2018,01,3.5,araripina
+2018,01,4,araujos
+2018,01,4.63,arinos
+2018,01,3.38,aripuana
+2018,01,3.75,avelar
+2018,01,4.5,balneario arroio do silva
+2018,01,4.36,balneario pinhal
+2018,01,4,bariri
+2018,01,4,benedito leite
+2018,01,4,bequimao
+2018,01,3,boa ventura
+2018,01,4.5,bodoco
+2018,01,4,bom conselho
+2018,01,1,bom jardim de goias
+2018,01,5,bom jesus do galho
+2018,01,4,boninal
+2018,01,4.5,borda da mata
+2018,01,5,botupora
+2018,01,4,brasil novo
+2018,01,4.8,brauna
+2018,01,5,brejo dos santos
+2018,01,3.56,buritama
+2018,01,4,cabralia paulista
+2018,01,4.25,cacapava
+2018,01,4.41,caete
+2018,01,2.5,california
+2018,01,4.67,camacan
+2018,01,3.5,cambira
+2018,01,4.15,campina grande
+2018,01,3.71,campinorte
+2018,01,5,campo azul
+2018,01,1,campo do tenente
+2018,01,4,campo florido
+2018,01,4.75,campos sales
+2018,01,5,canapolis
+2018,01,5,cantanhede
+2018,01,4.33,capao do cipo
+2018,01,3.67,capitao poco
+2018,01,3.75,carmo da cachoeira
+2018,01,4.56,carmo do rio claro
+2018,01,4,carnauba dos dantas
+2018,01,4.86,castelandia
+2018,01,4.5,celina
+2018,01,1,cerro negro
+2018,01,5,ciriaco
+2018,01,4.67,coluna
+2018,01,2.33,conceicao das alagoas
+2018,01,4.17,conceicao do mato dentro
+2018,01,4,congonhinhas
+2018,01,5,conquista d'oeste
+2018,01,4.48,cornelio procopio
+2018,01,3.5,crisolita
+2018,01,3.88,crixas
+2018,01,4.5,damianopolis
+2018,01,3.67,delfinopolis
+2018,01,3.67,deputado irapuan pinheiro
+2018,01,2,desterro
+2018,01,4,divinolandia
+2018,01,4,dois irmaos
+2018,01,5,dois riachos
+2018,01,4.14,dores do indaia
+2018,01,4.15,engenheiro coelho
+2018,01,5,engenheiro passos
+2018,01,4.71,ervalia
+2018,01,3.67,estreito
+2018,01,5,felisburgo
+2018,01,5,florinia
+2018,01,5,fonseca
+2018,01,4.33,francisco sa
+2018,01,5,frei rogerio
+2018,01,5,galia
+2018,01,4.2,garibaldi
+2018,01,4.5,gaviao peixoto
+2018,01,4,general camara
+2018,01,3.5,getulina
+2018,01,5,gilbues
+2018,01,4.2,gravata
+2018,01,4.17,gravatai
+2018,01,4.22,guaranesia
+2018,01,3.9,guarani
+2018,01,4.54,gurupi
+2018,01,4.44,herval d'oeste
+2018,01,4.31,ibate
+2018,01,4.5,ibia
+2018,01,5,ibiassuce
+2018,01,4.67,ibicoara
+2018,01,3,ibitiara
+2018,01,4.8,igarata
+2018,01,4.86,iguape
+2018,01,5,iguatama
+2018,01,3.71,ilheus
+2018,01,3.75,indiara
+2018,01,4.86,inhapim
+2018,01,3,inhuma
+2018,01,3.63,ipaba
+2018,01,5,ipumirim
+2018,01,4.71,itabera
+2018,01,3.85,itabuna
+2018,01,1,itacurussa
+2018,01,5,itaguari
+2018,01,4.4,itapagipe
+2018,01,4.83,itapejara d'oeste
+2018,01,4.26,itapira
+2018,01,4.46,itapolis
+2018,01,3.67,itapora
+2018,01,4.33,itaqui
+2018,01,3.5,itariri
+2018,01,4.39,itumbiara
+2018,01,4.13,ituverava
+2018,01,5,jaguaracu
+2018,01,1,japi
+2018,01,3.4,japuiba
+2018,01,4.71,jaragua
+2018,01,4.04,jaragua do sul
+2018,01,5,jardim olinda
+2018,01,4.5,jeronimo monteiro
+2018,01,4.11,ji-parana
+2018,01,4.62,joanopolis
+2018,01,5,joao alfredo
+2018,01,5,joao dourado
+2018,01,4.19,juiz de fora
+2018,01,4.83,jumirim
+2018,01,3.7,juquia
+2018,01,4.47,lagoa vermelha
+2018,01,4.67,lagoinha
+2018,01,4.2,laurentino
+2018,01,4.75,lauro muller
+2018,01,5,luizlandia do oeste
+2018,01,3.5,macambara
+2018,01,4,machacalis
+2018,01,3.63,mambore
+2018,01,4.24,manaus
+2018,01,3,mangaratiba
+2018,01,5,manoel viana
+2018,01,4,marques de souza
+2018,01,4.67,mata verde
+2018,01,5,matelandia
+2018,01,3.33,mateus leme
+2018,01,4.25,maurilandia
+2018,01,3.66,mesquita
+2018,01,5,ministro andreazza
+2018,01,5,mombaca
+2018,01,4.63,monte azul paulista
+2018,01,4.5,monte castelo
+2018,01,4.33,monte verde
+2018,01,3.5,montezuma
+2018,01,4,mucambo
+2018,01,5,mutum parana
+2018,01,5,mutunopolis
+2018,01,4.23,nao-me-toque
+2018,01,4.13,navirai
+2018,01,4,nossa senhora das dores
+2018,01,3.67,nova cantu
+2018,01,3.71,nova friburgo
+2018,01,4,nova guataporanga
+2018,01,4.2,nova mutum
+2018,01,2,novo itacolomi
+2018,01,4,olhos d'agua
+2018,01,4.18,osasco
+2018,01,3.82,panambi
+2018,01,4.24,para de minas
+2018,01,4.18,paracatu
+2018,01,3.85,paraguacu
+2018,01,3.72,paraiba do sul
+2018,01,3.33,paraibano
+2018,01,4.4,paraibuna
+2018,01,5,paranaiguara
+2018,01,4,parnarama
+2018,01,5,passo de camaragibe
+2018,01,5,pastos bons
+2018,01,4.04,patos de minas
+2018,01,4.31,paty do alferes
+2018,01,4.5,paudalho
+2018,01,5,paula freitas
+2018,01,3.5,paulo lopes
+2018,01,5,perobal
+2018,01,3,piacu
+2018,01,5,pimenteiras
+2018,01,5,pinhal da serra
+2018,01,2.78,pirai
+2018,01,4.29,piripiri
+2018,01,4.23,pojuca
+2018,01,5,ponto do marambaia
+2018,01,4.4,porteirinha
+2018,01,1,porto dos gauchos
+2018,01,5,poxoreu
+2018,01,1,princesa isabel
+2018,01,4.5,protasio alves
+2018,01,5,purilandia
+2018,01,4.54,quata
+2018,01,4.6,quatro bocas
+2018,01,3.67,riacho dos machados
+2018,01,4,ribeirao
+2018,01,5,ribeiraozinho
+2018,01,3.89,rio branco
+2018,01,4.8,rio brilhante
+2018,01,4.8,rio novo do sul
+2018,01,4,roca sales
+2018,01,3.93,rolandia
+2018,01,4.67,saloa
+2018,01,5,salobro
+2018,01,3.71,santa cecilia
+2018,01,4,santa clara d'oeste
+2018,01,4.33,santa cruz das palmeiras
+2018,01,4,santa fe de goias
+2018,01,3.56,santa juliana
+2018,01,3.88,santa luzia
+2018,01,4,santa rita da floresta
+2018,01,5,santana do ipanema
+2018,01,4.2,santana do livramento
+2018,01,1,sao benedito do rio preto
+2018,01,4,sao bento
+2018,01,3.89,sao borja
+2018,01,5,sao bras do suacui
+2018,01,4.25,sao carlos
+2018,01,4,sao domingos do sul
+2018,01,3,sao geraldo da piedade
+2018,01,3,sao goncalo do para
+2018,01,4.5,sao goncalo do rio abaixo
+2018,01,5,sao joao de iracema
+2018,01,5,sao joao de petropolis
+2018,01,3.78,sao joaquim
+2018,01,3.62,sao jose de ribamar
+2018,01,4,sao jose do belmonte
+2018,01,3.77,sao jose do rio pardo
+2018,01,3.7,sao luis
+2018,01,3,sao luis do quitunde
+2018,01,3.89,sao marcos
+2018,01,4,sao sebastiao de campos
+2018,01,4.5,sape
+2018,01,3.95,sapucaia do sul
+2018,01,4.5,satubinha
+2018,01,4,senador jose porfirio
+2018,01,4.26,sertaozinho
+2018,01,4.31,sete lagoas
+2018,01,4,severinia
+2018,01,5,silvianopolis
+2018,01,4,sucesso
+2018,01,4.8,surubim
+2018,01,4.17,taio
+2018,01,5,tangara
+2018,01,5,taperuaba
+2018,01,4.09,taubate
+2018,01,4,tenente ananias
+2018,01,4,teresina de goias
+2018,01,2,terezinha
+2018,01,4.75,terra boa
+2018,01,4.5,tobias barreto
+2018,01,3.2,tombos
+2018,01,5,trairi
+2018,01,4,travesseiro
+2018,01,5,tres barras
+2018,01,3.8,trombudo central
+2018,01,5,tuiuti
+2018,01,3.5,tunas do parana
+2018,01,4,tupancireta
+2018,01,4.1,uniao da vitoria
+2018,01,3.5,uniao dos palmares
+2018,01,4.47,uruacu
+2018,01,5,vale do sol
+2018,01,4.67,ventania
+2018,01,3.89,veranopolis
+2018,01,4.29,vila muriqui
+2018,01,4.5,vila valerio
+2018,01,5,vitoria das missoes
+2018,01,4,wanderley
+2018,01,3.67,xinguara
+2018,02,4,abadiania
+2018,02,4,aguai
+2018,02,5,aguas mornas
+2018,02,4.2,alagoinhas
+2018,02,5,alto alegre do maranhao
+2018,02,4,alto piquiri
+2018,02,4.2,altos
+2018,02,3,alvorada d'oeste
+2018,02,5,americano do brasil
+2018,02,5,americo de campos
+2018,02,5,anadia
+2018,02,5,andarai
+2018,02,5,andrequice
+2018,02,4.33,angulo
+2018,02,5,angustura
+2018,02,4,aquidauana
+2018,02,4,aracatu
+2018,02,3.6,aracoiaba
+2018,02,1,aramina
+2018,02,3,araripe
+2018,02,4.6,araruna
+2018,02,4,arcoverde
+2018,02,4,arroio trinta
+2018,02,4.5,arrozal
+2018,02,3.75,ascurra
+2018,02,4,baixa grande do ribeiro
+2018,02,4.23,balneario camboriu
+2018,02,4.14,bela vista de goias
+2018,02,4,boa esperanca do iguacu
+2018,02,4.23,bocaiuva
+2018,02,5,bocaiuva do sul
+2018,02,4.06,bom jardim
+2018,02,5,bom jesus do amparo
+2018,02,4.16,botucatu
+2018,02,4.78,brasilia de minas
+2018,02,4.25,brejo da madre de deus
+2018,02,5,buique
+2018,02,4,cabedelo
+2018,02,4.35,cacador
+2018,02,4.5,cachoeira alta
+2018,02,4.09,cachoeirinha
+2018,02,3.46,cacoal
+2018,02,5,calmon
+2018,02,3.32,camacari
+2018,02,5,cambara do sul
+2018,02,3,campanha
+2018,02,5,campo magro
+2018,02,3.8,capim grosso
+2018,02,3.8,capitao leonidas marques
+2018,02,4.11,cariacica
+2018,02,3.67,carius
+2018,02,5,carlinda
+2018,02,4.38,carmo do paranaiba
+2018,02,4.8,carmopolis de minas
+2018,02,4.29,casca
+2018,02,5,castanheira
+2018,02,3,chapada dos guimaraes
+2018,02,3.5,chapadao do sul
+2018,02,3,cidelandia
+2018,02,4,cipo
+2018,02,4.89,colina
+2018,02,5,conceicao da ibitipoca
+2018,02,5,coronel domingos soares
+2018,02,5,coronel joao pessoa
+2018,02,4.05,cosmopolis
+2018,02,4.67,cosmorama
+2018,02,4.16,cotia
+2018,02,4.73,cravinhos
+2018,02,3.67,cristal
+2018,02,5,demerval lobao
+2018,02,3,desembargador otoni
+2018,02,5,diamante d'oeste
+2018,02,4,diamantino
+2018,02,5,dona francisca
+2018,02,4.13,embu-guacu
+2018,02,1,engenheiro beltrao
+2018,02,3.85,erechim
+2018,02,4.32,espera feliz
+2018,02,5,fatima do sul
+2018,02,1,felicio dos santos
+2018,02,4,felixlandia
+2018,02,4.46,feliz
+2018,02,5,figueira
+2018,02,3.43,firminopolis
+2018,02,3.27,floresta
+2018,02,4.25,florida paulista
+2018,02,4.75,forquilha
+2018,02,4.07,fraiburgo
+2018,02,4.22,francisco morato
+2018,02,4.16,franco da rocha
+2018,02,4.67,fronteiras
+2018,02,3.5,gameleira
+2018,02,4,gastao vidigal
+2018,02,4.5,goianorte
+2018,02,4.63,goias
+2018,02,4,governador mangabeira
+2018,02,4.22,guanhaes
+2018,02,4.33,guaraciaba
+2018,02,4.08,guaramirim
+2018,02,4,horizonte
+2018,02,3.33,ibiai
+2018,02,4.4,iconha
+2018,02,3.27,igarape
+2018,02,4.6,inacio martins
+2018,02,4.67,indiapora
+2018,02,4.33,irapuru
+2018,02,3.85,itaborai
+2018,02,5,itaguaru
+2018,02,4.2,itajobi
+2018,02,4.08,itanhandu
+2018,02,3.5,itanhomi
+2018,02,4.67,itaobim
+2018,02,3.83,itapura
+2018,02,3,itueta
+2018,02,4.41,ituiutaba
+2018,02,5,itutinga
+2018,02,4.13,jacare
+2018,02,5,jaguapita
+2018,02,4,japaratuba
+2018,02,3.8,japura
+2018,02,4.77,jardinopolis
+2018,02,3.93,jatai
+2018,02,5,jequitai
+2018,02,3.5,jequitiba
+2018,02,4,jeriquara
+2018,02,4,jundiai do sul
+2018,02,5,juruti
+2018,02,1,laje do muriae
+2018,02,4,leopolis
+2018,02,4.4,livramento de nossa senhora
+2018,02,4,lucena
+2018,02,4.5,mairi
+2018,02,4.33,major vieira
+2018,02,4.11,mandaguari
+2018,02,4.67,manduri
+2018,02,5,maranhaozinho
+2018,02,4.63,marataizes
+2018,02,3.58,maravilha
+2018,02,3.89,marica
+2018,02,4.5,marinopolis
+2018,02,4,mata de sao joao
+2018,02,4.5,materlandia
+2018,02,4.67,meleiro
+2018,02,4.14,mirassol
+2018,02,5,miravania
+2018,02,5,missal
+2018,02,4,mocajuba
+2018,02,5,mojui dos campos
+2018,02,5,monte bonito
+2018,02,3,monte santo
+2018,02,5,montividiu do norte
+2018,02,4.43,mucuri
+2018,02,4.07,niquelandia
+2018,02,5,nossa senhora do remedio
+2018,02,4,nova olinda do maranhao
+2018,02,5,nova resende
+2018,02,3.94,novo horizonte
+2018,02,4.21,nucleo residencial pilar
+2018,02,4.67,oroco
+2018,02,4.4,otacilio costa
+2018,02,1,ouro
+2018,02,5,palmeiras
+2018,02,5,panelas
+2018,02,5,parisi
+2018,02,4,passa tempo
+2018,02,4,pato bragado
+2018,02,4,pedro de toledo
+2018,02,5,piacabucu
+2018,02,3.95,pinhalzinho
+2018,02,4.25,piranga
+2018,02,3.88,pirangi
+2018,02,5,piratini
+2018,02,4.33,pires do rio
+2018,02,5,pocao de pedras
+2018,02,3.82,pompeia
+2018,02,4.14,porto uniao
+2018,02,3,potim
+2018,02,5,pouso alto
+2018,02,4.7,pradopolis
+2018,02,4.33,prados
+2018,02,4.17,presidente bernardes
+2018,02,5,ressaquinha
+2018,02,3.75,rianapolis
+2018,02,4.2,ribeirao preto
+2018,02,4.03,rio grande
+2018,02,3.6,salesopolis
+2018,02,5,salgado filho
+2018,02,3.75,salto do lontra
+2018,02,4.39,santa barbara d'oeste
+2018,02,5,santa rita de caldas
+2018,02,4.5,santana da boa vista
+2018,02,3.69,santo antonio de jesus
+2018,02,3.2,santo antonio do descoberto
+2018,02,3,santo hipolito
+2018,02,4,sao benedito
+2018,02,5,sao bento abade
+2018,02,5,sao domingos do maranhao
+2018,02,5,sao felix do araguaia
+2018,02,3.11,sao francisco do sul
+2018,02,4.4,sao joao
+2018,02,4,sao joao do oriente
+2018,02,4.5,sao joao do sul
+2018,02,5,sao jose do egito
+2018,02,5,sao jose do serido
+2018,02,5,sao miguel do cambui
+2018,02,2.5,sao miguel do gostoso
+2018,02,5,sao paulo do potengi
+2018,02,3.8,sao roque do canaa
+2018,02,3.25,sao sebastiao do alto
+2018,02,4,sao sebastiao do passe
+2018,02,4.65,sao simao
+2018,02,1,saude
+2018,02,4.6,serra talhada
+2018,02,5,serranopolis de minas
+2018,02,5,sonora
+2018,02,5,tabuleiro
+2018,02,5,tacuru
+2018,02,4.4,taguai
+2018,02,5,tapurah
+2018,02,4,taquarituba
+2018,02,5,tiradentes do sul
+2018,02,3,trajano de moraes
+2018,02,4.29,tremembe
+2018,02,4.25,tres marias
+2018,02,3.64,treze tilias
+2018,02,3.6,turmalina
+2018,02,3.5,urucurituba
+2018,02,5,vanini
+2018,02,3.75,varjota
+2018,02,3.89,videira
+2018,02,4,vila bela da santissima trindade
+2018,02,3,vila flor
+2018,02,3.67,vila rica
+2018,02,3.33,visconde de maua
+2018,02,1,vista alegre
+2018,02,2.6,ze doca
+2018,03,3.92,adamantina
+2018,03,5,aguas claras
+2018,03,3.76,alem paraiba
+2018,03,5,alfredo marcondes
+2018,03,4,alpestre
+2018,03,3.92,altamira
+2018,03,3,altinho
+2018,03,5,altinopolis
+2018,03,3.89,alto paraiso de goias
+2018,03,4.67,alto taquari
+2018,03,4.67,altonia
+2018,03,3.46,aluminio
+2018,03,3.94,americo brasiliense
+2018,03,4,andira
+2018,03,4.5,angatuba
+2018,03,5,angelica
+2018,03,5,anhandui
+2018,03,5,anitapolis
+2018,03,1,antonina do norte
+2018,03,2.33,aragarcas
+2018,03,5,aramari
+2018,03,4.47,ararangua
+2018,03,4,areal
+2018,03,3,arealva
+2018,03,2.5,arneiroz
+2018,03,3.72,artur nogueira
+2018,03,4.5,arvorezinha
+2018,03,4.14,avanhandava
+2018,03,3.7,balneario picarras
+2018,03,5,bandeirantes d'oeste
+2018,03,5,barra do jacare
+2018,03,5,barra do mendes
+2018,03,4.8,barra do ribeiro
+2018,03,4.27,barretos
+2018,03,3.77,batatais
+2018,03,4.15,bauru
+2018,03,3,beberibe
+2018,03,2,bela vista do maranhao
+2018,03,3.66,belford roxo
+2018,03,5,benevides
+2018,03,3,boa vista do cadeado
+2018,03,3.57,bom jesus do itabapoana
+2018,03,4.17,bom principio
+2018,03,5,bonito de santa fe
+2018,03,4,boqueirao do leao
+2018,03,3.5,botuvera
+2018,03,4.06,brasilia
+2018,03,5,brejetuba
+2018,03,5,brejo
+2018,03,5,brejoes
+2018,03,5,breves
+2018,03,4.58,brumadinho
+2018,03,2.5,buerarema
+2018,03,5,cabeceiras
+2018,03,3.86,cachoeira de minas
+2018,03,4.38,caetanopolis
+2018,03,3.2,caetite
+2018,03,4,cajamar
+2018,03,3.75,cajazeiras
+2018,03,4.7,cambara
+2018,03,3.5,campina das missoes
+2018,03,1,campo alegre do fidalgo
+2018,03,5,campo grande do piaui
+2018,03,4.21,campos novos
+2018,03,3.5,capao da porteira
+2018,03,3.67,capela
+2018,03,1,capela do alto alegre
+2018,03,4,carinhanha
+2018,03,4,carlos barbosa
+2018,03,5,cascalho rico
+2018,03,4.12,cascavel
+2018,03,4,centralina
+2018,03,3.86,ceu azul
+2018,03,3.75,chapada gaucha
+2018,03,3.9,chapeco
+2018,03,4.1,charqueada
+2018,03,4.6,cidade gaucha
+2018,03,4.67,cocal do sul
+2018,03,3.75,cocalinho
+2018,03,2.33,colinas
+2018,03,3,colonia jordaozinho
+2018,03,5,conceicao do formoso
+2018,03,4.32,conchal
+2018,03,3.94,concordia
+2018,03,5,conselheiro mairinck
+2018,03,5,coronel macedo
+2018,03,3,corrego fundo
+2018,03,4.09,correia pinto
+2018,03,3.79,corumba
+2018,03,5,cotipora
+2018,03,3,cotriguacu
+2018,03,2,cupira
+2018,03,3.95,curitibanos
+2018,03,3,cururupu
+2018,03,4.25,delmiro gouveia
+2018,03,4.33,deodapolis
+2018,03,4.69,descalvado
+2018,03,4.4,divinolandia de minas
+2018,03,4.47,dois vizinhos
+2018,03,4.6,dom feliciano
+2018,03,4.67,dom pedro
+2018,03,4,domingos martins
+2018,03,5,dona emma
+2018,03,4.33,dourado
+2018,03,4.5,doverlandia
+2018,03,4.5,durande
+2018,03,4.3,eloi mendes
+2018,03,5,emilianopolis
+2018,03,4.8,estiva gerbi
+2018,03,5,felipe guerra
+2018,03,4,feliz deserto
+2018,03,5,florai
+2018,03,4.5,flores da cunha
+2018,03,2,formoso do araguaia
+2018,03,1,fortaleza dos valos
+2018,03,2,fortim
+2018,03,4.09,franca
+2018,03,2.5,frecheirinha
+2018,03,3,frei lagonegro
+2018,03,5,frutuoso gomes
+2018,03,4.32,garca
+2018,03,4,general carneiro
+2018,03,4.06,guaiba
+2018,03,4.63,guaicara
+2018,03,3.74,guanambi
+2018,03,4.8,guaranta
+2018,03,5,guaraquecaba
+2018,03,4.5,guarara
+2018,03,5,ibertioga
+2018,03,4,ibiaca
+2018,03,4.2,ibirarema
+2018,03,5,icarai de minas
+2018,03,5,ichu
+2018,03,4,igreja nova
+2018,03,3.5,ilha comprida
+2018,03,4.06,inhumas
+2018,03,3,ipaporanga
+2018,03,2.5,iracema
+2018,03,5,itaara
+2018,03,3.5,itabaiana
+2018,03,1,itaguacu da bahia
+2018,03,5,itaitinga
+2018,03,3.67,itambacuri
+2018,03,5,itamogi
+2018,03,5,itapissuma
+2018,03,3.95,itaquaquecetuba
+2018,03,4.22,itu
+2018,03,3.5,jaboti
+2018,03,4.67,jaguari
+2018,03,4,jandaia
+2018,03,1,jequeri
+2018,03,3.95,jequie
+2018,03,4.36,jequitinhonha
+2018,03,3.5,jeremoabo
+2018,03,4.25,juatuba
+2018,03,5,junqueiro
+2018,03,3.5,lagoa do carro
+2018,03,4.5,lagoa nova
+2018,03,4.33,lapa
+2018,03,4.59,laranjal paulista
+2018,03,4.5,lavinia
+2018,03,3.91,lavras
+2018,03,4,leandro ferreira
+2018,03,5,lindolfo collor
+2018,03,3.75,macedonia
+2018,03,5,macuco de minas
+2018,03,3.5,mae do rio
+2018,03,3.75,maracacume
+2018,03,4.2,maracas
+2018,03,4.75,maravilhas
+2018,03,5,marcos parente
+2018,03,3.76,marechal candido rondon
+2018,03,1,mariapolis
+2018,03,4.25,mario campos
+2018,03,3,marituba
+2018,03,4.43,marmeleiro
+2018,03,4,matias olimpio
+2018,03,4.25,matozinhos
+2018,03,1,mercedes
+2018,03,3.75,merces
+2018,03,3.5,miranorte
+2018,03,3.33,mombuca
+2018,03,4.41,montenegro
+2018,03,4.33,morada nova de minas
+2018,03,4.67,moreira sales
+2018,03,5,morro do pilar
+2018,03,3.84,mossoro
+2018,03,4.36,mostardas
+2018,03,4,murici
+2018,03,4.2,nanuque
+2018,03,4.42,natividade
+2018,03,5,natividade da serra
+2018,03,3.63,nhandeara
+2018,03,5,nova brasilandia d'oeste
+2018,03,5,nova crixas
+2018,03,4.63,nova esperanca
+2018,03,1,nova luzitania
+2018,03,4.49,nova odessa
+2018,03,4.13,nova petropolis
+2018,03,1,nova redencao
+2018,03,4,novo brasil
+2018,03,4.33,oriente
+2018,03,4.17,pacaembu
+2018,03,1,paineiras
+2018,03,3.5,paiva
+2018,03,3.87,palhoca
+2018,03,3.56,palmares
+2018,03,4.79,palmeira das missoes
+2018,03,4.27,paraisopolis
+2018,03,3.8,paramirim
+2018,03,5,paranacity
+2018,03,3.75,paranagua
+2018,03,4.24,paranavai
+2018,03,3.78,paraopeba
+2018,03,3.78,paraty
+2018,03,5,paripiranga
+2018,03,4,patis
+2018,03,2.5,patrocinio do muriae
+2018,03,5,paulistania
+2018,03,4.15,paulo afonso
+2018,03,4,pedra do indaia
+2018,03,4.2,pelotas
+2018,03,4.41,penapolis
+2018,03,1,piao
+2018,03,4.25,pien
+2018,03,3.5,pilar
+2018,03,5,pingo-d'agua
+2018,03,1,pio ix
+2018,03,2.82,piranguinho
+2018,03,4.5,piranhas
+2018,03,5,polo petroquimico de triunfo
+2018,03,5,pombal
+2018,03,5,ponto dos volantes
+2018,03,4,porto alegre do norte
+2018,03,5,porto franco
+2018,03,5,porto rico
+2018,03,3.25,posto da mata
+2018,03,3,praia norte
+2018,03,4,progresso
+2018,03,3,pugmil
+2018,03,4.5,putinga
+2018,03,4,puxinana
+2018,03,4.25,quarai
+2018,03,5,quatro pontes
+2018,03,3,rancho alegre
+2018,03,4,rancho alegre d'oeste
+2018,03,1.67,raposo
+2018,03,4.5,reboucas
+2018,03,3,ribeirao branco
+2018,03,5,ribeirao cascalheira
+2018,03,4.33,ribeirao do sul
+2018,03,4.88,rio acima
+2018,03,4.25,rio do pires
+2018,03,3.6,rio do sul
+2018,03,4.8,rio manso
+2018,03,3.22,rio maria
+2018,03,3.67,rio pomba
+2018,03,4.67,rio real
+2018,03,4,ronda alta
+2018,03,3,rondon
+2018,03,4.75,rosana
+2018,03,4.8,roseira
+2018,03,1,rubineia
+2018,03,4.24,salgueiro
+2018,03,3.72,salvador
+2018,03,5,sanga puita
+2018,03,4.25,santa cruz da conceicao
+2018,03,4.25,santa cruz de monte castelo
+2018,03,5,santa cruz de salinas
+2018,03,3.8,santa ines
+2018,03,3.23,santa maria da vitoria
+2018,03,3.5,santa maria de itabira
+2018,03,4.5,santa maria do suacui
+2018,03,4.33,santa rita d'oeste
+2018,03,5,santa teresinha
+2018,03,4,santana do itarare
+2018,03,3.57,santo antonio do jacinto
+2018,03,4.36,santos dumont
+2018,03,4,sao bernardino
+2018,03,4.26,sao bernardo do campo
+2018,03,1,sao francisco do gloria
+2018,03,4.08,sao goncalo do amarante
+2018,03,3.33,sao goncalo do rio preto
+2018,03,4.67,sao joao batista do gloria
+2018,03,4.67,sao joao d'alianca
+2018,03,3,sao jose do ribeirao
+2018,03,3.87,sao luiz gonzaga
+2018,03,5,sao mamede
+2018,03,4,sao nicolau
+2018,03,4,sao pedro do iguacu
+2018,03,5,sao rafael
+2018,03,4,sapezal
+2018,03,4.33,schroeder
+2018,03,4.5,seabra
+2018,03,4.22,serafina correa
+2018,03,3,serio
+2018,03,1,serra azul
+2018,03,5,serra do salitre
+2018,03,5,sertao santana
+2018,03,4.09,sidrolandia
+2018,03,1,tabuleiro do norte
+2018,03,4.62,taiobeiras
+2018,03,4.1,tambau
+2018,03,4.73,tapejara
+2018,03,3,tapirai
+2018,03,4.24,taquara
+2018,03,4.67,tenente portela
+2018,03,4.33,teofilandia
+2018,03,3.13,teotonio vilela
+2018,03,3.43,terra roxa
+2018,03,4,tres forquilhas
+2018,03,5,tupassi
+2018,03,5,tururu
+2018,03,3.67,ubaira
+2018,03,3.95,ubatuba
+2018,03,5,uniao do oeste
+2018,03,5,valenca do piaui
+2018,03,3.76,varzea grande
+2018,03,4.33,varzelandia
+2018,03,4,vera cruz
+2018,03,5,vertentes
+2018,03,4.27,viana
+2018,03,5,vieiras
+2018,03,5,vila pereira
+2018,03,4.6,votuporanga
+2018,03,4,xique-xique
+2018,03,4,zortea
+2018,04,4.17,abaete
+2018,04,3.71,acreuna
+2018,04,1,agua limpa
+2018,04,4.13,aguas de lindoia
+2018,04,3,aguia branca
+2018,04,5,alagoa nova
+2018,04,4.75,alcobaca
+2018,04,5,alegrete do piaui
+2018,04,5,altamira do parana
+2018,04,4.5,alto alegre do iguacu
+2018,04,4,alto garcas
+2018,04,5,alto sao joao
+2018,04,4.13,alvorada
+2018,04,4,alvorada do gurgueia
+2018,04,5,ametista do sul
+2018,04,2,angical
+2018,04,3.5,antonio pereira
+2018,04,3.91,aracati
+2018,04,3.75,arace
+2018,04,5,araguaia
+2018,04,3.75,arandu
+2018,04,4.71,arceburgo
+2018,04,4.22,atibaia
+2018,04,4.08,avare
+2018,04,4,bacabal
+2018,04,4.75,balneario barra do sul
+2018,04,3,banzae
+2018,04,4,barao de juparana
+2018,04,2,barra do turvo
+2018,04,3.64,barroso
+2018,04,4.8,bataguassu
+2018,04,3.85,belem
+2018,04,1.5,belmonte
+2018,04,3.17,benedito novo
+2018,04,4.75,bernardino de campos
+2018,04,4.15,betim
+2018,04,4.6,bituruna
+2018,04,3.33,bofete
+2018,04,5,borrazopolis
+2018,04,1,brasilandia de minas
+2018,04,3,breu branco
+2018,04,3.25,caarapo
+2018,04,4,cabixi
+2018,04,3.6,cabreuva
+2018,04,5,caem
+2018,04,4.13,cajati
+2018,04,3.85,camaqua
+2018,04,3.94,camaragibe
+2018,04,4.5,campanario
+2018,04,3.33,campina da lagoa
+2018,04,3,campo alegre de goias
+2018,04,4.43,campo ere
+2018,04,3.73,canarana
+2018,04,4,candelaria
+2018,04,3.67,candido sales
+2018,04,3,canhotinho
+2018,04,4.01,canoas
+2018,04,4.08,caratinga
+2018,04,4,caraubas
+2018,04,4.17,carazinho
+2018,04,4.5,caririacu
+2018,04,4.18,cataguases
+2018,04,4.29,caxambu
+2018,04,4.31,caxias
+2018,04,4.29,ceres
+2018,04,3,cerro grande do sul
+2018,04,5,cezarina
+2018,04,3.75,chapada
+2018,04,3.56,cicero dantas
+2018,04,4.75,coaraci
+2018,04,5,colmeia
+2018,04,4,condor
+2018,04,5,confins
+2018,04,4.57,conselheiro pena
+2018,04,5,constantina
+2018,04,4.5,corupa
+2018,04,2.5,cristiano otoni
+2018,04,3.67,cruzalia
+2018,04,4.8,diamante do norte
+2018,04,4,doce grande
+2018,04,5,dom basilio
+2018,04,4.5,dona euzebia
+2018,04,2,doutor ulysses
+2018,04,1,duas barras
+2018,04,3,echapora
+2018,04,4,elias fausto
+2018,04,4.64,encantado
+2018,04,3.57,entre rios de minas
+2018,04,4.67,entre rios do oeste
+2018,04,4.6,estacao
+2018,04,3.73,esteio
+2018,04,5,estevao de araujo
+2018,04,5,ewbank da camara
+2018,04,5,flores de goias
+2018,04,4.33,florestal
+2018,04,3,formigueiro
+2018,04,4.67,fronteira
+2018,04,5,gaurama
+2018,04,5,gentio do ouro
+2018,04,3,glaura
+2018,04,5,goncalves
+2018,04,4.17,gramado
+2018,04,5,guamiranga
+2018,04,3,guariroba
+2018,04,5,guassusse
+2018,04,5,guatapara
+2018,04,5,guia lopes da laguna
+2018,04,4.6,holambra ii
+2018,04,4,iacri
+2018,04,4.8,ibicarai
+2018,04,5,ibira
+2018,04,5,ibiraci
+2018,04,1,igarape-miri
+2018,04,4.5,imbituva
+2018,04,3.14,inhambupe
+2018,04,4.22,ipero
+2018,04,4.5,ipua
+2018,04,4,irani
+2018,04,2.5,irara
+2018,04,3,itabaianinha
+2018,04,3,itabatan
+2018,04,1,itacoatiara
+2018,04,3,itaicaba
+2018,04,3.77,italva
+2018,04,3.9,itaperuna
+2018,04,3,itapicuru
+2018,04,5,itapirapua paulista
+2018,04,3.5,itaquirai
+2018,04,4.5,itirapina
+2018,04,3.58,jacobina
+2018,04,4,jaguarembe
+2018,04,4.47,jales
+2018,04,1,jiquirica
+2018,04,4.13,joao neiva
+2018,04,4.05,joao pessoa
+2018,04,3.57,juazeiro
+2018,04,1,jucas
+2018,04,4,lagoao
+2018,04,4.25,laranjeiras do sul
+2018,04,4.67,liberdade
+2018,04,4.5,lima duarte
+2018,04,4.29,luis antonio
+2018,04,4,machadinho d'oeste
+2018,04,4,mantenopolis
+2018,04,5,mariental
+2018,04,3.82,minacu
+2018,04,5,minas do leao
+2018,04,3.2,miracatu
+2018,04,3.5,moju
+2018,04,5,montauri
+2018,04,4,monte aprazivel
+2018,04,5,monte carlo
+2018,04,5,morpara
+2018,04,5,morro do ferro
+2018,04,3.67,morro reuter
+2018,04,3.93,niteroi
+2018,04,5,nonoai
+2018,04,4.5,nossa senhora das gracas
+2018,04,3.33,nova alvorada do sul
+2018,04,4,nova boa vista
+2018,04,3.33,nova erechim
+2018,04,3.5,nova itaberaba
+2018,04,4.5,nova palma
+2018,04,4.29,nova russas
+2018,04,4.5,nova trento
+2018,04,3.67,orizona
+2018,04,1,ourem
+2018,04,1,ouvidor
+2018,04,5,palmopolis
+2018,04,3.97,paracambi
+2018,04,3,pardinho
+2018,04,4.26,parnamirim
+2018,04,4.19,passos
+2018,04,4.22,pau dos ferros
+2018,04,4.67,pederneiras
+2018,04,4.6,pedra azul
+2018,04,3.33,pedra branca
+2018,04,4.08,pedreira
+2018,04,5,pedro velho
+2018,04,5,piacatu
+2018,04,4.5,pindai
+2018,04,3.67,pindare mirim
+2018,04,1,pinto bandeira
+2018,04,5,piracema
+2018,04,4.39,pirapora
+2018,04,4.11,piratininga
+2018,04,4.33,pitanga
+2018,04,5,pitanga de estrada
+2018,04,5,planaltino
+2018,04,4.75,pongai
+2018,04,4.46,pontal
+2018,04,1,ponto novo
+2018,04,4.18,porto ferreira
+2018,04,3.67,pote
+2018,04,4.13,praia grande
+2018,04,5,pranchita
+2018,04,5,presidente janio quadros
+2018,04,4.67,presidente olegario
+2018,04,4.25,presidente tancredo neves
+2018,04,4,propria
+2018,04,3.83,quatro barras
+2018,04,4,quedas do iguacu
+2018,04,3,queixada
+2018,04,4,querencia do norte
+2018,04,3.67,quinta do sol
+2018,04,3.46,quissama
+2018,04,5,quitandinha
+2018,04,1.67,quixere
+2018,04,3.8,rafard
+2018,04,1,rainha do mar
+2018,04,4,remigio
+2018,04,5,reserva
+2018,04,5,riachao das neves
+2018,04,5,ribas do rio pardo
+2018,04,4.8,ribeirao claro
+2018,04,1,rincao
+2018,04,3.63,rio das ostras
+2018,04,5,rio do oeste
+2018,04,4.31,rio grande da serra
+2018,04,4.5,rio novo
+2018,04,4.57,rolim de moura
+2018,04,3,romaria
+2018,04,3.57,ruy barbosa
+2018,04,3.17,santa cruz
+2018,04,4,santa fe
+2018,04,4.33,santa margarida
+2018,04,3,santa quiteria do maranhao
+2018,04,4.5,santa rita do passa quatro
+2018,04,4.22,santa rosa
+2018,04,1,santa rosa do sul
+2018,04,5,santa salete
+2018,04,4,santa tereza do oeste
+2018,04,2.5,santana dos montes
+2018,04,3.83,santo amaro de campos
+2018,04,4.03,santo antonio de padua
+2018,04,5,santo antonio do grama
+2018,04,3.73,santo antonio do monte
+2018,04,4.5,sao domingos das dores
+2018,04,5,sao felix
+2018,04,2.5,sao francisco de assis
+2018,04,5,sao goncalo do abaete
+2018,04,3.33,sao joao do triunfo
+2018,04,4,sao joao dos patos
+2018,04,5,sao jose do piaui
+2018,04,4.5,sao jose do vale do rio preto
+2018,04,4.42,sao lourenco da serra
+2018,04,4.15,sao paulo
+2018,04,5,sao paulo das missoes
+2018,04,5,sao pedro do sul
+2018,04,3.5,sao tiago
+2018,04,3.67,sao vicente ferrer
+2018,04,4.5,sapopema
+2018,04,4,selbach
+2018,04,4,senador canedo
+2018,04,4.5,sericita
+2018,04,5,serra dos dourados
+2018,04,3.57,simoes filho
+2018,04,3,sitio novo do tocantins
+2018,04,4.68,socorro
+2018,04,3.09,sombrio
+2018,04,4.01,taboao da serra
+2018,04,4.33,tanque novo
+2018,04,3,taquaracu de minas
+2018,04,4.26,tatui
+2018,04,5,tecainda
+2018,04,3.44,tiangua
+2018,04,4.16,tiete
+2018,04,3.43,timburi
+2018,04,5,tocos do moji
+2018,04,4,torrinha
+2018,04,4.17,trancoso
+2018,04,3.92,tres de maio
+2018,04,4.5,uibai
+2018,04,4,urucuca
+2018,04,4.75,urucui
+2018,04,4.4,urupes
+2018,04,3.6,utinga
+2018,04,5,varzea
+2018,04,4.33,vere
+2018,04,1,vermelho novo
+2018,04,3.5,vila dos cabanos
+2018,04,4.33,vila langaro
+2018,04,4,virgem da lapa
+2018,05,5,abaira
+2018,05,2,abare
+2018,05,3.5,ajuricaba
+2018,05,4,alto rio doce
+2018,05,4.5,alvarenga
+2018,05,4.5,amapora
+2018,05,4.5,amaraji
+2018,05,1,america dourada
+2018,05,3.92,andradas
+2018,05,5,anhembi
+2018,05,3.77,aperibe
+2018,05,4.67,apiaca
+2018,05,5,apore
+2018,05,4,aragoiania
+2018,05,5,araguana
+2018,05,4.6,arapora
+2018,05,3.86,araxa
+2018,05,3.76,armacao dos buzios
+2018,05,3.33,arroio grande
+2018,05,5,assare
+2018,05,1,assuncao
+2018,05,2.67,bacuri
+2018,05,3.33,balneario gaivota
+2018,05,5,banabuiu
+2018,05,4.19,barra de sao francisco
+2018,05,3.94,barra velha
+2018,05,5,baturite
+2018,05,4.33,bela vista
+2018,05,5,bertolinia
+2018,05,4.9,biritiba-mirim
+2018,05,2,biritinga
+2018,05,4,boa vista do sul
+2018,05,5,bossoroca
+2018,05,4,botelho
+2018,05,3.5,braco do rio
+2018,05,5,buriti alegre
+2018,05,3.81,cachoeiras de macacu
+2018,05,4.6,caldas
+2018,05,4,caldeirao grande do piaui
+2018,05,4.2,cambuquira
+2018,05,4.5,campina do monte alegre
+2018,05,3.81,campo novo do parecis
+2018,05,1,candeal
+2018,05,1,candido godoi
+2018,05,5,candido rodrigues
+2018,05,4.17,caninde
+2018,05,4.26,capao da canoa
+2018,05,4.5,capela de santana
+2018,05,5,capela do alto
+2018,05,4,capitao
+2018,05,5,capitao andrade
+2018,05,5,caridade
+2018,05,5,carnaiba do sertao
+2018,05,3,castro alves
+2018,05,4.15,caxias do sul
+2018,05,4.11,cedral
+2018,05,5,central de santa helena
+2018,05,4.58,chavantes
+2018,05,5,coari
+2018,05,5,cocalzinho de goias
+2018,05,5,cocos
+2018,05,4.33,colinas do tocantins
+2018,05,4.4,conceicao do castelo
+2018,05,5,confresa
+2018,05,4,contenda
+2018,05,4.67,coracao de jesus
+2018,05,3.94,cordeiropolis
+2018,05,5,coremas
+2018,05,5,coronel pacheco
+2018,05,3.27,coxim
+2018,05,5,cristinapolis
+2018,05,4.43,cruzeiro do sul
+2018,05,5,curral de cima
+2018,05,5,curvelandia
+2018,05,5,datas
+2018,05,4.29,divino
+2018,05,4.55,dois corregos
+2018,05,3,dormentes
+2018,05,4,eldorado do sul
+2018,05,5,fenix
+2018,05,4.63,fervedouro
+2018,05,5,flora rica
+2018,05,4,formosa da serra negra
+2018,05,5,formoso
+2018,05,3,goiabeira
+2018,05,5,gramado dos loureiros
+2018,05,4,grao para
+2018,05,3.8,guabiruba
+2018,05,2.8,guaraniacu
+2018,05,4.12,guarapari
+2018,05,4.79,guariba
+2018,05,4.08,guarulhos
+2018,05,4,ibarama
+2018,05,5,ibipitanga
+2018,05,3.14,ibotirama
+2018,05,4.75,igaracu do tiete
+2018,05,4,ilha de itamaraca
+2018,05,4.13,ilha solteira
+2018,05,5,ilhota
+2018,05,2,inaciolandia
+2018,05,4.67,indiana
+2018,05,3.9,ipira
+2018,05,3,ipiranga do sul
+2018,05,4,itacarambi
+2018,05,3.75,itacare
+2018,05,4.67,itaituba
+2018,05,5,itaju
+2018,05,5,itiquira
+2018,05,4,itirucu
+2018,05,3.24,ituporanga
+2018,05,4.07,iturama
+2018,05,4,jaborandi
+2018,05,4.11,jaboticabal
+2018,05,1,jacareacanga
+2018,05,4.05,jaguariuna
+2018,05,5,jamaica
+2018,05,4.19,jandira
+2018,05,4.33,jeceaba
+2018,05,4.33,jose de freitas
+2018,05,4,ladario
+2018,05,5,lagoa salgada
+2018,05,4.25,laguna
+2018,05,1,lidice
+2018,05,3.42,limoeiro do norte
+2018,05,4.5,lindoeste
+2018,05,4.78,lindoia
+2018,05,3,lindoia do sul
+2018,05,4.22,linhares
+2018,05,4.85,loanda
+2018,05,4.1,londrina
+2018,05,4.67,luminarias
+2018,05,3.63,macae
+2018,05,4.33,macatuba
+2018,05,5,machados
+2018,05,5,mairipotaba
+2018,05,5,mambai
+2018,05,5,mar vermelho
+2018,05,1,marcelino vieira
+2018,05,4,mariopolis
+2018,05,4.13,matias barbosa
+2018,05,5,mato verde
+2018,05,3,meruoca
+2018,05,5,minduri
+2018,05,5,morro da fumaca
+2018,05,5,murutinga do sul
+2018,05,4,nazario
+2018,05,3.5,nova esperanca do sul
+2018,05,5,nova padua
+2018,05,4.38,nova prata
+2018,05,4.5,nova prata do iguacu
+2018,05,1,nova roma do sul
+2018,05,4.89,nova venecia
+2018,05,4.44,novo cruzeiro
+2018,05,5,nuporanga
+2018,05,3.8,orindiuva
+2018,05,4.46,osorio
+2018,05,4.63,osvaldo cruz
+2018,05,3.98,ouro preto
+2018,05,3.82,ouroeste
+2018,05,2.83,pacajus
+2018,05,3.81,palmeira
+2018,05,5,palmeirinha
+2018,05,4.67,parai
+2018,05,4,parauna
+2018,05,4,passira
+2018,05,3.73,patrocinio
+2018,05,4,pedranopolis
+2018,05,4.5,pedro leopoldo
+2018,05,4.33,pindobacu
+2018,05,5,piquerobi
+2018,05,4.42,pirajui
+2018,05,3.2,pitangueiras
+2018,05,4.5,piumhii
+2018,05,3,placas
+2018,05,4,porangaba
+2018,05,4.29,posse
+2018,05,4.2,prado
+2018,05,4,prata
+2018,05,3,presidente kubitschek
+2018,05,4.25,primavera
+2018,05,5,quatituba
+2018,05,4,queimados
+2018,05,3.94,recife
+2018,05,5,restinga seca
+2018,05,4,ribeira
+2018,05,4.5,rifaina
+2018,05,3.75,rio bananal
+2018,05,4.17,rio branco do sul
+2018,05,4.42,rio claro
+2018,05,4,rio das antas
+2018,05,4,rio negro
+2018,05,5,riolandia
+2018,05,5,rosario do ivai
+2018,05,5,rubelita
+2018,05,5,saboeiro
+2018,05,4.67,sales oliveira
+2018,05,5,salto grande
+2018,05,4,santa barbara
+2018,05,4.5,santa maria da boa vista
+2018,05,4.71,santa rita do araguaia
+2018,05,4,santa rosa de viterbo
+2018,05,4.88,santiago
+2018,05,3.2,santo antonio da platina
+2018,05,4,santo antonio do aventureiro
+2018,05,4,santo antonio do leverger
+2018,05,5,santo antonio do rio abaixo
+2018,05,4,santo antonio do sudoeste
+2018,05,5,santo antonio dos campos
+2018,05,5,santo expedito do sul
+2018,05,4.25,sao caetano do sul
+2018,05,5,sao clemente
+2018,05,3,sao domingos do araguaia
+2018,05,5,sao felix de minas
+2018,05,4.41,sao francisco de itabapoana
+2018,05,4,sao francisco do brejao
+2018,05,4.43,sao jeronimo
+2018,05,4,sao joao da barra
+2018,05,5,sao joao da parauna
+2018,05,3.83,sao joao do paraiso
+2018,05,3.47,sao joao nepomuceno
+2018,05,4.24,sao joaquim da barra
+2018,05,5,sao jorge
+2018,05,4.33,sao jose da bela vista
+2018,05,4.5,sao luis do curu
+2018,05,5,sao mateus de minas
+2018,05,3,sao pedro do butia
+2018,05,5,sao roque de minas
+2018,05,4.46,sao sebastiao do cai
+2018,05,4.5,sao sepe
+2018,05,4,senador pompeu
+2018,05,3,senhora de oliveira
+2018,05,5,sento se
+2018,05,3.72,seropedica
+2018,05,3,serra bonita
+2018,05,4.29,serra negra
+2018,05,4,sertanopolis
+2018,05,4,severiano melo
+2018,05,4.33,simonesia
+2018,05,5,siriji
+2018,05,3.2,tabatinga
+2018,05,5,taiacu
+2018,05,4.17,tangara da serra
+2018,05,4.45,taquari
+2018,05,4.4,taquaritinga do norte
+2018,05,4.7,taua
+2018,05,5,tejupa
+2018,05,3.94,teresopolis
+2018,05,4.5,tibagi
+2018,05,4.5,tocos
+2018,05,4.25,travessao
+2018,05,4.8,tres fronteiras
+2018,05,5,tunapolis
+2018,05,3,tuparece
+2018,05,5,tuparendi
+2018,05,4.5,tutoia
+2018,05,3,ubai
+2018,05,5,ubaporanga
+2018,05,3.33,urai
+2018,05,3.67,urupa
+2018,05,4,valao do barro
+2018,05,4.2,vargem alta
+2018,05,4,vera cruz do oeste
+2018,05,4,vicosa
+2018,05,5,virginia
+2018,05,3.67,vista alegre do alto
+2018,06,5,acajutiba
+2018,06,5,acari
+2018,06,4,agrolandia
+2018,06,3,altaneira
+2018,06,4.5,alvaro de carvalho
+2018,06,4.67,alvorada do norte
+2018,06,4,andradina
+2018,06,5,apuiares
+2018,06,3.71,aracruz
+2018,06,3.78,arapoti
+2018,06,4,areado
+2018,06,5,balbinos
+2018,06,4,barra
+2018,06,4,barra do tarrachil
+2018,06,4.8,belo oriente
+2018,06,4,boca da mata
+2018,06,3.5,bom jesus das selvas
+2018,06,5,bom retiro
+2018,06,5,bora
+2018,06,3.3,brodowski
+2018,06,2.5,buritirama
+2018,06,4.75,cachoeira
+2018,06,3.67,cacule
+2018,06,3,caetes
+2018,06,1,cafeara
+2018,06,4.03,caieiras
+2018,06,4.5,caiua
+2018,06,5,cajapio
+2018,06,3.56,cajuru
+2018,06,4.38,camocim
+2018,06,3.9,campina grande do sul
+2018,06,4.09,campinas
+2018,06,4.5,canelinha
+2018,06,2,caninde de sao francisco
+2018,06,4.86,cansancao
+2018,06,5,capetinga
+2018,06,4.8,capivari de baixo
+2018,06,3.37,carangola
+2018,06,3,carmopolis
+2018,06,3.67,carvalhopolis
+2018,06,4.62,casa branca
+2018,06,4.67,catanduvas
+2018,06,4.5,cavalcante
+2018,06,4.5,chopinzinho
+2018,06,4,chorrocho
+2018,06,4.33,conceicao do para
+2018,06,4.5,coqueiro baixo
+2018,06,5,coreau
+2018,06,5,correntes
+2018,06,3.33,coruripe
+2018,06,4,cristalia
+2018,06,3.88,cristalina
+2018,06,3.71,cruzeiro do oeste
+2018,06,5,cunha pora
+2018,06,4.67,dionisio cerqueira
+2018,06,3,divino das laranjeiras
+2018,06,4.5,duartina
+2018,06,4,duere
+2018,06,4.25,eneas marques
+2018,06,4,esmeraldas
+2018,06,3.6,esperantina
+2018,06,4.33,espinosa
+2018,06,4.4,estancia velha
+2018,06,5,estrela do indaia
+2018,06,5,eugenio de castro
+2018,06,4,fazenda nova
+2018,06,3.72,floriano
+2018,06,3.94,florianopolis
+2018,06,4,general maynard
+2018,06,3,general salgado
+2018,06,4.67,goianinha
+2018,06,4.63,goianira
+2018,06,4.64,goioere
+2018,06,4.27,goitacazes
+2018,06,5,guabiju
+2018,06,3.5,guarani das missoes
+2018,06,4.25,guarapuava
+2018,06,4.5,guarda-mor
+2018,06,5,guidoval
+2018,06,4.33,herculandia
+2018,06,3.57,horizontina
+2018,06,5,hulha negra
+2018,06,4.25,ibiam
+2018,06,3.98,ibirite
+2018,06,3.75,ico
+2018,06,4,igrapiuna
+2018,06,4.23,ilhabela
+2018,06,5,imigrante
+2018,06,4.5,inconfidentes
+2018,06,1,ingai
+2018,06,3,inimutaba
+2018,06,4.14,ipanema
+2018,06,4.5,ipe
+2018,06,3,itabi
+2018,06,3.5,itagiba
+2018,06,3.89,itaguacu
+2018,06,3.7,itai
+2018,06,3.38,itamarandiba
+2018,06,5,itaparica
+2018,06,3,itapetim
+2018,06,4.26,itapevi
+2018,06,4.11,itatiaia
+2018,06,4.15,itatiba
+2018,06,4.67,jaciara
+2018,06,4.4,jaguaribe
+2018,06,5,jaguaruna
+2018,06,2.25,joaquim nabuco
+2018,06,3.67,joaquim tavora
+2018,06,4.15,jundiai
+2018,06,4.5,kalore
+2018,06,1,lagoa
+2018,06,3.4,lagoa dourada
+2018,06,4.43,lajedo
+2018,06,4.35,leopoldina
+2018,06,5,liberato salzano
+2018,06,3,lucianopolis
+2018,06,1,macaubal
+2018,06,3.6,maceio
+2018,06,5,magda
+2018,06,4.02,mage
+2018,06,4.5,mandirituba
+2018,06,5,maquine
+2018,06,4.06,marialva
+2018,06,5,martins
+2018,06,4,massaranduba
+2018,06,4.62,matinhos
+2018,06,5,moeda
+2018,06,4.42,monte carmelo
+2018,06,3.73,monte mor
+2018,06,5,morro grande
+2018,06,4.56,nepomuceno
+2018,06,4.33,nova era
+2018,06,3,nova olimpia
+2018,06,3.86,nova veneza
+2018,06,5,novo planalto
+2018,06,3.4,pacatuba
+2018,06,5,padre carvalho
+2018,06,5,pains
+2018,06,4.75,palma
+2018,06,4.75,palma sola
+2018,06,3.75,papagaios
+2018,06,4.5,papucaia
+2018,06,5,paraiso do sul
+2018,06,4.5,paranaita
+2018,06,4.18,passo fundo
+2018,06,5,paula candido
+2018,06,3.69,paulista
+2018,06,4.33,pedro afonso
+2018,06,4.5,penaforte
+2018,06,3.94,penha
+2018,06,5,perola
+2018,06,4.5,perpetuo socorro
+2018,06,3.67,piratuba
+2018,06,5,piripa
+2018,06,5,poco redondo
+2018,06,4.33,poloni
+2018,06,5,pombos
+2018,06,4.13,ponte nova
+2018,06,4.5,potengi
+2018,06,5,presidente alves
+2018,06,4.26,presidente epitacio
+2018,06,4.29,prudentopolis
+2018,06,5,quadra
+2018,06,3,queimadas
+2018,06,5,quipapa
+2018,06,3.67,realeza
+2018,06,2,redencao do gurgueia
+2018,06,4.5,riacho das almas
+2018,06,4.5,ribeira do pombal
+2018,06,3.67,rinopolis
+2018,06,4,rio paranaiba
+2018,06,3.67,ritapolis
+2018,06,4.2,rolante
+2018,06,4.17,sananduva
+2018,06,5,sandolandia
+2018,06,3,santa cruz cabralia
+2018,06,4.2,santa quiteria
+2018,06,4.2,santa rita
+2018,06,3.31,santo amaro da imperatriz
+2018,06,2.6,sao bento do una
+2018,06,5,sao carlos do ivai
+2018,06,4.71,sao francisco de paula
+2018,06,3.5,sao francisco do guapore
+2018,06,4.5,sao joao da mata
+2018,06,4.39,sao joao del rei
+2018,06,4,sao jose da laje
+2018,06,4.5,sao jose do goiabal
+2018,06,5,sao jose do hortencio
+2018,06,5,sao jose do inhacora
+2018,06,4.21,sao jose dos campos
+2018,06,4.5,sao ludgero
+2018,06,4.5,sao miguel dos campos
+2018,06,5,sao pedro da uniao
+2018,06,3.83,sao raimundo nonato
+2018,06,4.45,sao roque
+2018,06,5,sao sebastiao da amoreira
+2018,06,4,serra do ramalho
+2018,06,4.67,siqueira campos
+2018,06,4.3,tanabi
+2018,06,3.5,tapiramuta
+2018,06,5,taquarivai
+2018,06,5,terra nova
+2018,06,4.29,torres
+2018,06,3.82,tres passos
+2018,06,3.83,tres rios
+2018,06,4.5,tucano
+2018,06,4,tumiritinga
+2018,06,4.38,tupaciguara
+2018,06,5,tuparetama
+2018,06,3,tupi paulista
+2018,06,2.5,ubata
+2018,06,4.33,uchoa
+2018,06,5,umburatiba
+2018,06,3,una
+2018,06,4.47,uruguaiana
+2018,06,5,vargem grande
+2018,06,2.5,varzea alegre
+2018,06,4.5,victor graeff
+2018,06,5,vitorino
+2018,06,5,wenceslau braz
+2018,06,4,wenceslau guimaraes
+2018,06,4,xavantina
+2018,06,5,xexeu
+2018,07,2.5,abelardo luz
+2018,07,3.5,acaiaca
+2018,07,5,acegua
+2018,07,4,afranio
+2018,07,4,aguas frias
+2018,07,4.67,alterosa
+2018,07,4,alto rio novo
+2018,07,5,amambai
+2018,07,4.08,anapolis
+2018,07,5,anastacio
+2018,07,4.63,anicuns
+2018,07,3,antonio prado de minas
+2018,07,5,aparecida do rio negro
+2018,07,1,arantina
+2018,07,5,arapoema
+2018,07,4.5,arari
+2018,07,3.5,aratuba
+2018,07,2,areia
+2018,07,5,arenapolis
+2018,07,4.57,assis
+2018,07,4.57,astorga
+2018,07,2.5,augusto pestana
+2018,07,5,aurea
+2018,07,4.88,baependi
+2018,07,4,baianopolis
+2018,07,2.33,bandeira
+2018,07,4,barauna
+2018,07,3.84,barra mansa
+2018,07,5,belo campo
+2018,07,4.33,belo jardim
+2018,07,4.27,birigui
+2018,07,4.86,bocaina
+2018,07,4.14,boituva
+2018,07,5,bom jesus do querendo
+2018,07,5,bom jesus do sul
+2018,07,4.6,bom sucesso
+2018,07,1,boquim
+2018,07,4.56,borborema
+2018,07,4.32,brumado
+2018,07,5,butia
+2018,07,2.25,cacequi
+2018,07,4.67,cachoeira dourada
+2018,07,3,caibate
+2018,07,5,caicara do norte
+2018,07,3.72,caldas novas
+2018,07,4.3,cambe
+2018,07,1,campo alegre de minas
+2018,07,4.03,campo bom
+2018,07,4.19,campo largo
+2018,07,4.4,campo limpo paulista
+2018,07,4.2,campos altos
+2018,07,5,canapi
+2018,07,4.75,candido de abreu
+2018,07,5,candoi
+2018,07,4.28,canela
+2018,07,5,canudos
+2018,07,4,capistrano
+2018,07,4,capitolio
+2018,07,4.33,carambei
+2018,07,4.67,caravelas
+2018,07,3.62,carmo
+2018,07,4.5,carnaubais
+2018,07,3,castelo do piaui
+2018,07,5,cedro
+2018,07,4.21,chapadao do ceu
+2018,07,5,colniza
+2018,07,4,colonia castrolanda
+2018,07,3.5,conde
+2018,07,4.63,coribe
+2018,07,3,coronel freitas
+2018,07,5,coronel joao sa
+2018,07,5,corumbatai do sul
+2018,07,3.5,coxilha
+2018,07,5,crucilandia
+2018,07,3.57,cruz
+2018,07,4.25,dores de campos
+2018,07,4,douradina
+2018,07,3.78,duque de caxias
+2018,07,4.5,encruzilhada do sul
+2018,07,4.17,esperanca
+2018,07,5,esperantinopolis
+2018,07,4.14,espumoso
+2018,07,3.5,extremoz
+2018,07,4.48,fazenda rio grande
+2018,07,5,ferreiros
+2018,07,5,formosa do rio preto
+2018,07,3.87,francisco beltrao
+2018,07,4.5,gaucha do norte
+2018,07,4,gongogi
+2018,07,4.26,guaira
+2018,07,5,guamare
+2018,07,4.6,guaranta do norte
+2018,07,4.64,guararema
+2018,07,4.33,iacanga
+2018,07,4.67,ibiapina
+2018,07,5,ibitioca
+2018,07,4,igrejinha
+2018,07,4.35,ijui
+2018,07,5,imbau
+2018,07,5,inga
+2018,07,4,iomere
+2018,07,4,ipora do oeste
+2018,07,3.33,ipueiras
+2018,07,4.5,irai de minas
+2018,07,5,iramaia
+2018,07,3,irupi
+2018,07,5,itagimirim
+2018,07,3.91,itamaraju
+2018,07,4.67,itaoca
+2018,07,4,itapaje
+2018,07,4.14,itapuranga
+2018,07,4,itau
+2018,07,4.33,itauna
+2018,07,5,itobi
+2018,07,5,jaboticatubas
+2018,07,4.6,jacupiranga
+2018,07,4,jaguaquara
+2018,07,3,jatauba
+2018,07,5,jordania
+2018,07,3,julio mesquita
+2018,07,5,juripiranga
+2018,07,3,juru
+2018,07,5,jussari
+2018,07,3,lagoa do ouro
+2018,07,2,lamarao
+2018,07,4.67,lavras do sul
+2018,07,4.29,limoeiro
+2018,07,3.67,lupercio
+2018,07,5,luziapolis
+2018,07,3.67,luzilandia
+2018,07,4,magalhaes de almeida
+2018,07,4,manaira
+2018,07,4.67,maranguape
+2018,07,4.27,marilia
+2018,07,4.5,martins soares
+2018,07,5,mirandiba
+2018,07,4.67,mirinzal
+2018,07,4.3,mococa
+2018,07,5,moema
+2018,07,4.22,montanha
+2018,07,5,monte belo do sul
+2018,07,4.44,monte santo de minas
+2018,07,4.3,morro agudo
+2018,07,4,mucuge
+2018,07,4,muritiba
+2018,07,4.05,natal
+2018,07,4.43,neropolis
+2018,07,3,nossa senhora do o
+2018,07,3,nova bandeirantes
+2018,07,3,nova canaa paulista
+2018,07,2.6,nova fatima
+2018,07,4,nova mamore
+2018,07,4,nova ponte
+2018,07,4.5,novo repartimento
+2018,07,4,onda verde
+2018,07,4.38,ouricuri
+2018,07,5,pacotuba
+2018,07,4.7,paicandu
+2018,07,4.32,palmital
+2018,07,4.18,paulinia
+2018,07,4,paulo frontin
+2018,07,5,pedralva
+2018,07,4.5,pedrinhas paulista
+2018,07,2,pedro ii
+2018,07,4.38,perdizes
+2018,07,5,perola independente
+2018,07,4.25,pilao arcado
+2018,07,5,pindorama
+2018,07,4,pirapetinga
+2018,07,4.33,ponta pora
+2018,07,5,ponte alta do norte
+2018,07,4.56,pontes e lacerda
+2018,07,3.42,porto seguro
+2018,07,4.03,pouso alegre
+2018,07,5,presidente kennedy
+2018,07,5,quatigua
+2018,07,5,queiroz
+2018,07,5,quilombo
+2018,07,4,riacho de santo antonio
+2018,07,4,rio das pedras
+2018,07,4.6,sales
+2018,07,5,salinas da margarida
+2018,07,4,santa cruz do timbo
+2018,07,5,santa ernestina
+2018,07,3,santana do cariri
+2018,07,3,santana do mundau
+2018,07,4,santana do serido
+2018,07,4.15,santo angelo
+2018,07,4.71,santo antonio da patrulha
+2018,07,5,santo antonio do leste
+2018,07,4,sao domingos
+2018,07,5,sao joao da ponte
+2018,07,3,sao jose do divino
+2018,07,4.6,sao jose do ouro
+2018,07,5,sao miguel
+2018,07,4,sao miguel do aleixo
+2018,07,3.89,sao pedro da aldeia
+2018,07,3,sao tomas de aquino
+2018,07,4.04,sarandi
+2018,07,5,senador salgado filho
+2018,07,4.16,senhor do bonfim
+2018,07,4,serra branca
+2018,07,3.78,sobral
+2018,07,4.4,sooretama
+2018,07,5,tabapora
+2018,07,4.48,taquaritinga
+2018,07,2.5,teixeira soares
+2018,07,5,trindade do sul
+2018,07,3.25,uaua
+2018,07,4.25,ubaitaba
+2018,07,2.67,ubajara
+2018,07,4,ulianopolis
+2018,07,5,umburanas
+2018,07,5,uniao
+2018,07,3.2,urbano santos
+2018,07,4.3,urussanga
+2018,07,5,vazante
+2018,07,5,vereda
+2018,07,5,vermelho
+2018,07,3,volta grande
+2018,08,5,adustina
+2018,08,4.5,afogados da ingazeira
+2018,08,4.2,agua branca
+2018,08,4,agua doce
+2018,08,4.33,aguas belas
+2018,08,3.33,aguas de santa barbara
+2018,08,4.25,aguas lindas de goias
+2018,08,3,aiuaba
+2018,08,3,alegria
+2018,08,5,alexandra
+2018,08,4,alfredo chaves
+2018,08,5,alfredo wagner
+2018,08,4.67,alto boa vista
+2018,08,3.75,alto jequitiba
+2018,08,4.75,alvares machado
+2018,08,5,amanari
+2018,08,4.25,analandia
+2018,08,5,andre da rocha
+2018,08,5,angelo frechiani
+2018,08,4,angical do piaui
+2018,08,4,antonio martins
+2018,08,5,aparecida de monte alto
+2018,08,4.29,aparecida do taboado
+2018,08,5,apiacas
+2018,08,3.86,apiuna
+2018,08,3,aracitaba
+2018,08,4.5,arapei
+2018,08,3,araponga
+2018,08,5,arapua
+2018,08,5,arataca
+2018,08,5,aratiba
+2018,08,4,armazem
+2018,08,3.75,assis chateaubriand
+2018,08,4,aurilandia
+2018,08,5,aurora do para
+2018,08,4.26,bage
+2018,08,3,baixa grande
+2018,08,3.86,bandeirantes
+2018,08,5,barra de sao miguel
+2018,08,4.33,barra do choca
+2018,08,4.29,barra do corda
+2018,08,5,barro preto
+2018,08,5,barros cassal
+2018,08,4.75,bela cruz
+2018,08,4,berilo
+2018,08,4.3,boa esperanca do sul
+2018,08,3,bonfinopolis de minas
+2018,08,4.38,botelhos
+2018,08,3.9,braco do norte
+2018,08,4.83,brazopolis
+2018,08,5,brejo grande
+2018,08,5,buritizal
+2018,08,3.68,cabo frio
+2018,08,4,cachoeira de pajeu
+2018,08,4.5,caiaponia
+2018,08,5,calcado
+2018,08,4,caldas brandao
+2018,08,4.29,cambuci
+2018,08,4.5,campinas do sul
+2018,08,4.43,campo belo
+2018,08,4.09,campo mourao
+2018,08,4.25,cananeia
+2018,08,2,capela nova
+2018,08,5,carai
+2018,08,5,carajas
+2018,08,3,careacu
+2018,08,4.35,caruaru
+2018,08,4.18,castilho
+2018,08,4.14,castro
+2018,08,4.71,catende
+2018,08,3.5,catu de abrantes
+2018,08,4,catuipe
+2018,08,1,centro novo do maranhao
+2018,08,5,chale
+2018,08,4,chapada do norte
+2018,08,4,chorozinho
+2018,08,4,claro dos pocoes
+2018,08,4.86,comodoro
+2018,08,4.33,conceicao da aparecida
+2018,08,4,conservatoria
+2018,08,5,coqueiros do sul
+2018,08,3,costa marques
+2018,08,4.22,crateus
+2018,08,5,cravolandia
+2018,08,3.89,criciuma
+2018,08,4.5,crissiumal
+2018,08,3.5,cristopolis
+2018,08,3,cumaru
+2018,08,4.19,curitiba
+2018,08,5,curralinho
+2018,08,5,dario meira
+2018,08,5,delfim moreira
+2018,08,4.5,denise
+2018,08,4,desterro de entre rios
+2018,08,5,dobrada
+2018,08,4,dois irmaos do buriti
+2018,08,5,doutor camargo
+2018,08,4.25,dracena
+2018,08,3.75,dumont
+2018,08,3.5,eliseu martins
+2018,08,5,erere
+2018,08,4.1,escada
+2018,08,5,espigao
+2018,08,4.28,espirito santo do pinhal
+2018,08,5,estiva
+2018,08,3.84,eunapolis
+2018,08,4.29,farroupilha
+2018,08,4.03,feira de santana
+2018,08,4.38,fernandopolis
+2018,08,5,florestopolis
+2018,08,4.33,fortuna
+2018,08,4.5,frei martinho
+2018,08,3,gabriel monteiro
+2018,08,4,galvao
+2018,08,4.63,getulio vargas
+2018,08,4.13,guacui
+2018,08,1,guairaca
+2018,08,5,guaiuba
+2018,08,4.18,guapore
+2018,08,4,guarabira
+2018,08,4.75,guaraciaba do norte
+2018,08,5,guimaraes
+2018,08,5,guinda
+2018,08,4,guzolandia
+2018,08,4.25,hidrolandia
+2018,08,3.92,holambra
+2018,08,4.67,iati
+2018,08,4.09,ibaiti
+2018,08,3,ibateguara
+2018,08,3.09,ibatiba
+2018,08,5,ibema
+2018,08,4,ibiraiaras
+2018,08,4,ibitiuva
+2018,08,3.5,iguai
+2018,08,5,ilha dos valadares
+2018,08,3,inhapi
+2018,08,5,inhauma
+2018,08,3.71,ipiau
+2018,08,4.4,ipora
+2018,08,4,isaias coelho
+2018,08,4.67,itaja
+2018,08,4.05,itajai
+2018,08,5,itamira
+2018,08,2,itanhem
+2018,08,5,itape
+2018,08,4.28,itapema
+2018,08,4.12,itapeva
+2018,08,3.92,itapiranga
+2018,08,4.33,itapoa
+2018,08,5,itatim
+2018,08,4.8,itau de minas
+2018,08,2.8,itauba
+2018,08,1,itororo
+2018,08,5,itupiranga
+2018,08,4.5,iuna
+2018,08,4.67,ivate
+2018,08,3.97,jaboatao dos guararapes
+2018,08,5,jacigua
+2018,08,5,jacuizinho
+2018,08,4.25,jaguarao
+2018,08,3.75,jaguaruana
+2018,08,5,japaraiba
+2018,08,4.6,jardim
+2018,08,4.8,jauru
+2018,08,4.5,jequia da praia
+2018,08,4.25,jijoca de jericoacoara
+2018,08,5,jucurucu
+2018,08,4.69,juina
+2018,08,5,lagoa d'anta
+2018,08,5,lagoa real
+2018,08,3.67,lajinha
+2018,08,5,lamim
+2018,08,5,lupionopolis
+2018,08,4.5,macaparana
+2018,08,3.67,madre de deus
+2018,08,4,mae d'agua
+2018,08,1,maioba
+2018,08,4.46,mairipora
+2018,08,3.6,mandaguacu
+2018,08,4,manfrinopolis
+2018,08,4.36,manhuacu
+2018,08,3.91,maraba
+2018,08,3,maracana
+2018,08,3.23,maracanau
+2018,08,3.5,maragogipe
+2018,08,4.67,mari
+2018,08,5,maribondo
+2018,08,2,marilac
+2018,08,3.5,mariluz
+2018,08,2,martinesia
+2018,08,3,martinho campos
+2018,08,5,matutina
+2018,08,4,meridiano
+2018,08,3.4,miguel calmon
+2018,08,5,mimoso de goias
+2018,08,4.1,mimoso do sul
+2018,08,4.5,miraima
+2018,08,4.23,mirandopolis
+2018,08,5,missi
+2018,08,4.27,mogi mirim
+2018,08,5,moncao
+2018,08,5,monte belo
+2018,08,4.17,morro do chapeu
+2018,08,3.75,munhoz
+2018,08,5,muniz freire
+2018,08,4,nazare
+2018,08,4,neves paulista
+2018,08,5,nipoa
+2018,08,4.75,nova aurora
+2018,08,4,nova esperanca do piria
+2018,08,3.78,nova iguacu
+2018,08,1,nova ipixuna
+2018,08,4,nova santa rosa
+2018,08,4,nova soure
+2018,08,5,nova ubirata
+2018,08,5,novo jardim
+2018,08,2,novo oriente de minas
+2018,08,5,novo oriente do piaui
+2018,08,5,orizania
+2018,08,4.17,ourinhos
+2018,08,4.09,ouro branco
+2018,08,5,padre gonzales
+2018,08,5,palhano
+2018,08,4.5,papanduva
+2018,08,5,paraiso das aguas
+2018,08,5,parana
+2018,08,4.6,paranapanema
+2018,08,4,parelhas
+2018,08,4.07,pariquera-acu
+2018,08,4.22,pato branco
+2018,08,3.5,pauliceia
+2018,08,1,paulino neves
+2018,08,3,pedras de fogo
+2018,08,5,pedrinopolis
+2018,08,5,pereiras
+2018,08,4.67,pereiro
+2018,08,4.5,perola d'oeste
+2018,08,4.67,pesqueira
+2018,08,4.23,petrolina
+2018,08,4,picui
+2018,08,5,pimenta
+2018,08,4.43,pindamonhangaba
+2018,08,5,pindoba
+2018,08,4,pindorama do tocantins
+2018,08,4.8,pinheiro machado
+2018,08,4.05,piracaia
+2018,08,5,piracuruca
+2018,08,4.57,pirapozinho
+2018,08,4.17,piritiba
+2018,08,4.27,pitangui
+2018,08,4.67,piumhi
+2018,08,4.4,planaltina
+2018,08,5,pocoes de paineiras
+2018,08,4.5,pontalina
+2018,08,5,ponto belo
+2018,08,4.25,porciuncula
+2018,08,4.5,portelandia
+2018,08,5,porto de pedras
+2018,08,5,porto esperidiao
+2018,08,4.64,porto feliz
+2018,08,5,presidente juscelino
+2018,08,5,presidente medici
+2018,08,4.11,presidente prudente
+2018,08,4.5,quixelo
+2018,08,3,rechan
+2018,08,4.2,remanso
+2018,08,3.84,resende
+2018,08,5,riachinho
+2018,08,3.75,riacho de santana
+2018,08,4,riachuelo
+2018,08,3,ribeirao vermelho
+2018,08,3,ribeiro junqueira
+2018,08,4.8,rio casca
+2018,08,2.8,rio das flores
+2018,08,3,rio tinto
+2018,08,3.76,rio verde
+2018,08,4.67,riqueza
+2018,08,4.71,rodeio
+2018,08,3.44,rondon do para
+2018,08,5,rosario
+2018,08,4,salto do jacui
+2018,08,3,salvador do sul
+2018,08,5,santa lucia
+2018,08,3.5,santa monica
+2018,08,4.05,santa rita do sapucai
+2018,08,4.67,santaluz
+2018,08,5,santana do manhuacu
+2018,08,4,santo antonio do aracangua
+2018,08,5,santo antonio do canaa
+2018,08,4,santo inacio
+2018,08,4.71,sao bento do sapucai
+2018,08,4.33,sao bento do sul
+2018,08,4.11,sao francisco
+2018,08,4.67,sao francisco do conde
+2018,08,4.42,sao gabriel
+2018,08,5,sao joao das missoes
+2018,08,4.29,sao joao evangelista
+2018,08,4.13,sao joaquim de bicas
+2018,08,5,sao jorge do patrocinio
+2018,08,4,sao jose da coroa grande
+2018,08,5,sao jose da vitoria
+2018,08,5,sao jose de mipibu
+2018,08,4.5,sao jose de uba
+2018,08,4.33,sao jose do calcado
+2018,08,3.8,sao jose do cedro
+2018,08,4.71,sao jose do norte
+2018,08,5,sao jose dos cordeiros
+2018,08,3.92,sao lourenco
+2018,08,4.67,sao manuel
+2018,08,4.6,sao miguel do araguaia
+2018,08,4.4,sao miguel do guama
+2018,08,4.4,sao romao
+2018,08,3,sao sebastiao da grama
+2018,08,4.09,sao sebastiao do paraiso
+2018,08,4.67,sarzedo
+2018,08,5,sebastiao leal
+2018,08,5,sede alvorada
+2018,08,5,senador cortes
+2018,08,4.5,senador firmino
+2018,08,5,serrania
+2018,08,5,serro
+2018,08,3.33,serrolandia
+2018,08,4.75,sertania
+2018,08,4,sertao
+2018,08,5,silvanopolis
+2018,08,4,simao pereira
+2018,08,4.2,sirinhaem
+2018,08,3.31,sumidouro
+2018,08,4.19,suzano
+2018,08,5,taquarucu do sul
+2018,08,4,terenos
+2018,08,4.6,terra de areia
+2018,08,4.5,tomar do geru
+2018,08,3,trabiju
+2018,08,4.83,tres coroas
+2018,08,4.14,triunfo
+2018,08,3,tucuma
+2018,08,5,tucunduva
+2018,08,3.33,umbauba
+2018,08,5,uniao do sul
+2018,08,4,unistalda
+2018,08,5,urucania
+2018,08,4.18,vacaria
+2018,08,3.89,valparaiso
+2018,08,4.13,valparaiso de goias
+2018,08,5,varzea nova
+2018,08,4.11,vassouras
+2018,08,4.36,venancio aires
+2018,08,4.33,vianopolis
+2018,08,5,vicente dutra
+2018,08,4.67,vigia
+2018,08,4.33,vila flores
+2018,08,4.11,vinhedo
+2018,08,5,viseu
+2018,08,3.95,vitoria da conquista
+2018,08,4,vitoria do jari
+2018,08,3,vitoria do mearim
+2018,08,4.29,votorantim
+2018,08,4,wagner
+2018,08,4.5,xambre
+2018,08,4.3,xaxim
