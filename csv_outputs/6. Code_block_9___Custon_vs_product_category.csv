@@ -1,0 +1,4111 @@
+product_category_name_english,customer_city,revenue_per_segment,deal_per_location_category
+bed_bath_table,sao paulo,1914924.54,17808
+bed_bath_table,rio de janeiro,992538.86,7837
+computers_accessories,belo horizonte,355611.13,3144
+computers_accessories,brasilia,301920.25,2392
+toys,curitiba,211738.06,1751
+consoles_games,campinas,187844.53,1654
+telephony,porto alegre,190562.08,1612
+electronics,salvador,181104.42,1412
+health_beauty,guarulhos,144268.39,1329
+food,sao bernardo do campo,104540.99,1060
+cool_stuff,niteroi,117907.12,980
+computers_accessories,santo andre,92083.5,891
+furniture_decor,osasco,82157.86,850
+health_beauty,santos,98777.09,820
+sports_leisure,goiania,106111.17,817
+health_beauty,sao jose dos campos,78650.94,781
+baby,fortaleza,97868.06,728
+computers_accessories,sorocaba,76551.76,703
+telephony,recife,89803.01,677
+health_beauty,florianopolis,85925.99,660
+sports_leisure,jundiai,81310.3,656
+musical_instruments,ribeirao preto,65637.01,582
+sports_leisure,nova iguacu,60234.09,503
+perfumery,belem,80977.48,491
+fashion_bags_accessories,contagem,49542.22,484
+computers_accessories,barueri,51328.35,479
+,juiz de fora,65140.77,473
+health_beauty,sao goncalo,52514.84,444
+garden_tools,mogi das cruzes,52007.78,440
+fashion_bags_accessories,vitoria,53189.78,424
+health_beauty,piracicaba,52307.98,414
+sports_leisure,uberlandia,48551.97,408
+auto,sao luis,51026.91,391
+watches_gifts,sao jose do rio preto,47070.55,380
+sports_leisure,carapicuiba,32235.88,376
+toys,vila velha,48285.18,366
+computers_accessories,campo grande,57121.67,360
+garden_tools,praia grande,39671.02,355
+watches_gifts,maua,43639.96,346
+computers_accessories,londrina,46465.26,333
+housewares,diadema,29393.24,330
+health_beauty,taboao da serra,35733.3,329
+sports_leisure,indaiatuba,37334.1,328
+diapers_and_hygiene,maringa,37862.29,317
+furniture_decor,serra,36357.33,314
+auto,sao caetano do sul,32452.6,305
+health_beauty,teresina,49967.43,304
+perfumery,taubate,29724.56,303
+cool_stuff,duque de caxias,34029.68,302
+perfumery,joao pessoa,53164.81,299
+office_furniture,bauru,39462.26,298
+air_conditioning,cuiaba,39171.17,297
+health_beauty,joinville,34772.57,290
+auto,petropolis,33230.1,282
+auto,sao carlos,30244.33,279
+computers_accessories,cotia,31082.38,278
+computers_accessories,macae,31337.8,272
+toys,americana,24926.37,262
+garden_tools,guaruja,29773.76,261
+sports_leisure,maceio,44702.48,260
+cool_stuff,campos dos goytacazes,34660.36,258
+garden_tools,suzano,25334.87,257
+office_furniture,volta redonda,33354,251
+garden_tools,caxias do sul,38480.07,251
+watches_gifts,aracaju,36507.8,243
+garden_tools,montes claros,26690.89,239
+construction_tools_lights,canoas,26785.25,233
+computers_accessories,santa maria,31810.54,232
+industry_commerce_and_business,natal,35929.37,230
+office_furniture,limeira,23083.89,223
+office_furniture,betim,29992.31,221
+auto,valinhos,22546.55,216
+housewares,uberaba,28688.24,213
+auto,santana de parnaiba,23294.05,213
+housewares,blumenau,24755.36,213
+baby,jacarei,18479.13,212
+watches_gifts,marilia,33904.28,209
+garden_tools,pelotas,22387.13,208
+bed_bath_table,sumare,21487.92,205
+toys,ipatinga,21957.22,202
+office_furniture,franca,22443.73,199
+watches_gifts,sao jose,20350.46,198
+health_beauty,feira de santana,27652.19,197
+health_beauty,itapevi,18348.91,195
+watches_gifts,cascavel,24731.28,185
+toys,rio claro,20505.56,184
+perfumery,atibaia,20913.21,183
+books_general_interest,presidente prudente,26196.13,181
+food,sao vicente,21371.98,180
+garden_tools,itaquaquecetuba,19365.24,180
+audio,araraquara,20352.07,180
+bed_bath_table,embu das artes,20727.72,176
+toys,divinopolis,35301.77,164
+books_general_interest,ponta grossa,18923.38,163
+health_beauty,nova friburgo,28024.89,163
+computers_accessories,aracatuba,16733.59,163
+health_beauty,braganca paulista,20127.62,160
+luggage_accessories,hortolandia,16523.21,159
+watches_gifts,rio das ostras,20268.71,158
+health_beauty,cariacica,17574.58,157
+garden_tools,manaus,20652.56,156
+housewares,sao joao de meriti,18796.24,155
+auto,marica,15670.96,154
+books_technical,governador valadares,19659.05,152
+auto,pocos de caldas,17190.35,151
+toys,pouso alegre,21372.21,148
+baby,novo hamburgo,19847.08,148
+cool_stuff,itu,12707.03,147
+bed_bath_table,paulinia,16658.69,144
+telephony,jaboatao dos guararapes,21405.16,144
+baby,sao jose dos pinhais,15124.05,143
+watches_gifts,sete lagoas,17308.35,139
+stationery,resende,13545.25,137
+perfumery,santa barbara d'oeste,13072.08,135
+watches_gifts,cachoeiro de itapemirim,15871.63,135
+furniture_decor,barra mansa,20086.96,135
+computers_accessories,mage,16186.65,133
+office_furniture,cabo frio,17182.67,133
+agro_industry_and_commerce,rio grande,16516.78,132
+health_beauty,palmas,19742.48,131
+home_construction,teresopolis,17115.29,129
+construction_tools_construction,passo fundo,15223.21,129
+computers_accessories,itajai,19348.57,129
+food,ferraz de vasconcelos,15768.28,127
+furniture_decor,anapolis,17179.78,127
+computers_accessories,chapeco,15322.25,126
+perfumery,porto velho,21938.53,124
+watches_gifts,aparecida de goiania,14554.46,122
+pet_shop,belford roxo,13932.95,121
+watches_gifts,ribeirao pires,10149.63,120
+health_beauty,ribeirao das neves,12674.44,119
+home_appliances,gravatai,19110.02,119
+sports_leisure,balneario camboriu,16958.38,119
+baby,nilopolis,13718.18,118
+musical_instruments,vinhedo,9152.87,115
+cool_stuff,sao leopoldo,11064.67,115
+furniture_decor,franco da rocha,10122.2,115
+garden_tools,cajamar,9873.27,115
+,araras,13327.37,114
+furniture_decor,palhoca,11440.12,113
+watches_gifts,criciuma,15422.08,113
+bed_bath_table,botucatu,17179.5,113
+watches_gifts,santa luzia,12094.46,112
+perfumery,jaragua do sul,12966.56,111
+,itapecerica da serra,8738.78,109
+consoles_games,francisco morato,9365.31,109
+home_confort,caraguatatuba,13536.86,109
+housewares,vicosa,16474.05,108
+construction_tools_construction,itajuba,14115.6,108
+computers_accessories,pindamonhangaba,13070.16,107
+perfumery,itatiba,12049.31,107
+sports_leisure,angra dos reis,18893.04,107
+health_beauty,mogi-guacu,12453.82,106
+baby,itanhaem,10506.24,106
+health_beauty,vitoria da conquista,16497.2,105
+signaling_and_security,guaratingueta,14751.12,105
+construction_tools_construction,patos de minas,16791.97,104
+consoles_games,nova lima,20962.05,104
+sports_leisure,caieiras,13624.52,104
+health_beauty,salto,10709.39,102
+telephony,assis,12199.23,101
+construction_tools_construction,poa,9343.45,100
+books_technical,jandira,8260.47,100
+toys,votorantim,10901.22,99
+health_beauty,varginha,14223,99
+fashion_bags_accessories,olinda,13149.78,98
+auto,foz do iguacu,11586.38,98
+fashion_bags_accessories,ananindeua,18075.24,98
+perfumery,mesquita,9191.92,96
+telephony,lages,11340.11,96
+stationery,sao joao da boa vista,11786.81,95
+perfumery,lavras,13297.75,95
+computers_accessories,itabira,10544.49,95
+furniture_decor,birigui,14611.34,95
+toys,teofilo otoni,7744.23,94
+cool_stuff,ourinhos,12543.03,94
+bed_bath_table,lorena,7965.02,94
+electronics,itapetininga,12232.88,94
+auto,rio verde,9609.9,92
+toys,sao roque,9602.33,91
+toys,barbacena,12296.61,91
+fashion_bags_accessories,araxa,13136.21,91
+furniture_decor,araruama,17199.19,89
+telephony,ubatuba,8900.83,87
+cool_stuff,mogi mirim,9010.97,87
+watches_gifts,ilheus,8906.74,87
+cool_stuff,cubatao,6996.03,87
+pet_shop,conselheiro lafaiete,9434.37,87
+sports_leisure,cacapava,10160.07,86
+books_general_interest,viamao,6655.1,85
+garden_tools,varzea paulista,10780.18,85
+musical_instruments,lauro de freitas,8954.88,85
+garden_tools,jau,9460.56,84
+musical_instruments,cachoeirinha,9297.25,84
+sports_leisure,barretos,9500.97,84
+watches_gifts,tatui,11331.03,83
+computers_accessories,mairipora,9087.38,83
+bed_bath_table,rio branco,14038.2,82
+bed_bath_table,catanduva,10149.83,82
+watches_gifts,jaguariuna,8502.37,81
+telephony,colatina,6925.51,81
+art,caruaru,9535.69,81
+bed_bath_table,santa cruz do sul,10360.88,80
+bed_bath_table,sao sebastiao,11040.34,78
+perfumery,manhuacu,8510,78
+consoles_games,paracatu,8430.41,77
+cool_stuff,linhares,12211.41,77
+health_beauty,aruja,7614.78,77
+auto,votuporanga,8372.9,76
+industry_commerce_and_business,toledo,10053.64,76
+electronics,guarapuava,8625.45,76
+health_beauty,colombo,7531.9,75
+furniture_living_room,campina grande,17500.53,75
+bed_bath_table,camacari,7294.22,75
+fashion_bags_accessories,sertaozinho,6884.13,74
+pet_shop,sao joao del rei,8297.97,74
+market_place,pirassununga,8550.33,74
+telephony,pinhais,8711.82,74
+furniture_decor,muriae,11015.42,74
+fashion_shoes,guarapari,10544.41,74
+baby,dourados,8907.7,74
+bed_bath_table,amparo,11751.58,74
+construction_tools_construction,rondonopolis,12243.04,73
+watches_gifts,paranagua,9244.45,73
+stationery,caratinga,9690.26,71
+bed_bath_table,parnamirim,9402.89,70
+stationery,avare,8382.97,70
+musical_instruments,petrolina,14313,69
+furniture_decor,uba,6369.76,68
+computers_accessories,cruzeiro,6109.5,68
+fashion_bags_accessories,valenca,10314.05,67
+housewares,tubarao,10606.13,67
+furniture_decor,ituiutaba,5547.87,67
+furniture_decor,itabuna,8523.72,67
+watches_gifts,queimados,6156.75,66
+furniture_decor,pato branco,9047.64,66
+health_beauty,lagoa santa,8400.97,66
+health_beauty,itapeva,6635.93,66
+bed_bath_table,ijui,5584.45,66
+computers_accessories,bage,9435.64,66
+small_appliances,apucarana,7283.7,66
+auto,ouro preto,6861.56,65
+health_beauty,araucaria,5086.1,65
+furniture_decor,peruibe,6681.02,64
+watches_gifts,itauna,7942.95,64
+toys,itaborai,7134.27,64
+garden_tools,concordia,5963.39,64
+furniture_decor,campo mourao,7259.52,64
+watches_gifts,timoteo,7783.77,63
+art,erechim,6478.28,63
+health_beauty,brusque,8421.55,63
+sports_leisure,bento goncalves,6828.56,63
+auto,macapa,11451.92,62
+telephony,lins,9189.96,62
+watches_gifts,tupa,6483.03,61
+sports_leisure,itupeva,5355.51,61
+auto,jatai,10040.37,60
+telephony,jaboticabal,6706.02,60
+computers_accessories,itapira,7519.54,60
+bed_bath_table,cosmopolis,6747.8,60
+watches_gifts,bebedouro,4992.89,60
+electronics,alvorada,7702.2,60
+fashion_bags_accessories,joao monlevade,6959.85,59
+furniture_decor,francisco beltrao,7491.38,59
+cool_stuff,barreiras,11043.93,59
+auto,nova serrana,7856.26,58
+stationery,matao,7207.71,58
+home_construction,lajeado,8188.41,58
+health_beauty,fernandopolis,7445.06,58
+housewares,araguari,10869.52,58
+bed_bath_table,unai,6825.39,57
+bed_bath_table,paranavai,7228.95,57
+auto,embu-guacu,6244.68,57
+,sinop,6474.65,56
+telephony,santo angelo,5433.26,56
+garden_tools,patrocinio,6817.53,56
+auto,boituva,7412.05,56
+fashion_bags_accessories,videira,8107.6,55
+electronics,uruguaiana,4653.96,55
+telephony,barra do pirai,5543.41,55
+stationery,itaperuna,6963.57,54
+computers_accessories,leme,8152.92,53
+furniture_decor,bertioga,9520.55,53
+sports_leisure,alfenas,5350.32,53
+computers_accessories,tres coracoes,4493.83,52
+cool_stuff,guaira,4519.02,52
+kitchen_dining_laundry_garden_furniture,saquarema,4673.05,51
+toys,sao jose do rio pardo,5106.24,51
+health_beauty,porto seguro,12890.09,51
+auto,ibirite,7410.68,51
+home_construction,campo limpo paulista,5013.34,51
+telephony,boa vista,7739.53,51
+consoles_games,andradina,6794.42,51
+stationery,sao pedro da aldeia,4672.43,50
+home_construction,sao mateus,6569.97,50
+cool_stuff,registro,6288.47,50
+electronics,pedro leopoldo,5057.01,50
+watches_gifts,paulista,6212.37,50
+health_beauty,itaguai,6417.74,50
+health_beauty,ilhabela,3286.28,50
+bed_bath_table,curvelo,5541,50
+fashion_bags_accessories,artur nogueira,6029.68,50
+cool_stuff,vespasiano,6172.59,49
+health_beauty,vargem grande paulista,5833.55,49
+office_furniture,sapucaia do sul,5683.84,49
+furniture_decor,pirapora,6803.07,49
+telephony,juazeiro,7677.28,49
+housewares,varzea grande,7055.55,48
+housewares,sao miguel do oeste,6155.72,48
+stationery,penapolis,4776.58,48
+computers_accessories,itapema,6109.87,48
+luggage_accessories,uniao da vitoria,5081.93,47
+food,tres lagoas,7431.32,47
+furniture_decor,sao bento do sul,4869.9,47
+electronics,santarem,5387.66,47
+garden_tools,ponte nova,7106.89,47
+computers_accessories,extrema,5477.83,47
+housewares,vassouras,4491.8,46
+perfumery,tiete,4142.82,46
+cool_stuff,passos,4247.28,46
+computers_accessories,mongagua,5367.53,46
+perfumery,louveira,4777.82,46
+furniture_decor,lencois paulista,6720.22,46
+sports_leisure,itumbiara,5156.12,46
+telephony,esteio,6521.86,46
+computers_accessories,paulo afonso,6492.59,45
+furniture_decor,ouro branco,4419.23,45
+housewares,nova odessa,4438.61,45
+electronics,japeri,4458.27,45
+books_technical,capao da canoa,4692.09,45
+computers_accessories,sabara,4481.78,44
+watches_gifts,imperatriz,7171.38,44
+auto,cianorte,4863.67,44
+health_beauty,rio do sul,4777.85,43
+furniture_decor,luis eduardo magalhaes,8343.87,43
+home_confort,coronel fabriciano,4201.7,43
+stationery,campo largo,3894.89,43
+toys,bom despacho,4680.53,43
+furniture_living_room,alagoinhas,6249.23,43
+pet_shop,valparaiso de goias,5437.85,42
+home_construction,monte mor,4544.84,42
+books_general_interest,gaspar,10643.04,42
+computers_accessories,eunapolis,6944.8,42
+home_construction,catalao,5454.03,42
+cool_stuff,campo bom,4394.71,42
+watches_gifts,caldas novas,5301.63,42
+toys,cacador,4569.38,42
+electronics,aracruz,4064.07,42
+bed_bath_table,seropedica,4391.15,41
+computers_accessories,sao joaquim da barra,4302.49,41
+furniture_decor,para de minas,7162.08,41
+health_beauty,osorio,6251.24,41
+perfumery,olimpia,5862.54,41
+telephony,maracanau,5342.73,41
+sports_leisure,guaxupe,6081.17,41
+garden_tools,arapongas,6617.96,41
+health_beauty,araguaina,8203.54,41
+toys,umuarama,5770.52,40
+computers_accessories,tres rios,7227.52,40
+sports_leisure,tremembe,4876.03,40
+luggage_accessories,mococa,6295.97,40
+cool_stuff,guanambi,4589.57,40
+computers_accessories,alegrete,4483.77,40
+computers_accessories,sao lourenco,4222.89,39
+cool_stuff,pedreira,2893.6,39
+cool_stuff,mossoro,4875.46,39
+baby,juazeiro do norte,7034.78,39
+luggage_accessories,itarare,3915.3,39
+toys,formosa,5282.15,39
+auto,arraial do cabo,5237.89,39
+bed_bath_table,santo antonio de padua,5330.88,38
+bed_bath_table,santa rita do sapucai,3910.7,38
+telephony,santa cruz do rio pardo,2621.48,38
+baby,dracena,4538.05,38
+auto,almirante tamandare,4255.69,38
+books_technical,adamantina,5425.97,38
+fashion_male_clothing,telemaco borba,4693.49,37
+perfumery,taquaritinga,4604.03,37
+cool_stuff,sao sebastiao do paraiso,4800.05,37
+fashion_male_clothing,guaiba,5417.51,37
+baby,garanhuns,4107.48,37
+watches_gifts,caucaia,5856.66,37
+perfumery,sobral,11368.84,36
+bed_bath_table,santa rosa,2972.04,36
+garden_tools,paracambi,6571.96,36
+industry_commerce_and_business,orlandia,4027.32,36
+health_beauty,navegantes,6783.17,36
+cool_stuff,luziania,4761.46,36
+bed_bath_table,jequie,4687.84,36
+furniture_decor,imbituba,3838.35,36
+garden_tools,ibiuna,3439.52,36
+garden_tools,cataguases,4584.86,36
+auto,camaragibe,3642.88,36
+computers_accessories,xanxere,4175.87,35
+pet_shop,santa fe do sul,3994.67,35
+garden_tools,congonhas,2938.61,35
+stationery,cerquilho,3299.91,35
+stationery,capivari,4753.16,35
+bed_bath_table,cachoeira do sul,6288.32,35
+bed_bath_table,barra do garcas,4076.2,35
+bed_bath_table,rolandia,6061.03,34
+sports_leisure,presidente venceslau,3691.89,34
+telephony,parauapebas,4092.06,34
+computers_accessories,montenegro,4910.6,34
+fashion_bags_accessories,monte alto,2549.01,34
+computers,mariana,4416.58,34
+bed_bath_table,marechal candido rondon,3638.56,34
+health_beauty,ituverava,3783.73,34
+furniture_decor,formiga,4407.94,34
+sports_leisure,cruz alta,3152.1,34
+,corumba,4700.17,34
+computers_accessories,arapiraca,8728.71,34
+sports_leisure,santo antonio de jesus,4361.85,33
+stationery,santiago,2304.7,33
+furniture_decor,santa isabel,2875.46,33
+computers_accessories,porto ferreira,2000.7,33
+auto,matinhos,2862.15,33
+luggage_accessories,itapolis,3363.99,33
+watches_gifts,itabirito,5078.13,33
+fixed_telephony,garca,3013.41,33
+bed_bath_table,capao bonito,3078.97,33
+auto,camboriu,3118.18,33
+health_beauty,brumadinho,2258.23,33
+bed_bath_table,promissao,4369.85,32
+consoles_games,miguel pereira,3602.2,32
+office_furniture,jales,3173.05,32
+sports_leisure,gramado,3176.24,32
+auto,dois vizinhos,2409.52,32
+health_beauty,carangola,4592,32
+cool_stuff,barra bonita,4122.43,32
+stationery,santa barbara,5118.21,31
+books_technical,primavera do leste,6232.81,31
+bed_bath_table,mirassol,5850.89,31
+housewares,mafra,1732.23,31
+computers_accessories,garopaba,2693.08,31
+computers_accessories,caceres,4750.19,31
+computers_accessories,batatais,5574.8,31
+watches_gifts,viana,3994.79,30
+bed_bath_table,trindade,7510.37,30
+pet_shop,tijucas,3504.74,30
+computers_accessories,teixeira de freitas,3439.17,30
+computers_accessories,sapiranga,3660.6,30
+perfumery,rio bonito,4402.01,30
+,piumhii,3707.31,30
+sports_leisure,mineiros,3379.3,30
+watches_gifts,lucas do rio verde,5807.76,30
+bed_bath_table,frutal,3474.85,30
+food,fazenda rio grande,4655.49,30
+bed_bath_table,cravinhos,2363.95,30
+health_beauty,coromandel,2403.93,30
+garden_tools,castro,2847.19,30
+furniture_decor,cambe,3930.67,30
+baby,armacao dos buzios,4836.4,30
+housewares,santana do livramento,4248.23,29
+bed_bath_table,mairinque,2860.12,29
+construction_tools_construction,indaial,3334.74,29
+luggage_accessories,diamantina,2424.28,29
+electronics,brumado,2748.75,29
+garden_tools,alem paraiba,2870.56,29
+auto,tramandai,2703.52,28
+stationery,salinas,4986.77,28
+health_beauty,nanuque,2395.97,28
+furniture_decor,janauba,2990.16,28
+health_beauty,icara,2317.34,28
+perfumery,guapore,3153.15,28
+sports_leisure,estancia velha,2782.1,28
+fashion_bags_accessories,canoinhas,4583.01,28
+health_beauty,caete,2482.97,28
+home_construction,arcos,5391.73,28
+furniture_decor,venancio aires,2764.62,27
+housewares,rio grande da serra,2264.3,27
+toys,pinhalzinho,2117.28,27
+telephony,joacaba,4721,27
+toys,gurupi,5229.29,27
+agro_industry_and_commerce,farroupilha,3213.03,27
+health_beauty,campos do jordao,3273,27
+books_general_interest,cachoeira paulista,3292,27
+bed_bath_table,alto paraiso de goias,1367.34,27
+baby,altamira,5168.15,27
+signaling_and_security,veranopolis,2394.04,26
+pet_shop,vacaria,2540.07,26
+construction_tools_safety,presidente epitacio,2572.52,26
+toys,porto feliz,3108.97,26
+sports_leisure,parnaiba,4060.01,26
+housewares,januaria,3471.23,26
+,ilha solteira,2299.44,26
+fashion_bags_accessories,iguaba grande,2348.6,26
+auto,holambra,2719.2,26
+baby,dias d'avila,2493.44,26
+health_beauty,cambui,3133.74,26
+housewares,aguas lindas de goias,2219.91,26
+health_beauty,viradouro,2081.54,25
+stationery,sorriso,3342.75,25
+home_appliances,simoes filho,4671.48,25
+office_furniture,senhor do bonfim,2557.28,25
+watches_gifts,sao gotardo,2479.38,25
+stationery,pitangui,2517.23,25
+furniture_decor,piraju,4954.98,25
+bed_bath_table,piracaia,2764.83,25
+fashion_bags_accessories,piedade,2852.76,25
+telephony,monte carmelo,3269.13,25
+books_technical,medianeira,3007.04,25
+industry_commerce_and_business,marau,2167.34,25
+furniture_decor,juquitiba,3073.87,25
+furniture_decor,ibiruba,3252.8,25
+housewares,curitibanos,2878.94,25
+fashion_bags_accessories,cornelio procopio,2234.17,25
+,cordeiro,2604.86,25
+sports_leisure,castanhal,3628.62,25
+computers_accessories,bom jesus do itabapoana,3405.91,25
+small_appliances,aparecida,3740.96,25
+construction_tools_construction,aguas de lindoia,3092.59,25
+cool_stuff,tangara da serra,3970.6,24
+luggage_accessories,sao gabriel,2362.85,24
+baby,sao fidelis,2029.25,24
+furniture_decor,rancharia,2713.19,24
+fashion_bags_accessories,pompeia,1907.08,24
+health_beauty,pederneiras,3007.07,24
+furniture_decor,morrinhos,2397.59,24
+electronics,mandaguari,5039.15,24
+bed_bath_table,jacobina,7079.66,24
+sports_leisure,ibitinga,2911.26,24
+furniture_decor,campo novo do parecis,4970.79,24
+bed_bath_table,braco do norte,2962.47,24
+electronics,biguacu,4301.2,24
+computers_accessories,aracati,2769.53,24
+sports_leisure,vera cruz,2915.66,23
+toys,socorro,2319.45,23
+telephony,sarandi,2241.32,23
+housewares,sao joao nepomuceno,2594,23
+bed_bath_table,santos dumont,2056.3,23
+cool_stuff,ponta pora,4038.51,23
+health_beauty,paraty,2780.77,23
+toys,ouro fino,2511.84,23
+bed_bath_table,monte azul paulista,2887.91,23
+sports_leisure,machado,2761.92,23
+sports_leisure,laranjeiras do sul,3595.56,23
+furniture_decor,irece,1729.52,23
+stationery,irati,2455.22,23
+fashion_bags_accessories,guapimirim,3067.16,23
+health_beauty,goianesia,2044.47,23
+stationery,claudio,3092.97,23
+health_beauty,cicero dantas,3010.05,23
+computers_accessories,carazinho,2030.93,23
+office_furniture,candeias,2102.46,23
+housewares,cafelandia,2484.31,23
+health_beauty,cachoeiras de macacu,1958.25,23
+bed_bath_table,bonfim paulista,2457.37,23
+computers_accessories,venda nova do imigrante,2647.83,22
+telephony,timbo,3957.67,22
+sports_leisure,taquara,4427.54,22
+construction_tools_safety,santo anastacio,1884.6,22
+housewares,santa rita do passa quatro,2123.97,22
+computers_accessories,oliveira,2579,22
+furniture_decor,monte siao,2530.28,22
+cool_stuff,maraba,3597.17,22
+cool_stuff,laguna,2202.73,22
+telephony,guararapes,3370.84,22
+cool_stuff,cordeiropolis,1338.05,22
+health_beauty,casimiro de abreu,3458.33,22
+furniture_decor,cantagalo,2329.42,22
+furniture_decor,campos novos,1929.69,22
+watches_gifts,cabo de santo agostinho,2877.95,22
+fashion_bags_accessories,barrinha,3036.93,22
+furniture_decor,vilhena,2207.95,21
+,torres,1416.23,21
+bed_bath_table,tambau,1513.43,21
+watches_gifts,sao manuel,3278.99,21
+cool_stuff,sao francisco do sul,1648.08,21
+bed_bath_table,sacramento,1986.57,21
+electronics,rosario do sul,933.25,21
+construction_tools_construction,quatro barras,1763.66,21
+housewares,palmital,1939.16,21
+furniture_decor,osvaldo cruz,1786.46,21
+toys,nova granada,1790.33,21
+health_beauty,jarinu,1450.38,21
+bed_bath_table,jacutinga,2720.21,21
+toys,eusebio,2217.51,21
+telephony,conchal,2075.24,21
+furniture_decor,cerqueira cesar,3701.52,21
+computers_accessories,carlos barbosa,2554.79,21
+electronics,campo belo,1836.34,21
+pet_shop,boa esperanca,4166.39,21
+agro_industry_and_commerce,ariquemes,4124.97,21
+auto,agua boa,2758.87,21
+musical_instruments,visconde do rio branco,1557.34,20
+housewares,tucurui,5096.7,20
+computers_accessories,tres pontas,2293.71,20
+sports_leisure,sao mateus do sul,1933.95,20
+cool_stuff,santo antonio de posse,5027.89,20
+watches_gifts,santa maria de jetiba,1888.97,20
+fashion_bags_accessories,picos,3598.56,20
+cool_stuff,paty do alferes,2234.66,20
+computers_accessories,paraiba do sul,2949.57,20
+computers_accessories,paraguacu paulista,2766.8,20
+telephony,paragominas,2182.65,20
+musical_instruments,novo horizonte,2873.29,20
+sports_leisure,morro agudo,1850.95,20
+toys,miracema,1643.24,20
+telephony,leopoldina,1667.77,20
+telephony,laranjal paulista,2209.33,20
+telephony,itabaiana,3185.67,20
+furniture_decor,iracemapolis,1251.88,20
+health_beauty,igrejinha,1173.03,20
+bed_bath_table,cruz das almas,2007.24,20
+furniture_decor,crato,3128.56,20
+telephony,capelinha,2562.96,20
+perfumery,balsas,5274.43,20
+agro_industry_and_commerce,ararangua,2246.55,20
+housewares,uruacu,1750.02,19
+health_beauty,sarzedo,987.93,19
+housewares,sao francisco,2338.39,19
+health_beauty,santana do paraiso,2696.82,19
+bed_bath_table,santa rosa de viterbo,1818.22,19
+bed_bath_table,piuma,2216.18,19
+furniture_decor,pirai,2218.16,19
+health_beauty,pereira barreto,4294.72,19
+health_beauty,panambi,3640.99,19
+baby,nova venecia,2439.9,19
+home_appliances,marialva,2573.17,19
+computers_accessories,junqueiropolis,2029.24,19
+costruction_tools_garden,ji-parana,3412.04,19
+garden_tools,jaguariaiva,1665.58,19
+sports_leisure,itatiaia,1526.46,19
+watches_gifts,itapetinga,2727.12,19
+health_beauty,ipero,2659.28,19
+bed_bath_table,guanhaes,1931.45,19
+health_beauty,espirito santo do pinhal,2160.02,19
+auto,espera feliz,3315.75,19
+baby,dois irmaos,3398.76,19
+watches_gifts,canela,2418.63,19
+health_beauty,camaqua,1716.75,19
+,barra de sao joao,2440.85,19
+health_beauty,bariri,2706.45,19
+perfumery,barao de cocais,1958.4,19
+perfumery,bambui,2206.67,19
+computers_accessories,aguai,2111.48,19
+health_beauty,taquarituba,2548.52,18
+sports_leisure,taio,5965.23,18
+cool_stuff,senador canedo,1375.57,18
+bed_bath_table,sao sebastiao do cai,2087.84,18
+bed_bath_table,sao borja,2124.74,18
+garden_tools,santo antonio da patrulha,5100.08,18
+health_beauty,santana,1522.93,18
+computers_accessories,santa ines,1520.78,18
+cool_stuff,posse,3550.25,18
+art,penha,2298.09,18
+bed_bath_table,paraguacu,1452.85,18
+telephony,macatuba,2984.64,18
+consoles_games,lapa,2039.2,18
+telephony,juina,4695.32,18
+bed_bath_table,joao pinheiro,2475.31,18
+sports_leisure,itaporanga,2501.08,18
+books_technical,itaocara,1720.65,18
+perfumery,itajobi,1653.95,18
+sports_leisure,ipora,2220.88,18
+telephony,iguatu,3676.19,18
+auto,guacui,3797.29,18
+home_confort,floriano,2424.02,18
+garden_tools,conselheiro pena,2000.56,18
+garden_tools,charqueadas,1721.41,18
+watches_gifts,castelo,1600.8,18
+office_furniture,carmo do paranaiba,4008.64,18
+pet_shop,buritis,1997.2,18
+watches_gifts,bom jesus dos perdoes,1608.73,18
+telephony,bastos,1399.6,18
+sports_leisure,barra velha,1684.01,18
+sports_leisure,anchieta,2286.5,18
+bed_bath_table,americo brasiliense,2360.1,18
+stationery,alegre,2884.07,18
+toys,vitoria de santo antao,2455.15,17
+telephony,triunfo,2297.43,17
+baby,teutonia,1493.6,17
+garden_tools,serrinha,2039.14,17
+perfumery,serra negra,3267.53,17
+sports_leisure,sao luiz gonzaga,3298.01,17
+computers_accessories,santa vitoria,4083.77,17
+health_beauty,salgueiro,2315.95,17
+sports_leisure,redencao,2527.93,17
+cool_stuff,raposos,1009.52,17
+bed_bath_table,pitangueiras,1362.62,17
+garden_tools,pires do rio,3500.83,17
+fashion_bags_accessories,piraquara,1604.51,17
+sports_leisure,pirapora do bom jesus,2744.66,17
+auto,patos,4036.65,17
+sports_leisure,palmeira das missoes,1559.51,17
+signaling_and_security,nova prata,1230.94,17
+sports_leisure,natividade,2995.27,17
+sports_leisure,marataizes,2907.27,17
+electronics,jacarezinho,1356.86,17
+computers_accessories,itaqui,1154.38,17
+fashion_bags_accessories,ipojuca,1605.2,17
+cool_stuff,inhumas,2210.83,17
+furniture_decor,imbe,2727.95,17
+electronics,ibirama,1026.5,17
+housewares,forquilhinha,1143.85,17
+bed_bath_table,caxambu,1770.63,17
+electronics,capanema,1100.47,17
+housewares,candido mota,1573.29,17
+baby,bonito,2910.96,17
+bed_bath_table,bom jardim,2693.05,17
+watches_gifts,agudos,1265.3,17
+garden_tools,tupaciguara,1331.21,16
+cool_stuff,timon,1802.69,16
+bed_bath_table,sao joao da barra,2115.54,16
+home_appliances,sao francisco de itabapoana,1497.76,16
+garden_tools,santo antonio do monte,1959.11,16
+auto,santa cruz do capibaribe,2664.87,16
+telephony,santa adelia,1609.65,16
+bed_bath_table,rio negro,2425.77,16
+health_beauty,quirinopolis,1475.95,16
+telephony,presidente dutra,2335.78,16
+bed_bath_table,pirajui,1583.52,16
+housewares,pariquera-acu,1765.1,16
+cool_stuff,paranaiba,1616.23,16
+perfumery,paraisopolis,2101.66,16
+garden_tools,palmeira,2640.22,16
+consoles_games,novo gama,2124.94,16
+cool_stuff,nova era,2074.71,16
+fashion_bags_accessories,niquelandia,1745.59,16
+bed_bath_table,matias barbosa,2169.86,16
+toys,maracaju,2791.96,16
+sports_leisure,manhumirim,2461.78,16
+computers_accessories,ituporanga,3225.16,16
+cool_stuff,faxinal dos guedes,1512.73,16
+toys,estrela,2217.15,16
+garden_tools,esmeraldas,1780.97,16
+cool_stuff,cunha,2845.12,16
+computers_accessories,chapadao do sul,1569.79,16
+garden_tools,caxias,1790.55,16
+arts_and_craftmanship,carmo do rio claro,1642.42,16
+computers_accessories,cajati,1821.32,16
+computers,almenara,2872.15,16
+computers,sao lourenco do sul,2135.38,15
+housewares,sao lourenco da serra,1151.95,15
+christmas_supplies,santa vitoria do palmar,1750.75,15
+cool_stuff,santa maria da vitoria,1710.55,15
+stationery,quissama,2827.66,15
+bed_bath_table,pirapozinho,1319.37,15
+sports_leisure,pinheiral,2165.19,15
+cool_stuff,petrolandia,2110.34,15
+food,nossa senhora do socorro,2282.92,15
+pet_shop,mirandopolis,1274.99,15
+bed_bath_table,marituba,1235.09,15
+office_furniture,loanda,1704.36,15
+sports_leisure,jaguare,1283.85,15
+health_beauty,iturama,1772.55,15
+signaling_and_security,itanhandu,1899.98,15
+sports_leisure,italva,1285.99,15
+auto,ibipora,1303.38,15
+costruction_tools_garden,gravata,1970.99,15
+stationery,frederico westphalen,1053.45,15
+bed_bath_table,feliz,2523.43,15
+furniture_decor,embu,1517.88,15
+auto,eldorado do sul,1853.48,15
+bed_bath_table,divino,1338.49,15
+furniture_decor,conceicao do mato dentro,1317.91,15
+bed_bath_table,carmo,1493.19,15
+stationery,cangucu,1584.98,15
+cool_stuff,bombinhas,1935.41,15
+computers_accessories,barroso,1289.96,15
+computers_accessories,bandeirantes,1818.1,15
+health_beauty,araripina,2169.58,15
+bed_bath_table,aperibe,1464.94,15
+housewares,alta floresta,3495.55,15
+auto,treze tilias,885.66,14
+telephony,tres de maio,1969.05,14
+perfumery,taiobeiras,2684.71,14
+housewares,sao simao,1666.49,14
+auto,sao pedro,3683.54,14
+auto,sao jose de ribamar,1444.82,14
+telephony,santo antonio da platina,1140.61,14
+christmas_supplies,santo amaro da imperatriz,3007.31,14
+garden_tools,salto de pirapora,1130.59,14
+sports_leisure,rio negrinho,1121.19,14
+bed_bath_table,raul soares,1115.51,14
+telephony,porto uniao,3023.65,14
+telephony,porangatu,1828.15,14
+musical_instruments,pontal,1097.38,14
+sports_leisure,pojuca,1481.09,14
+furniture_decor,pilar do sul,1002.36,14
+toys,parati,2779.7,14
+health_beauty,nova andradina,2194.87,14
+sports_leisure,mirassol d'oeste,1912.02,14
+bed_bath_table,miguelopolis,1984.27,14
+bed_bath_table,mendes,1240.75,14
+luggage_accessories,mantena,1652.22,14
+toys,mangaratiba,974.84,14
+telephony,macaubas,873.37,14
+furniture_decor,lagoa vermelha,1616.25,14
+pet_shop,jardinopolis,1600.05,14
+toys,ipiau,787.21,14
+telephony,ipameri,2320.55,14
+toys,iguape,1359.57,14
+sports_leisure,igarassu,1936.82,14
+furniture_mattress_and_upholstery,ibate,1652.59,14
+home_construction,herval d'oeste,1106.74,14
+fashion_bags_accessories,guariba,1608.43,14
+perfumery,guaramirim,1377.08,14
+watches_gifts,fraiburgo,2715.57,14
+computers_accessories,flores da cunha,1439.45,14
+toys,descalvado,1231.74,14
+bed_bath_table,costa rica,1043.66,14
+bed_bath_table,conceicao de macabu,1668.47,14
+perfumery,cambara,863.17,14
+health_beauty,buritizeiro,2987.99,14
+furniture_decor,brodowski,1020.54,14
+watches_gifts,bom jesus,2673.26,14
+cool_stuff,bacabal,3243.71,14
+bed_bath_table,astolfo dutra,1294.52,14
+housewares,assis chateaubriand,1200.31,14
+health_beauty,araquari,993.25,14
+stationery,andradas,4070.31,14
+perfumery,andira,1462.18,14
+auto,aluminio,1252.15,14
+health_beauty,abreu e lima,2376.95,14
+telephony,abaetetuba,4028.57,14
+home_confort,vargem grande do sul,864.6,13
+office_furniture,tres marias,840.44,13
+fashion_bags_accessories,teodoro sampaio,1324.67,13
+construction_tools_construction,taquari,1619.28,13
+toys,tabapua,1322.96,13
+furniture_decor,sombrio,1225.82,13
+health_beauty,serrana,917.9,13
+health_beauty,serra talhada,2053.18,13
+computers_accessories,sao miguel arcanjo,1311.09,13
+baby,sao lourenco da mata,1239.86,13
+bed_bath_table,sao jose do vale do rio preto,1192.21,13
+furniture_decor,sao joao,1299.09,13
+cool_stuff,sao goncalo do amarante,1280.55,13
+party_supplies,sao gabriel da palha,1406.8,13
+books_general_interest,santa helena,1277.85,13
+furniture_decor,santa gertrudes,1194.21,13
+housewares,rondon do para,2780.13,13
+sports_leisure,regente feijo,897.01,13
+computers_accessories,quixada,2755.57,13
+industry_commerce_and_business,quata,3119.56,13
+fashion_bags_accessories,pompeu,1055.18,13
+health_beauty,paranapanema,560.45,13
+sports_leisure,ouroeste,1235.19,13
+stationery,mata de sao joao,1382.55,13
+baby,limoeiro do norte,1436.57,13
+bed_bath_table,jose bonifacio,1486.34,13
+telephony,ivoti,1235.11,13
+telephony,itapipoca,1341.08,13
+electronics,itapecerica,1363.28,13
+cool_stuff,itamonte,883.15,13
+health_beauty,ipua,2031.49,13
+computers_accessories,igarape,1904.26,13
+computers_accessories,guara,1182.49,13
+watches_gifts,engenheiro coelho,1089.47,13
+health_beauty,coxim,1598.75,13
+telephony,cesario lange,1966.5,13
+computers_accessories,celso ramos,1136.79,13
+furniture_decor,casa branca,1261.58,13
+sports_leisure,carandai,1143.5,13
+construction_tools_safety,cacoal,1801.47,13
+bed_bath_table,brotas,1073.08,13
+auto,bocaiuva,1618.27,13
+books_general_interest,belo jardim,1698.13,13
+baby,alvinopolis,807.06,13
+bed_bath_table,virginopolis,881.64,12
+cool_stuff,urupes,1150.14,12
+housewares,tres passos,1270.21,12
+cool_stuff,tapiratiba,2601.22,12
+garden_tools,tanabi,1404.39,12
+bed_bath_table,taguatinga,784.89,12
+watches_gifts,sidrolandia,1557.76,12
+small_appliances,santo amaro,1805.93,12
+bed_bath_table,salesopolis,1146.52,12
+baby,rio paranaiba,680.27,12
+computers_accessories,rio das pedras,1042.64,12
+computers_accessories,pradopolis,901,12
+perfumery,parobe,1750.48,12
+,monte aprazivel,948.11,12
+toys,montanha,1586.54,12
+perfumery,minacu,1561.62,12
+housewares,matozinhos,750.65,12
+bed_bath_table,malacacheta,1355.65,12
+health_beauty,lucelia,961.35,12
+furniture_decor,lagoa da prata,1725.39,12
+sports_leisure,jandaia do sul,1839.25,12
+telephony,itapiranga,2667.18,12
+stationery,itamaraju,1474.13,12
+telephony,itai,1757.58,12
+computers,ipira,3462.88,12
+furniture_decor,goioere,1935.28,12
+furniture_decor,goiana,695.63,12
+bed_bath_table,floresta,1184.37,12
+computers_accessories,fartura,1771.41,12
+watches_gifts,estancia,2594.65,12
+electronics,espinosa,2705.09,12
+garden_tools,encantado,2807.17,12
+furniture_living_room,duartina,1252.67,12
+telephony,dois corregos,1233.69,12
+watches_gifts,correia pinto,1454.23,12
+home_appliances,coronel vivida,856.87,12
+bed_bath_table,chavantes,926.52,12
+computers_accessories,castilho,2822.21,12
+perfumery,carmo do cajuru,1638.44,12
+health_beauty,capinzal,1220.55,12
+electronics,capinopolis,1042.18,12
+cool_stuff,canarana,1211.63,12
+furniture_decor,cajazeiras,1818.16,12
+furniture_decor,buritama,1024.24,12
+books_general_interest,brejo santo,1529.86,12
+garden_tools,biritiba-mirim,1381.72,12
+,bezerros,1337.29,12
+bed_bath_table,aracoiaba da serra,1511.57,12
+auto,aparecida do taboado,2531.9,12
+telephony,aguas da prata,1028.28,12
+watches_gifts,abaete,1732.81,12
+perfumery,varzea da palma,2171.77,11
+cool_stuff,turmalina,1257.69,11
+garden_tools,teotonio vilela,2168.68,11
+office_furniture,tapejara,1521.03,11
+furniture_decor,taguai,707.34,11
+auto,sobradinho,1015.59,11
+consoles_games,sao raimundo nonato,2145.39,11
+health_beauty,sao joaquim,1118.98,11
+stationery,sao joao batista,1788.22,11
+,santa teresa,1117.36,11
+housewares,santa cecilia,1006.12,11
+health_beauty,russas,3843.87,11
+office_furniture,ronda alta,1544.33,11
+bed_bath_table,rio brilhante,972.28,11
+books_technical,querencia,2302.62,11
+garden_tools,prata,1099.48,11
+health_beauty,potirendaba,823.32,11
+electronics,portao,772.15,11
+home_appliances_2,pomerode,1579.36,11
+sports_leisure,planaltina,754.24,11
+perfumery,piranguinho,1475.65,11
+housewares,piracanjuba,1893.26,11
+office_furniture,pedro de toledo,833.11,11
+consoles_games,passa quatro,1746.56,11
+telephony,paraiso do tocantins,1799.04,11
+auto,paraibuna,1610.99,11
+stationery,papucaia,1126.77,11
+garden_tools,nova xavantina,3274.69,11
+cool_stuff,nova esperanca,1579.78,11
+bed_bath_table,mostardas,1517.83,11
+baby,mirai,880.81,11
+sports_leisure,maravilha,711.97,11
+telephony,maracai,1114.58,11
+computers_accessories,lagarto,1955.43,11
+cool_stuff,jequitinhonha,1372.37,11
+furniture_decor,itamarandiba,1706.99,11
+furniture_decor,itaiopolis,1313.59,11
+auto,icem,885.97,11
+stationery,ibia,1367.29,11
+musical_instruments,ibaiti,1057.36,11
+auto,guararema,1189.56,11
+health_beauty,guarabira,1239.68,11
+sports_leisure,goitacazes,1116.34,11
+sports_leisure,goiatuba,2347.44,11
+computers_accessories,girua,1335.28,11
+computers_accessories,escada,2658.43,11
+watches_gifts,eloi mendes,1795.39,11
+baby,dourado,1120.33,11
+office_furniture,dom pedrito,1461.93,11
+auto,corinto,1362.86,11
+health_beauty,codo,2419.82,11
+telephony,cerro largo,712.87,11
+bed_bath_table,catu,1486.97,11
+housewares,capitolio,386.89,11
+sports_leisure,campo formoso,3419.13,11
+housewares,campina grande do sul,1152.47,11
+watches_gifts,caconde,1628.19,11
+cool_stuff,bom jesus da lapa,2829.63,11
+bed_bath_table,bom jardim de minas,866.87,11
+auto,boa esperanca do sul,836.9,11
+housewares,balneario picarras,1501.81,11
+health_beauty,baixo guandu,1399.1,11
+sports_leisure,auriflama,1871.66,11
+telephony,arroio do meio,1425.21,11
+baby,afonso claudio,1568.77,11
+electronics,xinguara,1282.22,10
+health_beauty,xaxim,1718.58,10
+bed_bath_table,vila valerio,1369.4,10
+sports_leisure,valente,3209.58,10
+sports_leisure,urussanga,893.68,10
+luggage_accessories,tres cachoeiras,646.27,10
+watches_gifts,taua,933.13,10
+toys,taruma,997.72,10
+bed_bath_table,taquaritinga do norte,2129.9,10
+perfumery,sumidouro,1060.68,10
+furniture_decor,siqueira campos,1478.08,10
+sports_leisure,sao miguel do iguacu,1288.2,10
+baby,sao marcos,816.42,10
+garden_tools,sao luis de montes belos,1284.37,10
+pet_shop,sao lourenco do oeste,911.37,10
+musical_instruments,sao joaquim de bicas,1663.28,10
+housewares,santo augusto,1165.08,10
+sports_leisure,santo antonio do jacinto,505.49,10
+telephony,santa juliana,2622.39,10
+musical_instruments,santa helena de goias,1499.73,10
+watches_gifts,rubiataba,1034.09,10
+audio,rolante,1044.15,10
+construction_tools_construction,resplendor,739.06,10
+auto,queimadas,2257.35,10
+stationery,primavera,996.78,10
+computers_accessories,porciuncula,936.88,10
+furniture_decor,piratininga,2449.18,10
+health_beauty,pinhao,1340.28,10
+bed_bath_table,perdoes,603.88,10
+sports_leisure,perdizes,1163.31,10
+sports_leisure,papanduva,669.41,10
+computers_accessories,palotina,872.76,10
+telephony,palestina,499.55,10
+fashion_bags_accessories,paicandu,943.16,10
+telephony,nova ponte,1409.49,10
+cool_stuff,neropolis,1297.22,10
+garden_tools,nepomuceno,610.94,10
+sports_leisure,navirai,1910.88,10
+telephony,muzambinho,665.8,10
+health_beauty,morada nova,1355.27,10
+sports_leisure,mimoso do sul,745.37,10
+stationery,mateus leme,574.27,10
+cool_stuff,martinopolis,3708.09,10
+electronics,mar de espanha,1014.72,10
+auto,mangueirinha,1794.67,10
+industry_commerce_and_business,mamanguape,969.75,10
+construction_tools_construction,lindoia,606.03,10
+baby,lambari,1506.47,10
+bed_bath_table,juquia,710.08,10
+stationery,julio de castilhos,787.54,10
+office_furniture,jaguarao,1025.29,10
+audio,jacare,810.04,10
+bed_bath_table,itaguacu,1840.92,10
+health_beauty,itaberaba,1089.16,10
+sports_leisure,imbituva,740.67,10
+furniture_decor,guaratuba,1821.88,10
+fixed_telephony,guaranesia,805.58,10
+electronics,garibaldi,1014.8,10
+auto,fervedouro,965.76,10
+furniture_decor,coroata,873.48,10
+computers_accessories,conchas,1213.02,10
+office_furniture,conceicao do coite,997.89,10
+baby,conceicao da aparecida,866.08,10
+health_beauty,colorado,1225.48,10
+office_furniture,colider,2161.73,10
+watches_gifts,charqueada,1122.67,10
+telephony,carpina,2194.76,10
+stationery,campo verde,781.38,10
+garden_tools,campina verde,659.48,10
+computers,camanducaia,2180.67,10
+sports_leisure,caico,2723.2,10
+bed_bath_table,caetite,1892.3,10
+drinks,cacu,982.68,10
+housewares,buri,938.32,10
+home_appliances,brasilia de minas,671.74,10
+pet_shop,braganca,1083.96,10
+furniture_decor,bofete,2157.59,10
+fashion_bags_accessories,bilac,710.52,10
+toys,belo oriente,620.39,10
+computers_accessories,bayeux,808.05,10
+sports_leisure,barra do corda,889.89,10
+fashion_bags_accessories,barra de sao francisco,740.66,10
+computers_accessories,baependi,1409.04,10
+sports_leisure,arapoti,966.97,10
+health_beauty,aracariguama,759.75,10
+computers,antonina,2077.57,10
+bed_bath_table,alto do rodrigues,2737.46,10
+baby,aimores,951.37,10
+bed_bath_table,xangri-la,1013.58,9
+stationery,vazante,1549.63,9
+computers_accessories,trancoso,754.2,9
+baby,tiangua,2377.09,9
+bed_bath_table,taiuva,881.54,9
+garden_tools,serafina correa,813.66,9
+auto,schroeder,1168.69,9
+cool_stuff,sao jeronimo,569.75,9
+cool_stuff,sao goncalo do sapucai,1252.4,9
+auto,sao goncalo do rio abaixo,802.2,9
+furniture_decor,sao gabriel do oeste,526.72,9
+sports_leisure,sao felix do xingu,1382.7,9
+stationery,santa cruz das palmeiras,580.59,9
+housewares,santa branca,763.76,9
+housewares,santa albertina,686.39,9
+furniture_decor,rio acima,513.66,9
+baby,quedas do iguacu,842.25,9
+auto,porto nacional,1577.68,9
+toys,porto belo,856.32,9
+computers_accessories,porecatu,735.42,9
+bed_bath_table,pontes e lacerda,1556.77,9
+sports_leisure,poco fundo,933.99,9
+electronics,planalto,807.68,9
+fixed_telephony,piquete,771.09,9
+perfumery,pinheiros,1224.31,9
+toys,pesqueira,667.79,9
+health_beauty,penedo,1329.77,9
+furniture_decor,pau dos ferros,2745.55,9
+home_appliances,parapua,1178.4,9
+pet_shop,paraopeba,880.67,9
+sports_leisure,nucleo residencial pilar,2024.35,9
+bed_bath_table,novo cruzeiro,805.78,9
+sports_leisure,nova petropolis,459.89,9
+consoles_games,nova londrina,743.53,9
+sports_leisure,nao-me-toque,859.68,9
+agro_industry_and_commerce,mutum,1397.94,9
+bed_bath_table,morro do chapeu,557.57,9
+cool_stuff,monte santo de minas,869.28,9
+bed_bath_table,matupa,871.17,9
+fashion_bags_accessories,marmeleiro,698.44,9
+cool_stuff,luis antonio,980.08,9
+auto,joao neiva,724.93,9
+sports_leisure,itapoa,849.67,9
+pet_shop,ipaussu,1228.72,9
+health_beauty,ipanema,3727.77,9
+bed_bath_table,ipaba,1403.5,9
+furniture_decor,ico,1990.88,9
+health_beauty,ibotirama,3032.39,9
+garden_tools,ibatiba,1518.78,9
+health_beauty,guaicara,767.23,9
+bed_bath_table,goianira,853.81,9
+sports_leisure,faxinal,848.05,9
+furniture_decor,espumoso,1210.71,9
+fashion_bags_accessories,eldorado,550.66,9
+perfumery,dores do indaia,744.57,9
+books_general_interest,domingos martins,1188.3,9
+computers_accessories,dianopolis,822.95,9
+home_confort,currais novos,1462.79,9
+cool_stuff,crixas,893.68,9
+bed_bath_table,cristina,1079.32,9
+health_beauty,crateus,2407.76,9
+bed_bath_table,colina,608.68,9
+pet_shop,cidade ocidental,705.38,9
+furniture_decor,chapadao do ceu,1108.57,9
+health_beauty,cedral,1623.24,9
+garden_tools,capela,580.94,9
+furniture_decor,canaa dos carajas,1565.93,9
+baby,campanha,598.79,9
+office_furniture,camocim,1686.29,9
+health_beauty,camamu,1506.82,9
+bed_bath_table,cajuru,643.76,9
+kitchen_dining_laundry_garden_furniture,cajobi,1018.43,9
+toys,botelhos,1240.01,9
+garden_tools,borborema,842.95,9
+health_beauty,benedito novo,945.74,9
+furniture_decor,barra da estiva,860.57,9
+auto,balsamo,1257.23,9
+electronics,arroio dos ratos,1034.18,9
+computers_accessories,arroio do sal,918.97,9
+health_beauty,aracuai,1362.98,9
+home_appliances,ampere,1769.67,9
+sports_leisure,alto boa vista,418,9
+garden_tools,acreuna,1070.43,9
+telephony,acarau,1364.96,9
+housewares,valparaiso,506.92,8
+agro_industry_and_commerce,ubajara,1178.9,8
+furniture_decor,tupi paulista,459.41,8
+health_beauty,tucano,748.69,8
+bed_bath_table,trajano de moraes,775.18,8
+health_beauty,tocantinopolis,731.65,8
+bed_bath_table,tiradentes,510.86,8
+pet_shop,sousa,1042.59,8
+garden_tools,soledade,827.69,8
+construction_tools_construction,simonesia,1295.88,8
+watches_gifts,sapezal,964.82,8
+sports_leisure,sao sepe,544.35,8
+bed_bath_table,sao jose do norte,548.5,8
+telephony,sao jose da lapa,1086.58,8
+health_beauty,sao joao do piaui,1571.79,8
+consoles_games,sao cristovao,618.69,8
+watches_gifts,sao bento do sapucai,630.54,8
+bed_bath_table,santa rita,1631.55,8
+construction_tools_safety,ruy barbosa,662.96,8
+sports_leisure,rodeio,849.66,8
+computers_accessories,ribeira do pombal,618.19,8
+sports_leisure,realeza,1264.26,8
+baby,prudentopolis,839.09,8
+cool_stuff,potiragua,495.97,8
+bed_bath_table,porto real,1484.6,8
+computers_accessories,pontal do parana,1084.26,8
+computers_accessories,pirapetinga,486.39,8
+watches_gifts,pirangi,1199.99,8
+furniture_decor,piedade de caratinga,662.07,8
+bed_bath_table,palmeira dos indios,1094.41,8
+health_beauty,palmares,1206.82,8
+stationery,ouricuri,2246.86,8
+construction_tools_lights,ortigueira,993.29,8
+toys,orleans,1408.59,8
+watches_gifts,nova olinda,1520.7,8
+sports_leisure,nova europa,634.44,8
+bed_bath_table,nhandeara,630.26,8
+watches_gifts,nazare paulista,815.64,8
+furniture_decor,monte belo,1109.78,8
+auto,miracatu,863.99,8
+garden_tools,mata verde,1512.53,8
+consoles_games,marilandia,1436.07,8
+watches_gifts,mambore,780.24,8
+computers_accessories,lauro muller,1449.57,8
+fashion_shoes,lagoa grande,3079.25,8
+luggage_accessories,lagoa formosa,647.57,8
+construction_tools_construction,japura,408.5,8
+garden_tools,japuiba,1017.58,8
+housewares,itapuranga,828.78,8
+toys,itambe,1033.28,8
+health_beauty,itambacuri,601.77,8
+housewares,itacare,841.39,8
+furniture_decor,itabera,1366.14,8
+stationery,horizontina,576.54,8
+perfumery,hidrolandia,1012.76,8
+bed_bath_table,goias,1084.21,8
+market_place,getulio vargas,746.61,8
+cool_stuff,encruzilhada do sul,903.99,8
+sports_leisure,ecoporanga,881.92,8
+bed_bath_table,dores de campos,1308.14,8
+telephony,cruzeiro do oeste,825.39,8
+computers_accessories,cruz,1480.58,8
+baby,cristalina,2112.65,8
+sports_leisure,cosmorama,973.98,8
+furniture_decor,coribe,654.97,8
+sports_leisure,comodoro,2245.02,8
+consoles_games,comendador levy gasparian,603.69,8
+housewares,colonia castrolanda,824.03,8
+fashion_bags_accessories,cocal,1106.77,8
+bed_bath_table,cidade gaucha,798.39,8
+sports_leisure,cassilandia,1524.5,8
+air_conditioning,carai,481.87,8
+bed_bath_table,cananeia,727.66,8
+perfumery,campo maior,993.66,8
+bed_bath_table,campo ere,560.6,8
+audio,campinorte,1244.69,8
+kitchen_dining_laundry_garden_furniture,cambuci,2042.79,8
+air_conditioning,california da barra,871.97,8
+construction_tools_construction,caetanopolis,664.57,8
+bed_bath_table,bicas,727.65,8
+health_beauty,bela vista de goias,608.66,8
+perfumery,bananal,716.65,8
+health_beauty,balneario pinhal,898.57,8
+housewares,bady bassitt,594.7,8
+watches_gifts,arraial d'ajuda,779.42,8
+consoles_games,aripuana,1124.78,8
+fashion_bags_accessories,arinos,752.07,8
+home_comfort_2,areal,1152.18,8
+toys,arceburgo,924.14,8
+furniture_decor,apiai,547.57,8
+housewares,anicuns,661.93,8
+health_beauty,angatuba,818.75,8
+pet_shop,amambai,751.98,8
+garden_tools,alvares machado,4022.57,8
+bed_bath_table,alcinopolis,711.16,8
+health_beauty,aguas belas,769.87,8
+toys,afogados da ingazeira,1345.98,8
+luggage_accessories,acopiara,647.67,8
+telephony,vila muriqui,731.76,7
+cool_stuff,uruara,962.4,7
+sports_leisure,ubirata,582.18,7
+telephony,timbauba,567.67,7
+toys,terra roxa,1026.95,7
+furniture_decor,terra rica,644.67,7
+bed_bath_table,teixeiras,483.58,7
+health_beauty,sooretama,317.36,7
+computers_accessories,simao dias,828.48,7
+furniture_decor,silvania,1208.79,7
+computers_accessories,senges,487.39,7
+telephony,seara,730.85,7
+sports_leisure,seabra,982.5,7
+toys,saudades,305.84,7
+home_confort,sapucaia,726.64,7
+health_beauty,sao miguel do araguaia,1321.15,7
+health_beauty,sao jose do calcado,970.18,7
+computers_accessories,sao jose da barra,987.14,7
+,sao joao evangelista,1227.66,7
+auto,sao joao dos patos,1333.08,7
+auto,sao francisco de paula,599.68,7
+telephony,sao domingos do norte,874.4,7
+furniture_decor,sao domingos,489.14,7
+telephony,sao benedito,841.83,7
+telephony,santo cristo,609.45,7
+computers_accessories,santa rita do araguaia,800.25,7
+garden_tools,santa rita de caldas,746.28,7
+furniture_decor,santa maria madalena,1046.09,7
+sports_leisure,santa isabel do para,741.77,7
+auto,salto do lontra,766.49,7
+bed_bath_table,saltinho,1164.79,7
+security_and_services,rolim de moura,465.05,7
+audio,rio pomba,1192.86,7
+computers_accessories,rio novo do sul,531.68,7
+sports_leisure,ribeirao claro,492.69,7
+housewares,ribeirao bonito,727.29,7
+furniture_decor,reboucas,361.27,7
+air_conditioning,primeiro de maio,1216.67,7
+,porto xavier,564.46,7
+health_beauty,pombal,1577.5,7
+furniture_decor,piritiba,484.69,7
+sports_leisure,piripiri,537.28,7
+toys,pirai do sul,601.29,7
+costruction_tools_tools,pinhalao,1894.94,7
+toys,pimenta bueno,1243.79,7
+housewares,perdigao,393.49,7
+bed_bath_table,paulo de faria,588.58,7
+sports_leisure,passo de torres,587.99,7
+telephony,paramirim,407.68,7
+construction_tools_construction,padre carvalho,563,7
+electronics,paco do lumiar,766.38,7
+bed_bath_table,pacajus,1262.59,7
+telephony,ourilandia do norte,1710.08,7
+watches_gifts,novo progresso,2219.01,7
+telephony,nova veneza,762.84,7
+cool_stuff,nova santa rita,968.76,7
+baby,nova russas,1504.94,7
+computers_accessories,nova prata do iguacu,1049.78,7
+stationery,mundo novo,1102.99,7
+computers_accessories,mucuri,2203.67,7
+housewares,mozarlandia,806.4,7
+bed_bath_table,morungaba,582.69,7
+sports_leisure,morro da fumaca,1676,7
+garden_tools,moreno,763.5,7
+bed_bath_table,monte alegre do sul,4181.79,7
+books_general_interest,missal,2490.76,7
+watches_gifts,medina,579.19,7
+garden_tools,medeiros neto,660.24,7
+books_general_interest,mallet,786.65,7
+baby,madre de deus,633.32,7
+garden_tools,limoeiro,511.59,7
+health_beauty,lajedo,988.09,7
+garden_tools,jeceaba,544.23,7
+,jaragua,610.67,7
+home_appliances,jacunda,1601.71,7
+fashion_bags_accessories,ivaipora,516.75,7
+costruction_tools_garden,itobi,472.68,7
+health_beauty,itariri,1259.32,7
+stationery,itapui,1307.09,7
+telephony,itapejara d'oeste,1049.9,7
+toys,itaobim,866.91,7
+telephony,inhapim,436.35,7
+telephony,inhambupe,1117.78,7
+furniture_decor,inconfidentes,99.99,7
+electronics,igarapava,791.09,7
+auto,ibira,808.73,7
+housewares,iacanga,329.39,7
+housewares,guarani,2164.42,7
+computers_accessories,guaracai,541.49,7
+perfumery,fronteira,949.66,7
+housewares,formosa do rio preto,1398.13,7
+bed_bath_table,firminopolis,613.49,7
+small_appliances,fernando prestes,591.48,7
+watches_gifts,estiva gerbi,964.26,7
+furniture_decor,ervalia,1076.83,7
+computers_accessories,entre rios de minas,1503.86,7
+telephony,engenheiro paulo de frontin,449.12,7
+luggage_accessories,dom feliciano,452.05,7
+furniture_decor,divinolandia,1370.68,7
+bed_bath_table,diamantino,386.49,7
+telephony,cruzeiro do sul,3205.68,7
+electronics,conservatoria,864.09,7
+luggage_accessories,confresa,1065.65,7
+watches_gifts,conceicao do araguaia,1143.89,7
+sports_leisure,ceu azul,382.56,7
+sports_leisure,ceres,1905.47,7
+cool_stuff,catole do rocha,3742.59,7
+fashion_shoes,catende,1630.18,7
+baby,casca,1326.27,7
+computers_accessories,cansancao,766.96,7
+sports_leisure,campos belos,788.07,7
+perfumery,camacan,1134.67,7
+health_beauty,cachoeira de minas,497.4,7
+stationery,cachoeira alta,451.76,7
+bed_bath_table,cacapava do sul,859.99,7
+bed_bath_table,cabedelo,1213.95,7
+home_appliances,bom conselho,1624.93,7
+health_beauty,bocaina,1506.8,7
+cool_stuff,avanhandava,757.68,7
+home_construction,astorga,411.77,7
+,apiuna,1320.6,7
+health_beauty,antonio prado,554.2,7
+watches_gifts,alpinopolis,836.68,7
+cool_stuff,alfredo chaves,902.71,7
+furniture_decor,acailandia,937.79,7
+sports_leisure,vargem bonita,710.59,6
+sports_leisure,urania,885.72,6
+health_beauty,ubaira,704.79,6
+health_beauty,turvo,306.99,6
+computers_accessories,tupancireta,378.77,6
+housewares,tres coroas,774.37,6
+watches_gifts,torrinha,422.67,6
+sports_leisure,tocantins,681.38,6
+computers_accessories,tapes,797.35,6
+telephony,tangua,504.88,6
+furniture_decor,silva jardim,567.59,6
+furniture_decor,severinia,466.13,6
+toys,sao sebastiao do alto,488.98,6
+watches_gifts,sao romao,388.49,6
+toys,sao jose do ouro,411.38,6
+bed_bath_table,sao jose do cedro,486.59,6
+cool_stuff,sao joao do paraiso,596.53,6
+sports_leisure,santo estevao,979.81,6
+fashion_bags_accessories,santo antonio do jardim,271.02,6
+health_beauty,santo antonio do descoberto,866.26,6
+garden_tools,santo amaro de campos,1611.78,6
+furniture_decor,santa cruz,786.64,6
+telephony,sananduva,453.77,6
+sports_leisure,sales oliveira,538.15,6
+watches_gifts,rio pardo de minas,597.69,6
+watches_gifts,rio largo,562.71,6
+baby,rio do campo,674.95,6
+garden_tools,rio das flores,558.68,6
+christmas_supplies,rio casca,317.43,6
+sports_leisure,rio branco do sul,418.57,6
+perfumery,regeneracao,790.97,6
+construction_tools_construction,rafard,556.4,6
+watches_gifts,quixeramobim,859.79,6
+health_beauty,quatis,483.69,6
+housewares,presidente olegario,412.91,6
+furniture_decor,presidente getulio,654.18,6
+cool_stuff,presidente bernardes,496.85,6
+home_appliances,piratuba,958.98,6
+computers_accessories,pejucara,699.65,6
+sports_leisure,pedregulho,1039.4,6
+bed_bath_table,pedra preta,589.79,6
+furniture_decor,paulo frontin,560.9,6
+toys,pauliceia,1070.27,6
+furniture_decor,paranaita,1858.75,6
+home_construction,paraiso,850.68,6
+home_construction,pains,298.33,6
+baby,pacaja,2651.06,6
+sports_leisure,pacaembu,1505.29,6
+computers_accessories,otacilio costa,913.29,6
+cool_stuff,orizona,546.81,6
+health_beauty,oeiras,553.44,6
+toys,nova trento,870.6,6
+baby,nova hartz,618.88,6
+bed_bath_table,nova esperanca do sul,259.4,6
+sports_leisure,nova alvorada do sul,380.85,6
+housewares,miguel calmon,616.64,6
+musical_instruments,mato verde,420.43,6
+electronics,martins soares,408.79,6
+housewares,marechal floriano,559.64,6
+perfumery,maracas,703.64,6
+telephony,livramento de nossa senhora,655.54,6
+housewares,lima duarte,764.88,6
+sports_leisure,lagoa dourada,586.78,6
+sports_leisure,ladario,372.59,6
+furniture_decor,juruaia,380.78,6
+garden_tools,juatuba,607.9,6
+computers_accessories,juara,378.49,6
+sports_leisure,joanopolis,824.6,6
+telephony,jesuania,327.98,6
+small_appliances,jeremoabo,922.08,6
+sports_leisure,jaru,660.59,6
+consoles_games,jambeiro,329.26,6
+bed_bath_table,jaiba,683.49,6
+office_furniture,itarana,789.37,6
+toys,itapura,351.87,6
+cool_stuff,itapaje,3198.68,6
+toys,itajuipe,734.49,6
+computers_accessories,itaipulandia,195.17,6
+electronics,itaberai,1012.08,6
+telephony,iraquara,390.8,6
+baby,irapuru,889.48,6
+watches_gifts,ipueiras,1547.29,6
+computers_accessories,ipora do oeste,509.85,6
+health_beauty,iepe,289.58,6
+food,holambra ii,919.68,6
+cool_stuff,guarai,1156.6,6
+housewares,guapo,757.89,6
+electronics,guapiacu,906.98,6
+cool_stuff,gravatal,1260.27,6
+furniture_decor,general salgado,493.59,6
+baby,feira nova,480.78,6
+housewares,espigao do oeste,706.68,6
+health_beauty,esperanca,1720.38,6
+fashion_bags_accessories,entre rios,1103.4,6
+construction_tools_safety,elias fausto,396.4,6
+fashion_bags_accessories,dom eliseu,343.87,6
+computers_accessories,dionisio cerqueira,428,6
+construction_tools_construction,diamante do norte,391.25,6
+bed_bath_table,delmiro gouveia,1125.8,6
+housewares,datas,780,6
+telephony,custodia,584.88,6
+bed_bath_table,corrente,1489.9,6
+fashion_shoes,conquista,453.88,6
+furniture_decor,conceicao do rio verde,825.89,6
+baby,colonia vitoria,294.91,6
+telephony,cocalinho,418.87,6
+health_beauty,claudia,302.68,6
+fashion_bags_accessories,catigua,668.57,6
+perfumery,catanduvas,690.79,6
+bed_bath_table,cassia,278.29,6
+bed_bath_table,casa nova,1126.19,6
+watches_gifts,carmopolis de minas,1629.78,6
+office_furniture,carmo da mata,459.7,6
+electronics,carlopolis,755.4,6
+health_beauty,cardoso moreira,500.02,6
+telephony,cardoso,944.81,6
+garden_tools,capitao leonidas marques,407.78,6
+toys,caninde,645.38,6
+housewares,candido godoi,900,6
+garden_tools,canavieiras,799.8,6
+watches_gifts,canapolis,539.45,6
+watches_gifts,campos de julio,934.8,6
+furniture_decor,campinas do sul,1398.89,6
+watches_gifts,cambuquira,340.76,6
+bed_bath_table,camapua,621.29,6
+toys,caldas,489.7,6
+bed_bath_table,cabrobo,921.79,6
+watches_gifts,cabreuva,720.6,6
+housewares,butia,1112.69,6
+furniture_decor,buriticupu,640.77,6
+toys,buenopolis,1450.38,6
+home_construction,brazopolis,856.13,6
+electronics,borda da mata,897.53,6
+office_furniture,bom principio,1003.11,6
+luggage_accessories,bataguassu,613,6
+health_beauty,barreiros,1381.16,6
+computers_accessories,barcarena,1084.17,6
+electronics,barbalha,1302.98,6
+cool_stuff,bananeiras,295.24,6
+computers_accessories,aurora,739.59,6
+perfumery,assai,861.57,6
+computers_accessories,areias,441.86,6
+computers_accessories,areado,1246.69,6
+fashion_shoes,araputanga,517.45,6
+electronics,arapora,1144.38,6
+perfumery,apiaca,434.28,6
+auto,alexania,466.67,6
+health_beauty,aguas vermelhas,574.58,6
+home_confort,aguas formosas,1341.7,6
+sports_leisure,agua branca,401.69,6
+garden_tools,abelardo luz,679.7,6
+garden_tools,ze doca,688.6,5
+,varjota,748.97,5
+stationery,vargem alta,278.89,5
+cool_stuff,utinga,463.78,5
+pet_shop,urucui,638.97,5
+pet_shop,urbano santos,501.79,5
+pet_shop,upanema,1343.6,5
+computers_accessories,una,488.78,5
+furniture_decor,tres fronteiras,350.39,5
+housewares,tres barras,297.34,5
+sports_leisure,travessao,414.09,5
+watches_gifts,toritama,1072.79,5
+cool_stuff,tombos,387.69,5
+bed_bath_table,terra de areia,1137.29,5
+pet_shop,tarabai,982.35,5
+fashion_bags_accessories,tabira,986.88,5
+telephony,tabatinga,389.69,5
+telephony,surubim,546.87,5
+home_confort,sud mennucci,377.87,5
+health_beauty,soledade de minas,309.94,5
+computers_accessories,sirinhaem,571.88,5
+tablets_printing_image,silveiras,406.5,5
+sports_leisure,sete barras,229.69,5
+computers_accessories,sertao,309.49,5
+sports_leisure,sertanopolis,918.8,5
+baby,serra dos aimores,351.82,5
+telephony,sao tiago,499.27,5
+baby,sao sebastiao do passe,399.89,5
+fashion_bags_accessories,sao roque do canaa,348,5
+home_appliances,sao miguel dos campos,813.36,5
+electronics,sao miguel do guapore,399.44,5
+health_beauty,sao miguel do guama,1240.79,5
+telephony,sao miguel,846.86,5
+bed_bath_table,sao geraldo,423.78,5
+books_general_interest,sao domingos do prata,337.89,5
+bed_bath_table,sao bento,1148.89,5
+furniture_decor,santo antonio do amparo,376.72,5
+watches_gifts,santo antonio das missoes,393.89,5
+furniture_decor,santa quiteria,849.67,5
+toys,santa maria de itabira,462.3,5
+computers_accessories,santa fe,877.8,5
+furniture_decor,santa cruz de minas,578.89,5
+sports_leisure,santa cruz cabralia,515.88,5
+bed_bath_table,sanclerlandia,419.79,5
+health_beauty,salto do jacui,196.36,5
+sports_leisure,sales,356.52,5
+bed_bath_table,sabinopolis,317.08,5
+bed_bath_table,roseira,423.68,5
+baby,roque gonzales,542.88,5
+sports_leisure,rio pardo,687.88,5
+furniture_decor,rio manso,815.56,5
+furniture_decor,rio do pires,552.8,5
+health_beauty,rio bananal,225.26,5
+furniture_decor,rio azul,383.7,5
+bed_bath_table,ribeirao do pinhal,328,5
+bed_bath_table,riacho de santana,1194.7,5
+furniture_decor,riachao do jacuipe,2502.4,5
+furniture_decor,remanso,369.69,5
+garden_tools,quixabeira,216.94,5
+furniture_decor,quatro bocas,1486.99,5
+musical_instruments,quatigua,251.7,5
+computers_accessories,prado,1090.79,5
+computers_accessories,porteirinha,282.69,5
+bed_bath_table,pongai,343.8,5
+consoles_games,pinheiro machado,542.89,5
+sports_leisure,pedro canario,363.79,5
+auto,pedrinopolis,481.01,5
+cool_stuff,pedralva,743.97,5
+watches_gifts,pedra azul,416.12,5
+sports_leisure,pecanha,882.7,5
+auto,peabiru,704.74,5
+telephony,parambu,141.86,5
+health_beauty,paraipaba,558.97,5
+fashion_shoes,papagaios,269.67,5
+sports_leisure,panorama,404.39,5
+computers_accessories,palmitos,667.9,5
+stationery,palmitinho,271.69,5
+bed_bath_table,palmeira d'oeste,319.18,5
+health_beauty,palmares do sul,435.77,5
+furniture_decor,pacatuba,4317.98,5
+perfumery,orindiuva,541.78,5
+housewares,ocaucu,241.6,5
+consoles_games,nova mutum,571.38,5
+auto,nova fatima,398.69,5
+telephony,nova bassano,387.24,5
+bed_bath_table,nova bandeirantes,548.51,5
+bed_bath_table,muqui,485.48,5
+computers_accessories,munhoz,384.67,5
+baby,monte azul,619.9,5
+telephony,monte alegre de minas,213.68,5
+perfumery,minas novas,433.77,5
+health_beauty,mendonca,380.27,5
+toys,mendes pimentel,372.69,5
+housewares,matias olimpio,600,5
+toys,massaranduba,347.86,5
+costruction_tools_garden,maristela,639.32,5
+baby,maragogi,1897.05,5
+housewares,maracana,238,5
+pet_shop,manoel ribas,631.65,5
+food_drink,macau,998.88,5
+home_appliances,macaiba,574.44,5
+sports_leisure,laurentino,782.41,5
+toys,lagoa da confusao,699.99,5
+watches_gifts,lago da pedra,840.37,5
+bed_bath_table,jumirim,337.6,5
+furniture_decor,joviania,376.97,5
+office_furniture,jordania,886.25,5
+home_appliances,joao lisboa,612.89,5
+housewares,jauru,613.79,5
+auto,jatoba,648.24,5
+stationery,jardim,648.65,5
+furniture_decor,japira,363.79,5
+telephony,jaguaribe,663.98,5
+housewares,jacupiranga,785.8,5
+cool_stuff,itauba,1420.98,5
+toys,itau de minas,364.45,5
+sports_leisure,itarantim,478.97,5
+toys,itapagipe,265.49,5
+watches_gifts,itapaci,315.8,5
+furniture_decor,itaju,927.8,5
+toys,itaipava,406.84,5
+furniture_decor,irapua,198.8,5
+home_appliances,ipumirim,281.41,5
+housewares,ipiabas,568.87,5
+telephony,indiara,369.91,5
+perfumery,indianopolis,291.78,5
+bed_bath_table,inacio martins,242.99,5
+electronics,imbuia,1501.88,5
+fashion_bags_accessories,igarata,764.09,5
+computers_accessories,iconha,315.74,5
+telephony,icapui,454.25,5
+telephony,ibirarema,426.88,5
+cool_stuff,ibicarai,424.88,5
+furniture_decor,iapu,383.15,5
+books_general_interest,horizonte,519.99,5
+computers_accessories,guarei,1098.29,5
+sports_leisure,guaranta do norte,393.87,5
+health_beauty,guaranta,569.29,5
+health_beauty,guaraniacu,385.97,5
+auto,guadalupe,1313.7,5
+auto,guabiruba,688.78,5
+furniture_decor,granja,460.68,5
+telephony,grajau,652.79,5
+bed_bath_table,gouveia,936.96,5
+furniture_decor,general carneiro,401.48,5
+home_appliances_2,garuva,1467.38,5
+furniture_decor,fundao,1072.68,5
+furniture_decor,frei inocencio,644.29,5
+watches_gifts,figueira,928.78,5
+watches_gifts,eugenopolis,973.87,5
+bed_bath_table,euclides da cunha,524.18,5
+health_beauty,estacao,704.1,5
+toys,esplanada,1660.9,5
+watches_gifts,esperantina,499.1,5
+auto,eneas marques,151.68,5
+telephony,dores do rio preto,411.76,5
+bed_bath_table,dom pedro,333.77,5
+books_general_interest,divinolandia de minas,219.59,5
+perfumery,delfinopolis,233.59,5
+baby,cunha pora,645.42,5
+sports_leisure,condor,216.8,5
+computers_accessories,conceicao do castelo,507.83,5
+furniture_decor,conceicao das pedras,313.59,5
+auto,colonia jordaozinho,843.4,5
+bed_bath_table,colombia,377.72,5
+consoles_games,colinas,1161.86,5
+sports_leisure,clevelandia,138.5,5
+computers_accessories,cidreira,656.12,5
+computers_accessories,chui,818.7,5
+consoles_games,catuipe,539.8,5
+stationery,catas altas,1052.85,5
+auto,castelandia,554.98,5
+sports_leisure,carapebus,696.97,5
+garden_tools,capivari de baixo,876.89,5
+watches_gifts,capim grosso,547.89,5
+garden_tools,capao do leao,1072.25,5
+baby,capao do cipo,260,5
+watches_gifts,candido de abreu,360.8,5
+home_appliances,candelaria,573.39,5
+health_beauty,campos sales,1543.9,5
+perfumery,campos gerais,544.06,5
+auto,campos altos,373.68,5
+computers_accessories,campo alegre,1098,5
+cool_stuff,cacequi,676.99,5
+toys,brauna,400.79,5
+auto,bonfim,319.74,5
+consoles_games,bom sucesso,946.59,5
+electronics,bituruna,433.38,5
+toys,barra do ribeiro,553.78,5
+home_construction,ariranha,531.49,5
+telephony,arealva,266.68,5
+perfumery,arcoverde,515.8,5
+musical_instruments,araujos,2490.5,5
+cool_stuff,araruna,559.87,5
+housewares,arandu,345.5,5
+auto,araguatins,681.98,5
+telephony,aracoiaba,576.47,5
+telephony,anita garibaldi,256.78,5
+housewares,andrelandia,119.36,5
+telephony,andorinha,691.1,5
+baby,altos,1345.39,5
+auto,alto parnaiba,777.79,5
+toys,alto araguaia,1085.73,5
+housewares,agua doce do norte,365.48,5
+stationery,adolfo,373.8,5
+sports_leisure,abre campo,281.68,5
+watches_gifts,volta grande,308.38,4
+furniture_decor,vila rica,221.82,4
+art,vila dos cabanos,451.23,4
+auto,vianopolis,529.67,4
+stationery,vera,262.79,4
+housewares,varre-sai,918.9,4
+computers_accessories,valenca do piaui,1043,4
+computers_accessories,urubici,305.69,4
+baby,uruana,1142.29,4
+auto,uibai,549.98,4
+health_beauty,ubaporanga,288.78,4
+housewares,ubaitaba,517.23,4
+health_beauty,uaua,519,4
+watches_gifts,tucuma,1150.25,4
+bed_bath_table,trombudo central,182.89,4
+bed_bath_table,trindade do sul,3266.99,4
+bed_bath_table,tibagi,293.77,4
+fashion_male_clothing,terra boa,683.79,4
+fashion_sport,teolandia,167.8,4
+baby,teixeira soares,545.69,4
+telephony,tarumirim,775.49,4
+computers_accessories,tanhacu,528.78,4
+,tailandia,2113.18,4
+furniture_decor,sitio novo do tocantins,314.9,4
+housewares,sideropolis,299.7,4
+computers_accessories,setubinha,265.89,4
+health_beauty,sertania,343.29,4
+auto,serra do ramalho,317.09,4
+furniture_decor,senhora de oliveira,116.9,4
+office_furniture,senador pompeu,585.94,4
+watches_gifts,saudade do iguacu,263.79,4
+computers_accessories,sapucai-mirim,569.79,4
+sports_leisure,sao tomas de aquino,309.8,4
+sports_leisure,sao sebastiao da grama,1024.79,4
+watches_gifts,sao pedro dos ferros,763.79,4
+auto,sao mateus do maranhao,710.2,4
+electronics,sao ludgero,673.32,4
+luggage_accessories,sao jose do egito,444.7,4
+bed_bath_table,sao jose da bela vista,310.84,4
+toys,sao goncalo do para,734.9,4
+housewares,sao bento do una,1328.39,4
+cool_stuff,santanesia,364.5,4
+housewares,santana do mundau,1052.8,4
+bed_bath_table,santana do jacare,1685.79,4
+luggage_accessories,santana do araguaia,1190.8,4
+luggage_accessories,santana do acarau,1376.89,4
+health_beauty,santana da vargem,269.95,4
+health_beauty,santa mariana,311.25,4
+telephony,santa lucia,437.79,4
+fashion_male_clothing,santa fe de goias,1737.69,4
+stationery,santa cruz de monte castelo,706.22,4
+pet_shop,santa cruz da conceicao,408.9,4
+housewares,santa barbara d oeste,170.92,4
+health_beauty,sanharo,1748,4
+perfumery,salto veloso,418.8,4
+housewares,saloa,1231,4
+electronics,salgado filho,155.7,4
+auto,rosana,236.6,4
+health_beauty,ritapolis,145.69,4
+cool_stuff,rio real,386,4
+fashion_bags_accessories,rio preto,161.68,4
+sports_leisure,rio piracicaba,512.75,4
+health_beauty,rio novo,536.79,4
+fashion_bags_accessories,rio bonito do iguacu,462.8,4
+furniture_decor,ribeirao do sul,357.9,4
+housewares,ribeirao,316.4,4
+bed_bath_table,rianapolis,451.68,4
+fashion_male_clothing,reserva,308.6,4
+pet_shop,renascenca,279.6,4
+furniture_decor,raposo,584.7,4
+cool_stuff,quintana,353,4
+health_beauty,quilombo,174.78,4
+stationery,quarai,2402.99,4
+industry_commerce_and_business,propria,483.89,4
+telephony,presidente tancredo neves,234.68,4
+home_appliances,posto da mata,530.98,4
+auto,poco verde,447.8,4
+electronics,pocinhos,223.8,4
+health_beauty,piumhi,195.73,4
+garden_tools,pirenopolis,273.87,4
+bed_bath_table,piranhas,718.79,4
+furniture_decor,piranga,316.19,4
+consoles_games,pinheiro,426.8,4
+sports_leisure,pilar,158.69,4
+telephony,pilao arcado,279.87,4
+electronics,pien,330.4,4
+fashion_shoes,piedade do rio grande,362.78,4
+health_beauty,picarra,1014.6,4
+fashion_bags_accessories,peixoto de azevedo,357.7,4
+furniture_decor,pedrinhas paulista,420.87,4
+bed_bath_table,pedreiras,1002.69,4
+telephony,paulistana,862.67,4
+health_beauty,parelhas,1233.89,4
+sports_leisure,parauna,556.88,4
+,paraibano,259.91,4
+health_beauty,paracuru,550.89,4
+auto,palma sola,938.8,4
+furniture_decor,palma,415.89,4
+housewares,padre bernardo,195.7,4
+sports_leisure,ouro preto do oeste,437.49,4
+electronics,oriente,1017.27,4
+housewares,nova santa rosa,398.88,4
+computers,nova olinda do maranhao,1546.4,4
+housewares,nova monte verde,245.79,4
+electronics,nova canaa do norte,149.78,4
+watches_gifts,nova aurora,1065.89,4
+toys,nova alvorada,261.8,4
+auto,mutuipe,448.79,4
+bed_bath_table,munhoz de melo,953.89,4
+health_beauty,morro reuter,627.34,4
+computers_accessories,morro de sao paulo,691.96,4
+health_beauty,morretes,762.98,4
+computers_accessories,morada nova de minas,658.89,4
+sports_leisure,montalvania,352.2,4
+electronics,moju,242.88,4
+health_beauty,mirinzal,154.87,4
+sports_leisure,miranda,273.8,4
+musical_instruments,milagres,836.54,4
+stationery,merces,219.76,4
+housewares,maurilandia,265.63,4
+housewares,matipo,491.19,4
+auto,maripa,361.97,4
+bed_bath_table,mario campos,618.64,4
+watches_gifts,marco,582.6,4
+toys,maravilhas,420.81,4
+bed_bath_table,maracacume,617.18,4
+stationery,mantenopolis,423.79,4
+sports_leisure,mandaguacu,3222,4
+housewares,macedonia,334.21,4
+watches_gifts,lucianopolis,142.9,4
+home_confort,lavinia,326.8,4
+housewares,juti,631.79,4
+cool_stuff,jussara,112.28,4
+cool_stuff,jucurutu,632.98,4
+bed_bath_table,joaquim tavora,317.98,4
+perfumery,joaquim nabuco,234.87,4
+auto,jijoca de jericoacoara,1130.9,4
+cool_stuff,jesuitas,556.55,4
+market_place,jari,354.8,4
+air_conditioning,janiopolis,265.97,4
+computers_accessories,jaguaruana,1155.15,4
+cool_stuff,jacui,403.74,4
+sports_leisure,jacinto machado,260.49,4
+watches_gifts,jacaraci,911.79,4
+pet_shop,ivinhema,243.69,4
+sports_leisure,itubera,100.73,4
+watches_gifts,ituacu,398.5,4
+pet_shop,itororo,619.2,4
+housewares,itiuba,272.89,4
+perfumery,itinga,363.5,4
+musical_instruments,itatinga,1760.15,4
+computers_accessories,itatim,312.69,4
+bed_bath_table,itaperucu,635.84,4
+garden_tools,itapemirim,372.7,4
+fashion_bags_accessories,itapecuru mirim,552.97,4
+health_beauty,itanhomi,308.55,4
+watches_gifts,itaituba,243.88,4
+industry_commerce_and_business,itaitinga,606.89,4
+bed_bath_table,itabela,423.89,4
+electronics,irineopolis,212.82,4
+signaling_and_security,irani,294.39,4
+bed_bath_table,ipubi,400.47,4
+computers_accessories,ipu,379.88,4
+consoles_games,ipiranga,189.89,4
+sports_leisure,inaja,426.3,4
+housewares,inaciolandia,842.99,4
+health_beauty,ilhota,749.14,4
+audio,ilha de itamaraca,524.44,4
+toys,iguatama,358.9,4
+electronics,igaracu do tiete,107.69,4
+perfumery,ibiraci,507.8,4
+watches_gifts,ibiam,382.99,4
+office_furniture,iacu,340.7,4
+telephony,iaciara,846.99,4
+consoles_games,humaita,285.85,4
+sports_leisure,hidreletrica tucurui,564.78,4
+cool_stuff,guimarania,523.9,4
+telephony,guaruja do sul,331.44,4
+telephony,guaraciaba do norte,605.15,4
+sports_leisure,guaraci,1131.7,4
+computers_accessories,governador portela,349.8,4
+market_place,goncalves,356.9,4
+computers_accessories,goianinha,325.3,4
+sports_leisure,goianapolis,1086.98,4
+auto,glicerio,739.98,4
+cool_stuff,gaurama,277.88,4
+stationery,gandu,417.7,4
+telephony,gameleira,1657.98,4
+sports_leisure,francisco badaro,367.46,4
+health_beauty,forquilha,348.47,4
+garden_tools,formoso do araguaia,251.28,4
+pet_shop,florida paulista,353.79,4
+housewares,florestopolis,492.7,4
+health_beauty,flores,360.6,4
+sports_leisure,fazenda nova,319.79,4
+toys,fatima do sul,1436.29,4
+auto,fatima,511.8,4
+bed_bath_table,entre-ijuis,454.5,4
+fixed_telephony,eliseu martins,408.98,4
+bed_bath_table,edeia,472.9,4
+sports_leisure,dumont,714.7,4
+office_furniture,dom silverio,392.24,4
+costruction_tools_tools,dom basilio,100.28,4
+health_beauty,curralinho,188.76,4
+telephony,curiuva,295.7,4
+watches_gifts,cruzilia,377.9,4
+sports_leisure,cruzalia,292.4,4
+health_beauty,cristais paulista,543.78,4
+garden_tools,cristais,208.7,4
+fashion_bags_accessories,crisopolis,214.6,4
+watches_gifts,corupa,434.65,4
+bed_bath_table,corumbaiba,176.8,4
+health_beauty,congonhal,455.84,4
+baby,condado,944.8,4
+cool_stuff,conceicao dos ouros,632.78,4
+auto,cocal do sul,2015.29,4
+electronics,coaraci,1201.88,4
+electronics,clementina,397.54,4
+health_beauty,cidelandia,375.96,4
+pet_shop,chopinzinho,142.38,4
+watches_gifts,chapadinha,113.88,4
+baby,chapada gaucha,391.69,4
+sports_leisure,chapada dos guimaraes,754.8,4
+telephony,chapada,1463.19,4
+bed_bath_table,cerro azul,182.18,4
+fixed_telephony,centenario do sul,369.13,4
+watches_gifts,castelo do piaui,422.6,4
+watches_gifts,carmo da cachoeira,319.44,4
+fashion_bags_accessories,carius,477.88,4
+pet_shop,carbonita,755.87,4
+computers_accessories,carambei,390.8,4
+consoles_games,carajas,483.22,4
+watches_gifts,canelinha,933.94,4
+stationery,candiota,802.7,4
+pet_shop,candido rodrigues,81.79,4
+computers_accessories,campo do meio,251.69,4
+stationery,cameta,392.8,4
+perfumery,caiaponia,352.78,4
+toys,cacule,529.78,4
+books_technical,cachoeira,479.79,4
+health_beauty,cabralia paulista,207.29,4
+office_furniture,caarapo,1310.49,4
+telephony,buerarema,1420.8,4
+telephony,bueno brandao,172.02,4
+health_beauty,brejo da madre de deus,410.8,4
+health_beauty,bonfinopolis,441.87,4
+bed_bath_table,bom repouso,402.29,4
+watches_gifts,bom jesus do norte,699.89,4
+consoles_games,bom jesus do galho,4795.29,4
+sports_leisure,boa vista da aparecida,202.47,4
+auto,bernardino de campos,256.09,4
+telephony,belmonte,187.69,4
+consoles_games,bela cruz,899.9,4
+fashion_bags_accessories,barros cassal,729,4
+health_beauty,barro,621.89,4
+luggage_accessories,barreirinhas,361.42,4
+pet_shop,barra do turvo,293.9,4
+bed_bath_table,barra do bugres,840.25,4
+sports_leisure,barbosa ferraz,497.9,4
+pet_shop,bandeira do sul,414.9,4
+furniture_decor,balneario barra do sul,393.3,4
+sports_leisure,balneario arroio do silva,379.88,4
+furniture_decor,avelar,606,4
+bed_bath_table,ascurra,342.6,4
+health_beauty,arvorezinha,262.5,4
+telephony,arroio grande,336.77,4
+fashion_bags_accessories,arneiroz,349.6,4
+sports_leisure,araci,277.87,4
+watches_gifts,arace,413.4,4
+fashion_bags_accessories,aquidauana,197.7,4
+furniture_decor,anta gorda,577.7,4
+bed_bath_table,angulo,294.7,4
+bed_bath_table,analandia,511.03,4
+toys,alto rio doce,213.42,4
+auto,altinopolis,1428.8,4
+health_beauty,altaneira,369.6,4
+telephony,alcobaca,1289.78,4
+perfumery,aiuruoca,281.09,4
+garden_tools,acu,613.08,4
+bed_bath_table,xique-xique,179.79,3
+health_beauty,xambioa,333.68,3
+telephony,witmarsum,147.79,3
+furniture_decor,wenceslau braz,188,3
+computers_accessories,vitorino freire,1588,3
+health_beauty,vista alegre do alto,272.99,3
+bed_bath_table,visconde de maua,140.59,3
+housewares,virgem da lapa,737.9,3
+home_confort,vila nelita,119.9,3
+electronics,vila langaro,140.64,3
+computers_accessories,vila flores,289.89,3
+stationery,vigia,248.79,3
+sports_leisure,verissimo,294.12,3
+auto,vere,598.39,3
+cool_stuff,vera cruz do oeste,431.56,3
+stationery,ventania,166.77,3
+sports_leisure,varzelandia,218.89,3
+sports_leisure,vargem alegre,273.89,3
+telephony,valentim gentil,372.03,3
+perfumery,vale real,210.53,3
+computers_accessories,urutai,133.48,3
+bed_bath_table,urupa,253.57,3
+bed_bath_table,uruoca,219.7,3
+health_beauty,urandi,707.94,3
+watches_gifts,urai,283.9,3
+bed_bath_table,uniao de minas,87.09,3
+telephony,umbauba,178.9,3
+baby,uchoa,582.64,3
+construction_tools_construction,ubata,144,3
+sports_leisure,tuparetama,309.8,3
+toys,tupandi,285.99,3
+furniture_decor,tucunduva,374.99,3
+housewares,tres arroios,170.27,3
+stationery,trairi,457,3
+furniture_decor,toropi,1529.9,3
+bed_bath_table,tomazina,348.8,3
+stationery,tiros,175.89,3
+baby,timburi,343.3,3
+computers_accessories,timbe do sul,212.79,3
+perfumery,terra nova do norte,408.8,3
+sports_leisure,teofilandia,183.88,3
+bed_bath_table,tenente portela,482.79,3
+toys,tejupa,335.18,3
+furniture_decor,taquarivai,674.89,3
+baby,tanque novo,329.59,3
+auto,tamarana,103.9,3
+bed_bath_table,tabuleiro,324.89,3
+computers_accessories,tabocas do brejo velho,139.88,3
+toys,sume,248.89,3
+sports_leisure,sucesso,352.9,3
+fashion_bags_accessories,silvianopolis,132.5,3
+telephony,serrolandia,371.9,3
+auto,serranopolis,1002.88,3
+small_appliances,senador guiomard,409.98,3
+furniture_decor,senador amaral,179.46,3
+health_beauty,satubinha,138.79,3
+watches_gifts,sapeacu,246.79,3
+telephony,sao vicente ferrer,405.88,3
+perfumery,sao valentim,557.89,3
+telephony,sao tome,262.06,3
+,sao sebastiao do maranhao,206.79,3
+computers_accessories,sao pedro do ivai,424.74,3
+watches_gifts,sao pedro da uniao,286.89,3
+small_appliances,sao paulo das missoes,404.87,3
+telephony,sao miguel do tapuio,534,3
+baby,sao martinho,756.99,3
+watches_gifts,sao luis do paraitinga,882.49,3
+electronics,sao jose do turvo,240.7,3
+toys,sao jose do cerrito,278.89,3
+bed_bath_table,sao jose do barreiro,207.59,3
+watches_gifts,sao jose de uba,478.89,3
+furniture_decor,sao jose de mipibu,821.69,3
+furniture_decor,sao joao do triunfo,263.72,3
+watches_gifts,sao joao do manteninha,474.89,3
+toys,sao joao de iracema,168.38,3
+bed_bath_table,sao joao da mata,174.78,3
+bed_bath_table,sao joao d'alianca,743.53,3
+auto,sao joao batista do gloria,359.6,3
+telephony,sao goncalo do rio preto,328.19,3
+auto,sao francisco do conde,276.8,3
+home_appliances,sao bernardo,706.79,3
+market_place,santo antonio do sudoeste,208.95,3
+computers_accessories,santo antonio do itambe,225.06,3
+sports_leisure,santo antonio da alegria,206.79,3
+computers_accessories,santana dos montes,241,3
+sports_leisure,santana do serido,779.7,3
+food_drink,santana do manhuacu,228.89,3
+watches_gifts,santana do cariri,839.8,3
+sports_leisure,santaluz,274.89,3
+bed_bath_table,santa terezinha de itaipu,328.94,3
+electronics,santa tereza do oeste,364.9,3
+sports_leisure,santa rosa de lima,180.15,3
+health_beauty,santa rita de minas,367.67,3
+toys,santa rita d'oeste,178.57,3
+baby,santa monica,332.88,3
+computers_accessories,santa mercedes,226.99,3
+furniture_decor,santa margarida,412.8,3
+electronics,santa isabel do ivai,425.9,3
+luggage_accessories,santa helena de minas,248.34,3
+sports_leisure,santa cruz de goias,709,3
+cool_stuff,santa clara do sul,339.99,3
+perfumery,sangao,264.79,3
+cool_stuff,sabino,723,3
+health_beauty,rubim,213.89,3
+health_beauty,rondon,262.98,3
+auto,rodelas,404.9,3
+electronics,rodeiro,409.4,3
+health_beauty,rodeio bonito,212.8,3
+auto,riqueza,248.9,3
+office_furniture,riolandia,398.8,3
+health_beauty,rio maria,352.88,3
+telephony,rio fortuna,469.39,3
+telephony,rio do oeste,364.89,3
+furniture_decor,rio do antonio,259,3
+telephony,rio de contas,226.7,3
+electronics,rinopolis,169.69,3
+costruction_tools_garden,ribeirao vermelho,275.7,3
+health_beauty,ribeira,209.28,3
+bed_bath_table,riacho dos machados,284,3
+bed_bath_table,restinga seca,254.69,3
+computers_accessories,resende costa,224.79,3
+perfumery,reriutaba,1093.32,3
+pet_shop,reginopolis,1552.99,3
+housewares,redentora,354.59,3
+cool_stuff,recreio,264.98,3
+garden_tools,quixere,1143.3,3
+housewares,quinta do sol,118.99,3
+home_appliances,quadra,443.9,3
+bed_bath_table,prudente de morais,338.99,3
+sports_leisure,presidente medici,224.89,3
+toys,prados,204.79,3
+perfumery,pouso redondo,597.29,3
+computers_accessories,pouso alto,251,3
+,pote,506.9,3
+bed_bath_table,portalegre,408.8,3
+sports_leisure,ponte serrada,423.9,3
+health_beauty,poloni,163.12,3
+telephony,pocrane,172.99,3
+bed_bath_table,pitanga,532.7,3
+cool_stuff,pirauba,247.77,3
+christmas_supplies,pindobacu,169.9,3
+sports_leisure,pindare mirim,481.9,3
+sports_leisure,piedade dos gerais,392.88,3
+telephony,piata,80.98,3
+computers_accessories,pereiro,285.89,3
+computers_accessories,pedro osorio,692.45,3
+bed_bath_table,pedro afonso,235.89,3
+auto,pedra branca,81.88,3
+home_construction,pedra bela,460.9,3
+sports_leisure,pedra,267.68,3
+telephony,patu,144.49,3
+sports_leisure,paranatinga,2463.29,3
+sports_leisure,paranaiguara,236.89,3
+fashion_shoes,paranacity,178.15,3
+housewares,paraiso do norte,187.82,3
+housewares,parai,233.4,3
+electronics,pantano grande,297.79,3
+watches_gifts,palmeiras de goias,334.8,3
+office_furniture,pacuja,339.95,3
+furniture_decor,ouvidor,345,3
+home_appliances,ouro verde,307.97,3
+computers_accessories,oscar bressane,301.8,3
+baby,oroco,294.9,3
+watches_gifts,olindina,226.79,3
+health_beauty,olho d'agua das flores,254.48,3
+cool_stuff,nuporanga,821.8,3
+market_place,novo sao joaquim,292.6,3
+telephony,novo oriente,231.98,3
+health_beauty,nova soure,255.52,3
+,nova erechim,254.79,3
+food,nova cruz,462.88,3
+sports_leisure,neves paulista,112.58,3
+computers_accessories,nazare,419.84,3
+fashion_bags_accessories,motuca,283.9,3
+luggage_accessories,moreira sales,345.67,3
+food,monte verde,343.1,3
+bed_bath_table,monte carlo,309.5,3
+computers_accessories,monte alegre,117.99,3
+health_beauty,monsenhor tabosa,329.8,3
+home_appliances,mondai,409,3
+toys,mombuca,107.14,3
+stationery,mirante do paranapanema,199.7,3
+garden_tools,miranorte,635.9,3
+consoles_games,mirandiba,221.89,3
+fashion_bags_accessories,mineiros do tiete,216.15,3
+stationery,milha,207.9,3
+housewares,mercedes,213.9,3
+luggage_accessories,meleiro,210.8,3
+housewares,maximiliano de almeida,363.49,3
+sports_leisure,mato leitao,179,3
+health_beauty,mata grande,378.65,3
+fashion_underwear_beach,maria da fe,305.55,3
+auto,mari,264.55,3
+computers_accessories,maranguape,289.87,3
+toys,manoel viana,208.79,3
+bed_bath_table,manga,378.8,3
+sports_leisure,manduri,239.62,3
+perfumery,major vieira,256.89,3
+watches_gifts,mairi,913,3
+fashion_bags_accessories,maioba,708.79,3
+construction_tools_construction,madre de deus de minas,362.96,3
+telephony,machadinho d'oeste,396.98,3
+electronics,luzilandia,161.8,3
+housewares,lupercio,133.79,3
+bed_bath_table,luminarias,423.8,3
+telephony,luiziania,225.49,3
+small_appliances,luisburgo,246.98,3
+consoles_games,lontras,402.5,3
+computers_accessories,lobato,498.54,3
+cool_stuff,limeira do oeste,441.7,3
+computers_accessories,liberdade,107.23,3
+electronics,lavras do sul,593.8,3
+electronics,laranjal do jari,318.8,3
+watches_gifts,lajinha,515.07,3
+small_appliances,lagoinha,605.98,3
+health_beauty,lagoa dos gatos,969.99,3
+telephony,juvenilia,77.48,3
+auto,juruena,319.9,3
+watches_gifts,jundiai do sul,337.97,3
+cool_stuff,julio mesquita,909.99,3
+electronics,jose de freitas,257.9,3
+bed_bath_table,jose boiteux,119.7,3
+fashion_bags_accessories,joao ramalho,407.89,3
+perfumery,joao alfredo,215.49,3
+bed_bath_table,jardim do serido,445.9,3
+telephony,jaqueira,578.99,3
+bed_bath_table,jaguari,157.89,3
+bed_bath_table,jaciara,185.7,3
+electronics,jaborandi,126.29,3
+construction_tools_construction,ivate,273.98,3
+computers_accessories,itueta,448.89,3
+baby,itirucu,653.28,3
+perfumery,itapora,197.88,3
+luggage_accessories,itapitanga,205.7,3
+watches_gifts,itapissuma,290.8,3
+computers_accessories,itapetim,280.8,3
+perfumery,itaoca,460.7,3
+garden_tools,itambaraca,269.8,3
+consoles_games,itamari,268.98,3
+fashion_underwear_beach,itaja,902,3
+toys,itacarambi,339.79,3
+garden_tools,itabaianinha,157.8,3
+housewares,ita,317.89,3
+computers_accessories,ipiacu,429.88,3
+cool_stuff,inubia paulista,304.98,3
+auto,inimutaba,266.7,3
+sports_leisure,indiapora,356.67,3
+computers_accessories,indiana,343.89,3
+stationery,imigrante,305.9,3
+auto,imaculada,340.89,3
+watches_gifts,ilopolis,181.8,3
+sports_leisure,ilha comprida,212.98,3
+bed_bath_table,iguaracu,525.7,3
+sports_leisure,ibimirim,294.79,3
+books_general_interest,ibicoara,299.2,3
+electronics,ibiapina,197.89,3
+telephony,ibiai,556.89,3
+food_drink,iati,628.99,3
+garden_tools,herculandia,184.89,3
+auto,guaraciaba,254.7,3
+auto,guapiara,210.29,3
+fashion_bags_accessories,guajara-mirim,118.89,3
+home_confort,grao para,220.8,3
+bed_bath_table,grao mogol,899.8,3
+office_furniture,governador celso ramos,389.97,3
+health_beauty,goianesia do para,861.99,3
+housewares,gaucha do norte,136.48,3
+computers_accessories,gastao vidigal,216.88,3
+sports_leisure,garrafao do norte,662.89,3
+home_appliances_2,gameleiras,423.89,3
+computers_accessories,fronteiras,1308.8,3
+cool_stuff,francisco sa,532.8,3
+housewares,fortuna,523.89,3
+fashion_bags_accessories,formoso,867.99,3
+perfumery,florestal,299.5,3
+fashion_underwear_beach,estrela do norte,173.79,3
+perfumery,estreito,305.89,3
+fashion_bags_accessories,espirito santo do turvo,229.7,3
+baby,esperantinopolis,640.61,3
+auto,entre rios do oeste,93.89,3
+health_beauty,echapora,787.47,3
+watches_gifts,dormentes,946.8,3
+computers_accessories,dom aquino,449.8,3
+construction_tools_construction,dois irmaos do buriti,826.9,3
+garden_tools,diogo de vasconcelos,191.62,3
+,descoberto,206.98,3
+furniture_decor,david canabarro,167.88,3
+computers_accessories,cururupu,629.26,3
+telephony,curuca,524.7,3
+computers_accessories,curaca,308.9,3
+telephony,cuite,678.89,3
+small_appliances,cruz machado,441.77,3
+health_beauty,cristalia,418.7,3
+computers_accessories,cristalandia,948.69,3
+office_furniture,cristal,533,3
+health_beauty,coruripe,1222.3,3
+housewares,correntina,130.99,3
+bed_bath_table,coronel joao sa,587.99,3
+perfumery,coremas,284.69,3
+watches_gifts,corbelia,733.8,3
+telephony,coracao de jesus,123.9,3
+watches_gifts,concordia do para,929.78,3
+computers_accessories,conceicao do tocantins,367.97,3
+furniture_decor,conceicao do para,694.99,3
+home_appliances,conceicao do jacuipe,177.89,3
+health_beauty,conceicao das alagoas,1542.4,3
+toys,conceicao da feira,603.99,3
+bed_bath_table,conceicao da barra,306.87,3
+bed_bath_table,coluna,297.88,3
+office_furniture,colorado do oeste,199.88,3
+auto,colonia leopoldina,477.98,3
+cool_stuff,colniza,718.97,3
+home_appliances,colinas do tocantins,510.5,3
+health_beauty,coelho neto,314.9,3
+cool_stuff,chapadao do lageado,272.7,3
+computers,cedro de sao joao,1999.99,3
+office_furniture,catu de abrantes,1135.99,3
+cool_stuff,catarina,204.98,3
+baby,castanheira,128.98,3
+garden_tools,carvalhopolis,240.33,3
+health_beauty,carrancas,134.79,3
+bed_bath_table,carneirinho,294.5,3
+telephony,carmo de minas,643.96,3
+toys,carlos chagas,150.79,3
+perfumery,cariri do tocantins,270.89,3
+sports_leisure,carire,144.79,3
+electronics,careacu,116.13,3
+bed_bath_table,caravelas,356.4,3
+housewares,caraubas,1059.29,3
+bed_bath_table,capitao poco,405.38,3
+office_furniture,capela do alto,833.99,3
+perfumery,candido sales,396.79,3
+watches_gifts,camutanga,295.8,3
+perfumery,campos borges,825.89,3
+electronics,campo novo,539.79,3
+stationery,campinapolis,324.86,3
+home_appliances_2,campina da lagoa,519.7,3
+computers_accessories,campestre,321.7,3
+telephony,camocim de sao felix,362.9,3
+baby,cambira,432,3
+computers_accessories,caldeirao grande,354.8,3
+electronics,caibi,132.05,3
+telephony,caibate,357.88,3
+furniture_decor,caiana,235.9,3
+housewares,cafeara,233,3
+watches_gifts,cachoeira dourada,268.8,3
+computers_accessories,cachoeira de pajeu,428.8,3
+bed_bath_table,cachoeira da prata,169.8,3
+health_beauty,cabo verde,458.79,3
+telephony,cabeceira grande,265.89,3
+,buriti,151.79,3
+home_appliances,breu branco,481.74,3
+computers_accessories,brasileia,59.7,3
+musical_instruments,brasil novo,304.9,3
+cool_stuff,borrazopolis,259.59,3
+bed_bath_table,boninal,717.7,3
+fashion_bags_accessories,bom jesus do tocantins,407.9,3
+health_beauty,bom jesus das selvas,175.9,3
+garden_tools,boa viagem,450.99,3
+sports_leisure,bento de abreu,327.98,3
+bed_bath_table,belo vale,313.8,3
+cool_stuff,belo campo,174.47,3
+bed_bath_table,bela vista do paraiso,515.49,3
+telephony,bela vista,466.38,3
+watches_gifts,beberibe,1736.7,3
+watches_gifts,baturite,447.97,3
+stationery,batalha,214.79,3
+health_beauty,barro alto,189.89,3
+telephony,barras,210.88,3
+health_beauty,barracao,118.48,3
+watches_gifts,barra dos coqueiros,484.82,3
+fashion_bags_accessories,barra do tarrachil,272.9,3
+cool_stuff,barra do mendes,323.99,3
+health_beauty,barra do choca,799,3
+watches_gifts,bandeira,347.71,3
+toys,balneario rincao,393,3
+sports_leisure,balneario gaivota,282.3,3
+electronics,bacuri,315.42,3
+consoles_games,azurita,169.7,3
+watches_gifts,augusto correa,347.99,3
+cool_stuff,arrozal,833.89,3
+bed_bath_table,arenapolis,328.85,3
+garden_tools,arembepe,429.7,3
+watches_gifts,areiopolis,896.49,3
+home_appliances_2,areia branca dos assis,462.54,3
+watches_gifts,areia branca,183.6,3
+air_conditioning,aragarcas,156.88,3
+perfumery,apodi,377.89,3
+cool_stuff,antonio prado de minas,282,3
+home_appliances,antonio carlos,245.7,3
+health_beauty,anta,241.88,3
+books_general_interest,americano do brasil,291.49,3
+telephony,amelia rodrigues,372.39,3
+auto,amapora,129.9,3
+health_beauty,alvorada do norte,164.88,3
+housewares,alvares florence,185.76,3
+bed_bath_table,altonia,494.9,3
+food,alto taquari,750.88,3
+home_construction,alto santo,622.89,3
+garden_tools,alto jequitiba,211.89,3
+telephony,alto horizonte,233.91,3
+dvds_blu_ray,alto alegre do iguacu,74.7,3
+sports_leisure,alto alegre,307.89,3
+baby,alterosa,252.3,3
+computers_accessories,alta floresta d'oeste,669.89,3
+health_beauty,alianca do tocantins,162.79,3
+health_beauty,alfredo vasconcelos,567.99,3
+sports_leisure,alambari,179.88,3
+,aguas de santa barbara,154.9,3
+telephony,abatia,167.89,3
+books_general_interest,abadia dos dourados,358.9,3
+computers_accessories,zortea,99.8,2
+auto,zacarias,198.8,2
+computers_accessories,xavantina,176.02,2
+sports_leisure,xapuri,288.93,2
+pet_shop,xambre,511,2
+,werneck,403.89,2
+stationery,wanderley,288.98,2
+telephony,vitoria do mearim,78.9,2
+furniture_decor,vitoria das missoes,33.8,2
+cool_stuff,virgolandia,380,2
+housewares,vila nova,85.47,2
+health_beauty,victor graeff,142.8,2
+fashion_shoes,vicentinopolis,384.8,2
+telephony,vicencia,268,2
+electronics,vereda,309.4,2
+watches_gifts,venturosa,1228.9,2
+housewares,varzea alegre,140.29,2
+perfumery,varjao de minas,105.8,2
+auto,vargem grande do rio pardo,270,2
+telephony,vargem,78.8,2
+home_appliances,urucurituba,169.8,2
+home_construction,urucuca,195.9,2
+fashion_bags_accessories,uirauna,199.9,2
+toys,tutoia,449.89,2
+health_beauty,turvolandia,143.9,2
+sports_leisure,turvania,83.7,2
+bed_bath_table,tuparendi,183.49,2
+bed_bath_table,tunas do parana,198.9,2
+bed_bath_table,tres irmaos,139.8,2
+sports_leisure,tracunhaem,677.99,2
+sports_leisure,tomar do geru,228.79,2
+fashion_bags_accessories,tocos,338.9,2
+telephony,tobias barreto,209.99,2
+baby,taquaracu de minas,358,2
+art,tapiramuta,1298.99,2
+furniture_decor,tapirai,108.65,2
+telephony,tanque d'arca,578,2
+luggage_accessories,taciba,348.98,2
+cool_stuff,tacaratu,204.89,2
+auto,tabapora,214.9,2
+bed_bath_table,sucupira do norte,319.9,2
+telephony,sonora,57.98,2
+watches_gifts,solonopole,729.89,2
+bed_bath_table,solanea,440,2
+computers_accessories,sitio novo,174.89,2
+housewares,sitio do quinto,97.89,2
+computers_accessories,sinimbu,81.78,2
+consoles_games,simolandia,138.99,2
+garden_tools,silveira martins,119.8,2
+telephony,serro,837.89,2
+watches_gifts,serrita,428.9,2
+perfumery,serranopolis do iguacu,274.89,2
+construction_tools_safety,serrania,345.89,2
+housewares,serra dourada,197.14,2
+computers_accessories,serra de sao bento,236.9,2
+garden_tools,serra azul de minas,344.99,2
+construction_tools_construction,seringueiras,395.99,2
+construction_tools_lights,sericita,216.32,2
+furniture_decor,senador modestino goncalves,119.32,2
+computers_accessories,senador firmino,138.57,2
+bed_bath_table,senador cortes,298,2
+telephony,segredo,29.94,2
+construction_tools_construction,seberi,130.39,2
+toys,saude,119.4,2
+health_beauty,satuba,333.73,2
+bed_bath_table,sarapui,248.88,2
+furniture_decor,sapopema,154.98,2
+,sape,1959.99,2
+telephony,sao vendelino,155.98,2
+housewares,sao thome das letras,52.8,2
+auto,sao sebastiao do rio verde,278,2
+bed_bath_table,sao sebastiao da boa vista,198.9,2
+small_appliances,sao roque de minas,169.89,2
+housewares,sao pedro do turvo,88.9,2
+housewares,sao pedro de alcantara,263,2
+fashion_bags_accessories,sao paulo do potengi,229.9,2
+cool_stuff,sao miguel do gostoso,398.9,2
+furniture_decor,sao miguel do anta,173.59,2
+health_beauty,sao luis do quitunde,239.3,2
+health_beauty,sao luis do curu,173.9,2
+home_construction,sao jose dos quatro marcos,226.99,2
+bed_bath_table,sao jose do rio claro,298,2
+garden_tools,sao jose do hortencio,322.89,2
+garden_tools,sao jose do goiabal,202.9,2
+watches_gifts,sao jose do divino,727,2
+bed_bath_table,sao jose do belmonte,228.9,2
+baby,sao jose da vitoria,175.65,2
+watches_gifts,sao jose da laje,219.9,2
+furniture_decor,sao jose da coroa grande,218.9,2
+health_beauty,sao jorge do patrocinio,89.9,2
+air_conditioning,sao jorge do ivai,352.52,2
+baby,sao joao do sul,861,2
+auto,sao joao do oriente,279.9,2
+sports_leisure,sao joao do manhuacu,154.8,2
+watches_gifts,sao joao do ivai,193.9,2
+baby,sao joao de pirabas,228.89,2
+party_supplies,sao joao das missoes,119.99,2
+furniture_decor,sao goncalo do abaete,177.99,2
+furniture_decor,sao geraldo da piedade,139.8,2
+cool_stuff,sao francisco do guapore,284.9,2
+toys,sao francisco de assis,109.89,2
+sports_leisure,sao felix do coribe,226,2
+health_beauty,sao felix do araguaia,98.8,2
+bed_bath_table,sao felipe,747.9,2
+garden_tools,sao domingos do maranhao,127.89,2
+stationery,sao domingos das dores,104.9,2
+baby,sao bras do suacui,95.99,2
+sports_leisure,santo eduardo,215,2
+furniture_decor,santo antonio do pinhal,1128.9,2
+health_beauty,santo antonio do palma,73.89,2
+sports_leisure,santo antonio do grama,239.9,2
+auto,santo antonio do caiua,256.3,2
+telephony,santo antonio,471.8,2
+garden_tools,santana da boa vista,79.89,2
+home_confort,santa terezinha,309.8,2
+housewares,santa teresinha,287,2
+garden_tools,santa rita do ibitipoca,184.7,2
+health_beauty,santa maria do suacui,454.9,2
+electronics,santa maria do para,106.99,2
+electronics,santa maria da serra,143.64,2
+watches_gifts,santa maria da boa vista,412.08,2
+cool_stuff,santa izabel do oeste,319.89,2
+housewares,santa ernestina,208.16,2
+watches_gifts,santa cruz do prata,128.9,2
+housewares,santa cruz de salinas,220.9,2
+health_beauty,santa barbara do sul,143.8,2
+bed_bath_table,salto do ceu,140.39,2
+bed_bath_table,salto da divisa,116.98,2
+housewares,salmourao,59.88,2
+toys,rubiacea,218.8,2
+cool_stuff,roncador,158.98,2
+cool_stuff,romaria,264.9,2
+health_beauty,rodolfo fernandes,99.89,2
+garden_tools,roca sales,177.9,2
+health_beauty,rio tinto,439.9,2
+bed_bath_table,rio formoso,215.6,2
+drinks,rio doce,66,2
+computers_accessories,rio das antas,176.8,2
+cool_stuff,rifaina,552.8,2
+cool_stuff,ribeiraozinho,299.98,2
+bed_bath_table,ribeirao branco,452.99,2
+housewares,riacho das almas,203.9,2
+computers_accessories,riachinho,82.34,2
+telephony,riachao das neves,206.89,2
+furniture_decor,reserva do cabacal,383.9,2
+bed_bath_table,redencao do gurgueia,179.8,2
+watches_gifts,rechan,288.8,2
+baby,rancho queimado,312.89,2
+fashion_bags_accessories,quixelo,115.99,2
+sports_leisure,quitandinha,368.9,2
+auto,quijingue,228.09,2
+computers_accessories,quevedos,90.9,2
+stationery,queluz,213.74,2
+consoles_games,putinga,144.8,2
+bed_bath_table,protasio alves,122.9,2
+housewares,princesa isabel,258,2
+fixed_telephony,presidente kubitschek,115.43,2
+auto,presidente kennedy,238.65,2
+christmas_supplies,presidente alves,112.61,2
+health_beauty,poxoreu,128.57,2
+sports_leisure,potim,249.8,2
+toys,potengi,245.89,2
+health_beauty,porto trombetas,241.8,2
+furniture_decor,porto franco,279.99,2
+cool_stuff,porto firme,153.61,2
+perfumery,porto esperidiao,234.8,2
+housewares,porto calvo,323.39,2
+toys,porto amazonas,58.79,2
+sports_leisure,portelandia,93.99,2
+bed_bath_table,porangaba,166.39,2
+fashion_bags_accessories,populina,47.6,2
+computers_accessories,ponto novo,360,2
+electronics,ponto dos volantes,41.4,2
+food,pontalinda,60.8,2
+home_construction,pontalina,405,2
+garden_tools,pocoes de paineiras,102.89,2
+office_furniture,pocoes,308.99,2
+sports_leisure,poco redondo,419.8,2
+housewares,planura,102.16,2
+pet_shop,planaltino,191.8,2
+computers_accessories,planaltina de goias,95.6,2
+sports_leisure,placas,220.29,2
+fashion_bags_accessories,piripa,71.99,2
+stationery,piracuruca,235.9,2
+furniture_decor,pintadas,449.8,2
+watches_gifts,pindorama do tocantins,99.66,2
+housewares,pindorama,368.9,2
+cool_stuff,pindoba,432,2
+telephony,pindai,134.8,2
+perfumery,pimenteiras,102.5,2
+home_appliances,pimenta,233.99,2
+telephony,picui,107.99,2
+pet_shop,piau,125.89,2
+stationery,piacabucu,228.9,2
+cool_stuff,perpetuo socorro,149.89,2
+housewares,perola d'oeste,619.9,2
+health_beauty,perola,272.74,2
+computers_accessories,peritiba,106.9,2
+computers,periquito,1526,2
+perfumery,pentecoste,239.8,2
+telephony,pendencias,326.5,2
+construction_tools_safety,penaforte,479.89,2
+perfumery,pedro ii,364.8,2
+furniture_decor,pedras de fogo,159.99,2
+cool_stuff,paulo lopes,238.99,2
+health_beauty,paulo jacinto,368.89,2
+auto,paula freitas,474.9,2
+toys,paudalho,878.9,2
+cool_stuff,pau d'arco,141.8,2
+office_furniture,pau brasil,239.2,2
+health_beauty,patrocinio paulista,1059.2,2
+garden_tools,patrocinio do muriae,94.8,2
+electronics,pato bragado,86.7,2
+auto,pastos bons,137.9,2
+computers_accessories,passos maia,208.9,2
+telephony,passo de camaragibe,41.98,2
+garden_tools,passira,374.98,2
+telephony,passagem franca,37.98,2
+bed_bath_table,passa tres,63.85,2
+computers_accessories,paripiranga,77.71,2
+health_beauty,pardinho,272.8,2
+electronics,paranapua,64.99,2
+health_beauty,parana,108.88,2
+stationery,panelas,161.79,2
+books_general_interest,palmeirinha,58.92,2
+fashion_bags_accessories,palmeiras,174.95,2
+bed_bath_table,paiva,146.2,2
+housewares,pacoti,149.8,2
+telephony,ouro verde de minas,80.79,2
+books_technical,ouro,278.79,2
+toys,oros,100.65,2
+auto,oliveira dos brejinhos,138.9,2
+telephony,olho d'agua das cunhas,312.99,2
+home_construction,oeiras do para,178.65,2
+telephony,ocara,109.89,2
+health_beauty,novo repartimento,155,2
+electronics,novo oriente do piaui,152.01,2
+sports_leisure,novo itacolomi,90,2
+sports_leisure,novo barreiro,197.59,2
+computers_accessories,nova palma,428.9,2
+garden_tools,nova olimpia,168,2
+fashion_bags_accessories,nova mamore,594.9,2
+sports_leisure,nova itaberaba,308.89,2
+auto,nova ipixuna,328,2
+sports_leisure,nova cantu,199.9,2
+sports_leisure,nova canaa paulista,109.89,2
+bed_bath_table,nova canaa,156.9,2
+garden_tools,nova campina,156.5,2
+health_beauty,nova brasilandia d'oeste,402.8,2
+luggage_accessories,nossa senhora do remedio,131.9,2
+health_beauty,nossa senhora do o,401,2
+housewares,nossa senhora de caravaggio,280,2
+air_conditioning,nossa senhora das gracas,54.8,2
+computers_accessories,nossa senhora da gloria,221.45,2
+fashion_bags_accessories,nonoai,175.9,2
+garden_tools,nipoa,337.8,2
+furniture_decor,nazario,237.89,2
+auto,nazareno,161.8,2
+housewares,narandiba,408.98,2
+furniture_decor,murutinga do sul,809,2
+computers_accessories,muquem do sao francisco,61.32,2
+sports_leisure,muniz freire,238.9,2
+luggage_accessories,mucurici,259.8,2
+furniture_decor,morro grande,119.8,2
+garden_tools,morpara,357.12,2
+perfumery,moreilandia,230.9,2
+fashion_shoes,montezuma,186.89,2
+books_general_interest,monte gordo,314.9,2
+telephony,monte formoso,72.99,2
+sports_leisure,monte castelo,169.5,2
+bed_bath_table,monte belo do sul,79.98,2
+baby,montauri,429.89,2
+office_furniture,monnerat,284.84,2
+baby,moncoes,346.98,2
+perfumery,mojui dos campos,119.59,2
+telephony,mogi-mirim,89.8,2
+watches_gifts,miraima,254,2
+sports_leisure,meruoca,95,2
+health_beauty,medeiros,279.49,2
+bed_bath_table,maua da serra,129.99,2
+sports_leisure,matutina,134.89,2
+telephony,matrincha,163.29,2
+bed_bath_table,matoes do norte,698.9,2
+bed_bath_table,materlandia,79.98,2
+telephony,matelandia,57.98,2
+telephony,mata roma,193,2
+bed_bath_table,massape,155.9,2
+musical_instruments,mascote,122.4,2
+telephony,martins,177.89,2
+garden_tools,martinho campos,415.2,2
+health_beauty,marinopolis,158.88,2
+bed_bath_table,mariluz,308.99,2
+office_furniture,marilac,657.8,2
+telephony,mariapolis,111.9,2
+watches_gifts,maragogipe,152.8,2
+fashion_bags_accessories,mara rosa,143.9,2
+cool_stuff,mar vermelho,519.98,2
+telephony,mandirituba,92.65,2
+watches_gifts,mambai,816.99,2
+auto,magda,458.99,2
+tablets_printing_image,mae do rio,148.89,2
+furniture_decor,macieira,17.46,2
+housewares,machacalis,138.89,2
+toys,macaubal,89.8,2
+computers_accessories,macaparana,144.88,2
+bed_bath_table,macambara,162.74,2
+computers_accessories,luz,166.9,2
+home_construction,lupionopolis,209.75,2
+bed_bath_table,lunardelli,214.89,2
+computers_accessories,luizlandia do oeste,232.99,2
+sports_leisure,luiziana,149.85,2
+sports_leisure,luiz alves,114,2
+small_appliances,lourdes,193.7,2
+fashion_bags_accessories,lindoeste,164.3,2
+garden_tools,lencois,218,2
+stationery,leandro ferreira,208.9,2
+auto,lavras da mangabeira,827.88,2
+telephony,laranjal,316.99,2
+toys,lagoa nova,113.8,2
+watches_gifts,lagoa do ouro,305.9,2
+auto,lagoa do carro,746.77,2
+small_appliances,ladainha,171.14,2
+garden_tools,kalore,429.99,2
+consoles_games,jussari,139.99,2
+housewares,juscimeira,123.8,2
+housewares,juranda,40.9,2
+health_beauty,jupi,604.9,2
+health_beauty,junqueiro,360.89,2
+furniture_decor,junco do serido,239.89,2
+auto,jucurucu,409.98,2
+bed_bath_table,joao camara,1379.8,2
+sports_leisure,jesupolis,159.33,2
+bed_bath_table,jeronimo monteiro,284,2
+computers_accessories,jequitiba,636.9,2
+books_general_interest,jequitai,204.18,2
+watches_gifts,jequia da praia,251.91,2
+toys,jatauba,126.89,2
+housewares,jardim alegre,118.38,2
+housewares,jaraguari,75,2
+sports_leisure,jandaira,169.89,2
+housewares,jandaia,23.2,2
+watches_gifts,jaguaruna,162.9,2
+audio,jaguaquara,192.4,2
+computers_accessories,jacinto,113.99,2
+garden_tools,jacigua,134.49,2
+perfumery,jaci,115.89,2
+health_beauty,jaboticatubas,767.3,2
+sports_leisure,jaboti,160.7,2
+sports_leisure,jabora,267.9,2
+watches_gifts,ivai,610.77,2
+signaling_and_security,iuna,131,2
+home_appliances,itirapina,142.9,2
+bed_bath_table,itaueira,105.28,2
+watches_gifts,itau,666.8,2
+housewares,itatiaiucu,129.9,2
+watches_gifts,itaquitinga,64.89,2
+garden_tools,itaquirai,272.9,2
+health_beauty,itapiuna,54.98,2
+garden_tools,itapirapua paulista,479.8,2
+perfumery,itapirapua,459.8,2
+pet_shop,itapicuru,137.33,2
+garden_tools,itamogi,229.9,2
+sports_leisure,itamira,55.9,2
+telephony,itaguaru,84.89,2
+furniture_decor,itaguara,48.89,2
+fashion_bags_accessories,itaguaje,138.8,2
+furniture_decor,itagiba,126.89,2
+bed_bath_table,itagi,111.89,2
+telephony,itacoatiara,57.98,2
+cool_stuff,itabatan,154.98,2
+bed_bath_table,irupi,242.99,2
+food,iraucuba,189.89,2
+housewares,irara,171.89,2
+cool_stuff,irape,379.98,2
+watches_gifts,iramaia,154.9,2
+stationery,irai de minas,414.89,2
+computers_accessories,irai,557.89,2
+baby,iracema,229.9,2
+telephony,ipixuna do para,188,2
+sports_leisure,ipigua,247.24,2
+industry_commerce_and_business,ipe,173.9,2
+auto,ipaporanga,388.9,2
+telephony,inhauma,124.98,2
+health_beauty,inhapi,979.9,2
+garden_tools,imbe de minas,209,2
+health_beauty,imbau,124.2,2
+baby,iguai,535.99,2
+electronics,igreja nova,208,2
+audio,igaci,319.89,2
+watches_gifts,ielmo marinho,148.7,2
+cool_stuff,ichu,160.98,2
+auto,icarai de minas,254.9,2
+housewares,ibirataia,52.8,2
+bed_bath_table,ibiraja,277.95,2
+,ibiraiaras,232.98,2
+electronics,ibiracu,27.3,2
+sports_leisure,ibipitanga,349.98,2
+market_place,ibicare,227.4,2
+cine_photo,ibiassuce,164.5,2
+luggage_accessories,ibiaca,278.89,2
+auto,ibateguara,75.9,2
+telephony,iacri,56.98,2
+bed_bath_table,hidrolina,181.47,2
+housewares,herval,199.89,2
+watches_gifts,guidoval,364.9,2
+industry_commerce_and_business,guariroba,289.99,2
+telephony,guarda-mor,83.9,2
+health_beauty,guaratinga,42.99,2
+cool_stuff,guarara,501.99,2
+auto,guarani das missoes,68.66,2
+construction_tools_safety,guamare,156.8,2
+health_beauty,guaiuba,695,2
+construction_tools_construction,guairaca,63.8,2
+stationery,grandes rios,128.99,2
+telephony,governador lindenberg,101.97,2
+cool_stuff,goianorte,184.99,2
+garden_tools,goiabeira,259.98,2
+computers_accessories,glorinha,249.8,2
+health_beauty,gloria do goita,516.99,2
+bed_bath_table,gloria de dourados,45.8,2
+furniture_decor,getulina,99.8,2
+computers_accessories,gaviao peixoto,94.89,2
+health_beauty,fruta de leite,178.9,2
+stationery,frei martinho,268.9,2
+baby,frei lagonegro,206.74,2
+,frecheirinha,175.09,2
+telephony,francisco dumont,108.89,2
+housewares,formigueiro,279.8,2
+housewares,floreal,192.89,2
+consoles_games,florai,387.39,2
+baby,flor da serra do sul,197.1,2
+health_beauty,figueiropolis d'oeste,77.98,2
+electronics,ferros,119.6,2
+computers_accessories,feliz deserto,309.89,2
+pet_shop,fazenda vilanova,157.8,2
+construction_tools_construction,extremoz,111.79,2
+furniture_decor,euclides da cunha paulista,163.25,2
+audio,estrela do indaia,112.8,2
+computers_accessories,espigao alto do iguacu,158.9,2
+fashion_underwear_beach,espigao,74.89,2
+health_beauty,erval grande,395.9,2
+computers_accessories,engenheiro passos,250.89,2
+art,engenheiro beltrao,76.8,2
+housewares,engenheiro balduino,179.6,2
+bed_bath_table,emilianopolis,169.85,2
+perfumery,elisio medrado,79.82,2
+baby,durande,117.49,2
+perfumery,doverlandia,277.92,2
+health_beauty,doutor ulysses,122,2
+baby,dona francisca,258.7,2
+telephony,dona euzebia,316.89,2
+perfumery,domiciano ribeiro,114.89,2
+fashion_underwear_beach,dom vicoso,272.3,2
+perfumery,dobrada,437.5,2
+health_beauty,divisa alegre,190.99,2
+bed_bath_table,diorama,196.87,2
+bed_bath_table,dionisio,118.8,2
+telephony,deputado irapuan pinheiro,169.98,2
+fashion_underwear_beach,deodapolis,76.8,2
+computers_accessories,denise,507,2
+telephony,dario meira,138.99,2
+telephony,damianopolis,33.64,2
+bed_bath_table,curvelandia,189,2
+furniture_decor,cumaru,330.99,2
+housewares,cumari,199.9,2
+toys,cubati,135.89,2
+sports_leisure,cruzeiro da fortaleza,114.9,2
+,cristopolis,63.41,2
+bed_bath_table,cristiano otoni,210.2,2
+bed_bath_table,crissiumal,1589,2
+health_beauty,crisolita,103.9,2
+toys,coxilha,115.9,2
+furniture_decor,couto de magalhaes,194.89,2
+watches_gifts,cotriguacu,167.66,2
+watches_gifts,costa marques,1534.9,2
+toys,corumbatai,49.59,2
+bed_bath_table,corumba de goias,126.99,2
+watches_gifts,cortes,249.89,2
+christmas_supplies,corrego danta,25.4,2
+musical_instruments,coronel murta,219.8,2
+perfumery,coronel martins,121.3,2
+health_beauty,coronel macedo,92.9,2
+sports_leisure,coroados,209.9,2
+computers_accessories,coroaci,338.9,2
+housewares,corguinho,225.41,2
+telephony,coqueiro baixo,86.99,2
+bed_bath_table,congonhinhas,285.7,2
+consoles_games,conde,819,2
+electronics,conceicao,114.49,2
+auto,colmeia,105,2
+health_beauty,chaveslandia,233.79,2
+watches_gifts,chapada do norte,373.9,2
+sports_leisure,chale,116.4,2
+cool_stuff,chacara,175.7,2
+garden_tools,cerro negro,118,2
+home_confort,cerro grande do sul,184,2
+telephony,celina,174.9,2
+food_drink,ceara-mirim,305.46,2
+watches_gifts,cavalcante,158.99,2
+telephony,caturama,84.99,2
+fashion_bags_accessories,castro alves,58.9,2
+sports_leisure,carutapera,174.9,2
+health_beauty,carolina,429.8,2
+fashion_bags_accessories,carnaubal,214.89,2
+health_beauty,carnaubais,339,2
+telephony,carnaiba do sertao,54.98,2
+computers_accessories,carmopolis,87.31,2
+health_beauty,carmo do rio verde,169.89,2
+home_appliances,carlinda,204.9,2
+computers_accessories,caririacu,454,2
+garden_tools,carinhanha,348.9,2
+watches_gifts,caraiba,416.89,2
+cool_stuff,caputira,454.28,2
+sports_leisure,capitao eneas,65.6,2
+bed_bath_table,capitao,107.8,2
+watches_gifts,capinzal do norte,395,2
+toys,capim branco,152.78,2
+computers_accessories,capetinga,198.9,2
+sports_leisure,capela de santana,352,2
+health_beauty,capao da porteira,157,2
+furniture_decor,canitar,287.25,2
+auto,caninde de sao francisco,250.8,2
+auto,canhotinho,367,2
+construction_tools_construction,candoi,43,2
+health_beauty,candido mendes,239.8,2
+electronics,campo magro,39.8,2
+computers_accessories,campo florido,59.8,2
+health_beauty,campo alegre do fidalgo,194.98,2
+baby,campo alegre de goias,175.89,2
+pet_shop,campina do monte alegre,237.9,2
+furniture_decor,campina das missoes,155.8,2
+housewares,campestre do maranhao,249.89,2
+sports_leisure,campestre da serra,1348.99,2
+watches_gifts,campanario,278.7,2
+computers_accessories,cambara do sul,372,2
+furniture_decor,california,103.8,2
+bed_bath_table,caiua,146,2
+home_confort,cachoeira do campo,828.99,2
+housewares,buritizal,66.99,2
+health_beauty,buritirama,251.9,2
+toys,buriti dos lopes,268.9,2
+watches_gifts,buenos aires,247.9,2
+watches_gifts,brazabrantes,53.5,2
+telephony,bras pires,76.8,2
+consoles_games,braco do rio,101.49,2
+sports_leisure,botuvera,181.9,2
+watches_gifts,boqueirao do leao,227.9,2
+health_beauty,bonfinopolis de minas,1387.2,2
+garden_tools,bom retiro do sul,1379,2
+cool_stuff,bom jesus da serra,279.89,2
+bed_bath_table,bom jesus da penha,85.89,2
+furniture_decor,bodoquena,428,2
+home_construction,bodoco,202.8,2
+perfumery,bocaiuva do sul,49.89,2
+baby,boca da mata,219.73,2
+telephony,boa vista do gurupi,93.89,2
+watches_gifts,bias fortes,80.9,2
+sports_leisure,benevides,228.89,2
+perfumery,belem do sao francisco,654.5,2
+costruction_tools_garden,bataypora,256.89,2
+fixed_telephony,barrolandia,80.99,2
+health_beauty,barra de sao miguel,155.98,2
+telephony,barra de santo antonio,567,2
+watches_gifts,barra de santa rosa,400.4,2
+watches_gifts,barra de guabiraba,486.4,2
+sports_leisure,barra,143.9,2
+furniture_decor,barao de cotegipe,126.89,2
+health_beauty,bandeirantes do tocantins,369.98,2
+kitchen_dining_laundry_garden_furniture,baldim,650.99,2
+furniture_decor,baianopolis,416.3,2
+telephony,avelino lopes,72.89,2
+computers_accessories,aurea,409.5,2
+bed_bath_table,augusto pestana,76.88,2
+furniture_living_room,ataleia,164.8,2
+furniture_decor,aruana,144.8,2
+baby,arroio do tigre,285,2
+health_beauty,arraias,197.9,2
+,armazem,249.9,2
+baby,areia,119.8,2
+garden_tools,aratuba,343.9,2
+stationery,araripe,268.6,2
+construction_tools_construction,ararica,187,2
+home_confort,arari,708.8,2
+sports_leisure,araponga,239.9,2
+health_beauty,arapei,324.89,2
+baby,aramari,167.4,2
+computers_accessories,araguapaz,120.9,2
+furniture_decor,aracitaba,119.8,2
+health_beauty,aquiraz,428.99,2
+watches_gifts,apuiares,339.89,2
+cool_stuff,aparecida de sao manuel,226.3,2
+telephony,antonio pereira,88.99,2
+fashion_bags_accessories,antonio cardoso,369.89,2
+furniture_decor,antonina do norte,76.8,2
+telephony,anitapolis,608.99,2
+sports_leisure,anastacio,116.9,2
+computers_accessories,anage,63.8,2
+telephony,anadia,379.89,2
+bed_bath_table,ametista do sul,242.8,2
+watches_gifts,amaraji,476.89,2
+office_furniture,alvorada d'oeste,359.98,2
+furniture_decor,alvaro de carvalho,358,2
+sports_leisure,alvarenga,211,2
+watches_gifts,alto rio novo,266.5,2
+baby,alto parana,389.9,2
+computers,alto paraiso,1256.99,2
+cool_stuff,alto garcas,258.8,2
+home_confort,alto caparao,478.9,2
+auto,altinho,363.8,2
+small_appliances,altamira do parana,259.1,2
+baby,alpercata,228.8,2
+watches_gifts,almas,78,2
+auto,alhandra,1037,2
+toys,alfredo wagner,794.8,2
+fashion_male_clothing,alexandrita,99.8,2
+fashion_bags_accessories,alexandria,159.8,2
+telephony,alcantara,424.8,2
+sports_leisure,alagoinha,269.9,2
+housewares,ajuricaba,191.9,2
+health_beauty,aguia branca,157.89,2
+housewares,aguas de sao pedro,274.99,2
+garden_tools,agua santa,163.9,2
+construction_tools_construction,agua doce,289.98,2
+watches_gifts,agua comprida,106.9,2
+auto,agua clara,219.89,2
+telephony,agronomica,204.87,2
+health_beauty,afranio,357.9,2
+garden_tools,acegua,209.9,2
+sports_leisure,acaiaca,164.9,2
+health_beauty,abrantes,678,2
+bed_bath_table,abdon batista,125.4,2
+watches_gifts,abare,185.19,2
+telephony,abaira,157.99,2
+auto,abaiara,262.9,2
+health_beauty,xexeu,87.5,1
+auto,wenceslau guimaraes,110,1
+baby,wagner,119.9,1
+health_beauty,vitorinos,89.99,1
+fashion_bags_accessories,vitorino,49,1
+consoles_games,vitoria do jari,85.95,1
+sports_leisure,vista alegre,22,1
+watches_gifts,viseu,301,1
+sports_leisure,virginia,35.9,1
+toys,vila reis,69.9,1
+bed_bath_table,vila pereira,92.8,1
+health_beauty,vila nova do sul,84.99,1
+furniture_decor,vila flor,99.73,1
+telephony,vila bela da santissima trindade,29.99,1
+health_beauty,vieiras,325,1
+telephony,vicosa do ceara,18.95,1
+home_appliances_2,vicentina,189.9,1
+,vicente dutra,12.99,1
+cool_stuff,vespasiano correa,144.99,1
+sports_leisure,vertentes,23.99,1
+telephony,vermelho novo,33.87,1
+computers_accessories,vermelho,98,1
+auto,venda branca,117.3,1
+garden_tools,varzedo,39.9,1
+home_appliances,varzea nova,86,1
+perfumery,varzea do poco,56.99,1
+sports_leisure,varzea,98.99,1
+bed_bath_table,vargem grande do soturno,89.9,1
+bed_bath_table,vargem grande,79.9,1
+toys,vargeao,499.9,1
+stationery,vanini,89,1
+telephony,vale do sol,21.99,1
+bed_bath_table,valao do barro,67.1,1
+cool_stuff,urucuia,149.99,1
+bed_bath_table,urucania,149,1
+health_beauty,uruburetama,58.99,1
+telephony,uruana de minas,17.9,1
+health_beauty,unistalda,37.9,1
+,uniao dos palmares,259.99,1
+fashion_shoes,uniao do sul,220.7,1
+telephony,uniao do oeste,24.99,1
+toys,uniao da serra,18.5,1
+toys,uniao,329,1
+computers_accessories,umburatiba,109.99,1
+auto,umburanas,99.9,1
+health_beauty,ulianopolis,27.3,1
+furniture_living_room,ubirajara,79.9,1
+computers_accessories,ubai,43.5,1
+,turvelandia,27.3,1
+watches_gifts,tururu,189,1
+electronics,tupassi,19.9,1
+telephony,tuparece,13.5,1
+furniture_decor,tunapolis,315.39,1
+watches_gifts,tumiritinga,459,1
+watches_gifts,tuiuti,49,1
+telephony,trombas,16.97,1
+health_beauty,treviso,118.9,1
+computers_accessories,tres forquilhas,82.8,1
+costruction_tools_garden,travesseiro,16.6,1
+toys,traipu,42.99,1
+telephony,tracuateua,13.98,1
+telephony,trabiju,259.99,1
+telephony,tome-acu,24.99,1
+garden_tools,tocos do moji,55,1
+computers_accessories,tiradentes do sul,46.86,1
+garden_tools,tibau do sul,99.99,1
+cool_stuff,terra nova,209.99,1
+computers_accessories,termas de ibira,71.9,1
+bed_bath_table,terezinha,39.99,1
+stationery,teresina de goias,79,1
+computers_accessories,terenos,62.89,1
+sports_leisure,tenente ananias,229.9,1
+telephony,telha,212.4,1
+fashion_bags_accessories,teixeira,34.9,1
+auto,tecainda,149.99,1
+furniture_decor,tavares,176.99,1
+furniture_decor,taquarucu do sul,70,1
+cool_stuff,taquarana,146.99,1
+sports_leisure,tapurah,125,1
+garden_tools,tapinas,89.99,1
+drinks,taperuaba,55.49,1
+health_beauty,tapera,61.8,1
+computers_accessories,taparuba,89,1
+sports_leisure,tangara,354.9,1
+toys,tamboara,8.99,1
+fashion_bags_accessories,tamandare,49,1
+bed_bath_table,taiacu,60.5,1
+garden_tools,tacuru,120,1
+computers_accessories,tabuleiro do norte,44.99,1
+telephony,taboquinhas,289,1
+health_beauty,suzanapolis,76.9,1
+toys,sulina,29.9,1
+bed_bath_table,sobralia,24.9,1
+telephony,siriji,39.99,1
+home_appliances,simplicio mendes,16.6,1
+housewares,simao pereira,149,1
+computers_accessories,silveira carvalho,28.9,1
+auto,silvanopolis,229.99,1
+cool_stuff,silvano,99.99,1
+health_beauty,severiano melo,120,1
+fashion_bags_accessories,sete de setembro,54.9,1
+home_appliances,sertao santana,20.9,1
+perfumery,serranopolis de minas,119.9,1
+perfumery,serra dos dourados,65,1
+computers_accessories,serra do salitre,49.99,1
+bed_bath_table,serra branca,84.9,1
+office_furniture,serra bonita,169.99,1
+housewares,serra azul,72.5,1
+christmas_supplies,serio,22.9,1
+perfumery,sento se,53.99,1
+furniture_decor,senhora dos remedios,29.99,1
+health_beauty,senador salgado filho,83.8,1
+fixed_telephony,senador la rocque,90,1
+books_general_interest,senador jose porfirio,6,1
+sports_leisure,selbach,49.9,1
+furniture_decor,sede alvorada,119,1
+telephony,sebastiao leal,24.99,1
+housewares,saubara,179.9,1
+consoles_games,satiro dias,24.5,1
+bed_bath_table,sarutaia,59.9,1
+bed_bath_table,sardoa,119.9,1
+bed_bath_table,sao vitor,99.9,1
+auto,sao sebastiao do paraiba,540,1
+sports_leisure,sao sebastiao de campos,23.8,1
+garden_tools,sao sebastiao da serra,157.9,1
+sports_leisure,sao sebastiao da amoreira,45,1
+electronics,sao rafael,19.9,1
+fashion_shoes,sao pedro do sul,98.7,1
+auto,sao pedro do iguacu,117.3,1
+health_beauty,sao pedro do butia,99.9,1
+perfumery,sao pedro da agua branca,309.9,1
+health_beauty,sao patricio,158.7,1
+,sao nicolau,122.99,1
+auto,sao miguel do cambui,59.9,1
+auto,sao miguel do aleixo,20,1
+office_furniture,sao miguel das matas,169.94,1
+furniture_decor,sao mateus de minas,59.88,1
+fashion_bags_accessories,sao mamede,86,1
+cool_stuff,sao luiz do norte,129.99,1
+sports_leisure,sao lourenco do piaui,152.49,1
+sports_leisure,sao jose dos cordeiros,180,1
+bed_bath_table,sao jose do xingu,49.3,1
+bed_bath_table,sao jose do serido,149.9,1
+electronics,sao jose do ribeirao,97.9,1
+computers_accessories,sao jose do piaui,149.9,1
+bed_bath_table,sao jose do inhacora,77.99,1
+telephony,sao jose do campestre,289,1
+fashion_bags_accessories,sao jose da tapera,109.9,1
+cool_stuff,sao jose da boa vista,118.99,1
+health_beauty,sao jorge do oeste,34.9,1
+bed_bath_table,sao jorge d'oeste,89.9,1
+computers_accessories,sao jorge,63.99,1
+stationery,sao joaquim do monte,79,1
+health_beauty,sao joao do sobrado,55.92,1
+housewares,sao joao do sabugi,26.9,1
+telephony,sao joao do itaperiu,755.99,1
+telephony,sao joao de petropolis,27.99,1
+cool_stuff,sao joao da urtiga,139.9,1
+housewares,sao joao da ponte,461.84,1
+toys,sao joao da parauna,159.99,1
+auto,sao goncalo do rio das pedras,169,1
+auto,sao geraldo do baguari,117.3,1
+health_beauty,sao francisco do humaita,170.8,1
+home_appliances,sao francisco do gloria,69.9,1
+computers_accessories,sao francisco do brejao,31.9,1
+perfumery,sao fernando,125.9,1
+telephony,sao felix de minas,388.9,1
+computers_accessories,sao felix,27.9,1
+sports_leisure,sao domingos do araguaia,227,1
+furniture_decor,sao desiderio,125,1
+cool_stuff,sao cristovao do sul,118.99,1
+computers_accessories,sao clemente,139.8,1
+furniture_decor,sao carlos do ivai,93,1
+furniture_decor,sao bras,29.9,1
+perfumery,sao bonifacio,101,1
+sports_leisure,sao bernardino,189.9,1
+auto,sao bento abade,16,1
+health_beauty,sao bentinho,35,1
+fixed_telephony,sao benedito do sul,39.99,1
+computers_accessories,sao benedito do rio preto,95,1
+computers_accessories,santo inacio,65.9,1
+computers_accessories,santo hipolito,104.4,1
+cool_stuff,santo expedito do sul,209.99,1
+telephony,santo expedito,280,1
+watches_gifts,santo antonio dos campos,159,1
+home_appliances,santo antonio do taua,32.9,1
+christmas_supplies,santo antonio do rio abaixo,6,1
+furniture_decor,santo antonio do planalto,189,1
+luggage_accessories,santo antonio do leverger,97,1
+bed_bath_table,santo antonio do leste,149,1
+toys,santo antonio do canaa,160,1
+bed_bath_table,santo antonio do aventureiro,77.99,1
+telephony,santo antonio do aracangua,1099,1
+baby,santo antonio de goias,119.9,1
+health_beauty,santo antonio das queimadas,84.99,1
+electronics,santo amaro das brotas,19.9,1
+luggage_accessories,santana do sobrado,36.9,1
+garden_tools,santana do itarare,53.9,1
+sports_leisure,santana do ipanema,249.9,1
+audio,santana do deserto,190.9,1
+telephony,santana do capivari,25,1
+computers_accessories,santana de pirapama,49.9,1
+computers_accessories,santa salete,81.99,1
+bed_bath_table,santa rosa do sul,199,1
+garden_tools,santa rita do itueto,59.9,1
+telephony,santa rita de jacutinga,29.99,1
+stationery,santa rita da floresta,79,1
+health_beauty,santa quiteria do maranhao,49.9,1
+consoles_games,santa maria do salto,38,1
+sports_leisure,santa maria do herval,99.99,1
+health_beauty,santa luzia do parua,79.9,1
+sports_leisure,santa luzia do norte,23.8,1
+bed_bath_table,santa leopoldina,89.9,1
+toys,santa isabel do rio preto,739.9,1
+health_beauty,santa filomena,160,1
+health_beauty,santa fe de minas,159.9,1
+toys,santa cruz do timbo,30.99,1
+cool_stuff,santa cruz do piaui,119.99,1
+health_beauty,santa clara d'oeste,99.99,1
+perfumery,santa cecilia do pavao,56.99,1
+fashion_shoes,santa brigida,84.9,1
+office_furniture,santa barbara do para,179.96,1
+health_beauty,santa amelia,160,1
+musical_instruments,sanga puita,36.9,1
+watches_gifts,sandolandia,799,1
+cool_stuff,sambaiba,178.9,1
+housewares,salvador do sul,179,1
+computers,salto grande,640,1
+watches_gifts,salto do itarare,259.9,1
+garden_tools,salobro,72.2,1
+sports_leisure,salinas da margarida,55,1
+toys,sacra familia do tingua,119.8,1
+watches_gifts,saboeiro,163.99,1
+fashion_underwear_beach,sabaudia,5.9,1
+housewares,rubineia,100,1
+books_technical,rubelita,57.89,1
+watches_gifts,rosario do ivai,29,1
+auto,rosario,28.12,1
+watches_gifts,romelandia,159.99,1
+bed_bath_table,riversul,89.9,1
+sports_leisure,rio rufino,59,1
+fashion_bags_accessories,rio grande do piaui,24.9,1
+market_place,rio espera,149.9,1
+luggage_accessories,rio dos indios,79.9,1
+luggage_accessories,rio dos cedros,49.9,1
+industry_commerce_and_business,rincao,79,1
+electronics,ribeiropolis,65,1
+bed_bath_table,ribeiro junqueira,149,1
+fashion_bags_accessories,ribeirao cascalheira,29.9,1
+auto,ribeira do amparo,45,1
+telephony,ribas do rio pardo,47.9,1
+bed_bath_table,riachuelo,39.97,1
+watches_gifts,riacho de santo antonio,129.9,1
+perfumery,riacho da cruz,129.9,1
+furniture_decor,retirolandia,89.9,1
+cool_stuff,ressaquinha,189.9,1
+electronics,reserva do iguacu,14,1
+computers_accessories,remigio,149.9,1
+computers_accessories,redencao da serra,89.9,1
+bed_bath_table,ravena,69.99,1
+auto,rancho alegre d'oeste,117.3,1
+electronics,rancho alegre,89.9,1
+health_beauty,rainha do mar,59.9,1
+construction_tools_safety,quipapa,230,1
+furniture_decor,quilometro 14 do mutum,49.9,1
+bed_bath_table,querencia do norte,79.9,1
+computers_accessories,queixada,59,1
+fashion_male_clothing,queiroz,45,1
+computers_accessories,quatro pontes,149,1
+watches_gifts,quatituba,105,1
+watches_gifts,puxinana,219,1
+cool_stuff,purilandia,166.99,1
+fashion_bags_accessories,pureza,49.9,1
+sports_leisure,pugmil,114.9,1
+fixed_telephony,prudencio thomaz,32.99,1
+cool_stuff,progresso,215,1
+health_beauty,presidente nereu,52.99,1
+telephony,presidente lucena,16.99,1
+telephony,presidente juscelino,249.99,1
+computers_accessories,presidente janio quadros,149.9,1
+telephony,presidente castello branco,19.9,1
+sports_leisure,pratapolis,49.99,1
+garden_tools,pranchita,158.67,1
+consoles_games,praia norte,79,1
+luggage_accessories,pouso novo,54.9,1
+furniture_decor,porto rico,299,1
+telephony,porto murtinho,55,1
+furniture_decor,porto lucena,59.89,1
+garden_tools,porto grande,29.99,1
+perfumery,porto estrela,129.9,1
+garden_tools,porto dos gauchos,609,1
+computers_accessories,porto de pedras,179.9,1
+agro_industry_and_commerce,porto alegre do norte,410,1
+fashion_shoes,porto acre,74.9,1
+watches_gifts,portela,229.9,1
+computers_accessories,porteiras,16.55,1
+electronics,ponto do marambaia,13.7,1
+health_beauty,ponto belo,79.9,1
+garden_tools,pontes gestal,89.99,1
+bed_bath_table,ponte alta do norte,39.99,1
+stationery,pontao,44.9,1
+watches_gifts,pombos,105,1
+stationery,polo petroquimico de triunfo,5.6,1
+telephony,poco de pedra,174,1
+housewares,pocao de pedras,179,1
+telephony,pocao,299.99,1
+toys,planaltina do parana,10.75,1
+computers_accessories,pium,20,1
+small_appliances,pitimbu,388.9,1
+health_beauty,pitanga de estrada,120,1
+computers,pirpirituba,1340,1
+telephony,pires ferreira,18.95,1
+auto,piratini,69.9,1
+bed_bath_table,pirapo,75.27,1
+telephony,pirambu,289,1
+bed_bath_table,pirajuba,135.9,1
+sports_leisure,pirai do norte,29.49,1
+computers_accessories,piracema,149,1
+bed_bath_table,piquerobi,85,1
+garden_tools,pio xii,479.99,1
+luggage_accessories,pio ix,149.99,1
+health_beauty,pinto bandeira,49.9,1
+garden_tools,pinhotiba,59.9,1
+electronics,pinhal da serra,19.9,1
+,pingo-d'agua,369.48,1
+garden_tools,pindoretama,37.55,1
+computers_accessories,picarras,155,1
+housewares,picada cafe,32,1
+perfumery,piao,56.99,1
+garden_tools,pianco,2200,1
+cool_stuff,piacu,166.99,1
+housewares,piacatu,51.19,1
+telephony,pescador,29.9,1
+sports_leisure,perola independente,84.9,1
+watches_gifts,perobal,80,1
+,peri mirim,34.99,1
+bed_bath_table,pereiras,54.99,1
+cool_stuff,pequizeiro,219.99,1
+housewares,pequi,169.99,1
+computers_accessories,peixe,89.99,1
+health_beauty,pedro velho,61.99,1
+sports_leisure,pedro gomes,113,1
+bed_bath_table,pedras altas,89.9,1
+health_beauty,pedrao,325,1
+auto,pedranopolis,59.9,1
+sports_leisure,pedra menina,23.4,1
+baby,pedra lavrada,50,1
+cool_stuff,pedra do indaia,72.99,1
+bed_bath_table,pavao,60,1
+furniture_decor,paulistania,99,1
+agro_industry_and_commerce,paulino neves,559.99,1
+bed_bath_table,paula candido,129,1
+sports_leisure,patis,49.9,1
+garden_tools,passagem,1199,1
+garden_tools,passa tempo,120,1
+cool_stuff,parnarama,166.99,1
+health_beauty,parisi,34.49,1
+health_beauty,paripueira,349.9,1
+agro_industry_and_commerce,pareci novo,22,1
+garden_tools,paranhos,279,1
+garden_tools,paranapoema,89.99,1
+computers_accessories,paraju,79.9,1
+telephony,paraiso do sul,28.99,1
+telephony,paraiso das aguas,34.99,1
+office_furniture,pancas,159.94,1
+cool_stuff,palmopolis,89.99,1
+cool_stuff,palminopolis,199,1
+fashion_bags_accessories,palmeira d oeste,49.9,1
+stationery,palmares paulista,59.9,1
+toys,palhano,99,1
+health_beauty,paineiras,58.99,1
+auto,paial,139.99,1
+garden_tools,padre paraiso,59.9,1
+bed_bath_table,padre gonzales,50,1
+food,pacotuba,50.9,1
+electronics,ouro verde do oeste,14.9,1
+housewares,ouro verde de goias,82.9,1
+auto,ourizona,143.8,1
+computers_accessories,ourem,31.9,1
+cool_stuff,osvaldo kroeff,239.99,1
+bed_bath_table,orobo,99.9,1
+home_construction,orizania,129.95,1
+home_construction,onda verde,69.81,1
+health_beauty,olhos d'agua,99.9,1
+garden_tools,oleo,59.9,1
+telephony,olaria,79.9,1
+electronics,oiapoque,385,1
+telephony,novo planalto,27.99,1
+telephony,novo oriente de minas,259.99,1
+furniture_decor,novo mundo,59.15,1
+cool_stuff,novo machado,59.99,1
+baby,novo lino,79.9,1
+computers_accessories,novo jardim,23.9,1
+housewares,novo cabrais,55,1
+bed_bath_table,novo brasil,85.9,1
+,novo alegre,279.99,1
+health_beauty,novais,99.9,1
+home_appliances_2,nova vicosa,205.99,1
+bed_bath_table,nova ubirata,99.9,1
+bed_bath_table,nova timboteua,99.9,1
+sports_leisure,nova santa barbara,113,1
+baby,nova roma do sul,1106.99,1
+bed_bath_table,nova roma,49.99,1
+health_beauty,nova resende,10.99,1
+telephony,nova redencao,19.9,1
+furniture_decor,nova padua,69.9,1
+audio,nova luzitania,22.9,1
+auto,nova laranjeiras,208.1,1
+market_place,nova lacerda,339.74,1
+health_beauty,nova independencia,23.9,1
+furniture_mattress_and_upholstery,nova guataporanga,75,1
+housewares,nova guarita,25,1
+office_furniture,nova floresta,129.6,1
+perfumery,nova esperanca do sudoeste,84.99,1
+watches_gifts,nova esperanca do piria,2199,1
+health_beauty,nova crixas,153.4,1
+construction_tools_construction,nova brescia,48.9,1
+bed_bath_table,nova boa vista,52.9,1
+cool_stuff,nova araca,119.99,1
+health_beauty,nova america da colina,58.99,1
+computers_accessories,nova america,51,1
+housewares,nossa senhora de lourdes,79.99,1
+watches_gifts,nossa senhora das dores,559,1
+baby,nortelandia,174.9,1
+housewares,nobres,41.99,1
+consoles_games,neopolis,235,1
+telephony,nazare da mata,99.99,1
+sports_leisure,natividade da serra,125,1
+furniture_decor,natercia,39.9,1
+perfumery,nantes,79,1
+fashion_shoes,nacip raydan,74.9,1
+sports_leisure,mutunopolis,24.41,1
+musical_instruments,mutum parana,39.9,1
+cool_stuff,mussurepe,99.99,1
+electronics,murucupi,129.9,1
+housewares,muritiba,159.49,1
+housewares,murici,49.9,1
+,muliterno,235,1
+baby,mucuge,256.99,1
+bed_bath_table,mucambo,119.9,1
+toys,mossamedes,49.99,1
+computers_accessories,morro vermelho,31.9,1
+luggage_accessories,morro redondo,209.9,1
+auto,morro do pilar,69.9,1
+health_beauty,morro do ferro,120,1
+cool_stuff,morro da garca,199,1
+home_appliances,morro agudo de goias,32.9,1
+telephony,montividiu do norte,17.99,1
+furniture_decor,monteiropolis,159.9,1
+garden_tools,monte santo,23.21,1
+cool_stuff,monte bonito,29.5,1
+industry_commerce_and_business,monte alverne,268,1
+home_appliances,monte alegre de sergipe,80,1
+health_beauty,montanhas,325,1
+health_beauty,montadas,84.99,1
+perfumery,monsenhor paulo,53.99,1
+cool_stuff,moncao,85.99,1
+housewares,mombaca,219.9,1
+auto,moema,189.99,1
+pet_shop,moeda,69.9,1
+fashion_underwear_beach,mocajuba,59.9,1
+stationery,missi,109.9,1
+auto,missao velha,14.99,1
+fashion_bags_accessories,miravania,35,1
+computers_accessories,mirante da serra,120.9,1
+health_beauty,miranda do norte,120,1
+cool_stuff,miraguai,169.97,1
+health_beauty,miradouro,49.9,1
+perfumery,mira estrela,198,1
+christmas_supplies,ministro andreazza,69.9,1
+sports_leisure,minduri,19.9,1
+fixed_telephony,minas do leao,256,1
+watches_gifts,mimoso de goias,159.9,1
+sports_leisure,messias targino,59.9,1
+sports_leisure,meridiano,119,1
+consoles_games,medicilandia,8.99,1
+furniture_decor,mauriti,14.9,1
+health_beauty,matriz de camaragibe,64,1
+sports_leisure,matoes,72,1
+luggage_accessories,mato rico,72.9,1
+musical_instruments,mata,399.85,1
+baby,martinesia,34.89,1
+baby,marques de souza,29.9,1
+auto,mariopolis,154.99,1
+cool_stuff,marilena,89.99,1
+bed_bath_table,marilandia do sul,159.9,1
+small_appliances_home_oven_and_coffee,mariental,1799,1
+computers_accessories,maribondo,49.9,1
+computers_accessories,mariano moro,125,1
+health_beauty,marechal deodoro,349.9,1
+electronics,marcos parente,13.65,1
+perfumery,marcelino vieira,117.7,1
+stationery,maranhaozinho,40.9,1
+health_beauty,maquine,122.99,1
+fashion_bags_accessories,mansidao,49,1
+sports_leisure,manoel urbano,194.99,1
+sports_leisure,manfrinopolis,111,1
+health_beauty,manaira,90,1
+home_appliances,mampituba,40.95,1
+home_confort,mamonas,230,1
+health_beauty,malhador,23.99,1
+perfumery,major porto,84.99,1
+,mairipotaba,129.77,1
+baby,maiquinique,119.4,1
+watches_gifts,magalhaes de almeida,270.9,1
+telephony,mae d'agua,39.89,1
+cool_stuff,madalena,132.9,1
+watches_gifts,macuco de minas,199,1
+cool_stuff,macuco,69.9,1
+pet_shop,machados,89.9,1
+musical_instruments,machadinho,48,1
+sports_leisure,macambira,173.9,1
+watches_gifts,luziapolis,129.99,1
+baby,lutecia,887,1
+sports_leisure,luis correia,115,1
+stationery,lucena,89,1
+computers,loreto,1599.99,1
+health_beauty,livramento,269.9,1
+toys,lindolfo collor,110.9,1
+electronics,lindoia do sul,103.9,1
+telephony,liberato salzano,12.99,1
+electronics,leopolis,18.9,1
+musical_instruments,leopoldo de bulhoes,283.02,1
+telephony,leoberto leal,24.99,1
+sports_leisure,lebon regis,53.9,1
+toys,lavrinhas,599.9,1
+sports_leisure,laranja da terra,69.9,1
+computers_accessories,lamim,89.9,1
+watches_gifts,lamarao,59,1
+telephony,lajeado grande,130,1
+watches_gifts,laje do muriae,219,1
+,lagoinha do piaui,115,1
+home_construction,lagoao,156.45,1
+furniture_decor,lagoa salgada,30.24,1
+furniture_decor,lagoa real,410,1
+auto,lagoa dos tres cantos,74.9,1
+cool_stuff,lagoa dos patos,59.9,1
+perfumery,lagoa do piaui,84.99,1
+computers_accessories,lagoa do mato,35.99,1
+watches_gifts,lagoa de velhos,199,1
+health_beauty,lagoa de sao francisco,68.99,1
+bed_bath_table,lagoa da canoa,160.99,1
+telephony,lagoa d'anta,170,1
+health_beauty,lagoa,110,1
+health_beauty,lago verde,98,1
+health_beauty,jussiape,37,1
+bed_bath_table,juruti,49.9,1
+telephony,juru,890,1
+furniture_living_room,juripiranga,69.99,1
+electronics,jurema,29.5,1
+health_beauty,jucas,325,1
+furniture_decor,joselandia,73.35,1
+sports_leisure,jose da penha,159.99,1
+telephony,joaquim pires,12.97,1
+fashion_bags_accessories,joao dourado,19.9,1
+health_beauty,joaima,37.9,1
+watches_gifts,jiquirica,499.99,1
+computers_accessories,jeriquara,129,1
+auto,jerico,75,1
+watches_gifts,jequeri,655,1
+sports_leisure,jenipapo de minas,7.48,1
+bed_bath_table,jaupaci,89.9,1
+food,jaua,149.9,1
+garden_tools,jardim olinda,139,1
+health_beauty,jardim de piranhas,23.9,1
+telephony,jardim abc de goias,19.99,1
+electronics,jaquirana,499,1
+furniture_decor,japoata,179.9,1
+kitchen_dining_laundry_garden_furniture,japi,229.9,1
+cool_stuff,japaratuba,99.99,1
+auto,japaraiba,108.9,1
+perfumery,janduis,84.99,1
+telephony,jampruca,235.9,1
+housewares,jamapara,32,1
+computers_accessories,jamaica,59,1
+health_beauty,jaguaribara,98,1
+bed_bath_table,jaguarembe,33.99,1
+,jaguaracu,55.9,1
+small_appliances,jaguapita,759.05,1
+housewares,jacuizinho,59.54,1
+telephony,jacuipe,13.98,1
+fashion_bags_accessories,jacareacanga,49,1
+,jacarau,47.81,1
+sports_leisure,ivora,149.9,1
+furniture_decor,itutinga,69.9,1
+health_beauty,itupiranga,399,1
+auto,itiquira,133,1
+computers_accessories,itatiba do sul,39.9,1
+bed_bath_table,itarema,72.9,1
+baby,itaporanga d'ajuda,159.99,1
+signaling_and_security,itape,230,1
+pet_shop,itaparica,168.49,1
+office_furniture,itapage,159.99,1
+home_confort,itanhem,230,1
+bed_bath_table,itanhanga,69.99,1
+telephony,itaju do colonia,39.9,1
+fixed_telephony,itaicaba,32.99,1
+baby,itaguari,887,1
+health_beauty,itaguacu da bahia,249.7,1
+luggage_accessories,itagimirim,129.9,1
+auto,itacurussa,59.9,1
+sports_leisure,itabirinha,108,1
+fashion_bags_accessories,itabi,89.9,1
+bed_bath_table,itaara,56.99,1
+telephony,isaias coelho,170,1
+auto,iretama,117.3,1
+costruction_tools_garden,ipupiara,495,1
+furniture_decor,ipuiuna,169.9,1
+cool_stuff,ipueira,169.99,1
+market_place,ipiranga do sul,109.9,1
+stationery,ipiranga do norte,95,1
+auto,ipiranga de goias,119.9,1
+sports_leisure,ipecaeta,23.4,1
+toys,ipaumirim,269.9,1
+bed_bath_table,iomere,49,1
+housewares,inocencia,36.9,1
+watches_gifts,inhuma,78,1
+watches_gifts,ingai,96,1
+health_beauty,inga,130,1
+watches_gifts,indiaroba,48,1
+telephony,independencia,110,1
+bed_bath_table,ilicinea,89.9,1
+watches_gifts,ilha grande,139.9,1
+auto,ilha dos valadares,67.99,1
+telephony,igrapiuna,29.99,1
+bed_bath_table,igaratinga,253.52,1
+telephony,igarape-miri,27.99,1
+watches_gifts,igarape-acu,69,1
+fashion_bags_accessories,igapora,39.99,1
+baby,icatu,778,1
+computers_accessories,icaraima,27.9,1
+audio,ibitiuva,14.9,1
+garden_tools,ibitita,1450,1
+health_beauty,ibitira,399,1
+office_furniture,ibitioca,169.99,1
+health_beauty,ibitiara,118.9,1
+perfumery,ibirapua,122.99,1
+cool_stuff,ibiracatu,129.99,1
+sports_leisure,ibipeba,61.7,1
+telephony,ibicuitinga,28.99,1
+watches_gifts,ibiara,278,1
+watches_gifts,ibiajara,45,1
+computers_accessories,ibertioga,162.5,1
+furniture_decor,ibema,134.9,1
+furniture_decor,ibarama,149,1
+bed_bath_table,iaras,79.99,1
+luggage_accessories,humildes,249.99,1
+cool_stuff,humberto de campos,45.9,1
+home_confort,hulha negra,329,1
+furniture_decor,herveiras,109,1
+toys,heliopolis,149,1
+auto,guzolandia,101.62,1
+cool_stuff,guiricema,149.9,1
+garden_tools,guinda,25,1
+watches_gifts,guimaraes,199.99,1
+telephony,guia lopes da laguna,29.99,1
+telephony,guatapara,75,1
+computers_accessories,guassusse,149.9,1
+bed_bath_table,guaraquecaba,49.9,1
+toys,guarapua,60,1
+furniture_decor,guapirama,89.9,1
+office_furniture,guape,176.96,1
+housewares,guamiranga,214,1
+garden_tools,guabiju,33.6,1
+office_furniture,grupiara,129.94,1
+watches_gifts,groairas,152.15,1
+sports_leisure,gramado xavier,52.9,1
+cool_stuff,gramado dos loureiros,209.99,1
+cool_stuff,graccho cardoso,610,1
+computers_accessories,governador mangabeira,98,1
+home_construction,governador eugenio barros,346.32,1
+watches_gifts,governador dix-sept rosado,159.9,1
+telephony,gongogi,29.99,1
+computers_accessories,goncalves dias,65,1
+pet_shop,goiandira,94.9,1
+cool_stuff,godoy moreira,1049,1
+toys,glaura,69.9,1
+consoles_games,girau do ponciano,39.9,1
+home_construction,gilbues,296,1
+auto,gentio do ouro,98.7,1
+computers_accessories,general maynard,197.5,1
+stationery,general camara,89,1
+market_place,garruchos,62.9,1
+health_beauty,galvao,59.5,1
+baby,galinhos,240,1
+cool_stuff,galia,199,1
+bed_bath_table,gabriel monteiro,34.9,1
+perfumery,frutuoso gomes,79.99,1
+furniture_decor,frei rogerio,99.9,1
+furniture_decor,frei gaspar,74.9,1
+computers_accessories,francisco santos,20.9,1
+perfumery,francisco dantas,198.9,1
+cool_stuff,fragosos,99.99,1
+electronics,foz do jordao,49,1
+watches_gifts,fortim,179,1
+baby,fortaleza dos valos,100,1
+furniture_decor,formosa do oeste,69.9,1
+health_beauty,formosa da serra negra,99,1
+cool_stuff,fontoura xavier,199,1
+bed_bath_table,fonseca,89.65,1
+sports_leisure,florinia,41.5,1
+baby,florida,69.9,1
+fashion_male_clothing,floresta do araguaia,129.99,1
+telephony,flores de goias,24.99,1
+furniture_decor,florania,35.5,1
+baby,flora rica,200,1
+sports_leisure,filadelfia,79.9,1
+health_beauty,ferreiros,95,1
+watches_gifts,fernao,29,1
+bed_bath_table,fenix,44.99,1
+luggage_accessories,feliz natal,259.99,1
+construction_tools_construction,felixlandia,75,1
+furniture_decor,felisburgo,99.9,1
+,felipe guerra,122.99,1
+sports_leisure,felicio dos santos,169.9,1
+furniture_decor,faxinalzinho,19.9,1
+garden_tools,farol,126.99,1
+perfumery,fagundes,198.9,1
+perfumery,ewbank da camara,79.99,1
+housewares,eugenio de castro,97,1
+audio,estrela velha,14.9,1
+bed_bath_table,estrela do sul,89.9,1
+furniture_decor,estrela d'oeste,227.07,1
+bed_bath_table,estrela d oeste,134.9,1
+furniture_decor,estiva,10.9,1
+sports_leisure,estevao de araujo,14.2,1
+watches_gifts,esmeralda,145,1
+sports_leisure,erico cardoso,8.09,1
+cool_stuff,erere,188,1
+cool_stuff,erebango,119.99,1
+sports_leisure,epitaciolandia,92.34,1
+health_beauty,entre folhas,84.99,1
+musical_instruments,engenheiro navarro,1997,1
+health_beauty,embauba,399,1
+furniture_decor,elisiario,49,1
+perfumery,duere,115.9,1
+electronics,duas barras,14.89,1
+telephony,doutor camargo,211.05,1
+furniture_decor,douradina,99.9,1
+perfumery,dores de guanhaes,57.9,1
+computers_accessories,dona emma,30.21,1
+cool_stuff,dom macedo costa,55.9,1
+watches_gifts,dom joaquim,149,1
+computers_accessories,dom cavati,74.99,1
+health_beauty,dois riachos,104.99,1
+health_beauty,doce grande,49.49,1
+toys,divisa nova,689.9,1
+sports_leisure,divinopolis do tocantins,120.99,1
+fashion_bags_accessories,divinopolis de goias,79,1
+furniture_living_room,divino de sao lourenco,103.97,1
+health_beauty,divino das laranjeiras,35.9,1
+cool_stuff,divinesia,249.9,1
+computers_accessories,dias d avila,45,1
+stationery,diamante d'oeste,289.9,1
+luggage_accessories,dezesseis de novembro,79.9,1
+fashion_bags_accessories,desterro do melo,24.9,1
+sports_leisure,desterro de entre rios,39.9,1
+auto,desterro,559,1
+fashion_bags_accessories,desembargador otoni,169.99,1
+pet_shop,demerval lobao,15,1
+computers_accessories,delfim moreira,24.9,1
+watches_gifts,curral de cima,199,1
+stationery,cupira,39.9,1
+bed_bath_table,cujubim,89.9,1
+health_beauty,cuite velho,19.99,1
+cool_stuff,cruzeiro do iguacu,129.99,1
+housewares,crucilandia,17,1
+perfumery,crominia,45.9,1
+health_beauty,croata,58.99,1
+construction_tools_safety,cristinapolis,77.9,1
+sports_leisure,cravolandia,139.9,1
+sports_leisure,cotipora,112,1
+perfumery,cotegipe,84.99,1
+auto,corumbatai do sul,27.49,1
+watches_gifts,correntes,169.9,1
+computers_accessories,corrego fundo,129,1
+electronics,corrego do ouro,28.9,1
+bed_bath_table,coronel sapucaia,89.9,1
+watches_gifts,coronel pacheco,99.9,1
+computers_accessories,coronel joao pessoa,89.9,1
+health_beauty,coronel freitas,79.99,1
+stationery,coronel domingos soares,89,1
+telephony,coreau,29.99,1
+musical_instruments,cordeiros,322.75,1
+stationery,coracao de maria,279.9,1
+stationery,coqueiros do sul,25.73,1
+toys,contenda,89.9,1
+health_beauty,constantina,330,1
+sports_leisure,conselheiro mairinck,67,1
+perfumery,conrado,104.9,1
+garden_tools,conquista d'oeste,89.99,1
+sports_leisure,confins,389,1
+perfumery,condeuba,56.99,1
+watches_gifts,conceicao do formoso,195.99,1
+health_beauty,conceicao do caninde,155.44,1
+tablets_printing_image,conceicao do almeida,99,1
+telephony,conceicao da ibitipoca,39.99,1
+watches_gifts,comercinho,129,1
+watches_gifts,combinado,29,1
+stationery,coite do noia,89.9,1
+bed_bath_table,coimbra,38.9,1
+bed_bath_table,cocos,49.99,1
+computers_accessories,cocalzinho de goias,149.9,1
+stationery,cocais,259,1
+health_beauty,coari,1190.65,1
+garden_tools,claro dos pocoes,99.99,1
+health_beauty,claraval,171,1
+industry_commerce_and_business,ciriaco,229,1
+auto,cipo-guacu,69.99,1
+garden_tools,cipo,179,1
+garden_tools,chorrocho,49.9,1
+watches_gifts,chorozinho,359,1
+cool_stuff,chiapetta,129.99,1
+housewares,chaval,150,1
+home_construction,charrua,125,1
+cool_stuff,cha grande,164.89,1
+sports_leisure,cha de alegria,79.99,1
+sports_leisure,cezarina,13.49,1
+housewares,cerro grande,52.9,1
+garden_tools,cerrito,59.9,1
+bed_bath_table,cerejeiras,117.99,1
+watches_gifts,centro novo do maranhao,299.99,1
+telephony,centralina,29.99,1
+perfumery,central de santa helena,139.9,1
+books_general_interest,central,119.5,1
+cool_stuff,centenario,134.99,1
+bed_bath_table,ceilandia,49.9,1
+pet_shop,cedro do abaete,42.99,1
+auto,cedro,249.9,1
+,caxingo,29,1
+pet_shop,caxambu do sul,19.5,1
+computers_accessories,castanheiras,42.9,1
+computers_accessories,cassia dos coqueiros,74.9,1
+luggage_accessories,caseiros,109.9,1
+construction_tools_construction,cascalho rico,69,1
+cool_stuff,carnauba dos dantas,129.99,1
+furniture_decor,carmolandia,129,1
+auto,carmesia,241.1,1
+watches_gifts,caridade,99.9,1
+telephony,caraibas,235.9,1
+health_beauty,caracol,94,1
+perfumery,capoeiras,143,1
+home_appliances_2,capivari do sul,159,1
+watches_gifts,capitao andrade,199,1
+home_appliances,capistrano,35,1
+bed_bath_table,capela nova,89.77,1
+bed_bath_table,capela do alto alegre,39.99,1
+furniture_decor,caparao,49.9,1
+furniture_decor,canudos,174.9,1
+home_appliances_2,canto do buriti,599.5,1
+watches_gifts,cantanhede,689,1
+furniture_decor,candeias do jamari,279,1
+bed_bath_table,candeal,144.99,1
+furniture_decor,canapi,230,1
+health_beauty,canaa,54.99,1
+garden_tools,campos verdes,385.6,1
+watches_gifts,campo grande do piaui,155.99,1
+musical_instruments,campo do tenente,55.9,1
+furniture_decor,campo do brito,76.8,1
+industry_commerce_and_business,campo bonito,79.9,1
+bed_bath_table,campo azul,79.9,1
+computers_accessories,campo alegre de minas,119,1
+cool_stuff,campo alegre de lourdes,99.99,1
+watches_gifts,campinacu,179.9,1
+telephony,cambiasca,22.99,1
+health_beauty,camacho,59.99,1
+garden_tools,calmon,49.9,1
+health_beauty,caldeirao grande do piaui,110,1
+health_beauty,caldas do jorro,370,1
+auto,caldas brandao,139,1
+telephony,calcado,199,1
+bed_bath_table,cajuri,53.9,1
+furniture_decor,cajueiro,99.9,1
+telephony,cajari,289,1
+cool_stuff,cajapio,89.99,1
+health_beauty,cairu,58.99,1
+telephony,caicara do norte,1099,1
+bed_bath_table,caetes,122.9,1
+health_beauty,caem,57.9,1
+computers_accessories,cacimbinhas,32.5,1
+cool_stuff,cachoeira do brumado,195.9,1
+furniture_decor,cacaulandia,72.9,1
+computers_accessories,cabixi,149.9,1
+telephony,cabeceiras,14.9,1
+computers_accessories,cabaceiras do paraguacu,31.9,1
+housewares,buriti do tocantins,59.9,1
+telephony,buriti alegre,29.99,1
+telephony,buique,235,1
+air_conditioning,bugre,187.9,1
+health_beauty,brotas de macaubas,168,1
+health_beauty,britania,89.99,1
+auto,breves,609,1
+telephony,brejolandia,13.98,1
+luggage_accessories,brejoes,124.9,1
+telephony,brejo grande,249,1
+health_beauty,brejo dos santos,89.99,1
+garden_tools,brejo do cruz,1160,1
+cool_stuff,brejo bonito,139.9,1
+cool_stuff,brejo,99.99,1
+watches_gifts,brejetuba,128.89,1
+bed_bath_table,braunas,89.9,1
+toys,brasopolis,99.99,1
+computers_accessories,brasilandia de minas,76.25,1
+bed_bath_table,brasilandia,59.9,1
+furniture_decor,botupora,325,1
+housewares,botelho,189.98,1
+bed_bath_table,bossoroca,155.99,1
+watches_gifts,boraceia,29,1
+toys,bora,119.9,1
+health_beauty,boquira,69.9,1
+auto,boquim,163.9,1
+health_beauty,bonito de santa fe,119.6,1
+sports_leisure,bonito de minas,99.99,1
+auto,bom retiro,70,1
+stationery,bom jesus do sul,199.9,1
+bed_bath_table,bom jesus do querendo,149,1
+auto,bom jesus do araguaia,1199.9,1
+health_beauty,bom jesus do amparo,199.89,1
+sports_leisure,bom jardim de goias,10,1
+cool_stuff,bodo,48.9,1
+telephony,boa vista do sul,27.99,1
+auto,boa vista do cadeado,429.98,1
+cool_stuff,boa vista do burica,229.99,1
+health_beauty,boa vista das missoes,349.9,1
+health_beauty,boa ventura,14.9,1
+housewares,boa esperanca do iguacu,35.9,1
+auto,biritinga,120,1
+bed_bath_table,bertopolis,65.9,1
+sports_leisure,bertolinia,411,1
+electronics,berizal,189.9,1
+sports_leisure,berilo,55.9,1
+telephony,bequimao,349.9,1
+musical_instruments,benedito leite,95.9,1
+furniture_decor,bemposta,32,1
+telephony,bela vista do maranhao,49,1
+bed_bath_table,bela vista de minas,119.9,1
+consoles_games,bataipora,135.3,1
+cool_stuff,barrocas,99.99,1
+auto,barro preto,118.8,1
+computers_accessories,barreira,123.89,1
+computers,barra longa,1300,1
+garden_tools,barra do rio azul,99,1
+housewares,barra do jacare,57.9,1
+auto,barauna,229.99,1
+furniture_decor,barao do triunfo,79.99,1
+auto,barao de juparana,28.49,1
+computers,barao ataliba nogueira,1300,1
+computers_accessories,barao,31.9,1
+cool_stuff,banzae,99.99,1
+sports_leisure,bandeirantes d'oeste,49.99,1
+consoles_games,banabuiu,79,1
+pet_shop,balsa nova,19.45,1
+construction_tools_construction,balbinos,55.32,1
+home_confort,baixa grande do ribeiro,159.99,1
+watches_gifts,baixa grande,44,1
+fashion_bags_accessories,baguari,49,1
+health_beauty,bacaxa,57.9,1
+furniture_living_room,avai,179.99,1
+watches_gifts,aurora do para,78,1
+health_beauty,aurilandia,122.99,1
+sports_leisure,augustinopolis,107,1
+toys,atilio vivacqua,89.9,1
+baby,atalanta,263.99,1
+auto,atalaia,89.58,1
+health_beauty,assuncao,80,1
+stationery,assare,81,1
+fashion_bags_accessories,arvoredo,34.3,1
+computers_accessories,arroio trinta,169.9,1
+sports_leisure,arraial d ajuda,72.62,1
+telephony,aroeiras,149.99,1
+bed_bath_table,aribice,42,1
+sports_leisure,arenopolis,108.9,1
+watches_gifts,areial,159.9,1
+cool_stuff,aratiba,92.5,1
+small_appliances_home_oven_and_coffee,arataca,795,1
+bed_bath_table,arara,109.9,1
+pet_shop,arapua,89,1
+bed_bath_table,arapoema,55.9,1
+health_beauty,arantina,180,1
+electronics,aramina,97.9,1
+telephony,arame,29.99,1
+computers_accessories,araguana,119,1
+musical_instruments,araguaia,49,1
+computers_accessories,araguacu,129.5,1
+watches_gifts,aragoiania,112.9,1
+cool_stuff,aracatu,75.99,1
+stationery,aquidaba,89,1
+housewares,apuarema,169.99,1
+construction_tools_construction,apore,134.64,1
+health_beauty,apora,44.9,1
+telephony,apiacas,28.99,1
+fashion_bags_accessories,aparecida do rio negro,115,1
+watches_gifts,aparecida de monte alto,179.9,1
+consoles_games,aparecida d'oeste,19.9,1
+sports_leisure,antunes,119.8,1
+stationery,antonio martins,45,1
+fashion_bags_accessories,antonio goncalves,34.9,1
+health_beauty,anhumas,58.99,1
+cool_stuff,anhembi,106.9,1
+sports_leisure,anhandui,69,1
+auto,angustura,139,1
+garden_tools,anguera,99,1
+pet_shop,angicos,65.99,1
+agro_industry_and_commerce,angical do piaui,29.99,1
+health_beauty,angical,269.9,1
+electronics,angelo frechiani,25.32,1
+office_furniture,angelina,126.99,1
+garden_tools,angelica,53.9,1
+health_beauty,andrequice,199,1
+furniture_decor,andre da rocha,119,1
+christmas_supplies,andarai,79.9,1
+toys,anaurilandia,69.99,1
+sports_leisure,ananas,96.8,1
+bed_bath_table,amparo da serra,49.95,1
+cool_stuff,amontada,45.9,1
+toys,americo de campos,279.9,1
+baby,america dourada,169.9,1
+bed_bath_table,amargosa,54.99,1
+health_beauty,amarante,760,1
+telephony,amapa do maranhao,15.9,1
+sports_leisure,amanari,390,1
+computers_accessories,alvorada do gurgueia,37,1
+perfumery,alto sao joao,54.99,1
+agro_industry_and_commerce,alto piquiri,412,1
+cool_stuff,alto alegre do pindare,199,1
+health_beauty,alto alegre do maranhao,88.9,1
+health_beauty,alpestre,118.9,1
+furniture_decor,almirante tamandare do sul,49.9,1
+luggage_accessories,almino afonso,299.9,1
+health_beauty,alianca,64.99,1
+computers_accessories,alfredo marcondes,129,1
+health_beauty,alexandra,31.9,1
+baby,alegria,39.9,1
+computers_accessories,alegrete do piaui,149.9,1
+watches_gifts,alagoa nova,113,1
+cool_stuff,alagoa grande,139.99,1
+bed_bath_table,alagoa,77.68,1
+health_beauty,ajapi,108,1
+sports_leisure,aiuaba,109.7,1
+telephony,agudo,17,1
+computers_accessories,aguas mornas,89.15,1
+sports_leisure,aguas frias,290,1
+housewares,aguas claras,95.8,1
+sports_leisure,agua preta,129.99,1
+food,agua nova,42,1
+baby,agua limpa,388,1
+fashion_underwear_beach,agua fria de goias,152,1
+garden_tools,agrolandia,49.9,1
+,agrestina,1989,1
+housewares,agisse,43,1
+bed_bath_table,adustina,74.8,1
+fashion_bags_accessories,adrianopolis,73.9,1
+auto,adhemar de barros,139,1
+housewares,acucena,38,1
+health_beauty,acari,364,1
+telephony,acajutiba,28.89,1
+small_appliances,abadiania,949.99,1
