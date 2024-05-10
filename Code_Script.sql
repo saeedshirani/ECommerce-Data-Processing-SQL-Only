@@ -67,7 +67,7 @@ where order_id == "c88b1d1b157a9999ce368f218a407141";
 -- Customer Segmentation
 
 -- Code Block 6: customer segmentation Based on Location
-select orr.customer_id, cu.customer_city, count(orr.customer_id) as total_customers
+select cu.customer_city, count(orr.customer_id) as total_customers
 from orders orr
          left join customers cu
                    on cu.customer_id = orr.customer_id
@@ -88,7 +88,7 @@ order by total_orders DESC;
 SELECT orp.payment_type,
        cu.customer_city,
        count(orp.order_id)          as total_orders,
-       count(cu.customer_unique_id) as total_customers
+       count(distinct(cu.customer_unique_id)) as total_customers
 FROM order_payments orp
          left join orders orr
                    on orp.order_id = orr.order_id
@@ -100,7 +100,8 @@ order by total_orders DESC;
 
 
 -- Code block 9 : Customers location vs product category
-select pct.product_category_name_english, cu.customer_city, count(orr.order_id) as deal_per_location_category
+select pct.product_category_name_english, cu.customer_city,
+       round(sum(orit.price), 2) as revenue_per_segment, count(orr.order_id) as deal_per_location_category
 from order_items orit
          left join products p
                    on p.product_id = orit.product_id
@@ -199,6 +200,8 @@ where product_id not in (select product_id
 -- code block 14 : total Sales and revenue per Seller
 SELECT COALESCE(sl.seller_city, 'Unknown') as city,
        round(SUM(orit.price), 2)           as total_sale,
+       count(distinct sl.seller_id)         as total_saller,
+       round(round(SUM(orit.price), 2)/count(distinct sl.seller_id), 2) as AVG_revenue_per_seller,
        round(SUM(orit.freight_value), 2)   as total_freight
 
 FROM order_items orit
@@ -435,6 +438,7 @@ group by review_year, review_month;
 -- code block 29: customer satisfaction Based on seller location( also good to say seller location == customer location)
 select strftime('%Y', review_creation_data) AS review_year,
        strftime('%m', review_creation_data) AS review_Month,
+       strftime('%Y-%m', review_creation_data) AS Date,
        round(avg(ort.review_score), 2)      as average_review_score,
        cu.customer_city
 
@@ -445,8 +449,8 @@ from order_review_timestamp ort
                    on ors.order_id = orw.order_id
          left join customers cu
                    on cu.customer_id = ors.customer_id
-group by customer_city
-order by review_year, review_Month;
+group by Date;
+
 
 -- code block 30: customer satisfaction Based on payment method
 select orpy.payment_type,
@@ -510,7 +514,7 @@ where product_category_name is not null
 group by product_category_name, review_year, season;
 
 -- Logistic Analysis
--- code block 33:analysis of delivery lead time changes in monthly frame
+-- code block 33: analysis of delivery lead time changes in monthly frame
 select strftime('%Y-%m', order_purchase_timestamp) as date,
        cu.customer_city,
        round(avg((strftime('%s', order_delivered_customer_date) - strftime('%s', order_purchase_timestamp)) / 3600), 2)
